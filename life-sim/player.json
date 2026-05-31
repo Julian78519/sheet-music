@@ -1,7 +1,127 @@
 {
-  "setup_complete": false,
-  "character": {},
-  "world": {},
-  "state": {},
+  "setup_complete": true,
+  "meta": {
+    "simulation_start": "2026-06-01",
+    "current_date": "2026-06-01",
+    "style": "modern",
+    "external_events_frequency": "often",
+    "time_pressure": false
+  },
+  "character": {
+    "name": "Noah Vance",
+    "age": 23,
+    "city": "San Francisco, CA",
+    "neighborhood": "Mission District",
+    "personality": [
+      "schneller Lerntyp, aber Probleme mit Konsequenz",
+      "kreativ, gut mit Menschen",
+      "leichtes Impostor Syndrome in Tech-Kreisen",
+      "will etwas aufbauen, hat sein Ding noch nicht gefunden"
+    ],
+    "skills": {
+      "marketing_social_media": 7,
+      "coding_basics": 4,
+      "sales_people": 8,
+      "financial_management": 5
+    },
+    "education": {
+      "school": "High School Diploma (überdurchschnittlich)",
+      "university": "UC Davis, Informatik – nach 3 Semestern abgebrochen (2024)"
+    }
+  },
+  "finances": {
+    "savings": 1847,
+    "monthly_income": 1400,
+    "monthly_expenses": 1350,
+    "debt": 0,
+    "income_sources": [
+      { "source": "Barista – Ritual Coffee (Mission)", "monthly_net": 1100 },
+      { "source": "Taschengeld Vater", "monthly_net": 300 }
+    ],
+    "expense_breakdown": {
+      "rent": 950,
+      "food": 200,
+      "transport": 100,
+      "misc_subscriptions": 100
+    }
+  },
+  "family": {
+    "father": {
+      "name": "David Vance",
+      "age": 53,
+      "job": "Angel Investor, ehemaliger B2B-SaaS-Gründer (Exit $38M, 2019)",
+      "location": "Palo Alto, CA",
+      "relationship_to_noah": "distanziert, leicht enttäuscht vom Studienabbruch, achievement-fokussiert",
+      "gives_allowance": "$300/Monat – mit passiv-aggressiven Kommentaren"
+    },
+    "mother": {
+      "name": "Claire Vance",
+      "age": 51,
+      "job": "Ehem. Marketing Director, jetzt Charity-Arbeit & soziale Kreise",
+      "location": "Palo Alto, CA",
+      "relationship_to_noah": "liebevoll, aber passiv – hält sich aus Konflikten mit Vater raus"
+    },
+    "siblings": [
+      {
+        "name": "Ashley Vance",
+        "age": 27,
+        "job": "Associate bei Vaters VC-Firm",
+        "education": "Harvard MBA",
+        "allowance": "$3000/Monat + kostenfreie Firmenwohnung",
+        "dynamic": "Vaters klarer Favorit – Noah-Vergleichsobjekt Nr. 1"
+      },
+      {
+        "name": "Tyler Vance",
+        "age": 19,
+        "job": "Stanford Freshman",
+        "allowance": "$2500/Monat",
+        "dynamic": "Verwöhnt, locker – bekommt alles ohne Druck"
+      }
+    ]
+  },
+  "relationships": {
+    "roommate": {
+      "name": "Marcus Webb",
+      "age": 24,
+      "job": "Freelance Graphic Designer",
+      "dynamic": "entspannt, guter Kumpel, verlässlich"
+    },
+    "best_friend": {
+      "name": "Jordan Lee",
+      "age": 23,
+      "job": "Operations bei Fintech-Startup (Frühphase)",
+      "dynamic": "ambitioniert, macht manchmal Noah das Gefühl er hängt hinterher – aber loyal"
+    },
+    "romantic_interest": {
+      "name": "Emma Torres",
+      "age": 22,
+      "job": "UX Design Intern bei Startup",
+      "status": "casual – seit 2 Monaten, nicht offiziell, Chemie vorhanden",
+      "dynamic": "keiner hat die Beziehung bisher definiert"
+    },
+    "network_contact": {
+      "name": "Priya Sharma",
+      "age": 26,
+      "job": "Senior Product Manager (ehemaliger SaaS-Startup-Kontakt)",
+      "dynamic": "professionelle Bekanntschaft, könnte Türen öffnen"
+    }
+  },
+  "career": {
+    "current_jobs": [
+      {
+        "title": "Barista",
+        "company": "Ritual Coffee, Mission District",
+        "hours_per_week": 20,
+        "status": "aktiv"
+      }
+    ],
+    "last_gig": {
+      "title": "Social Media & Content",
+      "company": "kleines SaaS-Startup (anonym)",
+      "ended": "2026-05-11",
+      "note": "Vertrag lief aus, kein Angebot zur Verlängerung"
+    },
+    "actively_looking": true
+  },
   "history": []
 }

@@ -203,7 +203,7 @@
 ### Liverpool
 | Feld | Details |
 |------|---------|
-| Manager | VAKANT *(Ethan Cole, SD seit 01.06.2026)* |
+| Manager | **Xabi Alonso** *(unterzeichnet 03.06.2026)* |
 | Formation | — (abhängig vom neuen Manager) |
 | Stärke | ⭐⭐⭐⭐ |
 

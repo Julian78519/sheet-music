@@ -8,7 +8,7 @@
 ### 🔴 SOFORT (vor Transferfenster)
 | Aufgabe | Details |
 |---------|---------|
-| **Neuer Manager** | Alonso-Meeting Mi. 03.06. Iraola als Backup Fr. 06.06. |
+| **Neuer Manager** | ✅ **Xabi Alonso unterzeichnet 03.06.2026** |
 
 ### 🔴 KRITISCH (bis 31. August)
 | Position | Warum |

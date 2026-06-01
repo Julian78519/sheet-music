@@ -126,22 +126,38 @@
 
 ---
 
-## KONTAKT-STRATEGIE
+## VERTRAG — UNTERZEICHNET 03. JUNI 2026 ✅
 
-| Schritt | Details |
-|---------|---------|
-| Erster Kontakt | Direkt — kein Agent nötig. Persönlich anrufen. |
-| Agenda | Informal. Kein Druck. "Ich würde mich gerne vorstellen." |
-| Gesprächsort | Vertraulich — nicht Liverpool, nicht Anfield |
-| Agent | Noch unklar — zu recherchieren |
-| Zeitdruck | Mittel — andere Klubs könnten ihn ansprechen |
+| Feld | Details |
+|------|---------|
+| Status | **✅ HEAD COACH LIVERPOOL FC** |
+| Unterzeichnet | 03. Juni 2026, Panoramic 34, Liverpool |
+| Laufzeit | 4 Jahre (bis Juni 2030) |
+| Option | Bilaterale Verlängerung Jahr 5 — Frist Monat 42 |
+| Grundgehalt | **£9.5M/Jahr** (~£182k/Woche) |
+| Signing Bonus | £1M (nicht rückzahlbar nach Monat 6) |
+| Bonus — Top 4 | +£500k |
+| Bonus — PL Titel | +£2M |
+| Bonus — CL Achtelfinale | +£300k |
+| Bonus — CL Viertelfinale | +£500k |
+| Bonus — CL Halbfinale | +£800k |
+| Bonus — CL Titel | +£2.5M |
+| Bonus — FA/League Cup Titel | +£250k je |
+| Peak-Saison (alles) | ~£16M |
+| Kündigung ohne Grund | 18 Monate Gehaltsfortzahlung |
+| Eigene Kündigung | 6 Monate Kompensation an Liverpool |
+| Persönlicher Staff | 3 Positionen — Liverpool zahlt, Alonso nominiert |
+| Sonstige Benefits | Firmenfahrzeug, Unterkunft 6 Monate, Relocation £25k |
+
+### Anwesend bei Unterzeichnung
+Van Dijk's Küche (03.06. Vormittag) → Panoramic 34, 18:00 Uhr (Vertragsunterzeichnung)
+Ethan Cole | Michael Gordon (FSG) | Virgil van Dijk | Nagore Aranburu | Alonsos Anwalt
 
 ---
 
 ## ZUKÜNFTIGE ERGÄNZUNGEN
 
 *Wird ergänzt wenn:*
-- Kontakt aufgenommen wurde
-- Verhandlungen begonnen haben
-- Agent bekannt ist
-- Gespräch stattgefunden hat
+- Persönlicher Staff nominiert wird (Frist: 04.06. morgens)
+- Offizielle Pressekonferenz stattfindet
+- Erste Trainingseinheit / Kader-Meetings beginnen

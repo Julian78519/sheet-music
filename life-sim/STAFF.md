@@ -15,33 +15,28 @@
 
 ---
 
-## CHEFTRAINER-VAKANZ
+## CHEFTRAINER
 
 | Person | Rolle | Status |
 |--------|-------|--------|
 | Arne Slot | Ex-Head Coach | ⛔ ENTLASSEN 30. Mai 2026 |
-| — | Head Coach | 🔴 **VAKANT — dringendste Aufgabe für Ethan** |
+| **Xabi Alonso** | **Head Coach** | ✅ **VERTRAG UNTERZEICHNET — 03. Juni 2026** |
 
-### Kandidaten für den Cheftrainer-Posten
-
-| Name | Alter | Aktueller Klub | Profil | Status |
-|------|-------|---------------|--------|--------|
-| **Xabi Alonso** | 44 | Frei (ex Real Madrid) | Liverpool-Legende (2004–09). Leverkusen-Wunder. Real Madrid gescheitert — hungrig. Scouting-KI: 90/100. | 🔴 **PRIORITÄT 1 — Meeting Mi. 03.06., 11:00** |
-| Andoni Iraola | 43 | Frei | Pressing-Fußball, Bournemouth/Rayo. Professionell informiert — wartet auf Freitag. | 🟡 Standby — Fr. 06.06. (abhängig von Mittwoch) |
-| Sebastian Hoeness | 42 | VfB Stuttgart | Moderner Pressing-Stil, deutschsprachig, jung und ambitioniert | 🔵 Kandidat |
-| Julian Nagelsmann | 38 | Frei | Weltniveau-Erfahrung. Teuer, manchmal komplex im Umgang | 🔵 Kandidat |
-| Oliver Glasner | 50 | Crystal Palace | PL-Erfahrung, Gegenpressing, pragmatisch | 🔵 Kandidat |
-| Pierre Sage | 45 | RC Lens | Außenseiter. Interessantes Profil | 🔵 Außenseiter |
-
-### Mittwoch 03.06. — Meeting Details
+### Vertragsdetails
 | Feld | Info |
 |------|------|
-| Uhrzeit | 11:00 |
-| Ort | Van Dijk's Haus, Woolton — vertraulich |
-| Anwesend | Ethan Cole + Xabi Alonso (Van Dijk im Haus) |
-| FSG | Noch nicht — Ethan & Alonso klären Fußball zuerst |
-| Kontakt vermittelt durch | Virgil van Dijk (Telefonnummer) |
-| Vertraulichkeit | Höchste Stufe — kein Medienauftritt, diskrete Anreise |
+| Laufzeit | 4 Jahre bis Juni 2030 (+Option Jahr 5) |
+| Grundgehalt | £9.5M/Jahr |
+| Peak-Saison | ~£16M (alle Boni) |
+| Persönlicher Staff | 3 Positionen (Namen bis 04.06.) |
+| Details | → Vollständig in XABI_ALONSO.md |
+
+### Alonsos persönlicher Staff *(ausstehend — Frist 04.06.)*
+| Rolle | Name | Status |
+|-------|------|--------|
+| Assistenztrainer | *(zu nominieren)* | ⏳ |
+| Datenanalyst | *(zu nominieren)* | ⏳ |
+| Set-Piece Coach | *(zu nominieren)* | ⏳ |
 
 ---
 

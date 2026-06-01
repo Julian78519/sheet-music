@@ -39,7 +39,32 @@
   "finances": {
     "net_worth_approx": 5800000,
     "note": "Nach Kova-Exit ($11.2M), Steuern, Anwälten und 3 Jahren London-Leben",
-    "salary_new_role": "Liverpool FC Sporting Director — Vertrag läuft"
+    "contract_liverpool": {
+      "signed": "2025-11-07",
+      "base_salary_per_year": 1400000,
+      "contract_length": "3 Jahre + bilaterale Option Jahr 4",
+      "year4_option": "Beide Parteien müssen bis Monat 30 schriftlich zustimmen",
+      "termination_without_cause": "15 Monate volle Gehaltsfortzahlung",
+      "gardening_leave_cap": "6 Monate",
+      "bonuses": {
+        "achievement_bonus_max": 600000,
+        "achievement_triggers": ["Top 4", "Premier League Titel", "CL-Runden"],
+        "transfer_performance_bonus_max": 1200000,
+        "transfer_bonus_paid": "Nach Jahr 2 und Jahr 4",
+        "transfer_bonus_method": "Kaderwertzuwachs gemessen via Transfermarkt + CIES + vereinbarter Dritter"
+      },
+      "benefits": {
+        "signing_bonus": 75000,
+        "signing_bonus_note": "Non-repayable nach Monat 6",
+        "rent_support": "£3,000/Monat für 12 Monate",
+        "relocation_allowance": 15000,
+        "car_allowance_per_month": 1200
+      },
+      "ip_clause": "Eigene Frameworks und Methoden bleiben Ethans Eigentum — Klub erhält Nutzungslizenz während Anstellung",
+      "media_clause": "Max. 4 Pflichtauftritte/Monat ohne Zusatzvergütung",
+      "potential_year1": 2090000,
+      "potential_peak_year": 3200000
+    }
   },
   "family": {
     "father": {
@@ -98,38 +123,89 @@
     }
   ],
   "relationships": {
-    "manager": {
-      "name": "Arne Slot",
-      "role": "Head Coach, Liverpool FC",
-      "dynamic": "noch unbekannt — erstes richtiges Gespräch steht aus"
+    "fsg_owner": {
+      "name": "Michael Gordon",
+      "role": "Owner, FSG",
+      "first_met": "2025-10-23, The Wolseley, Piccadilly",
+      "dynamic": "Direkt, respektiert Ehrlichkeit, hat das Angebot persönlich präsentiert. Erwartet Ergebnisse — gibt aber Rückendeckung wenn Vertrauen da ist."
+    },
+    "fsg_advisor": {
+      "name": "Michael Edwards",
+      "role": "Senior Advisor, FSG",
+      "first_met": "2025-10-21 (Telefon), dann persönlich beim Wolseley-Meeting",
+      "dynamic": "Hat Ethan ins System gebracht. Taktisch auf einer Wellenlänge. Hohe Erwartungen, aber fairer Partner."
+    },
+    "lawyer": {
+      "name": "James Okafor",
+      "role": "Sports & Employment Lawyer, Canary Wharf, London",
+      "dynamic": "Seit Kova-Exit Ethans Anwalt. Verhandelte Liverpool-Vertrag — hat alle wichtigen Punkte durchgesetzt. Loyal, präzise, direkt."
     },
     "mentor": {
       "name": "Isabelle Fontaine",
-      "role": "Gründerin Stratos Sports Advisory",
-      "dynamic": "hat ihm die Beratungskarriere ermöglicht, respektiert seinen Abgang zu Liverpool"
+      "role": "Gründerin Stratos Sports Advisory, London",
+      "last_met": "2025-10-28, Stratos-Büro, Shoreditch",
+      "dynamic": "Hat Ethan die Beratungskarriere ermöglicht. Wusste vom Liverpool-Kontakt bevor Ethan kam. Abschiedsgespräch ehrlich und warm. Ihre letzte Botschaft: 'Denk an dich selbst von 2019 wenn es schwierig wird.'"
     },
-    "network": {
+    "business_angel": {
       "name": "Robert Callaghan",
       "role": "Business Angel, Manchester",
-      "dynamic": "hat Kova gerettet — Ethan schuldet ihm nichts formal, aber moralisch alles"
+      "dynamic": "Hat Kova 2020 mit $800k gerettet. Nichts formal geschuldet — aber moralisch alles."
     },
-    "fsg_contact": {
-      "name": "Michael Edwards",
-      "role": "Senior Advisor, FSG",
-      "dynamic": "hat Ethan ins System gebracht. Vertrauensverhältnis, aber klare Erwartungen."
+    "family": {
+      "father": {
+        "name": "Jim Cole",
+        "reaction_to_liverpool": "Stolz, vorsichtig positiv. Schrieb: 'You've made better calls than me for a while now.' Kommt zur Pressekonferenz 1. Juni."
+      },
+      "mother": {
+        "name": "Susan Cole",
+        "reaction_to_liverpool": "Emotional, hat Anfield-Videos auf YouTube geschaut. Schrieb: 'Those fans love that club so much. You be good to them.' Kommt zur Pressekonferenz 1. Juni."
+      },
+      "sister": {
+        "name": "Megan Cole",
+        "reaction_to_liverpool": "Direkt und klar: 'TAKE IT.' Hat Ethan 2019 $800 geschickt ohne ein Wort. Kommt zur Pressekonferenz 1. Juni."
+      }
     }
   },
   "current_situation": {
     "date": "2026-06-01",
     "location": "Liverpool — Hotel nahe Anfield, zieht nächste Woche in gemietetes Apartment",
     "mood": "fokussiert, leicht aufgeregt, weiß wie viel auf dem Spiel steht",
-    "immediate_priorities": "TODO — Liverpool-Recherche ausstehend",
     "open_threads": [
-      "Erste Begegnung mit Arne Slot",
-      "Vertragssituationen Schlüsselspieler prüfen",
-      "Transferfenster Juli öffnet in 30 Tagen",
-      "Pressekonferenz heute Nachmittag"
+      "Pressekonferenz heute Nachmittag",
+      "Erster Anruf von Michael Edwards liegt unbeantwortet auf dem Handy",
+      "Neue Manager-Suche — Iraola klarer Favorit",
+      "Konaté verlässt den Klub am 30. Juni auf Free Transfer",
+      "Salah verlässt den Klub — Ikonen-Ära endet",
+      "Robertson-Vertrag läuft aus",
+      "Isak — fit für Saisonstart?",
+      "Transferfenster öffnet 1. Juli (30 Tage)",
+      "Familie kommt zur Pressekonferenz"
     ]
   },
-  "history": []
+  "history": [
+    {
+      "date": "2025-10-21",
+      "event": "Erster Anruf Michael Edwards. Taktisches Gespräch über Liverpools Probleme. Wirtz, Frimpong-System, Schlotterbeck-Idee."
+    },
+    {
+      "date": "2025-10-23",
+      "event": "Meeting The Wolseley, Piccadilly. Michael Gordon + Edwards. Erstes Angebot: £1.4M Base, Boni bis £2M."
+    },
+    {
+      "date": "2025-10-27",
+      "event": "James Okafor reviewed contract. Counter-Offer gesendet: bilaterale Jahr-4-Option, 15 Monate Termination, IP-Klausel, Signing Bonus, Mietübernahme."
+    },
+    {
+      "date": "2025-10-28",
+      "event": "Abschiedsgespräch mit Isabelle Fontaine bei Stratos. Grünes Licht. Familie informiert — alle kommen zur PK."
+    },
+    {
+      "date": "2025-11-07",
+      "event": "Vertrag unterzeichnet. Ethan Cole wird Sporting Director Liverpool FC ab 1. Juni 2026."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Tag 1. Pressekonferenz Anfield. Familie angereist."
+    }
+  ]
 }

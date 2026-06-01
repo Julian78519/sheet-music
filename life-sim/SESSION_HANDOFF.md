@@ -44,21 +44,41 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
    - **Gegenangebot £54M raus an Al-Hilal — warten auf Antwort**
 4. **Faye (Leverkusen):** Dave Hendry: Leverkusen verkaufsbereit, Vertrag bis 2027. Ziel: £7-7.5M. Agentenkontakt Montag.
 5. **LWB Backup:**
-   - Carreras → Real Madrid (Juli 2025, €50M) — gestrichen
-   - **Mittelstädt (Stuttgart, Vertrag bis 2028)** — PRIMÄRZIEL, ~£18-22M
-   - **Gosens (Fiorentina, Vertrag bis 2028)** — Fallback, ~£10-12M
-   - Alonso bestätigt: *"If you can get Mittelstädt — get Mittelstädt."*
-   - Mittelstädt-Anfrage an Stuttgart: **Montag**
+   - Carreras → Real Madrid — gestrichen
+   - **Mittelstädt (Stuttgart, Vertrag bis 2028)** — PRIMÄRZIEL, ~£18-22M. Alonso: *"If you can get Mittelstädt — get Mittelstädt."*
+   - Gosens (Fiorentina) — Fallback
+   - Anfrage Stuttgart: **Montag**
+6. **Tsimikas (auf Leihe Roma)** — übersehener Aktivposten. Kommt Ende Juni zurück. Kein Bedarf mehr. Ziel: £20-22M. Hendry kontaktiert Roma Montag.
+7. **Backup Striker (Leihe):** Gonçalo Ramos (PSG, 24) — auf PSG-Transferliste, klassischer Neuner, direkter Isak-Ersatz. Kolo Muani verworfen. Hendry fragt PSG Montag nach Leihe + Kaufoption.
+8. **Finanzbild:**
+   - Ausgaben geplant: ~£110-122M (El Khannouss + Inácio + Mittelstädt + Faye + Ramos-Leihe)
+   - Einnahmen geplant: ~£113-132M (Gakpo + Mac Allister + Chiesa + Tsimikas)
+   - **Netto: nahezu ausgeglichen**
+
+---
+
+## DAVE HENDRY — MONTAG-LISTE
+
+| Zeit | Aufgabe |
+|------|---------|
+| 09:00 | El Khannouss Vertrag — Leicester Legal |
+| 09:30 | Faye-Agent — Ziel £7-7.5M |
+| 10:00 | Roma — Tsimikas kaufen? Ziel £20-22M |
+| 10:30 | Stuttgart — Mittelstädt anfragen |
+| 11:00 | PSG — Gonçalo Ramos Leihe + Kaufoption |
 
 ---
 
 ## LETZTE EXCHANGES (Simulation)
 
 ### Gakpo-Call (Ethan spielt selbst)
-Ethan: Direkt, ehrlich — kein Platz im System, Al-Hilal Angebot läuft, persönlicher Rat £350k/Woche fordern, "we're all humans". Gakpo bewegt: *"Liverpool is lucky to have you."* → Rückruf Mittwoch.
+Direkt, ehrlich, menschlich — kein Platz im System, Al-Hilal läuft, persönlicher Rat: £350k/Woche fordern. *"We're all humans."* Gakpo: *"Liverpool is lucky to have you."* → Rückruf Mittwoch.
+
+### Pinho-Call (Samstag Abend)
+Inácio phänomenal gegen Argentinien. Barcelona zweimal angerufen. Neue Zahl: £49-51M (€58-60M). Treffen 27. Juni, US, Alonso kommt. Ethan sendet Text heute noch.
 
 ### Alonso zu LWB
-Alonso: Gosens versteht die Rolle aber 31 = kein langfristiger Plan. Mittelstädt: *"If you can get Mittelstädt — get Mittelstädt."*
+*"If you can get Mittelstädt — get Mittelstädt."* Gosens: versteht Rolle, aber 31 = kein langfristiger Plan.
 
 ---
 

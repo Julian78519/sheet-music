@@ -62,10 +62,11 @@ Pressekonferenz Anfield. Familie angereist. Simulation läuft.
 - Privat: Auto — Porsche Taycan 4S Sport Turismo, Gentian Blue, ~£102k. Händler Montag.
 - Apartment Woolton Village: Umzug ~8. Juni. Familie übernimmt Einrichtung, Budget £50k. Megan koordiniert.
 
-## Tag 7 — 7. Juni 2026 (Samstag)
-- Al-Hilal formelles Angebot £38M für Gakpo (Sky Sports 07:23 Uhr)
-- Pinho meldet sich wegen Inácio-WM-Performance — noch nicht zurückgerufen
-- Gakpo-Prozess eingeleitet: Marsh (CFO) + Ghandour (Saudi-Intermediär) konsultiert. Internes Al-Hilal Budget: £52M. Gegenangebot £54M abgeschickt. Ziel: £48-50M all-in.
-- Alonso ruft Gakpo an — klar: kein Platz im System. Ethan ruft Gakpo an (selbst gespielt) — ehrlich, menschlich, Rat £350k/Woche. Gakpo: *"Liverpool is lucky to have you."* Rückruf Mittwoch.
-- Faye (Leverkusen): Hendry recherchiert. Leverkusen will verkaufen, Vertrag 2027. Ziel £7-7.5M. Agentenkontakt Montag.
-- LWB Backup: Carreras → Real Madrid (gestrichen). Mittelstädt (Stuttgart, bis 2028) = Primärziel ~£18-22M. Gosens (Fiorentina) = Fallback ~£10-12M. Alonso bestätigt Mittelstädt. Anfrage Stuttgart Montag.
+## Tag 7 — 7. Juni 2026 (Samstag) — ABGESCHLOSSEN
+- Al-Hilal formelles Angebot £38M für Gakpo. Marsh + Ghandour konsultiert. Al-Hilal Budget intern: £52M. Gegenangebot £54M raus. Ziel £48-50M.
+- Alonso ruft Gakpo an: kein Platz im System. Ethan ruft Gakpo an (selbst gespielt) — ehrlich, menschlich, Rat £350k/Woche fordern. Gakpo bewegt: *"Liverpool is lucky to have you."* Rückruf Mittwoch.
+- Pinho-Call (Abend): Inácio phänomenal vs. Argentinien. Barcelona zweimal angerufen. Neue Zahl: £49-51M. Meeting 27. Juni, US. Alonso kommt mit.
+- LWB: Mittelstädt (Stuttgart) primär, Gosens (Fiorentina) Fallback. Alonso bestätigt. Anfrage Montag.
+- Tsimikas (Leihe Roma) als Verkaufskandidat entdeckt — Ziel £20-22M. Hendry → Roma Montag.
+- Backup Striker: Gonçalo Ramos (PSG, 24) — Leihe + Kaufoption. Kolo Muani verworfen. Hendry → PSG Montag.
+- Finanzbild: Ausgaben ~£110-122M, Einnahmen ~£113-132M. Netto nahezu ausgeglichen.

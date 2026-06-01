@@ -112,6 +112,16 @@
 | Konstantinos Tsimikas | AS Roma (pref.) / offen | £20-22M | Hendry kontaktiert Roma Montag |
 | **GESAMT ZIEL** | | **~£113-132M** | |
 
+### Zugänge geplant (Stand 07.06.)
+| Spieler | Fee | Status |
+|---------|-----|--------|
+| El Khannouss (Leicester) | £32-36M | Vertrag Montag |
+| Inácio (Sporting CP) | ~£50M | Meeting 27. Juni US |
+| Mittelstädt (Stuttgart) | ~£18-22M | Anfrage Montag |
+| Faye (Leverkusen) | ~£7-7.5M | Agent Montag |
+| Gonçalo Ramos (PSG, Leihe) | ~£3-5M Leihe | Hendry → PSG Montag |
+| **GESAMT** | **~£110-121M** | |
+
 ---
 
 ## FINANZIELLE LAGE SOMMER 2026

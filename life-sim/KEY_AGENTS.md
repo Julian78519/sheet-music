@@ -36,8 +36,8 @@
 | Verhältnis zu Ethan | Noch kein persönlicher Kontakt |
 | Relevante Liverpool-Spieler | Diverse Premier League Spieler |
 | Relevante Transferziele | Diverse — einer der mächtigsten Agenten der Welt |
-| Stil | Hartnäckig, Deal-orientiert, bevorzugt große Klubs |
-| Status | 🟡 Wichtig zu kontaktieren |
+| Stil | Hartnäckig, Deal-orientiert, bevorzugt große Klubs. Direkt und respektiert Gegenseitigkeit. |
+| Status | 🟡 Erstkontakt hergestellt 06.06. — Adeyemi-Gespräch geführt, sauber beendet. Tür offen. |
 
 ---
 

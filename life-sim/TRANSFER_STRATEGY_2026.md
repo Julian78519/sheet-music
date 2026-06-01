@@ -46,8 +46,9 @@
 ### 🟠 Priorität 2: Linke 10 / Flügel
 | Spieler | Klub | Zielpreis | Entscheidung |
 |---------|------|-----------|-------------|
-| **Karim Adeyemi** | Borussia Dortmund | ~£38M | ✅ TOP-ZIEL. Paketdeal mit Schlotterbeck anstreben. |
-| Noni Madueke | Chelsea | ~£30M | Backup. Iraola räumt Chelsea-Kader — verhandelbar. |
+| ~~Karim Adeyemi~~ | ~~Borussia Dortmund~~ | ~~£38M~~ | ⏸️ ZU TEUER. Dortmund €65M, Lohn £130k/Woche. Juventus-Deal läuft. Mendes informiert wenn Lage ändert. |
+| **Wilfried Gnonto** | Leeds United | ~£18M | 🟢 NEU. Budget-Option. Agent CAA Stellar identifiziert. |
+| **Nicolò Cambiaghi** | FC Bologna | ~£12M | 🟢 NEU. Günstigste Option. Agent MM-Management identifiziert. |
 
 ### 🟡 Priorität 3: Backup Stürmer
 | Spieler | Klub | Zielpreis | Entscheidung |

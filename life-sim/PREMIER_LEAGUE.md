@@ -149,39 +149,105 @@
 
 | # | Name | Pos | Nat | Alter |
 |---|------|-----|-----|-------|
+| 1 | David Raya | GK | ESP | 30 |
+| 13 | Kepa Arrizabalaga | GK | ESP | 31 |
+| 31 | Karl Hein | GK | EST | 23 |
+| 2 | William Saliba | CB | FRA | 25 |
+| 3 | Cristhian Mosquera | CB | ESP | 21 |
+| 4 | Ben White | RB/CB | ENG | 28 |
+| 6 | Gabriel Magalhães | CB | BRA | 28 |
+| 12 | Jurrien Timber | RB/CB | NED | 24 |
+| 15 | Jakub Kiwior | CB/LB | POL | 25 |
+| 17 | Oleksandr Zinchenko | LB/CM | UKR | 29 |
+| 33 | Riccardo Calafiori | LB/CB | ITA | 22 |
+| 8 | Martin Ødegaard | CAM | NOR | 27 |
+| 16 | Christian Nørgaard | CM | DEN | 31 |
+| 23 | Mikel Merino | CM | ESP | 29 |
+| 24 | Reiss Nelson | RW/LW | ENG | 26 |
+| 28 | Albert Sambi Lokonga | CM | BEL | 25 |
+| 36 | Martin Zubimendi | DM | ESP | 26 |
+| 41 | Declan Rice | CM/DM | ENG | 27 |
+| 49 | Myles Lewis-Skelly | LB/CM | ENG | 19 |
+| 7 | Bukayo Saka | RW | ENG | 24 |
+| 9 | Gabriel Jesus | ST | BRA | 29 |
+| 11 | Gabriel Martinelli | LW | BRA | 24 |
+| 14 | Viktor Gyökeres | ST | SWE | 27 |
+| 19 | Leandro Trossard | LW/ST | BEL | 31 |
+| 20 | Noni Madueke | RW | ENG | 23 |
+| 21 | Fábio Vieira | CAM | POR | 25 |
+| 22 | Ethan Nwaneri | RW/CAM | ENG | 18 |
+| 29 | Kai Havertz | CAM/ST | GER | 27 |
 
-**Schlüsselspieler:** Bukayo Saka (RW) | Martin Ødegaard (CAM) | Declan Rice (CM) | Viktor Gyökeres (ST) | Kai Havertz (ST/CAM) | Gabriel Martinelli (LW) | David Raya (GK) | William Saliba (CB) | Gabriel Magalhães (CB)
-**Zugänge Sommer 2026:** Morgan Rogers (von Aston Villa, Interesse) | Eli Junior Kroupi (Interesse)
-**Abgänge Sommer 2026:** — (Kader weitgehend stabil nach Meistertitel)
-**Kurzprofil:** Frischgebackener Meister — erste Meisterschaft seit den Invincibles 2003/04. Arteta's gepresstes Ballbesitz-System ist vollständig eingespielt. Der Kader ist tief, talentiert und hungrig auf Champions League-Erfolg. Größter Transferbedarf: Ødegaard-Absicherung falls Abgang.
+**Zugänge Sommer 2026:** Linksverteidiger-Backup gesucht | Zubimendi und Nørgaard als neue Mittelfeld-Säulen
+**Abgänge Sommer 2026:** Fábio Vieira (möglicher Abgang) | Gabriel Jesus (möglicher Abgang)
 
 ---
 
 ### Manchester City
-| Feld | Details |
-|------|---------|
-| Manager | Enzo Maresca |
-| Formation | 4-2-3-1 |
-| Stärke | ⭐⭐⭐⭐⭐ |
+**Manager:** Enzo Maresca | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐⭐⭐
 
-**Schlüsselspieler:** Erling Haaland (ST) | Phil Foden (AM) | Bernardo Silva (RM, Kapitän) | Rayan Cherki (LW/AM) | Tijjani Reijnders (CM) | Rayan Aït-Nouri (LB) | Gianluigi Donnarumma (GK) | Rodri (DM) | Rúben Dias (CB)
-**Zugänge Sommer 2026:** Rayan Cherki (von Lyon) | Tijjani Reijnders (von Milan) | Rayan Aït-Nouri (von Wolves) | Donnarumma (von PSG) | Brahim Díaz (Real Madrid, Interesse)
-**Abgänge Sommer 2026:** Kevin De Bruyne (zu Napoli, Vertragsende) | Bernardo Silva (bleibt als Kapitän) | Josko Gvardiol (Barcelona, Interesse) | John Stones (Vertragsende)
-**Kurzprofil:** Post-Guardiola-Ära beginnt unter Maresca, dem ehemaligen Guardiola-Assistenten. City plant bis zu £200 Mio. auszugeben, um den Kader auf Marescas Philosophie umzubauen. Haaland bleibt das Herzstück — der Kader ist trotz Umbau weiterhin Elite-Niveau.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 31 | Gianluigi Donnarumma | GK | ITA | 26 |
+| 43 | James Trafford | GK | ENG | 23 |
+| 45 | Marcus Bettinelli | GK | ENG | 34 |
+| 3 | Rúben Dias | CB | POR | 28 |
+| 14 | Joško Gvardiol | LB/CB | CRO | 23 |
+| 22 | Manuel Akanji | CB | SUI | 30 |
+| 5 | Rayan Aït-Nouri | LB | ALG | 24 |
+| 4 | John Stones | CB | ENG | 32 |
+| 82 | Rico Lewis | RB/CM | ENG | 20 |
+| 24 | Matheus Nunes | CM/RB | POR | 27 |
+| 6 | Jérémy Doku | LW/LB | BEL | 23 |
+| 25 | Jahmai Simpson-Pusey | CB | ENG | 19 |
+| 16 | Rodri | DM | ESP | 30 |
+| 8 | Bernardo Silva | AM/RM | POR | 31 |
+| 20 | Tijjani Reijnders | CM | NED | 27 |
+| 47 | Phil Foden | AM/LW | ENG | 26 |
+| 26 | Savinho | RW | BRA | 21 |
+| 52 | Oscar Bobb | RW | NOR | 22 |
+| 32 | Maximo Perrone | DM/CM | ARG | 23 |
+| 9 | Erling Haaland | ST | NOR | 26 |
+| 7 | Omar Marmoush | ST/RW | EGY | 26 |
+| 11 | Rayan Cherki | AM/LW | FRA | 22 |
+| 27 | Kevin De Bruyne (abg.) / Jack Grealish (Leihe Everton) | CM | ENG | 30 |
+
+**Zugänge Sommer 2026:** Rayan Cherki (Lyon) | Tijjani Reijnders (Milan) | Rayan Aït-Nouri (Wolves) | Gianluigi Donnarumma (PSG) | James Trafford (Burnley)
+**Abgänge Sommer 2026:** Kevin De Bruyne (Napoli, Vertragsende) | Ederson (Fenerbahçe) | Kyle Walker (Burnley) | İlkay Gündoğan (Galatasaray)
 
 ---
 
 ### Manchester United
-| Feld | Details |
-|------|---------|
-| Manager | Michael Carrick |
-| Formation | 4-2-3-1 |
-| Stärke | ⭐⭐⭐⭐ |
+**Manager:** Michael Carrick | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐⭐
 
-**Schlüsselspieler:** Bruno Fernandes (CAM) | Kobbie Mainoo (CM) | Bryan Mbeumo (RW) | Diogo Dalot (RB) | Luke Shaw (LB) | Harry Maguire (CB) | Senne Lammens (GK) | Casemiro (DM)
-**Zugänge Sommer 2026:** Bryan Mbeumo (von Brentford, Sommer 2025) | Michael Carrick sucht 3–4 neue Spieler
-**Abgänge Sommer 2026:** Marcus Rashford (Leihe Barcelona, Zukunft offen) | Joshua Zirkzee (möglicher Abgang) | Manuel Ugarte (Galatasaray, Interesse)
-**Kurzprofil:** Carrick übernahm als Interimstrainer und wurde permanent bestätigt. Trotz Platz 3 in 25/26 herrscht Instabilität — Carrick muss den Kader entrümpeln und seinen eigenen Stempel aufdrücken. Bruno Fernandes bleibt das kreative Herz, Mainoo das defensive Rückgrat.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 31 | Senne Lammens | GK | BEL | 24 |
+| 1 | Altay Bayındır | GK | TUR | 27 |
+| 22 | Tom Heaton | GK | ENG | 40 |
+| 2 | Diogo Dalot | RB | POR | 27 |
+| 3 | Noussair Mazraoui | RB/CB | MAR | 28 |
+| 4 | Matthijs de Ligt | CB | NED | 27 |
+| 5 | Harry Maguire | CB | ENG | 33 |
+| 15 | Leny Yoro | CB | FRA | 19 |
+| 23 | Luke Shaw | LB | ENG | 29 |
+| 12 | Tyrell Malacia | LB | NED | 27 |
+| 40 | Patrick Dorgu | LB/LW | DEN | 21 |
+| 26 | Ayden Heaven | CB | ENG | 19 |
+| 18 | Casemiro | DM | BRA | 34 |
+| 37 | Kobbie Mainoo | CM | ENG | 21 |
+| 14 | Christian Eriksen | CM | DEN | 34 |
+| 8 | Bruno Fernandes | CAM | POR | 32 |
+| 20 | Amad Diallo | RW | CIV | 23 |
+| 7 | Mason Mount | CAM/CM | ENG | 27 |
+| 10 | Marcus Rashford | LW | ENG | 28 |
+| 25 | Bryan Mbeumo | RW | CMR | 26 |
+| 11 | Rasmus Højlund | ST | DEN | 23 |
+| 9 | Benjamin Šeško | ST | SVN | 23 |
+| 16 | Matheus Cunha | ST/AM | BRA | 26 |
+
+**Zugänge Sommer 2026:** Carrick bestätigt als permanenter Manager | Sucht 3-4 Verstärkungen | Nachwuchstalente werden gefördert
+**Abgänge Sommer 2026:** Manuel Ugarte (Galatasaray-Interesse) | Joshua Zirkzee (möglicher Abgang) | Casemiro (möglicher Abgang)
 
 ---
 

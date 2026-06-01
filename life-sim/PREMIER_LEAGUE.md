@@ -203,14 +203,14 @@
 ### Liverpool
 | Feld | Details |
 |------|---------|
-| Manager | VAKANT |
+| Manager | VAKANT *(Ethan Cole, SD seit 01.06.2026)* |
 | Formation | — (abhängig vom neuen Manager) |
 | Stärke | ⭐⭐⭐⭐ |
 
-**Schlüsselspieler:** Virgil van Dijk (CB, 34, Vertrag läuft) | Ryan Gravenberch (CM) | Alexis Mac Allister (CM) | Dominik Szoboszlai (AM) | Darwin Núñez (ST) | Caoimhin Kelleher (GK, falls nicht abgegeben) | Diogo Jota (ST)
-**Zugänge Sommer 2026:** Alexander Isak (von Newcastle, £125 Mio.) | Milos Kerkez (LB, Ziel) | Jeremie Frimpong (RB, Ziel) | Yan Diomande (RB Leipzig, Interesse, Salah-Ersatz)
-**Abgänge Sommer 2026:** Mohamed Salah (Abgang bestätigt) | Trent Alexander-Arnold (Abgang) | Ibrahima Konaté (Abgang) | Curtis Jones (Inter Mailand, Interesse) | Hugo Ekitike (Verletzt, Zukunft offen)
-**Kurzprofil:** Liverpool steckt in einer Umbruchphase: Slot entlassen, Top-Spieler weg, Manager-Suche läuft. Trotz CL-Qualifikation (5. Platz) ist der Kader löchrig. Der neue Manager erbt einen Kader im Übergang — viel Potenzial, aber auch viel Arbeit.
+**Schlüsselspieler:** Virgil van Dijk (CB, Kapitän) | Florian Wirtz (CAM) | Ryan Gravenberch (CM) | Alexander Isak (ST) | Alisson Becker (GK) | Milos Kerkez (LB) | Jeremie Frimpong (RWB) | Dominik Szoboszlai (CM) | Alexis Mac Allister (CM) | Cody Gakpo (LW)
+**Zugänge Sommer 2026 (bestätigt):** Jérémy Jacquet (von Stade Rennais, £60M, CB) | Samuel Martinez (Atlético Nacional, £740k, AM — kommt 2027)
+**Abgänge Sommer 2026 (bestätigt):** Mohamed Salah (Vertragsende) | Ibrahima Konaté (Vertragsende, Free) | Andy Robertson (Vertragsende, Free) | Freddie Woodman (Vertragsende) | Rhys Williams (Vertragsende)
+**Kurzprofil:** Tiefgreifender Umbruch nach enttäuschender 5.-Platz-Saison. Slot entlassen, Hughes entlassen, Salah-Ära endet. Neuer SD Ethan Cole (29) sucht Manager. Kader hat mit Wirtz, Gravenberch, Isak und Jacquet enormes Potenzial — aber braucht Führung und System.
 
 ---
 

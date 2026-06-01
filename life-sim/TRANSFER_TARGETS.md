@@ -63,6 +63,19 @@
 |---------|------|--------|-------------------|
 | *(zu identifizieren nach Manager-Entscheidung)* | | | |
 
+### Priorität 4: Linke 10 / Linksflanke *(Budget-Option / Alternative zu Adeyemi)*
+*Profil: Rechtsfuß auf links, schneidet ein, kreativ, günstig. Primärziel bleibt Adeyemi (Dortmund ~£38M). Diese Namen sind Alternativen oder Rotation.*
+
+| Spieler | Klub | Profil | Preis | Agent | Priorität |
+|---------|------|--------|-------|-------|-----------|
+| **Nicolò Cambiaghi** | FC Bologna (Serie A) | 25J, Rechtsfuß, LW, 3G/4A in Serie A 25/26 | **~£9-14M** | MM-Management | 🟢 GÜNSTIGSTE OPTION |
+| **Wilfried Gnonto** | Leeds United (PL) | 22J, Rechtsfuß, LW, PL-proven (138 Apps, 23G) | **~£15-20M** | CAA Stellar | 🟢 PL-QUALITÄT IM BUDGET |
+| Julio Enciso | RC Strasbourg (L1) | 22J, Rechtsfuß, AM/LW, 3G/6A 25/26, Referenzprofil | ~£18-22M | — | 🟡 Beobachten |
+| Bilal El Khannouss | Leicester/Stuttgart | 22J, Rechtsfuß, AM, 4G/5A Bundesliga 25/26 | ~£34-40M | — | 🟡 Watchlist Winter |
+| Brajan Gruda | Brighton/Leipzig loan | 22J, AM/LW, Bundesliga-Level | ~£28-35M | — | 🟡 Watchlist |
+
+*Ausgeschlossen: Summerville (zu teuer), Odobert (verletzt bis Nov), Gordon (Barcelona), Ndiaye (£70M+), Adingra (£50M+)*
+
 ---
 
 ## POTENZIELLE VERKAUFSKANDIDATEN

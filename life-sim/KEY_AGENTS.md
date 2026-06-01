@@ -83,6 +83,40 @@
 
 ---
 
+### CAA Stellar (Wilfried Gnonto)
+| Feld | Info |
+|------|------|
+| Name | CAA Stellar |
+| Agentur | CAA Stellar (Teil von Creative Artists Agency) |
+| Hauptsitz | London, UK |
+| Nationalität | 🇬🇧 Britisch (global) |
+| Verhältnis zu Ethan | Noch kein persönlicher Kontakt |
+| Relevante Liverpool-Spieler | — |
+| Relevante Transferziele | **Wilfried Gnonto** (Leeds United) |
+| Stil | Professionelle Großagentur — viele PL-Spieler, strukturierte Verhandlungen |
+| Status | 🟡 Kontakt anstehend — informelle Sondierung geplant |
+
+**Kontaktweg:** Standard-Industrie-Kanal über Liverpool Sekretariat oder direkt über PL-Netzwerk. CAA Stellar haben ein Londoner Büro — leicht erreichbar.
+
+---
+
+### MM-Management (Nicolò Cambiaghi)
+| Feld | Info |
+|------|------|
+| Name | MM-Management |
+| Agentur | MM-Management |
+| Hauptsitz | Mailand, Italien |
+| Nationalität | 🇮🇹 Italienisch |
+| Verhältnis zu Ethan | Erstkontakt initiiert (06. Juni 2026) |
+| Relevante Liverpool-Spieler | — |
+| Relevante Transferziele | **Nicolò Cambiaghi** (FC Bologna) |
+| Stil | Italienische Spielerberatung — mittelgroße Agentur, erfahren im Serie A Markt |
+| Status | 🟡 Erstkontakt hergestellt — Gespräch steht aus |
+
+**Kontaktweg:** Direktanruf 06. Juni 2026 eingeleitet. Agent war überrascht aber professionell. Gespräch wurde noch nicht geführt — Ethan hat es vorerst als Sondierung markiert.
+
+---
+
 ## AGENTEN RELEVANTER TRANSFERZIELE
 
 | Spieler | Agent (bekannt/geschätzt) | Agentur | Notiz |
@@ -92,6 +126,8 @@
 | Yan Diomande | — | — | Zu recherchieren |
 | Marco Senesi | — | — | Free Transfer — direkt ansprechen |
 | Jérémy Jacquet | — | — | Reims-Kontakt vorhanden (Ethan kennt den Klub) |
+| **Nicolò Cambiaghi** | MM-Management | MM-Management, Mailand | ✅ Identifiziert — Erstkontakt 06.06. |
+| **Wilfried Gnonto** | CAA Stellar | CAA Stellar, London | ✅ Identifiziert — Kontakt geplant |
 
 ---
 

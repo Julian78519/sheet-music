@@ -161,3 +161,130 @@
 **Schwächen:** Noch nicht auf absolutem Top-Niveau getestet
 **Fit ins System:** Backup/Rotation für Gravenberch auf der 6
 **Ethan-Notiz:** Guter Spieler aber nicht erste Priorität. Glasner verlässt Crystal Palace — könnte günstiger werden.
+
+---
+
+## LINKE 10 / LINKSFLANKE (3-4-2-1 — L10-Position)
+
+*Profil gesucht: Rechtsfuß auf Linksaußen — schneidet ins Zentrum, kreativ, abschlussstark. Primärziel ist Adeyemi (Dortmund). Die folgenden Spieler sind Alternativen und Backup-Optionen nach Budget-Tier.*
+
+---
+
+### Julio Enciso — LW/AM — RC Strasbourg *(REFERENZPROFIL)*
+| Feld | Info |
+|------|------|
+| Name | Julio César Enciso |
+| Geb. / Alter | 23.01.2004 / 22 |
+| Nationalität | 🇵🇾 Paraguayisch |
+| Klub | RC Strasbourg (Ligue 1) |
+| Vertrag bis | Juni 2029 |
+| Marktwert | ~€22M (~£18M) |
+| Ablöse (geschätzt) | £18-22M |
+| Wochenlohn (geschätzt) | ~£25-35k |
+| Agent | — |
+| Status | 🟡 Beobachten — Referenzprofil |
+
+**Stärken:** Torgefährlich aus der Distanz, gutes Dribbling, agil, trifft aus der zweiten Reihe, Conference League Erfahrung
+**Schwächen:** Noch kein Top-5-Liga-Test auf hohem Niveau, Entwicklungsphase nicht abgeschlossen
+**Fit ins System:** Exakt der gesuchte Spielertyp für die L10 in Alonsos 3-4-2-1
+**Stats 25/26:** 3G / 6A — 25 Ligue 1 + 5 Conference League Apps
+**Ethan-Notiz:** Das Referenzprofil. Ethan sieht ihn als etwas zu jung und unerfahren — aber genau dieser Typ wird gesucht.
+
+---
+
+### Nicolò Cambiaghi — LW — FC Bologna *(PRIMÄRE GÜNSTIGE OPTION)* 🟢
+| Feld | Info |
+|------|------|
+| Name | Nicolò Cambiaghi |
+| Geb. / Alter | 28.12.2000 / 25 |
+| Nationalität | 🇮🇹 Italienisch |
+| Klub | FC Bologna (Serie A) |
+| Vertrag bis | Juni 2029 |
+| Marktwert | ~€10-13M (~£9-11M) |
+| Ablöse (geschätzt) | **£9-14M** — kein Bieterkrieg erwartet |
+| Wochenlohn (geschätzt) | ~£15-25k |
+| Agent | **MM-Management** (Mailand) |
+| Status | 🟢 Aktiv verfolgen — Agent kontaktiert |
+
+**Stärken:** Rechtsfuß auf links, schneidet ins Zentrum, Serie A proven (111 Apps, 11G/9A), günstig, 25 Jahre alt — Erfahrung vorhanden
+**Schwächen:** Kein Top-Liga-Test außerhalb Serie A, bei Atalanta nie durchgesetzt (war sein Entwicklungsknick)
+**Fit ins System:** Passt exakt ins L10-Profil — Rotation oder Backup wenn Adeyemi-Deal scheitert
+**Stats 25/26:** 3G / 4A — 28 Serie A Apps, 1.519 Minuten
+**Ethan-Notiz:** Günstigster brauchbarer Name auf der Liste. Bologna würde bei ~£12M nicht nein sagen. Kann sofort gekauft werden ohne vorherige Verkäufe zu warten. Agent: MM-Management, Erstkontakt steht aus.
+
+---
+
+### Wilfried Gnonto — LW — Leeds United *(PL-OPTION)* 🟢
+| Feld | Info |
+|------|------|
+| Name | Wilfried "Willy" Gnonto |
+| Geb. / Alter | 05.11.2003 / 22 |
+| Nationalität | 🇮🇹 Italienisch |
+| Klub | Leeds United (Premier League) |
+| Vertrag bis | — (zu recherchieren) |
+| Marktwert | ~€18-23M (~£15-20M) |
+| Ablöse (geschätzt) | **£15-20M** — Leeds würde bei diesem Preis verkaufen |
+| Wochenlohn (geschätzt) | ~£30-45k |
+| Agent | **CAA Stellar** (London — große britische Agentur) |
+| Status | 🟢 Aktiv verfolgen — Agent identifiziert |
+
+**Stärken:** PL-proven (138 Apps, 23 Tore für Leeds), Rechtsfuß auf links, kreatives Dribbling, 170cm — niedriger Schwerpunkt, schwer zu stoppen in Eins-gegen-Eins
+**Schwächen:** Diese Saison stark unterbeschäftigt (Farkes 3-5-2 passt nicht), inkonsistente Leistungen — echter Formeinbruch oder taktisches Opfer?
+**Fit ins System:** Alonsos 3-4-2-1 mit L10-Freiheiten wäre ideal für sein Profil — könnte hier aufblühen
+**Stats 25/26:** 0G / 1A in PL, ~5 Torbeteiligungen aus 846 Minuten gesamt
+**Ethan-Notiz:** Interessanteste PL-Option im Budget. Freiburg und italienische Klubs schnuppern — schnell handeln wenn Interesse besteht. Agent: CAA Stellar — bereits auf Radar.
+
+---
+
+### Bilal El Khannouss — AM — Leicester City *(Leihe VfB Stuttgart)* 🟡 WATCHLIST
+| Feld | Info |
+|------|------|
+| Name | Bilal El Khannouss |
+| Geb. / Alter | ~2004 / 22 |
+| Nationalität | 🇲🇦 Marokkanisch |
+| Klub | Leicester City (Vertrag bis 2028) — Leihe Stuttgart |
+| Marktwert | ~€40M |
+| Ablöse (geschätzt) | £34-40M — zu teuer für "günstig" |
+| Agent | — |
+| Status | 🟡 Watchlist — zu teuer jetzt, beobachten |
+
+**Stärken:** Bester Spieler dieser Liste technisch gesehen — 4G/5A in 25 Bundesliga Apps, sehr kreativ, agil, Rechtsfuß
+**Schwächen:** Preis liegt außerhalb des Budget-Rahmens für eine "günstige" Alternative
+**Stats 25/26:** 4G / 5A — 25 Bundesliga Apps (Stuttgart)
+**Ethan-Notiz:** Nicht dieser Sommer. Wenn Leicester ihn verkaufen muss (Abstieg?) könnte er günstiger werden. Wiederbewerten Winter 2027.
+
+---
+
+### Brajan Gruda — AM/LW — Brighton & Hove Albion *(Leihe RB Leipzig)* 🟡 WATCHLIST
+| Feld | Info |
+|------|------|
+| Name | Brajan Gruda |
+| Geb. / Alter | 31.05.2004 / 22 |
+| Nationalität | 🇩🇪 Deutsch |
+| Klub | Brighton (Vertrag bis 2028) — Leihe Leipzig |
+| Marktwert | ~€33-41M |
+| Ablöse (geschätzt) | £28-35M — Brighton hat £25M bezahlt |
+| Agent | — |
+| Status | 🟡 Watchlist — Preis zu hoch für günstige Alternative |
+
+**Stärken:** Technisch sehr gut, Bundesliga-Niveau bestätigt, deutsch — passt kulturell in Alonso-System
+**Schwächen:** Brighton wird keinen Verlust realisieren, Preis außerhalb Budget
+**Stats 25/26:** 1G / 1A — 172 Minuten (Leipzig, Leihe)
+**Ethan-Notiz:** Interessant aber zu teuer. Beobachten.
+
+---
+
+### ❌ NICHT WEITER VERFOLGEN — Recherchierte aber ausgeschlossene Namen
+
+| Spieler | Klub | Grund |
+|---------|------|-------|
+| Crysencio Summerville | West Ham | €25-31M — PL-Klub Preisvorstellung zu hoch, kein Reiz |
+| Wilson Odobert | Tottenham | Knieop-Verletzung bis Nov 2026 — verpasst halbe Saison |
+| Edon Zhegrova | Juventus | Wechsel von Lille zu Juve 2025 — schlechte Form (0G/0A), kein Mehrwert |
+| Iliman Ndiaye | Everton | Zu teuer — £70M+ Marktwert, mehrere Top-Klubs interessiert |
+| Simon Adingra | Sunderland (Leihe Monaco) | Zu teuer — £50M Vorstellung, Sunderland will nicht verkaufen |
+| Anthony Gordon | Newcastle → Barcelona | Bereits zu Barcelona für £69M — vom Markt |
+| Nico Paz | Como → Real Madrid | Real Madrid aktiviert Rückkaufklausel (€10M) 2026 — geht zurück |
+| Gift Orban | Hoffenheim/Hellas Verona | Eher CF-Profil, nicht kreativer Linksfuß |
+| Mathys Tel | Tottenham (permanent) | Permanent von Bayern zu Spurs — nicht verfügbar |
+| Arnaud Kalimuendo | Nottingham Forest/Frankfurt | CF-Profil, nicht links-kreativ genug für L10 |

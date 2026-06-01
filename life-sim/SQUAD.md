@@ -57,6 +57,15 @@
 
 ---
 
+## ZUGÄNGE BESTÄTIGT (Sommer 2026)
+
+| Spieler | Nat. | Geb. | Alter | Pos. | Herkunft | Ablöse | Vertrag | Status |
+|---------|------|------|-------|------|----------|--------|---------|--------|
+| **Jérémy Jacquet** | 🇫🇷 | 2005 | 20 | CB | Stade Rennais | £55M + £5M | bis 2031 (+1) | ✅ Deal unter Hughes abgeschlossen. Schulter-OP März 2026 — fit für Preseason erwartet. Schlüsselspieler für Neuaufbau |
+| **Samuel Martinez** | 🇨🇴 | 2008 | 17 | AM | Atlético Nacional | ~£740k | 5 Jahre | ⏳ Kommt erst 2027 (U18-Regel). Bleibt vorerst bei Nacional. Schlägt Barcelona + Dortmund aus |
+
+---
+
 ## ABGÄNGE BESTÄTIGT (Sommer 2026)
 
 | Spieler | Wohin | Ablöse | Notiz |

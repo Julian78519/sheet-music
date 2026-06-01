@@ -8,12 +8,12 @@
 ### 🔴 SOFORT (vor Transferfenster)
 | Aufgabe | Details |
 |---------|---------|
-| **Neuer Manager** | Iraola klarer Favorit. Ohne Manager keine Transferstrategie. |
+| **Neuer Manager** | Alonso-Meeting Mi. 03.06. Iraola als Backup Fr. 06.06. |
 
 ### 🔴 KRITISCH (bis 31. August)
 | Position | Warum |
 |----------|-------|
-| CB — links, progressiver Passspieler | Konaté weg (Free), Robertson weg. Van Dijk allein reicht nicht. |
+| CB — links, progressiver Passspieler | Konaté weg. **Jacquet signed — aber verletzt bis Preseason. Noch ein CB nötig?** |
 | Rechtsaußen | Salah verlässt den Klub. Ikonen-Ersatz. |
 
 ### 🟠 HOCH
@@ -41,11 +41,11 @@
 
 | Spieler | Klub | Profil | Geschätzter Preis |
 |---------|------|--------|-------------------|
-| Nico Schlotterbeck | Borussia Dortmund | Linksfüßig, progressiv, BL-erfahren | ~£50-60M |
-| Marco Senesi | AFC Bournemouth | Linksfüßig, PL-Erfahrung, günstiger | ~£20-25M oder Free |
-| Jérémy Jacquet | Stade de Reims | Junges Talent, Reims-Verbindung (Ethan kennt ihn) | ~£15-25M |
+| ~~Jérémy Jacquet~~ | ~~Stade Rennais~~ | ~~Junges Talent, 20 Jahre, CB~~ | ~~£60M~~ | ✅ **BEREITS VERPFLICHTET** (Hughes-Deal) — kommt Juli 2026 |
+| Nico Schlotterbeck | Borussia Dortmund | Linksfüßig, progressiv, BL-erfahren | ~£50-60M | Noch relevant — Jacquet braucht Zeit, Van Dijk wird 35 |
+| Marco Senesi | AFC Bournemouth | Linksfüßig, PL-Erfahrung, günstiger | ~£20-25M oder Free | Kostengünstige Option als Backup |
 
-*Ethan-Notiz: Senesi als kostengünstige Lösung wenn Budget eng. Schlotterbeck als Wunschlösung.*
+*Ethan-Notiz: Jacquet signed aber verletzt — ggf. noch ein erfahrenerer CB nötig für Saisonstart.*
 
 ### Priorität 2: Rechtsaußen (Salah-Nachfolger)
 *Muss: dribblingsstark, torgefährlich, kann in Wirtz-System agieren*
@@ -80,10 +80,11 @@
 
 | Szenario | Details |
 |---------|---------|
-| **Ohne Verkäufe** | ~£40-50M verfügbar |
-| **Mit Chiesa + Mac Allister verkauft** | ~£80-95M verfügbar |
-| **Mit Mac Allister + Endo + weitere** | ~£90-110M verfügbar |
-| **Empfehlung** | Erst Verkäufe klären, dann Einkäufe |
+| **Bereits ausgegeben** | ~£60.7M (Jacquet £60M + Martinez £0.7M) |
+| **Verbleibendes Rohbudget** | ~£0-10M netto (sehr eng) |
+| **Mit Chiesa verkauft (~£18M)** | ~£18-28M verfügbar |
+| **Mit Mac Allister verkauft (~£40M)** | ~£50-60M verfügbar |
+| **Empfehlung** | Verkäufe dringend nötig — Jacquet hat Budget fast aufgebraucht |
 
 ---
 

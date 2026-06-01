@@ -84,6 +84,27 @@
 
 ---
 
+## TRANSFERBILANZ SOMMER 2026 (laufend)
+
+### Zugänge (bestätigt)
+| Spieler | Herkunft | Ablöse | Notiz |
+|---------|----------|--------|-------|
+| Jérémy Jacquet | Stade Rennais | £55M + £5M add-ons | CB, 20 Jahre. Deal unter Hughes. Kommt Juli 2026 |
+| Samuel Martinez | Atlético Nacional | ~£740k | AM, 17 Jahre. Kommt erst 2027 (U18-Regel) |
+| **GESAMT AUSGABEN (bestätigt)** | | **~£60.7M** | |
+
+### Abgänge (bestätigt)
+| Spieler | Käufer | Ablöse |
+|---------|--------|--------|
+| Mohamed Salah | Saudi Pro League | £0 (Vertrag aufgelöst) |
+| Ibrahima Konaté | — | £0 (Free Transfer) |
+| Andy Robertson | — | £0 (Free Transfer) |
+| Freddie Woodman | — | £0 |
+| Rhys Williams | — | £0 |
+| **GESAMT EINNAHMEN (bestätigt)** | | **£0** |
+
+---
+
 ## FINANZIELLE LAGE SOMMER 2026
 
 | Kennzahl | Detail |

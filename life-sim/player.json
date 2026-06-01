@@ -151,6 +151,12 @@
       "role": "Business Angel, Manchester",
       "dynamic": "Hat Kova 2020 mit $800k gerettet. Nichts formal geschuldet — aber moralisch alles."
     },
+    "van_dijk": {
+      "name": "Virgil van Dijk",
+      "role": "Kapitän, Liverpool FC",
+      "first_met": "2026-06-01, sein Haus in Woolton",
+      "dynamic": "Direkt, testet Ethan sofort. Respektiert Ehrlichkeit über leere Versprechen. Hat Alonso-Nummer gegeben und Meeting ermöglicht. Erwartet Vertragsgespräch — nicht sofort, aber dieses Jahr."
+    },
     "family": {
       "father": {
         "name": "Jim Cole",
@@ -169,17 +175,18 @@
   "current_situation": {
     "date": "2026-06-01",
     "location": "Liverpool — Hotel nahe Anfield, zieht nächste Woche in gemietetes Apartment",
-    "mood": "fokussiert, leicht aufgeregt, weiß wie viel auf dem Spiel steht",
+    "mood": "erschöpft aber fokussiert — Tag 1 war größer als erwartet",
     "open_threads": [
-      "Pressekonferenz heute Nachmittag",
-      "Erster Anruf von Michael Edwards liegt unbeantwortet auf dem Handy",
-      "Neue Manager-Suche — Iraola klarer Favorit",
+      "⭐ Xabi Alonso — Meeting Mittwoch 03.06., 11:00, Van Dijk's Haus. PRIORITÄT 1",
+      "Iraola — wartet auf Freitag (abhängig von Alonso-Meeting)",
+      "Van Dijk Vertragsgespräch — hat signalisiert er will Klarheit über seine Zukunft. Nicht jetzt, aber bald.",
+      "Michael Gordon — Call Dienstag 09:00 über Transferbudget",
       "Konaté verlässt den Klub am 30. Juni auf Free Transfer",
       "Salah verlässt den Klub — Ikonen-Ära endet",
       "Robertson-Vertrag läuft aus",
       "Isak — fit für Saisonstart?",
       "Transferfenster öffnet 1. Juli (30 Tage)",
-      "Familie kommt zur Pressekonferenz"
+      "Alisson + Van Dijk Verlängerungen — mittelfristig dringend"
     ]
   },
   "history": [
@@ -205,7 +212,19 @@
     },
     {
       "date": "2026-06-01",
-      "event": "Tag 1. Pressekonferenz Anfield. Familie angereist."
+      "event": "TAG 1. Pressekonferenz Anfield — ruhig, direkt, keine leeren Versprechen. Familie anwesend. Fragen zu Salah (Tribut), Konaté-Abgang (zugegeben), Manager-Suche (keine Namen)."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Besuch bei Virgil van Dijk, Woolton. Erster Kontakt Kapitän. Van Dijk: direkt, getestet Ethan sofort. Ethan: keine Versprechungen, Ehrlichkeit über Vertragssituation. Resultat: Van Dijk gibt Xabi Alonso's Nummer heraus."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Erster Anruf Xabi Alonso — von Van Dijk's Küchentisch. Alonso nimmt ab, erkennt Liverpool-PK. Van Dijk spricht kurz mit ihm. Alonso stimmt Meeting zu: Mittwoch 03.06., 11:00, Van Dijk's Haus, San Sebastián → Liverpool."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Anruf Andoni Iraola — professionell informiert. Ethan gibt ehrlichen Hinweis: Mittwoch-Meeting entscheidet ob Freitag noch nötig. Iraola: keine harten Gefühle, versteht Subtext."
     }
   ]
 }

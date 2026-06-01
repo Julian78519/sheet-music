@@ -26,11 +26,22 @@
 
 | Name | Alter | Aktueller Klub | Profil | Status |
 |------|-------|---------------|--------|--------|
-| **Andoni Iraola** | 43 | Frei | Pressing-Fußball, Bournemouth/Rayo. Hat AC Milan + Crystal Palace abgelehnt wegen Liverpool. | 🟢 KLARER FAVORIT |
-| Sebastian Hoeness | 42 | VfB Stuttgart | Moderner Pressing-Stil, deutschsprachig, jung und ambitioniert | 🟡 Im Gespräch |
-| Julian Nagelsmann | 38 | Frei | Weltniveau-Erfahrung. Teuer, manchmal komplex im Umgang | 🟡 Kandidat |
-| Oliver Glasner | 50 | Crystal Palace | PL-Erfahrung, Gegenpressing, pragmatisch | 🟡 Kandidat |
+| **Xabi Alonso** | 44 | Frei (ex Real Madrid) | Liverpool-Legende (2004–09). Leverkusen-Wunder. Real Madrid gescheitert — hungrig. Scouting-KI: 90/100. | 🔴 **PRIORITÄT 1 — Meeting Mi. 03.06., 11:00** |
+| Andoni Iraola | 43 | Frei | Pressing-Fußball, Bournemouth/Rayo. Professionell informiert — wartet auf Freitag. | 🟡 Standby — Fr. 06.06. (abhängig von Mittwoch) |
+| Sebastian Hoeness | 42 | VfB Stuttgart | Moderner Pressing-Stil, deutschsprachig, jung und ambitioniert | 🔵 Kandidat |
+| Julian Nagelsmann | 38 | Frei | Weltniveau-Erfahrung. Teuer, manchmal komplex im Umgang | 🔵 Kandidat |
+| Oliver Glasner | 50 | Crystal Palace | PL-Erfahrung, Gegenpressing, pragmatisch | 🔵 Kandidat |
 | Pierre Sage | 45 | RC Lens | Außenseiter. Interessantes Profil | 🔵 Außenseiter |
+
+### Mittwoch 03.06. — Meeting Details
+| Feld | Info |
+|------|------|
+| Uhrzeit | 11:00 |
+| Ort | Van Dijk's Haus, Woolton — vertraulich |
+| Anwesend | Ethan Cole + Xabi Alonso (Van Dijk im Haus) |
+| FSG | Noch nicht — Ethan & Alonso klären Fußball zuerst |
+| Kontakt vermittelt durch | Virgil van Dijk (Telefonnummer) |
+| Vertraulichkeit | Höchste Stufe — kein Medienauftritt, diskrete Anreise |
 
 ---
 

@@ -276,7 +276,7 @@
 **Stärken:** Bester Spieler dieser Liste technisch gesehen — 4G/5A in 25 Bundesliga Apps, sehr kreativ, agil, Rechtsfuß
 **Schwächen:** Preis liegt außerhalb des Budget-Rahmens für eine "günstige" Alternative
 **Stats 25/26:** 4G / 5A — 25 Bundesliga Apps (Stuttgart)
-**Ethan-Notiz:** Nicht dieser Sommer. Wenn Leicester ihn verkaufen muss (Abstieg?) könnte er günstiger werden. Wiederbewerten Winter 2027.
+**Ethan-Notiz:** ✅ DEAL IN PRINCIPLE — 06.06.2026. Leicester-Call: Von £38M auf **£32M + Boni bis £36M** verhandelt. Ethan sichert mediale Stille zu (Agent-Gerüchte stoppen). Schriftlicher Vertrag kommt Montag von Leicester Legal. Alonso-Wunschspieler. Unter Marktwert. Nicht öffentlich bis Unterzeichnung.
 
 ---
 

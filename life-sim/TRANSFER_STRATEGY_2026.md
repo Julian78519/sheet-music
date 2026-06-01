@@ -47,9 +47,10 @@
 ### 🟠 Priorität 2: Linke 10 / Flügel
 | Spieler | Klub | Zielpreis | Entscheidung |
 |---------|------|-----------|-------------|
-| ~~Karim Adeyemi~~ | ~~Borussia Dortmund~~ | ~~£38M~~ | ⏸️ ZU TEUER. Dortmund €65M, Lohn £130k/Woche. Juventus-Deal läuft. Mendes informiert wenn Lage ändert. |
-| **Wilfried Gnonto** | Leeds United | ~£18M | 🟢 NEU. Budget-Option. Agent CAA Stellar identifiziert. |
-| **Nicolò Cambiaghi** | FC Bologna | ~£12M | 🟢 NEU. Günstigste Option. Agent MM-Management identifiziert. |
+| **Bilal El Khannouss** | Leicester City | **£32M + Boni** | ✅ DEAL IN PRINCIPLE 06.06. Alonso's Wunsch. Unter Marktwert. Vertrag Montag. |
+| ~~Karim Adeyemi~~ | ~~Borussia Dortmund~~ | ~~£38M~~ | ⏸️ ZU TEUER. €65M + £130k/Woche. Juventus-Deal läuft. |
+| Wilfried Gnonto | Leeds United | ~£18M | 🟡 Rotation-Option falls El Khannouss-Deal platzt. |
+| Nicolò Cambiaghi | FC Bologna | ~£12M | 🟡 Günstigste Backup-Option. |
 
 ### 🟡 Priorität 3: Backup Stürmer
 | Spieler | Klub | Zielpreis | Entscheidung |

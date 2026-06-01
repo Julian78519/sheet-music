@@ -125,7 +125,8 @@
 | Bradley Barcola | — | — | Zu recherchieren |
 | Yan Diomande | — | — | Zu recherchieren |
 | Marco Senesi | — | — | Free Transfer — direkt ansprechen |
-| Jérémy Jacquet | — | — | Reims-Kontakt vorhanden (Ethan kennt den Klub) |
+| Jérémy Jacquet | — | — | ✅ Bereits verpflichtet — kein Agent-Kontakt nötig |
+| **Gonçalo Inácio** | **Miguel Pinho** | Pinho Sports | ✅ Gespräch 06.06. — €45-52M Fee, £110-120k Lohn. Treffen nach WM vereinbart. |
 | **Nicolò Cambiaghi** | MM-Management | MM-Management, Mailand | ✅ Identifiziert — Erstkontakt 06.06. |
 | **Wilfried Gnonto** | CAA Stellar | CAA Stellar, London | ✅ Identifiziert — Kontakt geplant |
 

@@ -57,24 +57,47 @@
 
 ---
 
-### Jérémy Jacquet — CB — Stade de Reims
+### Gonçalo Inácio — CB — Sporting CP *(ALTERNATIVE ZU SCHLOTTERBECK)*
+| Feld | Info |
+|------|------|
+| Name | Gonçalo Inácio |
+| Geb. / Alter | ~2003 / 23 |
+| Nationalität | 🇵🇹 Portugiesisch |
+| Klub | Sporting CP (Portugal) |
+| Vertrag bis | Juni 2030 |
+| Marktwert | ~€55-65M |
+| Release Clause | **€60M** (offiziell) |
+| Verhandelbare Ablöse | **€45-52M** (laut Agent — bei direkter, seriöser Anfrage) |
+| Wochenlohn (geschätzt) | £110-120k/Woche Basis — Peak ~£140k mit Boni |
+| Agent | **Miguel Pinho** ✅ (auch Agent von Bruno Fernandes) |
+| Status | 🟢 Aktiv — persönliches Treffen vereinbart (nach WM) |
+
+**Stärken:** Linksfuß, progressiv, CL-Erfahrung, Portugiesischer Nationalspieler, 23 Jahre — Entwicklungspotenzial, Führungsqualitäten für sein Alter
+**Schwächen:** Aktuell beim Weltmeisterschaft (Fokus woanders), Konkurrenz: Man United (Amorim trainierte ihn 3 Jahre), Barcelona (Flick/Deco)
+**Fit ins System:** Ideal als LCB im 3-4-2-1 — progressiver Linksfuß, exakt das Konaté-Profil
+**Konkurrenz:** Manchester United (Amorim-Faktor = emotionaler Vorteil), Barcelona
+**Ethan-Notiz:** Gespräch mit Pinho 06.06. Pinho: "Don't sell Liverpool the club — sell him the role." Treffen vereinbart nach WM-Gruppenphase. Schlüsselargument: Er ist *der* LCB, nicht eine von drei Optionen. Pinho-Warnung: Entscheidung bis Anfang August — danach wird's teurer. Liverpool zahlt €45-52M + ~£115k/Woche.
+
+---
+
+### Jérémy Jacquet — CB — Stade Rennais *(BEREITS VERPFLICHTET)*
 | Feld | Info |
 |------|------|
 | Name | Jérémy Jacquet |
-| Geb. / Alter | ~2002 / ~24 |
+| Geb. / Alter | ~2004 / ~20 |
 | Nationalität | 🇫🇷 Französisch |
-| Klub | Stade de Reims |
-| Vertrag bis | ~2027 |
-| Marktwert | ~€20M |
-| Ablöse (geschätzt) | £15-22M |
-| Wochenlohn (geschätzt) | ~£30-45k |
+| Klub | ~~Stade Rennais~~ → **Liverpool FC** ✅ |
+| Vertrag bis | — |
+| Marktwert | ~€60M (gezahlt) |
+| Ablöse | £55M + £5M Add-ons — BEZAHLT (Hughes-Deal) |
+| Wochenlohn (geschätzt) | ~£40-60k |
 | Agent | — |
-| Status | 🟢 Aktiv verfolgen |
+| Status | ✅ VERPFLICHTET — kommt Juli 2026, erholt von Schulterverletzung |
 
-**Stärken:** Technisch, progressiver Passspieler, entwicklungsfähig, günstig
-**Schwächen:** Noch kein Top-5-Liga-Test, Anpassung an PL-Tempo unsicher
-**Fit ins System:** Gut als LCB, braucht Eingewöhnungszeit
-**Ethan-Notiz:** Kenne ihn sehr gut aus dem Reims-Projekt. Weiß genau was er kann. Günstige Option wenn Budget eng.
+**Stärken:** Technisch, progressiver Passspieler, entwicklungsfähig, jung
+**Schwächen:** Verletzt bis Preseason — Anpassung an PL-Tempo braucht Zeit
+**Fit ins System:** LCB-Kandidat langfristig — aber braucht Eingewöhnungszeit
+**Ethan-Notiz:** Hughes-Deal. Ethan kannte ihn aus dem Reims-Projekt. Kommt Juli — aber verletzt. Deshalb noch ein erfahrener LCB nötig (→ Inácio oder Schlotterbeck).
 
 ---
 

@@ -389,142 +389,341 @@
 ---
 
 ### Tottenham Hotspur
-| Feld | Details |
-|------|---------|
-| Manager | Roberto De Zerbi |
-| Formation | 4-3-3 / Possession-Pressing |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Roberto De Zerbi | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Son Heung-min (LW) | James Maddison (AM) | Yves Bissouma (DM) | Dejan Kulusevski (RW) | Richarlison (ST) | Guglielmo Vicario (GK) | Cristian Romero (CB) | Pedro Porro (RB)
-**Zugänge Sommer 2026:** Marcos Senesi (von Bournemouth, Interesse) | Carlos Baleba (Brighton, Interesse) | Jan Paul van Hecke (Brighton, Interesse) | Savinho (Man City, Interesse, £60 Mio.)
-**Abgänge Sommer 2026:** Thomas Frank (Trainer gegangen, Sommer 2025) | Andy Robertson (möglicher Zugang erwartet)
-**Kurzprofil:** De Zerbi übernahm im März 2026 einen Klub am Rande des Abstiegs. Spurs überlebten auf Platz 17 — nun steht ein massiver Umbau bevor. De Zerbi's Markenzeichen ist intensiver, offensiver Pressing-Fußball; der Kader muss auf sein System umgebaut werden. 5-Jahres-Vertrag deutet auf langfristiges Projekt hin.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Guglielmo Vicario | GK | ITA | 28 |
+| 13 | Brandon Austin | GK | ENG | 26 |
+| 29 | Fraser Forster | GK | ENG | 38 |
+| 4 | Cristian Romero | CB | ARG | 27 |
+| 6 | Davinson Sanchez | CB | COL | 29 |
+| 5 | Ben Davies | LB/CB | WAL | 33 |
+| 2 | Pedro Porro | RB | ESP | 26 |
+| 24 | Emerson Royal | RB | BRA | 26 |
+| 3 | Destiny Udogie | LB | ITA | 22 |
+| 33 | Micky van de Ven | CB | NED | 24 |
+| 14 | Alfie Dorrington | CB | ENG | 21 |
+| 23 | Yves Bissouma | DM | MLI | 28 |
+| 8 | Rodrigo Bentancur | CM | URU | 29 |
+| 15 | Oliver Skipp | CM/DM | ENG | 24 |
+| 18 | James Maddison | AM | ENG | 29 |
+| 10 | Son Heung-min | LW | KOR | 34 |
+| 20 | Dejan Kulusevski | RW | SWE | 25 |
+| 7 | Heung-min Son | LW | KOR | 34 |
+| 17 | Manor Solomon | LW/RW | ISR | 25 |
+| 9 | Richarlison | ST | BRA | 29 |
+| 11 | Brennan Johnson | RW/LW | WAL | 24 |
+| 19 | Timo Werner (Leihe) | ST/LW | GER | 30 |
+| 22 | Dane Scarlett | ST | ENG | 22 |
+| 30 | Wilson Odobert | LW/RW | FRA | 21 |
+
+**Zugänge Sommer 2026:** Marcos Senesi (Bournemouth, CB) | Carlos Baleba (Brighton, CM) | neuer Stuermer | De Zerbi braucht intensiven Kaderumbau
+**Abgänge Sommer 2026:** Richarlison (möglicher Abgang) | Ben Davies (Vertragsende) | Son Heung-min (Zukunft offen, 34) | mehrere Leihen enden
 
 ---
 
 ### Newcastle United
-| Feld | Details |
-|------|---------|
-| Manager | Eddie Howe |
-| Formation | 4-3-3 |
-| Stärke | ⭐⭐⭐⭐ |
+**Manager:** Eddie Howe | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐⭐
 
-**Schlüsselspieler:** Nick Woltemade (ST) | Yoane Wissa (ST/LW) | Bruno Guimarães (DM) | Sandro Tonali (CM) | Tino Livramento (RB) | Fabian Schär (CB) | Martin Dúbravka (GK) | Harvey Barnes (LW)
-**Zugänge Sommer 2026:** Howe sucht mindestens 1 Torhüter, 2 Außenverteidiger + weiteres | Jüngere Spieler priorisiert
-**Abgänge Sommer 2026:** Alexander Isak (zu Liverpool, £125 Mio.) | Anthony Gordon (zu Barcelona, £70 Mio.) | Kieran Trippier (Vertragsende) | Fabian Schär (Vertragsende) | Aaron Ramsdale (Vertragsende)
-**Kurzprofil:** Howe verliert seine besten Stürmer (Isak, Gordon), muss den Kader komplett umbauen. Das Saudi-Geld ermöglicht Reinvestitionen, doch PSR-Regeln begrenzen Ausgaben. Newcastle bleibt eine ambitionierte Mannschaft im Aufbau, aber 26/27 wird eine Übergangsphase.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Martin Dúbravka | GK | SVK | 37 |
+| 22 | Mark Gillespie | GK | ENG | 33 |
+| 40 | Odysseas Vlachodimos | GK | GRE | 31 |
+| 6 | Jamaal Lascelles | CB | ENG | 32 |
+| 15 | Ciaran Clark | CB | IRL | 36 |
+| 5 | Dan Burn | CB/LB | ENG | 34 |
+| 2 | Tino Livramento | RB | ENG | 22 |
+| 3 | Matt Targett | LB | ENG | 28 |
+| 12 | Lewis Hall | LB | ENG | 21 |
+| 27 | Valentino Livramento | RB | ENG | 22 |
+| 35 | Joe White | CM | ENG | 22 |
+| 8 | Bruno Guimarães | DM/CM | BRA | 27 |
+| 28 | Sandro Tonali | CM | ITA | 26 |
+| 7 | Harvey Barnes | LW/RW | ENG | 28 |
+| 17 | Jacob Murphy | RW/LB | ENG | 29 |
+| 14 | Miguel Almiron | RW/AM | PAR | 32 |
+| 10 | Joelinton | CM/ST | BRA | 30 |
+| 20 | Sean Longstaff | CM | ENG | 28 |
+| 11 | Nick Woltemade | ST | GER | 24 |
+| 9 | Yoane Wissa | ST/LW | COD | 28 |
+| 23 | Callum Wilson | ST | ENG | 34 |
+| 21 | Joe Willock | CM/AM | ENG | 26 |
+| 18 | Yankuba Minteh | RW | GAM | 22 |
+
+**Zugänge Sommer 2026:** Yoane Wissa (Brentford, ST) | Odysseas Vlachodimos (neuer Keeper) | Yankuba Minteh (dauerhaft) | Verstärkungen in Abwehr + Sturm nötig
+**Abgänge Sommer 2026:** Alexander Isak (Liverpool, ~£155M) | Anthony Gordon (Barcelona, ~£70M) | Kieran Trippier (Vertragsende) | Fabian Schär (Vertragsende) | Aaron Ramsdale (Vertragsende)
 
 ---
 
 ### Chelsea
-| Feld | Details |
-|------|---------|
-| Manager | Andoni Iraola |
-| Formation | 4-2-3-1 / Pressing-Intensität |
-| Stärke | ⭐⭐⭐⭐ |
+**Manager:** Andoni Iraola | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐⭐
 
-**Schlüsselspieler:** Cole Palmer (AM) | Nicolas Jackson (ST) | Reece James (RB) | Moisés Caicedo (DM) | Enzo Fernández (CM) | Ben Chilwell (LB) | Robert Sánchez (GK) | Wesley Fofana (CB) | Noni Madueke (RW)
-**Zugänge Sommer 2026:** Andoni Iraola (neuer Trainer, ex-Bournemouth) | Marc Cucurella (möglicherweise zurück zu Chelsea — Marescas Interesse) | Verstärkungen gesucht
-**Abgänge Sommer 2026:** Enzo Maresca (Trainer zu Man City) | Liam Rosenior (entlassen, April 2026) | mehrere Leihen enden
-**Kurzprofil:** *(Simulation: Iraola wählt Chelsea statt Liverpool.)* Iraola bringt sein gepresstes, intensives System zu Stamford Bridge. Der Chelsea-Kader hat enorme individuelle Qualität aber fehlende Kohärenz — genau das, was Iraola aufbauen kann. Mit Cole Palmer als kreativem Herzstück könnte diese Kombination explosiv werden.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Robert Sánchez | GK | ESP | 27 |
+| 13 | Filip Jorgensen | GK | DEN | 23 |
+| 33 | Marcus Bettinelli | GK | ENG | 34 |
+| 6 | Wesley Fofana | CB | FRA | 24 |
+| 5 | Benoit Badiashile | CB | FRA | 24 |
+| 24 | Axel Disasi | CB/RB | FRA | 27 |
+| 2 | Reece James | RB | ENG | 25 |
+| 3 | Ben Chilwell | LB | ENG | 29 |
+| 21 | Marc Cucurella | LB | ESP | 27 |
+| 26 | Levi Colwill | CB/LB | ENG | 22 |
+| 15 | Tosin Adarabioyo | CB | ENG | 27 |
+| 4 | Moisés Caicedo | DM | ECU | 24 |
+| 8 | Enzo Fernández | CM | ARG | 25 |
+| 17 | Carney Chukwuemeka | CM | ENG | 22 |
+| 14 | Conor Gallagher | CM | ENG | 26 |
+| 20 | Cole Palmer | AM | ENG | 24 |
+| 11 | Noni Madueke | RW | ENG | 23 |
+| 7 | Pedro Neto | LW | POR | 25 |
+| 18 | Christopher Nkunku | AM/ST | FRA | 28 |
+| 9 | Nicolas Jackson | ST | SEN | 24 |
+| 29 | Mykhailo Mudryk | LW | UKR | 25 |
+| 22 | Joao Felix | ST/AM | POR | 26 |
+| 30 | Tyrique George | RW | ENG | 19 |
+| 19 | Malo Gusto | RB | FRA | 23 |
+
+**Zugänge Sommer 2026:** Andoni Iraola (neuer Trainer, ex-Bournemouth) | Conor Gallagher (zurück von Leihe) | Joao Felix (dauerhaft)
+**Abgänge Sommer 2026:** Enzo Maresca (Trainer, zu Man City) | mehrere Leihen enden | mögliche Abgänge bei Mudryk, Nkunku
 
 ---
 
 ### Brighton & Hove Albion
-| Feld | Details |
-|------|---------|
-| Manager | Fabian Hürzeler |
-| Formation | 4-2-3-1 / Gegenpressing |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Fabian Hürzeler | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Evan Ferguson (ST) | Simon Adingra (RW) | Carlos Baleba (CM) | Jan Paul van Hecke (CB) | Bart Verbruggen (GK) | Mats Wieffer (DM) | Jack Hinshelwood (CM) | Kaoru Mitoma (LW)
-**Zugänge Sommer 2026:** Yoon Do-young (Südkoreanisches Talent) | Maxim De Cuyper (Club Brugge) | Stefanos Tzimas (von Nürnberg)
-**Abgänge Sommer 2026:** Joao Pedro (zu Chelsea, £55 Mio. — Vorjahr) | Pervis Estupiñán (zu AC Milan, £17 Mio.) | Carlos Baleba (zu Man City/Tottenham, Interesse)
-**Kurzprofil:** Brighton bleibt Englands Talentfabrik unter Hürzeler. Der jüngste PL-Trainer entwickelt Spieler systematisch weiter und verkauft gut. Das Modell ist etabliert — Hürzeler wurde aggressiv backed mit fast £200 Mio. in seiner ersten Sommertransferphase. Trotz Verkäufen immer wieder konkurrenzfähig.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Bart Verbruggen | GK | NED | 23 |
+| 22 | Jason Steele | GK | ENG | 35 |
+| 30 | Carl Rushworth | GK | ENG | 23 |
+| 4 | Jan Paul van Hecke | CB | NED | 25 |
+| 5 | Igor Julio | CB/LB | BRA | 27 |
+| 35 | Joel Veltman | RB/CB | NED | 33 |
+| 2 | Tariq Lamptey | RB | ENG | 25 |
+| 3 | Pervis Estupiñán | LB | ECU | 27 |
+| 28 | Maxim De Cuyper | LB | BEL | 24 |
+| 16 | Lewis Dunk | CB | ENG | 34 |
+| 6 | Mats Wieffer | DM | NED | 25 |
+| 8 | Pascal Gross | CM | GER | 35 |
+| 11 | Jack Hinshelwood | CM | ENG | 20 |
+| 20 | Yasin Ayari | CM | SWE | 21 |
+| 7 | Kaoru Mitoma | LW | JPN | 28 |
+| 23 | Simon Adingra | RW | CIV | 23 |
+| 10 | Solly March | RW/LW | ENG | 31 |
+| 18 | Danny Welbeck | ST | ENG | 35 |
+| 9 | Evan Ferguson | ST | IRL | 21 |
+| 29 | Georginio Rutter | AM/ST | FRA | 23 |
+| 17 | Julio Enciso | AM/RW | PAR | 22 |
+| 27 | Joao Pedro | ST | BRA | 23 |
+| 31 | Brajan Gruda | RW/LW | GER | 21 |
+
+**Zugänge Sommer 2026:** Maxim De Cuyper (Club Brugge) | Georginio Rutter (Leeds) | Brajan Gruda (Mainz) | Yoon Do-young (intern)
+**Abgänge Sommer 2026:** Carlos Baleba (Tottenham, ~£50M) | Pervis Estupiñán (Milan) | mögliche Abgänge bei van Hecke, Mitoma
 
 ---
 
 ### Fulham
-| Feld | Details |
-|------|---------|
-| Manager | Liam Rosenior *(in Verhandlung)* |
-| Formation | 4-2-3-1 |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Liam Rosenior | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Adama Traoré (RW) | Tom Cairney (CM) | Harrison Reed (DM) | Calvin Bassey (CB) | Bernd Leno (GK) | Willian (AM) | João Palhinha (DM — falls bleibt) | Andreas Pereira (AM)
-**Zugänge Sommer 2026:** Ricardo Pepi (von PSV, Stürmer USA) | neuer Manager wird Kader formen
-**Abgänge Sommer 2026:** Marco Silva (zu Benfica) | Raúl Jiménez (Vertragsende) | Andreas Pereira (Interesse von Tottenham/Newcastle) | Mehrere ältere Spieler (Durchschnittsalter 27,6)
-**Kurzprofil:** Marco Silva verlässt den Klub nach Benfica. Fulham steht vor einem Generationswechsel — der Kader ist zu alt (Durchschnittsalter PL-höchste 27,6) und muss verjüngt werden. Liam Rosenior wird als Favorit für die Nachfolge gehandelt. Ricardo Pepi als cleverer Zugang für die Zukunft.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Bernd Leno | GK | GER | 34 |
+| 13 | Marek Rodak | GK | SVK | 28 |
+| 30 | Paulo Gazzaniga | GK | ARG | 33 |
+| 5 | Calvin Bassey | CB | NGA | 25 |
+| 4 | Joachim Andersen | CB | DEN | 30 |
+| 6 | Issa Diop | CB | FRA | 29 |
+| 2 | Kenny Tete | RB | NED | 29 |
+| 3 | Antonee Robinson | LB | USA | 28 |
+| 16 | Timothy Castagne | RB | BEL | 30 |
+| 12 | Harry Wilson | LW/RW | WAL | 29 |
+| 23 | Tosin Adarabioyo (abg.) | CB | ENG | 27 |
+| 8 | Tom Cairney | CM | SCO | 35 |
+| 14 | Harrison Reed | DM/CM | ENG | 30 |
+| 18 | João Palhinha | DM | POR | 31 |
+| 20 | Andreas Pereira | AM | BRA | 30 |
+| 7 | Adama Traoré | RW | ESP | 30 |
+| 11 | Bobby Reid | RW/AM | ENG | 31 |
+| 9 | Rodrigo Muniz | ST | BRA | 24 |
+| 19 | Alex Iwobi | AM/RW | NGA | 30 |
+| 10 | Raúl Jiménez | ST | MEX | 35 |
+| 21 | Sasa Lukic | CM | SRB | 28 |
+| 17 | Reiss Nelson (Leihe) | RW | ENG | 26 |
+| 29 | Jay Stansfield | ST | ENG | 22 |
+
+**Zugänge Sommer 2026:** Liam Rosenior (neuer Trainer, ex-Chelsea) | Jay Stansfield (Birmingham, dauerhaft) | Reiss Nelson (Arsenal, Leihe)
+**Abgänge Sommer 2026:** Marco Silva (zu Benfica) | Raúl Jiménez (Vertragsende) | Andreas Pereira (möglicherweise weg) | Tosin Adarabioyo
 
 ---
 
 ### Brentford
-| Feld | Details |
-|------|---------|
-| Manager | Keith Andrews |
-| Formation | 4-3-3 / Direkt, physisch |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Keith Andrews | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Yoane Wissa (ST — falls bleibt) | Caoimhin Kelleher (GK) | Christian Nørgaard (CM, Kapitän) | Nathan Collins (CB) | Kristoffer Ajer (CB) | Vitaly Janelt (CM) | Mikkel Damsgaard (AM) | Ben Mee (CB)
-**Zugänge Sommer 2026:** Caoimhin Kelleher (von Liverpool, Vorjahr) | weitere Ersatz für Mbeumo gesucht
-**Abgänge Sommer 2026:** Bryan Mbeumo (zu Manchester United, Sommer 2025) | Christian Nørgaard (Arsenal, Interesse)
-**Kurzprofil:** Keith Andrews tritt das schwere Erbe von Thomas Frank an und hat sich bereits eine Vertragsverlängerung bis 2032 gesichert. Mbeumo-Abgang war ein harter Schlag — der Kader ist neuausgerichtet. Andrews' direkter, physischer Stil passt zu Brentford's DNA, aber der Klub muss zeigen, ob er ohne Franks Genius erfolgreich bleibt.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Caoimhin Kelleher | GK | IRL | 28 |
+| 13 | Thomas Flekken | GK | NED | 32 |
+| 25 | Matthew Cox | GK | ENG | 22 |
+| 5 | Nathan Collins | CB | IRL | 24 |
+| 4 | Kristoffer Ajer | CB | NOR | 28 |
+| 6 | Ben Mee | CB | ENG | 37 |
+| 2 | Aaron Hickey | RB | SCO | 23 |
+| 3 | Rico Henry | LB | ENG | 27 |
+| 30 | Sepp van den Berg | CB | NED | 24 |
+| 14 | Kevin Schade | RW/LW | GER | 23 |
+| 8 | Christian Nørgaard | CM | DEN | 31 |
+| 19 | Vitaly Janelt | CM | GER | 27 |
+| 10 | Mikkel Damsgaard | CM/AM | DEN | 26 |
+| 7 | Mathias Jensen | CM | DEN | 29 |
+| 16 | Josh Dasilva | CM | ENG | 26 |
+| 17 | Frank Onyeka | CM/DM | NGA | 27 |
+| 11 | Keane Lewis-Potter | LW/RW | ENG | 24 |
+| 9 | Ivan Toney | ST | ENG | 30 |
+| 18 | Yoane Wissa | ST/LW | COD | 28 |
+| 20 | Mads Roerslev | RB | DEN | 25 |
+| 29 | Neal Maupay | ST | FRA | 30 |
+| 23 | Saman Ghoddos | AM/RW | SWE | 31 |
+
+**Zugänge Sommer 2026:** Sepp van den Berg (Liverpool) | neuer Stuermer nach Wissa-Abgang gesucht | Frank Onyeka (Coventry-Interesse)
+**Abgänge Sommer 2026:** Bryan Mbeumo (Man Utd, Sommer 2025) | Yoane Wissa (Newcastle) | Christian Nørgaard (Arsenal-Interesse)
 
 ---
 
 ### Crystal Palace
-| Feld | Details |
-|------|---------|
-| Manager | Dino Toppmöller *(in Verhandlung)* |
-| Formation | 4-2-3-1 / Konter-Pressing |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Dino Toppmöller | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Eberechi Eze (AM) | Michael Olise (RW — falls bleibt) | Marc Guéhi (CB) | Jean-Philippe Mateta (ST) | Sam Johnstone (GK) | Will Hughes (CM) | Tyrick Mitchell (LB) | Nathaniel Clyne (RB)
-**Zugänge Sommer 2026:** Dino Toppmöller (neuer Trainer, ex-Eintracht Frankfurt) | Verstärkungen nach Glasner-Abgang
-**Abgänge Sommer 2026:** Oliver Glasner (Trainer verlässt Klub nach Conference League-Triumph) | mögliche Abgänge bei Spitzenspieler-Interesse
-**Kurzprofil:** Glasner gewann die Conference League — ein historischer Triumph für Palace. Nun ist er weg und Toppmöller soll anknüpfen. Der Deutsche war zuletzt bei Eintracht Frankfurt (wo er ausgerechnet Glasner beerbt hatte). Eze und Olise (falls er bleibt) sind zwei der gefährlichsten Angreifer der Liga.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Sam Johnstone | GK | ENG | 33 |
+| 13 | Dean Henderson | GK | ENG | 29 |
+| 30 | Joe Whitworth | GK | ENG | 23 |
+| 4 | Marc Guéhi | CB | ENG | 25 |
+| 5 | Joachim Andersen | CB | DEN | 30 |
+| 16 | Chris Richards | CB | USA | 25 |
+| 2 | Nathaniel Clyne | RB | ENG | 35 |
+| 3 | Tyrick Mitchell | LB | ENG | 27 |
+| 12 | Joel Ward | RB | ENG | 37 |
+| 29 | Strahinja Pavlovic | CB | SRB | 24 |
+| 8 | Will Hughes | CM | ENG | 31 |
+| 18 | Cheick Doucouré | DM | MLI | 25 |
+| 28 | Jefferson Lerma | DM/CM | COL | 30 |
+| 10 | Eberechi Eze | AM | ENG | 27 |
+| 11 | Wilfried Zaha | LW | CIV | 34 |
+| 7 | Michael Olise | RW | FRA | 24 |
+| 25 | Naouirou Ahamada | CM | FRA | 22 |
+| 14 | Jeffrey Schlupp | LW/LB | GHA | 33 |
+| 9 | Jean-Philippe Mateta | ST | FRA | 27 |
+| 17 | Odsonne Edouard | ST | FRA | 28 |
+| 20 | Ismaila Sarr | RW/LW | SEN | 27 |
+| 23 | Daichi Kamada | AM/CM | JPN | 29 |
+
+**Zugänge Sommer 2026:** Dino Toppmöller (neuer Trainer) | Strahinja Pavlovic (CB) | Daichi Kamada (AM) | Ismaila Sarr (dauerhaft)
+**Abgänge Sommer 2026:** Oliver Glasner (Trainer, nach Conference-League-Triumph) | Michael Olise (möglicherweise nach grossen Angeboten) | Wilfried Zaha (Vertragsende nahe)
 
 ---
 
 ### Leeds United
-| Feld | Details |
-|------|---------|
-| Manager | Daniel Farke |
-| Formation | 4-2-3-1 / Possession |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Daniel Farke | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Crysencio Summerville (LW) | Wilfried Gnonto (RW) | Georginio Rutter (AM) | Patrick Bamford (ST) | Illan Meslier (GK) | Pascal Struijk (CB) | Ethan Ampadu (CM) | Junior Firpo (LB)
-**Zugänge Sommer 2026:** Ladislav Krejci (von Wolves, £26 Mio., Interesse) | Jonathan David (von Juventus, Interesse) | Ricardo Pepi (mögliche Alternative)
-**Abgänge Sommer 2026:** Joel Piroe (möglicher Abgang für David-Transfer) | Largie Ramazani (Verhandlungen gescheitert)
-**Kurzprofil:** Farke verlängert seinen Vertrag und plant langfristig bei Leeds. Nach dem PL-Verbleib (Platz 15) geht es darum, die Klasse zu festigen. Leeds braucht mehr Torgefahr — Jonathan David wird als Traumtransfer gehandelt. Der Kader hat Tiefe, aber PL-Erfahrung ist begrenzt.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Illan Meslier | GK | FRA | 26 |
+| 13 | Karl Darlow | GK | ENG | 35 |
+| 30 | Joel Robles | GK | ESP | 36 |
+| 5 | Pascal Struijk | CB | NED | 26 |
+| 6 | Liam Cooper | CB | SCO | 33 |
+| 4 | Joe Rodon | CB | WAL | 28 |
+| 2 | Luke Ayling | RB | ENG | 35 |
+| 3 | Junior Firpo | LB | DOM | 28 |
+| 12 | Sam Byram | RB | ENG | 30 |
+| 23 | Archie Gray | CM/RB | ENG | 19 |
+| 8 | Ethan Ampadu | CM | WAL | 24 |
+| 14 | Glen Kamara | CM | FIN | 30 |
+| 16 | Adam Forshaw | CM | ENG | 33 |
+| 18 | Ilia Gruev | CM | BUL | 24 |
+| 10 | Georginio Rutter | AM | FRA | 23 |
+| 7 | Crysencio Summerville | LW | NED | 23 |
+| 11 | Wilfried Gnonto | RW | ITA | 22 |
+| 9 | Patrick Bamford | ST | ENG | 32 |
+| 21 | Joel Piroe | ST/AM | NED | 26 |
+| 17 | Largie Ramazani | LW | BEL | 24 |
+| 20 | Willy Gnonto | RW | ITA | 22 |
+| 22 | Jonathan David | ST | CAN | 27 |
+| 19 | Joe Gelhardt | ST | ENG | 23 |
+
+**Zugänge Sommer 2026:** Jonathan David (Juventus, ST) | Ilia Gruev (Mittelfeld-Verstärkung) | Farke plant gezielten Kaderumbau
+**Abgänge Sommer 2026:** Joel Piroe (möglicher Abgang fuer David-Transfer) | Luke Ayling (Vertragsende) | Georginio Rutter (Brighton-Interesse)
 
 ---
 
 ### Everton
-| Feld | Details |
-|------|---------|
-| Manager | David Moyes |
-| Formation | 4-4-2 / Physisch, kompakt |
-| Stärke | ⭐⭐⭐ |
+**Manager:** David Moyes | **Formation:** 4-4-2 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Dominic Calvert-Lewin (ST) | Abdoulaye Doucouré (CM) | Jarrad Branthwaite (CB) | Jordan Pickford (GK) | Dwight McNeil (LW) | James Garner (CM) | Ashley Young (RB — Veteran) | Idrissa Gueye (DM)
-**Zugänge Sommer 2026:** Ivan Toney (möglicher Traumtransfer) | Harry Wilson (von Fulham, freier Transfer) | Conor Gallagher (von Tottenham, Interesse) | Solly March (Brighton, Interesse)
-**Abgänge Sommer 2026:** Dwight McNeil (Vertrag läuft aus 2027, Zukunft offen) | Ashley Young (Vertragsende)
-**Kurzprofil:** Friedkin-Übernahme bringt frisches Kapital — Everton könnte bis zu £100 Mio. netto ausgeben. Moyes kennt den Klub, bringt Stabilität. Das neue Stadion am Bramley-Moore Dock ist eröffnet — ein Wendepunkt für den Klub. Ziel: gesicherte PL-Zugehörigkeit und langsamer Aufbau.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Jordan Pickford | GK | ENG | 32 |
+| 13 | Asmir Begovic | GK | BIH | 39 |
+| 30 | Billy Crellin | GK | ENG | 24 |
+| 5 | Jarrad Branthwaite | CB | ENG | 24 |
+| 6 | James Tarkowski | CB | ENG | 34 |
+| 19 | Michael Keane | CB | ENG | 34 |
+| 2 | Séamus Coleman | RB | IRL | 37 |
+| 3 | Vitaliy Mykolenko | LB | UKR | 25 |
+| 16 | Ben Godfrey | CB/RB | ENG | 28 |
+| 23 | Nathan Patterson | RB | SCO | 24 |
+| 8 | Idrissa Gueye | DM | SEN | 37 |
+| 14 | Abdoulaye Doucouré | CM | FRA | 34 |
+| 4 | James Garner | CM | ENG | 23 |
+| 17 | Tom Cleverley | CM | ENG | 36 |
+| 10 | Jack Grealish (Leihe Man City) | AM/LW | ENG | 31 |
+| 7 | Dwight McNeil | LW | ENG | 25 |
+| 11 | Jack Harrison | LW/RW | ENG | 29 |
+| 9 | Dominic Calvert-Lewin | ST | ENG | 29 |
+| 18 | Neal Maupay | ST | FRA | 30 |
+| 21 | Beto | ST | POR | 26 |
+| 22 | Arnaut Danjuma | RW/LW | NED | 29 |
+| 20 | Tim Iroegbunam | CM | ENG | 22 |
+| 25 | Youssef Chermiti | ST | TUN | 21 |
+
+**Zugänge Sommer 2026:** Jack Grealish (Man City, Leihe) | Tim Iroegbunam (Aston Villa) | Youssef Chermiti (dauerhaft) | Friedkin-Geld fuer grosse Signings
+**Abgänge Sommer 2026:** Ashley Young (Vertragsende) | mögliche Abgänge (Branthwaite, Pickford bei Topangeboten)
 
 ---
 
 ### Nottingham Forest
-| Feld | Details |
-|------|---------|
-| Manager | Vítor Pereira |
-| Formation | 4-3-3 / Konterangriff |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Vítor Pereira | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Elliot Anderson (CM) | Chris Wood (ST) | Nikola Milenkovic (CB) | Matz Sels (GK) | Morgan Gibbs-White (AM) | Nuno Tavares (LB) | Omar Richards (LB) | Callum Hudson-Odoi (RW)
-**Zugänge Sommer 2026:** Vítor Pereira sucht 2–3 neue Spieler zur Kader-Balance
-**Abgänge Sommer 2026:** Elliot Anderson (Man City-Interesse, Ablöse >€120 Mio.) | Nuno Espirito Santo (entlassen) | Sean Dyche (entlassen, 114 Tage) | Ange Postecoglou (entlassen, 39 Tage) | Lorenzo Lucca (unerfüllt)
-**Kurzprofil:** Forest hatte 3 Manager in einer Saison (Nuno → Postecoglou → Dyche → Pereira) — erstaunliche Instabilität. Pereira stabilisierte den Klub mit 10 unbesiegten Spielen und führte ihn in die Europa League-Halbfinale. Elliot Anderson könnte für Rekorderlöse verkauft werden. Marinakis' Einfluss ist groß und direkt.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Matz Sels | GK | BEL | 33 |
+| 13 | Carlos Miguel | GK | BRA | 27 |
+| 23 | Odysseas Vlachodimos | GK | GRE | 31 |
+| 5 | Nikola Milenkovic | CB | SRB | 28 |
+| 4 | Murillo | CB | BRA | 23 |
+| 6 | Joe Worrall | CB | ENG | 28 |
+| 2 | Neco Williams | RB | WAL | 24 |
+| 3 | Nuno Tavares | LB | POR | 25 |
+| 12 | Matt Cash | RB | POL | 28 |
+| 14 | Ola Aina | RB/LB | NGA | 28 |
+| 8 | Elliot Anderson | CM | ENG | 22 |
+| 18 | Ryan Yates | CM/DM | ENG | 27 |
+| 11 | Morgan Gibbs-White | AM | ENG | 25 |
+| 15 | Danilo | DM/CM | BRA | 23 |
+| 19 | Anthony Elanga | RW/LW | SWE | 22 |
+| 7 | Callum Hudson-Odoi | RW/LW | ENG | 24 |
+| 10 | Brennan Johnson | RW/LW | WAL | 24 |
+| 17 | Ibrahim Sangare | DM | CIV | 27 |
+| 9 | Chris Wood | ST | NZL | 34 |
+| 22 | Taiwo Awoniyi | ST | NGA | 27 |
+| 20 | Jota Silva | AM/RW | POR | 24 |
+| 16 | Andrew Omobamidele | CB | IRL | 23 |
+
+**Zugänge Sommer 2026:** Jota Silva (Vitoria) | weiterer Mittelstuermer | Pereira sucht 2-3 Spieler
+**Abgänge Sommer 2026:** Elliot Anderson (Man City-Interesse, moeglicher Rekordverkauf) | Chris Wood (Vertragsende nahe) | Lorenzo Lucca (Leihe endet)
 
 ---
 

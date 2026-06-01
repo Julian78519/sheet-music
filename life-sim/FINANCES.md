@@ -103,6 +103,15 @@
 | Rhys Williams | — | £0 |
 | **GESAMT EINNAHMEN (bestätigt)** | | **£0** |
 
+### Abgänge (in Arbeit / geplant)
+| Spieler | Käufer | Ziel-Fee | Status |
+|---------|--------|----------|--------|
+| Cody Gakpo | Al-Hilal | £48-50M | Gegenangebot £54M raus. Gakpo Rückruf Mittwoch. |
+| Alexis Mac Allister | offen | £35-45M | Agent ruhig informieren — Angebote anhören |
+| Federico Chiesa | offen | £10-15M | Sofort auf Markt bringen |
+| Konstantinos Tsimikas | AS Roma (pref.) / offen | £20-22M | Hendry kontaktiert Roma Montag |
+| **GESAMT ZIEL** | | **~£113-132M** | |
+
 ---
 
 ## FINANZIELLE LAGE SOMMER 2026

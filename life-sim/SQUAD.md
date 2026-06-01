@@ -22,7 +22,7 @@
 | 5 | Ibrahima Konaté | 🇫🇷 | Mai 1999 | 27 | CB | **Jun 2026** | ~£80k | ~€55M | ⛔ BESTÄTIGT ABGANG — Free Transfer. Öffentlich "deeply saddened" |
 | 2 | Conor Bradley | 🏴󠁧󠁢󠁮󠁩󠁲󠁿 | Jul 2003 | 22 | RB | 2029 | ~£70k | ~€35M | Verletzungsanfällig. Erholt sich. Langfristig die Lösung |
 | 56 | Jeremie Frimpong | 🇳🇱 | Dez 2000 | 25 | RWB/RB | 2030 | ~£110k | ~€45M | Signing Sommer 2025 (Leverkusen, ~£35M). Enttäuschende Saison. Falsche Rolle |
-| 26 | Andy Robertson | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | März 1994 | 32 | LB | **Jun 2026** | ~£80k | ~€8M | ⚠️ VERTRAG LÄUFT AUS — verlässt Klub. Kerkez ist Zukunft |
+| 21 | Konstantinos Tsimikas | 🇬🇷 | Mai 1996 | 30 | LB | 2027 | ~£60k | ~€20M | **AUF LEIHE BEI AS ROMA bis Jun 2026.** Kein Kaufrecht vereinbart. Kommt zurück — aber nicht gebraucht. Verkaufskandidat. Hendry kontaktiert Roma Montag. |
 | 66 | Milos Kerkez | 🇭🇺 | Nov 2003 | 22 | LB | 2030 | ~£90k | ~€40M | Signing Sommer 2025 (Bournemouth). Erste Wahl, Zukunft des Klubs |
 | 12 | Joe Gomez | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Mai 1997 | 29 | CB/RB | 2027 | ~£80k | ~€15M | Solider Backup. Verlässlich aber kein Starter |
 | 62 | Giovanni Leoni | 🇮🇹 | Dez 2006 | 19 | CB | 2031 | ~£20k | ~€15M | Signing Sommer 2025 (Parma, ~£8M). Entwicklungsspieler. Talent |

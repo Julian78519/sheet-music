@@ -252,58 +252,139 @@
 ---
 
 ### Aston Villa
-| Feld | Details |
-|------|---------|
-| Manager | Unai Emery |
-| Formation | 4-2-3-1 / 4-3-3 |
-| Stärke | ⭐⭐⭐⭐ |
+**Manager:** Unai Emery | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐⭐
 
-**Schlüsselspieler:** Ollie Watkins (ST) | Morgan Rogers (AM) | John McGinn (CM, Kapitän) | Youri Tielemans (CM) | Emiliano Martínez (GK) | Ezri Konsa (CB) | Boubacar Kamara (DM) | Leon Bailey (LW)
-**Zugänge Sommer 2026:** Ibrahim Mbaye (PSG, Interesse) | Ilaix Moriba (Celta Vigo, Interesse) | Ladislav Krejci (mögliches Ziel)
-**Abgänge Sommer 2026:** Donyell Malen (zu Roma, permanent) | Douglas Luiz (zurück zu Juventus, Kaufoption nicht gezogen) | Jadon Sancho (Leihe endet)
-**Kurzprofil:** Emery's Villa ist Englands konsistenteste Mannschaft unterhalb der Spitze. Taktisch flexibel, europa-erfahren und mit einem breiten Kader. Der Fokus liegt auf selektiver Verstärkung für Champions-League-Ambitionen — Emery ist bei Villa langfristig verankert.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 23 | Emiliano Martínez | GK | ARG | 33 |
+| 12 | Robin Olsen | GK | SWE | 36 |
+| 33 | Joe Gauci | GK | AUS | 25 |
+| 2 | Matty Cash | RB | POL | 28 |
+| 4 | Ezri Konsa | CB | ENG | 27 |
+| 5 | Tyrone Mings | CB | ENG | 33 |
+| 15 | Pau Torres | CB | ESP | 28 |
+| 22 | Lucas Digne | LB | FRA | 32 |
+| 3 | Alex Moreno | LB | ESP | 31 |
+| 6 | Ross Barkley | CM | ENG | 32 |
+| 7 | John McGinn | CM | SCO | 31 |
+| 8 | Youri Tielemans | CM | BEL | 29 |
+| 24 | Amadou Onana | DM/CM | BEL | 24 |
+| 25 | Boubacar Kamara | DM | FRA | 25 |
+| 9 | Harvey Elliott (Leihe Liverpool) | AM/CM | ENG | 23 |
+| 27 | Morgan Rogers | AM | ENG | 23 |
+| 18 | Tammy Abraham | ST | ENG | 28 |
+| 11 | Ollie Watkins | ST | ENG | 30 |
+| 20 | Leon Bailey | LW/RW | JAM | 28 |
+| 10 | Emiliano Buendía | AM | ARG | 29 |
+| 17 | Jadon Sancho (Leihe Man Utd) | RW/LW | ENG | 26 |
+| 19 | Jhon Durán | ST | COL | 21 |
+| 14 | Moussa Diaby | RW | FRA | 26 |
+
+**Zugänge Sommer 2026:** Selektive Verstärkungen für CL-Ambitionen | Innenverteidiger gesucht
+**Abgänge Sommer 2026:** Douglas Luiz (zurück zu Juventus) | Jadon Sancho (Leihe endet) | Harvey Elliott (Leihe endet)
 
 ---
 
 ### Liverpool
-| Feld | Details |
-|------|---------|
-| Manager | **Xabi Alonso** *(unterzeichnet 03.06.2026)* |
-| Formation | — (abhängig vom neuen Manager) |
-| Stärke | ⭐⭐⭐⭐ |
+**Manager:** VAKANT | **Formation:** — | **Stärke:** ⭐⭐⭐⭐
 
-**Schlüsselspieler:** Virgil van Dijk (CB, Kapitän) | Florian Wirtz (CAM) | Ryan Gravenberch (CM) | Alexander Isak (ST) | Alisson Becker (GK) | Milos Kerkez (LB) | Jeremie Frimpong (RWB) | Dominik Szoboszlai (CM) | Alexis Mac Allister (CM) | Cody Gakpo (LW)
-**Zugänge Sommer 2026 (bestätigt):** Jérémy Jacquet (von Stade Rennais, £60M, CB) | Samuel Martinez (Atlético Nacional, £740k, AM — kommt 2027)
-**Abgänge Sommer 2026 (bestätigt):** Mohamed Salah (Vertragsende) | Ibrahima Konaté (Vertragsende, Free) | Andy Robertson (Vertragsende, Free) | Freddie Woodman (Vertragsende) | Rhys Williams (Vertragsende)
-**Kurzprofil:** Tiefgreifender Umbruch nach enttäuschender 5.-Platz-Saison. Slot entlassen, Hughes entlassen, Salah-Ära endet. Neuer SD Ethan Cole (29) sucht Manager. Kader hat mit Wirtz, Gravenberch, Isak und Jacquet enormes Potenzial — aber braucht Führung und System.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Alisson Becker | GK | BRA | 33 |
+| 22 | Giorgi Mamardashvili | GK | GEO | 25 |
+| 40 | Armin Pecsi | GK | HUN | 24 |
+| 4 | Virgil van Dijk | CB | NED | 34 |
+| 2 | Conor Bradley | RB | NIR | 22 |
+| 56 | Jeremie Frimpong | RB/RWB | NED | 25 |
+| 66 | Milos Kerkez | LB | HUN | 22 |
+| 12 | Joe Gomez | CB/RB | ENG | 29 |
+| 62 | Giovanni Leoni | CB | ITA | 19 |
+| 36 | Jérémy Jacquet | CB | FRA | 20 |
+| 38 | Ryan Gravenberch | CM/DM | NED | 24 |
+| 10 | Alexis Mac Allister | CM | ARG | 27 |
+| 8 | Dominik Szoboszlai | CM/CAM | HUN | 25 |
+| 17 | Curtis Jones | CM | ENG | 26 |
+| 6 | Stefan Bajcetic | CM/DM | ESP | 21 |
+| 3 | Wataru Endo | DM | JPN | 33 |
+| 7 | Florian Wirtz | CAM/LW | GER | 23 |
+| 18 | Cody Gakpo | LW/ST | NED | 27 |
+| 14 | Federico Chiesa | RW/LW | ITA | 28 |
+| 9 | Alexander Isak | ST | SWE | 26 |
+| 11 | Hugo Ekitike | ST | FRA | 23 |
+| 67 | Rio Ngumoha | LW/RW | ENG | 18 |
+
+**Zugänge Sommer 2026:** Jérémy Jacquet (Stade Rennais, £60M, CB) ✅ | Samuel Martinez (Atlético Nacional, £740k — kommt 2027)
+**Abgänge Sommer 2026:** Mohamed Salah (Vertragsende, Saudi) ✅ | Ibrahima Konaté (Vertragsende, Free) ✅ | Andy Robertson (Vertragsende, Free) ✅ | Freddie Woodman (Vertragsende) ✅ | Rhys Williams (Vertragsende) ✅
 
 ---
 
 ### Bournemouth
-| Feld | Details |
-|------|---------|
-| Manager | Marco Rose |
-| Formation | 4-2-3-1 / Pressing-Fußball |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Marco Rose | **Formation:** 4-2-3-1 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Antoine Semenyo (RW) | Dango Ouattara (LW) | Lewis Cook (CM) | Lloyd Kelly (CB) | Marcos Senesi (CB) | Neto (GK) | Philip Billing (CM) | Justin Kluivert (AM)
-**Zugänge Sommer 2026:** Marco Rose (neuer Trainer, ex-RB Leipzig) | Benjamin Nygren (Celtic, Interesse)
-**Abgänge Sommer 2026:** Andoni Iraola (Trainer verlässt Klub) | Marcos Senesi (Tottenham, weitgehend einig)
-**Kurzprofil:** Nach Iraolas erfolgreichem Aufbau übernimmt Marco Rose, dessen Philosophie dem Pressing-Stil der Cherries ähnelt. Rose wird Zeit brauchen, sich einzuleben. Europäisches Fußball durch 6. Platz — ein Wendepunkt in der Klubgeschichte.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Neto | GK | BRA | 35 |
+| 13 | Mark Travers | GK | IRL | 26 |
+| 30 | Daniel Bachmann | GK | AUT | 30 |
+| 4 | Lloyd Kelly | CB | ENG | 28 |
+| 5 | Marcos Senesi | CB | ARG | 28 |
+| 6 | Chris Mepham | CB | WAL | 27 |
+| 2 | Adam Smith | RB | ENG | 34 |
+| 33 | Kieffer Moore | CB/ST | WAL | 33 |
+| 3 | Milos Kerkez (abg.) / Kristoffer Lund | LB | DEN | 24 |
+| 20 | Max Aarons | RB | ENG | 25 |
+| 23 | Ilya Zabarnyi | CB | UKR | 22 |
+| 10 | Lewis Cook | CM | ENG | 27 |
+| 14 | Philip Billing | CM | DEN | 29 |
+| 28 | David Brooks | CM/AM | WAL | 27 |
+| 16 | Marcus Tavernier | CM/RW | ENG | 26 |
+| 22 | Ryan Christie | CM | SCO | 30 |
+| 8 | Emiliano Marcondes | CM | DEN | 30 |
+| 40 | Joe Rothwell | CM | ENG | 29 |
+| 7 | Antoine Semenyo | RW | GHA | 25 |
+| 11 | Dango Ouattara | LW | BFA | 23 |
+| 9 | Evanilson | ST | BRA | 25 |
+| 17 | Enes Ünal | ST | TUR | 28 |
+| 18 | Justin Kluivert | AM/LW | NED | 27 |
+| 21 | Iyenoma Udogie (Leihe) | LB | ITA | 22 |
+| 27 | Tyler Adams | CM/DM | USA | 26 |
+
+**Zugänge Sommer 2026:** Marco Rose (neuer Trainer, ex-RB Leipzig) | Ilya Zabarnyi (dauerhaft) | Udogie (Leihe Tottenham)
+**Abgänge Sommer 2026:** Andoni Iraola (Trainer, zu Chelsea) | Milos Kerkez (Liverpool, £30M) | Marcos Senesi (möglicherweise Tottenham)
 
 ---
 
 ### Sunderland
-| Feld | Details |
-|------|---------|
-| Manager | Régis Le Bris |
-| Formation | 4-3-3 / intensives Pressing |
-| Stärke | ⭐⭐⭐ |
+**Manager:** Régis Le Bris | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐
 
-**Schlüsselspieler:** Jack Clarke (LW) | Jobe Bellingham (CM) | Pierre Ekwah (CM) | Trai Hume (RB) | Danny Batth (CB) | Anthony Patterson (GK) | Eliezer Mayenda (ST) | Tommy Watson (RW)
-**Zugänge Sommer 2026:** Jhon Lucumi (Bologna, Interesse, CB) | neuer Stürmer gesucht
-**Abgänge Sommer 2026:** Tommy Watson (nach Brighton Leihe, Status offen) | mögliche Verkäufe bei Interessenten
-**Kurzprofil:** Le Bris bleibt — er verlängerte trotz PL-Interesse von anderer Seite. Sunderland setzt auf Stabilität statt großer Umbauten: Das zweite PL-Jahr unter Le Bris soll Konsolidierung bringen. Der Kader ist jung und entwicklungsfähig; Stärke ist der kollektive Pressing-Ansatz.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Anthony Patterson | GK | ENG | 24 |
+| 13 | Remi Matthews | GK | ENG | 31 |
+| 30 | Ron-Thorben Hoffmann | GK | GER | 26 |
+| 5 | Danny Batth | CB | ENG | 34 |
+| 6 | Luke O'Nien | CB/RB | ENG | 29 |
+| 24 | Aji Alese | CB/LB | ENG | 23 |
+| 12 | Trai Hume | RB | NIR | 23 |
+| 3 | Niall Huggins | LB | WAL | 24 |
+| 15 | Callum Doyle | CB | ENG | 21 |
+| 33 | Dennis Cirkin | LB | ENG | 22 |
+| 25 | Pol Valentin | RB | FRA | 24 |
+| 8 | Pierre Ekwah | CM | FRA | 23 |
+| 14 | Jobe Bellingham | CM | ENG | 20 |
+| 11 | Patrick Roberts | RW/AM | ENG | 27 |
+| 22 | Dan Neil | CM | ENG | 22 |
+| 19 | Chris Rigg | CM | ENG | 18 |
+| 28 | Jay Matete | CM | GMB | 24 |
+| 7 | Jack Clarke | LW | ENG | 24 |
+| 10 | Tommy Watson | RW | ENG | 19 |
+| 9 | Eliezer Mayenda | ST | ESP | 20 |
+| 18 | Wilson Isidor | ST | FRA | 23 |
+| 27 | Abdoullah Ba | AM/LW | FRA | 20 |
+| 21 | Luis Semedo | RW/LW | POR | 23 |
+
+**Zugänge Sommer 2026:** Jhon Lucumi (CB, Bologna) | weiterer Stürmer gesucht | Tommy Watson zurück von Brighton-Leihe
+**Abgänge Sommer 2026:** mehrere Leihen enden | mögliche Abgänge bei Spitzenspieler-Interesse (Jobe Bellingham, Clarke)
 
 ---
 

@@ -135,3 +135,289 @@
 | Conference League | *(8. Platz — wird ergänzt)* |
 
 **Liverpool spielt trotz 5. Platz Champions League** — wichtig für Gehaltsverhandlungen, Transfers und Attraktivität des Klubs.
+
+---
+
+## ALLE KLUBS 2026/27 — KADER & MANAGER
+
+*Stand: 1. Juni 2026. Transferfenster öffnet 15. Juni 2026.*
+
+---
+
+### Arsenal
+| Feld | Details |
+|------|---------|
+| Manager | Mikel Arteta |
+| Formation | 4-3-3 |
+| Stärke | ⭐⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Bukayo Saka (RW) | Martin Ødegaard (CAM) | Declan Rice (CM) | Viktor Gyökeres (ST) | Kai Havertz (ST/CAM) | Gabriel Martinelli (LW) | David Raya (GK) | William Saliba (CB) | Gabriel Magalhães (CB)
+**Zugänge Sommer 2026:** Morgan Rogers (von Aston Villa, Interesse) | Eli Junior Kroupi (Interesse)
+**Abgänge Sommer 2026:** — (Kader weitgehend stabil nach Meistertitel)
+**Kurzprofil:** Frischgebackener Meister — erste Meisterschaft seit den Invincibles 2003/04. Arteta's gepresstes Ballbesitz-System ist vollständig eingespielt. Der Kader ist tief, talentiert und hungrig auf Champions League-Erfolg. Größter Transferbedarf: Ødegaard-Absicherung falls Abgang.
+
+---
+
+### Manchester City
+| Feld | Details |
+|------|---------|
+| Manager | Enzo Maresca |
+| Formation | 4-2-3-1 |
+| Stärke | ⭐⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Erling Haaland (ST) | Phil Foden (AM) | Bernardo Silva (RM, Kapitän) | Rayan Cherki (LW/AM) | Tijjani Reijnders (CM) | Rayan Aït-Nouri (LB) | Gianluigi Donnarumma (GK) | Rodri (DM) | Rúben Dias (CB)
+**Zugänge Sommer 2026:** Rayan Cherki (von Lyon) | Tijjani Reijnders (von Milan) | Rayan Aït-Nouri (von Wolves) | Donnarumma (von PSG) | Brahim Díaz (Real Madrid, Interesse)
+**Abgänge Sommer 2026:** Kevin De Bruyne (zu Napoli, Vertragsende) | Bernardo Silva (bleibt als Kapitän) | Josko Gvardiol (Barcelona, Interesse) | John Stones (Vertragsende)
+**Kurzprofil:** Post-Guardiola-Ära beginnt unter Maresca, dem ehemaligen Guardiola-Assistenten. City plant bis zu £200 Mio. auszugeben, um den Kader auf Marescas Philosophie umzubauen. Haaland bleibt das Herzstück — der Kader ist trotz Umbau weiterhin Elite-Niveau.
+
+---
+
+### Manchester United
+| Feld | Details |
+|------|---------|
+| Manager | Michael Carrick |
+| Formation | 4-2-3-1 |
+| Stärke | ⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Bruno Fernandes (CAM) | Kobbie Mainoo (CM) | Bryan Mbeumo (RW) | Diogo Dalot (RB) | Luke Shaw (LB) | Harry Maguire (CB) | Senne Lammens (GK) | Casemiro (DM)
+**Zugänge Sommer 2026:** Bryan Mbeumo (von Brentford, Sommer 2025) | Michael Carrick sucht 3–4 neue Spieler
+**Abgänge Sommer 2026:** Marcus Rashford (Leihe Barcelona, Zukunft offen) | Joshua Zirkzee (möglicher Abgang) | Manuel Ugarte (Galatasaray, Interesse)
+**Kurzprofil:** Carrick übernahm als Interimstrainer und wurde permanent bestätigt. Trotz Platz 3 in 25/26 herrscht Instabilität — Carrick muss den Kader entrümpeln und seinen eigenen Stempel aufdrücken. Bruno Fernandes bleibt das kreative Herz, Mainoo das defensive Rückgrat.
+
+---
+
+### Aston Villa
+| Feld | Details |
+|------|---------|
+| Manager | Unai Emery |
+| Formation | 4-2-3-1 / 4-3-3 |
+| Stärke | ⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Ollie Watkins (ST) | Morgan Rogers (AM) | John McGinn (CM, Kapitän) | Youri Tielemans (CM) | Emiliano Martínez (GK) | Ezri Konsa (CB) | Boubacar Kamara (DM) | Leon Bailey (LW)
+**Zugänge Sommer 2026:** Ibrahim Mbaye (PSG, Interesse) | Ilaix Moriba (Celta Vigo, Interesse) | Ladislav Krejci (mögliches Ziel)
+**Abgänge Sommer 2026:** Donyell Malen (zu Roma, permanent) | Douglas Luiz (zurück zu Juventus, Kaufoption nicht gezogen) | Jadon Sancho (Leihe endet)
+**Kurzprofil:** Emery's Villa ist Englands konsistenteste Mannschaft unterhalb der Spitze. Taktisch flexibel, europa-erfahren und mit einem breiten Kader. Der Fokus liegt auf selektiver Verstärkung für Champions-League-Ambitionen — Emery ist bei Villa langfristig verankert.
+
+---
+
+### Liverpool
+| Feld | Details |
+|------|---------|
+| Manager | VAKANT |
+| Formation | — (abhängig vom neuen Manager) |
+| Stärke | ⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Virgil van Dijk (CB, 34, Vertrag läuft) | Ryan Gravenberch (CM) | Alexis Mac Allister (CM) | Dominik Szoboszlai (AM) | Darwin Núñez (ST) | Caoimhin Kelleher (GK, falls nicht abgegeben) | Diogo Jota (ST)
+**Zugänge Sommer 2026:** Alexander Isak (von Newcastle, £125 Mio.) | Milos Kerkez (LB, Ziel) | Jeremie Frimpong (RB, Ziel) | Yan Diomande (RB Leipzig, Interesse, Salah-Ersatz)
+**Abgänge Sommer 2026:** Mohamed Salah (Abgang bestätigt) | Trent Alexander-Arnold (Abgang) | Ibrahima Konaté (Abgang) | Curtis Jones (Inter Mailand, Interesse) | Hugo Ekitike (Verletzt, Zukunft offen)
+**Kurzprofil:** Liverpool steckt in einer Umbruchphase: Slot entlassen, Top-Spieler weg, Manager-Suche läuft. Trotz CL-Qualifikation (5. Platz) ist der Kader löchrig. Der neue Manager erbt einen Kader im Übergang — viel Potenzial, aber auch viel Arbeit.
+
+---
+
+### Bournemouth
+| Feld | Details |
+|------|---------|
+| Manager | Marco Rose |
+| Formation | 4-2-3-1 / Pressing-Fußball |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Antoine Semenyo (RW) | Dango Ouattara (LW) | Lewis Cook (CM) | Lloyd Kelly (CB) | Marcos Senesi (CB) | Neto (GK) | Philip Billing (CM) | Justin Kluivert (AM)
+**Zugänge Sommer 2026:** Marco Rose (neuer Trainer, ex-RB Leipzig) | Benjamin Nygren (Celtic, Interesse)
+**Abgänge Sommer 2026:** Andoni Iraola (Trainer verlässt Klub) | Marcos Senesi (Tottenham, weitgehend einig)
+**Kurzprofil:** Nach Iraolas erfolgreichem Aufbau übernimmt Marco Rose, dessen Philosophie dem Pressing-Stil der Cherries ähnelt. Rose wird Zeit brauchen, sich einzuleben. Europäisches Fußball durch 6. Platz — ein Wendepunkt in der Klubgeschichte.
+
+---
+
+### Sunderland
+| Feld | Details |
+|------|---------|
+| Manager | Régis Le Bris |
+| Formation | 4-3-3 / intensives Pressing |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Jack Clarke (LW) | Jobe Bellingham (CM) | Pierre Ekwah (CM) | Trai Hume (RB) | Danny Batth (CB) | Anthony Patterson (GK) | Eliezer Mayenda (ST) | Tommy Watson (RW)
+**Zugänge Sommer 2026:** Jhon Lucumi (Bologna, Interesse, CB) | neuer Stürmer gesucht
+**Abgänge Sommer 2026:** Tommy Watson (nach Brighton Leihe, Status offen) | mögliche Verkäufe bei Interessenten
+**Kurzprofil:** Le Bris bleibt — er verlängerte trotz PL-Interesse von anderer Seite. Sunderland setzt auf Stabilität statt großer Umbauten: Das zweite PL-Jahr unter Le Bris soll Konsolidierung bringen. Der Kader ist jung und entwicklungsfähig; Stärke ist der kollektive Pressing-Ansatz.
+
+---
+
+### Tottenham Hotspur
+| Feld | Details |
+|------|---------|
+| Manager | Roberto De Zerbi |
+| Formation | 4-3-3 / Possession-Pressing |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Son Heung-min (LW) | James Maddison (AM) | Yves Bissouma (DM) | Dejan Kulusevski (RW) | Richarlison (ST) | Guglielmo Vicario (GK) | Cristian Romero (CB) | Pedro Porro (RB)
+**Zugänge Sommer 2026:** Marcos Senesi (von Bournemouth, Interesse) | Carlos Baleba (Brighton, Interesse) | Jan Paul van Hecke (Brighton, Interesse) | Savinho (Man City, Interesse, £60 Mio.)
+**Abgänge Sommer 2026:** Thomas Frank (Trainer gegangen, Sommer 2025) | Andy Robertson (möglicher Zugang erwartet)
+**Kurzprofil:** De Zerbi übernahm im März 2026 einen Klub am Rande des Abstiegs. Spurs überlebten auf Platz 17 — nun steht ein massiver Umbau bevor. De Zerbi's Markenzeichen ist intensiver, offensiver Pressing-Fußball; der Kader muss auf sein System umgebaut werden. 5-Jahres-Vertrag deutet auf langfristiges Projekt hin.
+
+---
+
+### Newcastle United
+| Feld | Details |
+|------|---------|
+| Manager | Eddie Howe |
+| Formation | 4-3-3 |
+| Stärke | ⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Nick Woltemade (ST) | Yoane Wissa (ST/LW) | Bruno Guimarães (DM) | Sandro Tonali (CM) | Tino Livramento (RB) | Fabian Schär (CB) | Martin Dúbravka (GK) | Harvey Barnes (LW)
+**Zugänge Sommer 2026:** Howe sucht mindestens 1 Torhüter, 2 Außenverteidiger + weiteres | Jüngere Spieler priorisiert
+**Abgänge Sommer 2026:** Alexander Isak (zu Liverpool, £125 Mio.) | Anthony Gordon (zu Barcelona, £70 Mio.) | Kieran Trippier (Vertragsende) | Fabian Schär (Vertragsende) | Aaron Ramsdale (Vertragsende)
+**Kurzprofil:** Howe verliert seine besten Stürmer (Isak, Gordon), muss den Kader komplett umbauen. Das Saudi-Geld ermöglicht Reinvestitionen, doch PSR-Regeln begrenzen Ausgaben. Newcastle bleibt eine ambitionierte Mannschaft im Aufbau, aber 26/27 wird eine Übergangsphase.
+
+---
+
+### Chelsea
+| Feld | Details |
+|------|---------|
+| Manager | Andoni Iraola |
+| Formation | 4-2-3-1 / Pressing-Intensität |
+| Stärke | ⭐⭐⭐⭐ |
+
+**Schlüsselspieler:** Cole Palmer (AM) | Nicolas Jackson (ST) | Reece James (RB) | Moisés Caicedo (DM) | Enzo Fernández (CM) | Ben Chilwell (LB) | Robert Sánchez (GK) | Wesley Fofana (CB) | Noni Madueke (RW)
+**Zugänge Sommer 2026:** Andoni Iraola (neuer Trainer, ex-Bournemouth) | Marc Cucurella (möglicherweise zurück zu Chelsea — Marescas Interesse) | Verstärkungen gesucht
+**Abgänge Sommer 2026:** Enzo Maresca (Trainer zu Man City) | Liam Rosenior (entlassen, April 2026) | mehrere Leihen enden
+**Kurzprofil:** *(Simulation: Iraola wählt Chelsea statt Liverpool.)* Iraola bringt sein gepresstes, intensives System zu Stamford Bridge. Der Chelsea-Kader hat enorme individuelle Qualität aber fehlende Kohärenz — genau das, was Iraola aufbauen kann. Mit Cole Palmer als kreativem Herzstück könnte diese Kombination explosiv werden.
+
+---
+
+### Brighton & Hove Albion
+| Feld | Details |
+|------|---------|
+| Manager | Fabian Hürzeler |
+| Formation | 4-2-3-1 / Gegenpressing |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Evan Ferguson (ST) | Simon Adingra (RW) | Carlos Baleba (CM) | Jan Paul van Hecke (CB) | Bart Verbruggen (GK) | Mats Wieffer (DM) | Jack Hinshelwood (CM) | Kaoru Mitoma (LW)
+**Zugänge Sommer 2026:** Yoon Do-young (Südkoreanisches Talent) | Maxim De Cuyper (Club Brugge) | Stefanos Tzimas (von Nürnberg)
+**Abgänge Sommer 2026:** Joao Pedro (zu Chelsea, £55 Mio. — Vorjahr) | Pervis Estupiñán (zu AC Milan, £17 Mio.) | Carlos Baleba (zu Man City/Tottenham, Interesse)
+**Kurzprofil:** Brighton bleibt Englands Talentfabrik unter Hürzeler. Der jüngste PL-Trainer entwickelt Spieler systematisch weiter und verkauft gut. Das Modell ist etabliert — Hürzeler wurde aggressiv backed mit fast £200 Mio. in seiner ersten Sommertransferphase. Trotz Verkäufen immer wieder konkurrenzfähig.
+
+---
+
+### Fulham
+| Feld | Details |
+|------|---------|
+| Manager | Liam Rosenior *(in Verhandlung)* |
+| Formation | 4-2-3-1 |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Adama Traoré (RW) | Tom Cairney (CM) | Harrison Reed (DM) | Calvin Bassey (CB) | Bernd Leno (GK) | Willian (AM) | João Palhinha (DM — falls bleibt) | Andreas Pereira (AM)
+**Zugänge Sommer 2026:** Ricardo Pepi (von PSV, Stürmer USA) | neuer Manager wird Kader formen
+**Abgänge Sommer 2026:** Marco Silva (zu Benfica) | Raúl Jiménez (Vertragsende) | Andreas Pereira (Interesse von Tottenham/Newcastle) | Mehrere ältere Spieler (Durchschnittsalter 27,6)
+**Kurzprofil:** Marco Silva verlässt den Klub nach Benfica. Fulham steht vor einem Generationswechsel — der Kader ist zu alt (Durchschnittsalter PL-höchste 27,6) und muss verjüngt werden. Liam Rosenior wird als Favorit für die Nachfolge gehandelt. Ricardo Pepi als cleverer Zugang für die Zukunft.
+
+---
+
+### Brentford
+| Feld | Details |
+|------|---------|
+| Manager | Keith Andrews |
+| Formation | 4-3-3 / Direkt, physisch |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Yoane Wissa (ST — falls bleibt) | Caoimhin Kelleher (GK) | Christian Nørgaard (CM, Kapitän) | Nathan Collins (CB) | Kristoffer Ajer (CB) | Vitaly Janelt (CM) | Mikkel Damsgaard (AM) | Ben Mee (CB)
+**Zugänge Sommer 2026:** Caoimhin Kelleher (von Liverpool, Vorjahr) | weitere Ersatz für Mbeumo gesucht
+**Abgänge Sommer 2026:** Bryan Mbeumo (zu Manchester United, Sommer 2025) | Christian Nørgaard (Arsenal, Interesse)
+**Kurzprofil:** Keith Andrews tritt das schwere Erbe von Thomas Frank an und hat sich bereits eine Vertragsverlängerung bis 2032 gesichert. Mbeumo-Abgang war ein harter Schlag — der Kader ist neuausgerichtet. Andrews' direkter, physischer Stil passt zu Brentford's DNA, aber der Klub muss zeigen, ob er ohne Franks Genius erfolgreich bleibt.
+
+---
+
+### Crystal Palace
+| Feld | Details |
+|------|---------|
+| Manager | Dino Toppmöller *(in Verhandlung)* |
+| Formation | 4-2-3-1 / Konter-Pressing |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Eberechi Eze (AM) | Michael Olise (RW — falls bleibt) | Marc Guéhi (CB) | Jean-Philippe Mateta (ST) | Sam Johnstone (GK) | Will Hughes (CM) | Tyrick Mitchell (LB) | Nathaniel Clyne (RB)
+**Zugänge Sommer 2026:** Dino Toppmöller (neuer Trainer, ex-Eintracht Frankfurt) | Verstärkungen nach Glasner-Abgang
+**Abgänge Sommer 2026:** Oliver Glasner (Trainer verlässt Klub nach Conference League-Triumph) | mögliche Abgänge bei Spitzenspieler-Interesse
+**Kurzprofil:** Glasner gewann die Conference League — ein historischer Triumph für Palace. Nun ist er weg und Toppmöller soll anknüpfen. Der Deutsche war zuletzt bei Eintracht Frankfurt (wo er ausgerechnet Glasner beerbt hatte). Eze und Olise (falls er bleibt) sind zwei der gefährlichsten Angreifer der Liga.
+
+---
+
+### Leeds United
+| Feld | Details |
+|------|---------|
+| Manager | Daniel Farke |
+| Formation | 4-2-3-1 / Possession |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Crysencio Summerville (LW) | Wilfried Gnonto (RW) | Georginio Rutter (AM) | Patrick Bamford (ST) | Illan Meslier (GK) | Pascal Struijk (CB) | Ethan Ampadu (CM) | Junior Firpo (LB)
+**Zugänge Sommer 2026:** Ladislav Krejci (von Wolves, £26 Mio., Interesse) | Jonathan David (von Juventus, Interesse) | Ricardo Pepi (mögliche Alternative)
+**Abgänge Sommer 2026:** Joel Piroe (möglicher Abgang für David-Transfer) | Largie Ramazani (Verhandlungen gescheitert)
+**Kurzprofil:** Farke verlängert seinen Vertrag und plant langfristig bei Leeds. Nach dem PL-Verbleib (Platz 15) geht es darum, die Klasse zu festigen. Leeds braucht mehr Torgefahr — Jonathan David wird als Traumtransfer gehandelt. Der Kader hat Tiefe, aber PL-Erfahrung ist begrenzt.
+
+---
+
+### Everton
+| Feld | Details |
+|------|---------|
+| Manager | David Moyes |
+| Formation | 4-4-2 / Physisch, kompakt |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Dominic Calvert-Lewin (ST) | Abdoulaye Doucouré (CM) | Jarrad Branthwaite (CB) | Jordan Pickford (GK) | Dwight McNeil (LW) | James Garner (CM) | Ashley Young (RB — Veteran) | Idrissa Gueye (DM)
+**Zugänge Sommer 2026:** Ivan Toney (möglicher Traumtransfer) | Harry Wilson (von Fulham, freier Transfer) | Conor Gallagher (von Tottenham, Interesse) | Solly March (Brighton, Interesse)
+**Abgänge Sommer 2026:** Dwight McNeil (Vertrag läuft aus 2027, Zukunft offen) | Ashley Young (Vertragsende)
+**Kurzprofil:** Friedkin-Übernahme bringt frisches Kapital — Everton könnte bis zu £100 Mio. netto ausgeben. Moyes kennt den Klub, bringt Stabilität. Das neue Stadion am Bramley-Moore Dock ist eröffnet — ein Wendepunkt für den Klub. Ziel: gesicherte PL-Zugehörigkeit und langsamer Aufbau.
+
+---
+
+### Nottingham Forest
+| Feld | Details |
+|------|---------|
+| Manager | Vítor Pereira |
+| Formation | 4-3-3 / Konterangriff |
+| Stärke | ⭐⭐⭐ |
+
+**Schlüsselspieler:** Elliot Anderson (CM) | Chris Wood (ST) | Nikola Milenkovic (CB) | Matz Sels (GK) | Morgan Gibbs-White (AM) | Nuno Tavares (LB) | Omar Richards (LB) | Callum Hudson-Odoi (RW)
+**Zugänge Sommer 2026:** Vítor Pereira sucht 2–3 neue Spieler zur Kader-Balance
+**Abgänge Sommer 2026:** Elliot Anderson (Man City-Interesse, Ablöse >€120 Mio.) | Nuno Espirito Santo (entlassen) | Sean Dyche (entlassen, 114 Tage) | Ange Postecoglou (entlassen, 39 Tage) | Lorenzo Lucca (unerfüllt)
+**Kurzprofil:** Forest hatte 3 Manager in einer Saison (Nuno → Postecoglou → Dyche → Pereira) — erstaunliche Instabilität. Pereira stabilisierte den Klub mit 10 unbesiegten Spielen und führte ihn in die Europa League-Halbfinale. Elliot Anderson könnte für Rekorderlöse verkauft werden. Marinakis' Einfluss ist groß und direkt.
+
+---
+
+### Leicester City *(Aufsteiger — Simulation)*
+| Feld | Details |
+|------|---------|
+| Manager | *(vakant — Neubesetzung nach Abstieg aus Championship-Szenario)* |
+| Formation | 4-4-2 / kompakt |
+| Stärke | ⭐⭐ |
+
+**Schlüsselspieler:** Stephy Mavididi (LW) | Abdul Fatawu (RW) | Ricardo Pereira (RB, erfahren) | Wout Faes (CB) | Danny Ward (GK) | Boubakary Soumaré (CM) | Conor Coady (CB) | Kelechi Iheanacho (ST)
+**Zugänge Sommer 2026:** Neue Manager-Ernennung erwartet | Kader-Verstärkungen für PL-Rückkehr nötig
+**Abgänge Sommer 2026:** Mehrere Schlüsselspieler nach Abstieg-Turbulenz möglicherweise weg
+**Kurzprofil:** *(Simulation: Leicester steigt als einer der drei aufsteigenden Klubs auf.)* Die Foxes kehren in die Premier League zurück nach einer unruhigen Championship-Zeit. Ohne den Meistertitel-Kader von 2016 brauchen sie einen erfahrenen Manager und gezielte Verstärkungen, um nicht sofort wieder abzusteigen.
+
+---
+
+### Middlesbrough *(Aufsteiger — Simulation)*
+| Feld | Details |
+|------|---------|
+| Manager | Kim Hellberg |
+| Formation | 4-3-3 / strukturiert |
+| Stärke | ⭐⭐ |
+
+**Schlüsselspieler:** Emmanuel Latte Lath (ST) | Riley McGree (CM) | Finn Azaz (AM) | Luke Ayling (RB) | Dael Fry (CB) | Seny Dieng (GK) | Jonny Howson (CM, Veteran) | Marcus Forss (ST)
+**Zugänge Sommer 2026:** Verstärkungen für den Sprung ins Oberhaus dringend gesucht | PL-erfahrene Spieler priorisiert
+**Abgänge Sommer 2026:** Mehrere Leihspieler kehren zurück
+**Kurzprofil:** *(Simulation: Middlesbrough steigt auf nach Championship-Playoffs.)* Kim Hellberg übernahm im November 2025 nach Rob Edwards' Abgang und führte den Klub in die Premier League. Für Boro ist es die Rückkehr ins Oberhaus nach langen Jahren in unteren Ligen — ein emotionaler Moment für die Nordostengland-Fanbase.
+
+---
+
+### Coventry City *(Aufsteiger — Championship-Meister)*
+| Feld | Details |
+|------|---------|
+| Manager | Frank Lampard |
+| Formation | 4-3-3 / Pressing, direkt |
+| Stärke | ⭐⭐ |
+
+**Schlüsselspieler:** Haji Wright (ST) | Ellis Simms (ST) | Brandon Thomas-Asante (ST/LW) | Matt Grimes (CM, Kapitän) | Kaine Kesler-Hayden (RB) | Frank Onyeka (CM, von Brentford) | Carl Rushworth (GK, Leihe Brighton) | Ben Sheaf (CM)
+**Zugänge Sommer 2026:** Carl Rushworth (Brighton, permanent kaufen) | Frank Onyeka (Brentford, permanent) | PL-erfahrene Spieler dringend gesucht
+**Abgänge Sommer 2026:** Mögliche Verkäufe bei Anfragen für Championship-Stars
+**Kurzprofil:** Championship-Meister 2025/26 — erste PL-Rückkehr seit 2001! Lampard wurde zum Championship Manager of the Season gewählt. Die Sky Blues haben keine PL-Erfahrung im Kader — Lampard warnt: "Die Arbeit fängt erst an." Wright, Simms und Thomas-Asante erzielten 43 Tore gemeinsam — können sie in der PL liefern?

@@ -299,6 +299,38 @@
 
 ---
 
+## BACKUP STÜRMER
+
+### Niclas Füllkrug — ST — West Ham United *(OPTION — PRÜFEN)*
+| Feld | Info |
+|------|------|
+| Name | Niclas Füllkrug |
+| Geb. / Alter | ~1993 / 32 |
+| Nationalität | 🇩🇪 Deutsch |
+| Klub | West Ham United (Vertrag bis 2028) — Leihe AC Milan endete 30.06.2026 |
+| Marktwert | ~€6-7M |
+| Ablöse (geschätzt) | **~£6-8M** — West Ham will ihn loswerden |
+| Wochenlohn (geschätzt) | ~£60-70k |
+| Agent | — |
+| Status | 🟡 Prüfen — Ist Milan-Option gefallen? Dann sofort ansprechen |
+
+**Stärken:** Impact-Sub-Profil, körperstark, Kopfball, Tor in wichtigen Momenten, Alonso kennt ihn aus Bundesliga
+**Schwächen:** Schlechte Form 25/26 (3G/27 Spiele West Ham), Leihe Milan auch nicht überzeugend
+**Fit ins System:** Klassische 70-Minuten-Einwechslung wenn Isak Pause braucht
+**Ethan-Notiz:** Milan-Leihe endete 30.06. — West Ham braucht ihn nicht. Call diese Woche.
+
+---
+
+### ❌ AUSGESCHLOSSENE STÜRMER
+
+| Spieler | Klub | Grund |
+|---------|------|-------|
+| Jonathan David | Juventus (seit Juli 2025, 5-Jahres-Vertrag) | Nicht verfügbar — Juventus gibt ihn nach 1 Jahr nicht ab |
+| Fábio Silva | Borussia Dortmund | 1G in 23 Spielen — keine Torhäufigkeit für diese Rolle |
+| Jhon Durán | Fenerbahçe | ~£300k/Woche — komplett außerhalb des Budgets |
+
+---
+
 ### ❌ NICHT WEITER VERFOLGEN — Recherchierte aber ausgeschlossene Namen
 
 | Spieler | Klub | Grund |

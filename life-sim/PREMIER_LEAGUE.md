@@ -286,7 +286,7 @@
 ---
 
 ### Liverpool
-**Manager:** VAKANT | **Formation:** — | **Stärke:** ⭐⭐⭐⭐
+**Manager:** Xabi Alonso *(unterzeichnet 03.06.2026)* | **Formation:** 3-4-2-1 | **Stärke:** ⭐⭐⭐⭐
 
 | # | Name | Pos | Nat | Alter |
 |---|------|-----|-----|-------|

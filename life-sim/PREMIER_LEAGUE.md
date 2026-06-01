@@ -140,16 +140,15 @@
 
 ## ALLE KLUBS 2026/27 — KADER & MANAGER
 
-*Stand: 1. Juni 2026. Transferfenster öffnet 15. Juni 2026.*
+*Stand: 1. Juni 2026. Transferfenster öffnet 15. Juni 2026. Kader basieren auf Stand 2025/26 + bestätigte Zugänge/Abgänge.*
 
 ---
 
 ### Arsenal
-| Feld | Details |
-|------|---------|
-| Manager | Mikel Arteta |
-| Formation | 4-3-3 |
-| Stärke | ⭐⭐⭐⭐⭐ |
+**Manager:** Mikel Arteta | **Formation:** 4-3-3 | **Stärke:** ⭐⭐⭐⭐⭐
+
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
 
 **Schlüsselspieler:** Bukayo Saka (RW) | Martin Ødegaard (CAM) | Declan Rice (CM) | Viktor Gyökeres (ST) | Kai Havertz (ST/CAM) | Gabriel Martinelli (LW) | David Raya (GK) | William Saliba (CB) | Gabriel Magalhães (CB)
 **Zugänge Sommer 2026:** Morgan Rogers (von Aston Villa, Interesse) | Eli Junior Kroupi (Interesse)

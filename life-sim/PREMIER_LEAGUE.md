@@ -77,6 +77,7 @@
 - **Situation:** Post-Guardiola-Ära beginnt. Kader gebaut für Peps System — Umbau nötig
 - **Transfer-Verhalten:** Möglicherweise Verkäufer im Sommer. Spieler die nicht in Marescas Plan passen
 - **Chance für Ethan:** Potenzielle Kaufmöglichkeiten bei City-Aussortierten
+- **Bekannte Zugänge:** Rayan Cherki (Franzose, 20, AM/LW) — ⛔ nicht für Liverpool verfügbar
 
 ### Manchester United (3.)
 - **Manager:** VAKANT — Amorim entlassen

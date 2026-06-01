@@ -40,8 +40,9 @@
 ### 🔴 Priorität 1: LCB
 | Spieler | Klub | Zielpreis | Entscheidung |
 |---------|------|-----------|-------------|
-| **Nico Schlotterbeck** | Borussia Dortmund | ~£52M | ✅ TOP-ZIEL. Linksfuß, progressiv, Alonso-Typ. Gespräch mit Dortmund sofort. |
-| Levi Colwill | — | ~£35M | Backup falls Schlotterbeck scheitert |
+| **Gonçalo Inácio** | Sporting CP | €45-52M | ✅ PRIMÄRZIEL LCB. Entscheidung 06.06. — FSG + Alonso bestätigt. Treffen nach WM. Alonso kommt mit. |
+| ~~Nico Schlotterbeck~~ | ~~Borussia Dortmund~~ | ~~€58M~~ | ⏸️ Geparkt. Zu teuer (Fee + Lohn). Watchlist falls Inácio scheitert. |
+| Levi Colwill | — | ~£35M | Backup falls beide scheitern |
 
 ### 🟠 Priorität 2: Linke 10 / Flügel
 | Spieler | Klub | Zielpreis | Entscheidung |

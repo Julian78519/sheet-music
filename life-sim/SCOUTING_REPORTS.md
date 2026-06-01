@@ -76,7 +76,7 @@
 **Schwächen:** Aktuell beim Weltmeisterschaft (Fokus woanders), Konkurrenz: Man United (Amorim trainierte ihn 3 Jahre), Barcelona (Flick/Deco)
 **Fit ins System:** Ideal als LCB im 3-4-2-1 — progressiver Linksfuß, exakt das Konaté-Profil
 **Konkurrenz:** Manchester United (Amorim-Faktor = emotionaler Vorteil), Barcelona
-**Ethan-Notiz:** Gespräch mit Pinho 06.06. Pinho: "Don't sell Liverpool the club — sell him the role." Treffen vereinbart nach WM-Gruppenphase. Schlüsselargument: Er ist *der* LCB, nicht eine von drei Optionen. Pinho-Warnung: Entscheidung bis Anfang August — danach wird's teurer. Liverpool zahlt €45-52M + ~£115k/Woche.
+**Ethan-Notiz:** ✅ ENTSCHEIDUNG GEFALLEN 06.06. — FSG-Meeting mit Gordon + Alonso. Alle drei einig: Inácio ist der Mann. Insider-Info: ManUtd (Amorim) wird kein Angebot machen — Ethan bestätigt über Journalistennetzwerk (inoffiziell). Barcelona bleibt Risiko. Nächster Schritt: Pinho nach WM-Gruppenphase anrufen. Alonso kommt persönlich zum Spieler-Meeting. Sell the role, not the club.
 
 ---
 

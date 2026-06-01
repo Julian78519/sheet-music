@@ -121,7 +121,7 @@
 
 | Spieler | Agent (bekannt/geschätzt) | Agentur | Notiz |
 |---------|--------------------------|---------|-------|
-| Nico Schlotterbeck | — | — | Zu recherchieren |
+| **Nico Schlotterbeck** | **Björn Etzel** | Unabhängig | ✅ Gespräch 06.06. — Release €58M bestätigt, Lohnlücke £50k/Woche, Wiederkontakt Juli |
 | Bradley Barcola | — | — | Zu recherchieren |
 | Yan Diomande | — | — | Zu recherchieren |
 | Marco Senesi | — | — | Free Transfer — direkt ansprechen |

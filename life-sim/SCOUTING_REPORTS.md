@@ -41,17 +41,19 @@
 | Geb. / Alter | Dez 1999 / 26 |
 | Nationalität | 🇩🇪 Deutsch |
 | Klub | Borussia Dortmund |
-| Vertrag bis | 2028 |
-| Marktwert | ~€50M |
-| Ablöse (geschätzt) | £45-55M |
-| Wochenlohn (geschätzt) | ~£80-100k |
-| Agent | — |
-| Status | 🟢 Wunschlösung |
+| Vertrag bis | **2031** (verlängert April 2026) |
+| Marktwert | ~€55-65M |
+| Ablöse (geschätzt) | **€58M Release Clause — BESTÄTIGT** (Liverpool namentlich genannt) |
+| Wochenlohn Dortmund | ~€8M/Jahr (~£150k/Woche) |
+| Wochenlohn Liverpool-Forderung | £150k/Woche (Etzel, 06.06.2026) |
+| Liverpool-Angebot | ~£100k/Woche + Boni + Family Benefits |
+| Agent | **Björn Etzel** ✅ |
+| Status | 🟡 Aktiv — Fenster abwarten. Lohnlücke: £50k/Woche |
 
-**Stärken:** Linksfüßig, progressiver Passspieler, gut am Ball, CL-Erfahrung, Zweikampfstärke
-**Schwächen:** Gelegentliche Konzentrationsfehler, teuer für aktuelles Budget
+**Stärken:** Linksfüßig, progressiver Passspieler, gut am Ball, CL-Erfahrung, Zweikampfstärke, 26 Jahre
+**Schwächen:** Gerade verlängert — emotional gebunden an Dortmund. Hohe Gehaltsvorstellung.
 **Fit ins System:** Perfekt als LCB in der Dreierkette — repliziert genau was Konaté für Salah war
-**Ethan-Notiz:** Meine Wunschlösung. War im Gespräch mit anderen Klubs. Budget ist der einzige Blocker.
+**Ethan-Notiz:** Release Clause bestätigt — Liverpool ist einer von drei Klubs die sie auslösen können. Ablöse machbar nach Verkäufen. Größtes Problem: Gehalt. Etzel fordert £150k, wir bieten £100k + Boni. Gespräch geführt 06.06. — Etzel informiert Nico. Wiederkontakt wenn Fenster öffnet (1. Juli). Er mag Klarheit — nicht zu lange warten.
 
 ---
 

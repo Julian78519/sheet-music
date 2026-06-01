@@ -728,41 +728,98 @@
 ---
 
 ### Leicester City *(Aufsteiger — Simulation)*
-| Feld | Details |
-|------|---------|
-| Manager | *(vakant — Neubesetzung nach Abstieg aus Championship-Szenario)* |
-| Formation | 4-4-2 / kompakt |
-| Stärke | ⭐⭐ |
+**Manager:** Ben Dawson *(interim)* | **Formation:** 4-4-2 | **Stärke:** ⭐⭐
 
-**Schlüsselspieler:** Stephy Mavididi (LW) | Abdul Fatawu (RW) | Ricardo Pereira (RB, erfahren) | Wout Faes (CB) | Danny Ward (GK) | Boubakary Soumaré (CM) | Conor Coady (CB) | Kelechi Iheanacho (ST)
-**Zugänge Sommer 2026:** Neue Manager-Ernennung erwartet | Kader-Verstärkungen für PL-Rückkehr nötig
-**Abgänge Sommer 2026:** Mehrere Schlüsselspieler nach Abstieg-Turbulenz möglicherweise weg
-**Kurzprofil:** *(Simulation: Leicester steigt als einer der drei aufsteigenden Klubs auf.)* Die Foxes kehren in die Premier League zurück nach einer unruhigen Championship-Zeit. Ohne den Meistertitel-Kader von 2016 brauchen sie einen erfahrenen Manager und gezielte Verstärkungen, um nicht sofort wieder abzusteigen.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Danny Ward | GK | WAL | 32 |
+| 13 | Mads Hermansen | GK | DEN | 26 |
+| 30 | Daniel Iversen | GK | DEN | 27 |
+| 5 | Wout Faes | CB | BEL | 27 |
+| 6 | Conor Coady | CB | ENG | 33 |
+| 16 | Victor Kristiansen | LB | DEN | 23 |
+| 2 | Ricardo Pereira | RB | POR | 33 |
+| 3 | Luke Thomas | LB | ENG | 23 |
+| 12 | Timothy Castagne | RB | BEL | 30 |
+| 23 | Jannik Vestergaard | CB | DEN | 34 |
+| 14 | Hamza Choudhury | DM | ENG | 27 |
+| 8 | Boubakary Soumaré | CM | FRA | 26 |
+| 10 | Kiernan Dewsbury-Hall | CM/AM | ENG | 26 |
+| 4 | Wilfred Ndidi | DM | NGA | 30 |
+| 17 | Harry Winks | CM | ENG | 30 |
+| 7 | Stephy Mavididi | LW | FRA | 27 |
+| 11 | Abdul Fatawu | RW | GHA | 21 |
+| 20 | Tom Cannon | ST | IRL | 23 |
+| 9 | Kelechi Iheanacho | ST | NGA | 30 |
+| 18 | Jamie Vardy | ST | ENG | 40 |
+| 21 | Patson Daka | ST | ZAM | 26 |
+| 22 | Facundo Buonanotte | AM/RW | ARG | 21 |
+
+**Zugänge Sommer 2026:** Neuer permanenter Manager dringend gesucht | PL-erfahrene Spieler noetig | Mads Hermansen (dauerhaft vom Vorjahr)
+**Abgänge Sommer 2026:** mehrere Leihen enden | mögliche Verkäufe (Fatawu, Dewsbury-Hall bei PL-Interesse) | Jamie Vardy (evtl. Abschied)
 
 ---
 
 ### Middlesbrough *(Aufsteiger — Simulation)*
-| Feld | Details |
-|------|---------|
-| Manager | Kim Hellberg |
-| Formation | 4-3-3 / strukturiert |
-| Stärke | ⭐⭐ |
+**Manager:** Kim Hellberg | **Formation:** 4-3-3 | **Stärke:** ⭐⭐
 
-**Schlüsselspieler:** Emmanuel Latte Lath (ST) | Riley McGree (CM) | Finn Azaz (AM) | Luke Ayling (RB) | Dael Fry (CB) | Seny Dieng (GK) | Jonny Howson (CM, Veteran) | Marcus Forss (ST)
-**Zugänge Sommer 2026:** Verstärkungen für den Sprung ins Oberhaus dringend gesucht | PL-erfahrene Spieler priorisiert
-**Abgänge Sommer 2026:** Mehrere Leihspieler kehren zurück
-**Kurzprofil:** *(Simulation: Middlesbrough steigt auf nach Championship-Playoffs.)* Kim Hellberg übernahm im November 2025 nach Rob Edwards' Abgang und führte den Klub in die Premier League. Für Boro ist es die Rückkehr ins Oberhaus nach langen Jahren in unteren Ligen — ein emotionaler Moment für die Nordostengland-Fanbase.
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Seny Dieng | GK | SEN | 30 |
+| 13 | Sol Brynn | GK | ENG | 23 |
+| 25 | Liam Roberts | GK | WAL | 29 |
+| 5 | Dael Fry | CB | ENG | 27 |
+| 6 | Rav van den Berg | CB | NED | 21 |
+| 3 | Marc Bola | LB | ENG | 27 |
+| 2 | Luke Ayling | RB | ENG | 35 |
+| 23 | Anfernee Dijksteel | RB | NED | 28 |
+| 16 | Tommy Smith | RB | USA | 32 |
+| 4 | Matt Clarke | CB | ENG | 28 |
+| 8 | Jonny Howson | CM | ENG | 37 |
+| 14 | Riley McGree | CM | AUS | 26 |
+| 11 | Finn Azaz | AM/CM | ENG | 25 |
+| 18 | Alex Mowatt | CM | ENG | 31 |
+| 20 | Hayden Hackney | CM | ENG | 23 |
+| 22 | George Edmundson | CB | ENG | 28 |
+| 7 | Isaiah Jones | RW/RB | ENG | 25 |
+| 17 | Sammy Silvera | RW/LW | AUS | 23 |
+| 10 | Morgan Rogers | AM | ENG | 23 |
+| 9 | Emmanuel Latte Lath | ST | CIV | 27 |
+| 19 | Marcus Forss | ST | FIN | 25 |
+| 21 | Micah Hamilton | RW/LW | ENG | 22 |
+
+**Zugänge Sommer 2026:** PL-erfahrene Spieler dringend gesucht | Hellberg verstaerkt jeden Bereich | Morgan Rogers (moegl. Leihe Aston Villa)
+**Abgänge Sommer 2026:** mehrere Leihspieler kehren zurueck | Latte Lath (PL-Interesse) | Jonny Howson (Vertragsende nahe)
 
 ---
 
 ### Coventry City *(Aufsteiger — Championship-Meister)*
-| Feld | Details |
-|------|---------|
-| Manager | Frank Lampard |
-| Formation | 4-3-3 / Pressing, direkt |
-| Stärke | ⭐⭐ |
+**Manager:** Frank Lampard | **Formation:** 4-3-3 | **Stärke:** ⭐⭐
 
-**Schlüsselspieler:** Haji Wright (ST) | Ellis Simms (ST) | Brandon Thomas-Asante (ST/LW) | Matt Grimes (CM, Kapitän) | Kaine Kesler-Hayden (RB) | Frank Onyeka (CM, von Brentford) | Carl Rushworth (GK, Leihe Brighton) | Ben Sheaf (CM)
-**Zugänge Sommer 2026:** Carl Rushworth (Brighton, permanent kaufen) | Frank Onyeka (Brentford, permanent) | PL-erfahrene Spieler dringend gesucht
-**Abgänge Sommer 2026:** Mögliche Verkäufe bei Anfragen für Championship-Stars
-**Kurzprofil:** Championship-Meister 2025/26 — erste PL-Rückkehr seit 2001! Lampard wurde zum Championship Manager of the Season gewählt. Die Sky Blues haben keine PL-Erfahrung im Kader — Lampard warnt: "Die Arbeit fängt erst an." Wright, Simms und Thomas-Asante erzielten 43 Tore gemeinsam — können sie in der PL liefern?
+| # | Name | Pos | Nat | Alter |
+|---|------|-----|-----|-------|
+| 1 | Carl Rushworth | GK | ENG | 23 |
+| 13 | Ben Wilson | GK | ENG | 33 |
+| 30 | Oliver Dovin | GK | ENG | 21 |
+| 5 | Joel Latibeaudiere | CB | ENG | 25 |
+| 6 | Bobby Thomas | CB | ENG | 23 |
+| 4 | Milan van Ewijk | RB/CB | NED | 25 |
+| 2 | Kaine Kesler-Hayden | RB | ENG | 23 |
+| 3 | Jake Bidwell | LB | ENG | 32 |
+| 16 | Liam Kitching | LB/CB | ENG | 25 |
+| 23 | Callum Doyle | CB | ENG | 21 |
+| 8 | Ben Sheaf | CM | ENG | 27 |
+| 14 | Matt Grimes | CM | ENG | 30 |
+| 18 | Gustavo Hamer | CM | BRA | 27 |
+| 11 | Victor Torp | CM/AM | DEN | 24 |
+| 10 | Callum O'Hare | AM | ENG | 27 |
+| 22 | Fabio Tavares | ST/LW | CPV | 23 |
+| 7 | Haji Wright | ST | USA | 26 |
+| 9 | Ellis Simms | ST | ENG | 24 |
+| 17 | Brandon Thomas-Asante | ST/LW | ENG | 26 |
+| 20 | Tatsuhiro Sakamoto | RW | JPN | 25 |
+| 21 | Luis Binks | CB | ENG | 24 |
+| 19 | Liam Kitching | LB | ENG | 25 |
+
+**Zugänge Sommer 2026:** Carl Rushworth (Brighton, permanent) | Frank Onyeka (Brentford, permanent) | PL-erfahrene Spieler dringend gesucht | Lampard baut Kader fuer Oberhaus-Rueckkehr
+**Abgänge Sommer 2026:** moegliche Verkäufe bei Anfragen fuer Gustavo Hamer, Haji Wright | Luke McNally (Vertragsende)

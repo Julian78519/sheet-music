@@ -59,5 +59,13 @@ Pressekonferenz Anfield. Familie angereist. Simulation läuft.
 ## Tag 6 — 6. Juni 2026 (Abend)
 - Transfertag: Agentengespräche Etzel/Pinho/Mendes/CAA Stellar. FSG-Meeting Inácio als Primärziel LCB.
 - El Khannouss Deal in Principle mit Leicester (£32M+Boni). Ethan ruft Bilal persönlich an — noch vor Leicester. Alonso tief beeindruckt: *"Good night, Ethan."*
-- Privat: Auto-Entscheidung — Porsche Taycan 4S Sport Turismo, Gentian Blue, ~£102k. Händler Montag.
+- Privat: Auto — Porsche Taycan 4S Sport Turismo, Gentian Blue, ~£102k. Händler Montag.
 - Apartment Woolton Village: Umzug ~8. Juni. Familie übernimmt Einrichtung, Budget £50k. Megan koordiniert.
+
+## Tag 7 — 7. Juni 2026 (Samstag)
+- Al-Hilal formelles Angebot £38M für Gakpo (Sky Sports 07:23 Uhr)
+- Pinho meldet sich wegen Inácio-WM-Performance — noch nicht zurückgerufen
+- Gakpo-Prozess eingeleitet: Marsh (CFO) + Ghandour (Saudi-Intermediär) konsultiert. Internes Al-Hilal Budget: £52M. Gegenangebot £54M abgeschickt. Ziel: £48-50M all-in.
+- Alonso ruft Gakpo an — klar: kein Platz im System. Ethan ruft Gakpo an (selbst gespielt) — ehrlich, menschlich, Rat £350k/Woche. Gakpo: *"Liverpool is lucky to have you."* Rückruf Mittwoch.
+- Faye (Leverkusen): Hendry recherchiert. Leverkusen will verkaufen, Vertrag 2027. Ziel £7-7.5M. Agentenkontakt Montag.
+- LWB Backup: Carreras → Real Madrid (gestrichen). Mittelstädt (Stuttgart, bis 2028) = Primärziel ~£18-22M. Gosens (Fiorentina) = Fallback ~£10-12M. Alonso bestätigt Mittelstädt. Anfrage Stuttgart Montag.

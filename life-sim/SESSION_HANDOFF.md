@@ -24,31 +24,41 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 ### Was am 06.06. Abend passiert ist:
 1. **Xabi Alonso** ist Head Coach — Vertrag unterzeichnet 03.06.
 2. **Transferstrategie** mit Alonso erarbeitet: 3-4-2-1 System
-3. **Agentengespräche (06.06.):**
-   - Björn Etzel (Schlotterbeck): €58M Release bestätigt, Lohnlücke £50k/Woche → geparkt bis 1. Juli
-   - Miguel Pinho (Inácio): €45-52M, Treffen nach WM vereinbart, Alonso kommt mit
-   - Jorge Mendes (Adeyemi): €65M + £130k/Woche → zu teuer, abgehakt
-   - CAA Stellar (Gnonto): £16-18M, £70-75k/Woche, wartet auf Alonso-Gespräch
-4. **FSG-Meeting**: Gonçalo Inácio als Primärziel LCB bestätigt
-5. **El Khannouss** — Deal in Principle £32M+Boni. Leicester Legal schickt Vertrag Montag.
-6. **Bilal persönlich angerufen** — noch vor Leicester. Tief beeindruckt. Alonso-Reaktion: *"Good night, Ethan."*
-7. **Freitagabend — Private Entscheidungen:**
-   - **Auto:** Porsche Taycan 4S Sport Turismo, Gentian Blue Metallic, ~£102,000. Händler Montag anrufen.
-   - **Apartment Woolton Village:** Umzug ~8. Juni. Familie (Megan koordiniert) übernimmt Einrichtung. Budget: £50,000.
-   - **Megan:** Grundriss Montag schicken. Jim googelt bereits Woolton Village.
+3. **Agentengespräche (06.06.):** Etzel/Pinho/Mendes/CAA Stellar — Details in open_threads
+4. **El Khannouss** — Deal in Principle £32M+Boni. Leicester Legal schickt Vertrag Montag.
+5. **Bilal persönlich angerufen** — noch vor Leicester. Alonso-Reaktion: *"Good night, Ethan."*
+6. **Freitagabend — Private Entscheidungen:**
+   - **Auto:** Porsche Taycan 4S Sport Turismo, Gentian Blue Metallic, ~£102,000. Händler Montag.
+   - **Apartment Woolton Village:** Umzug ~8. Juni. Familie dekoriert. Budget: £50,000. Grundriss Montag an Megan.
+
+### Was am 07.06. (Samstag) passiert ist:
+1. **Al-Hilal** — Formelles Angebot £38M für Gakpo (Sky Sports, 07:23 Uhr)
+2. **Inácio** — Spielt stark gegen Argentinien. Pinho meldet sich 08:09 Uhr. **Noch nicht zurückgerufen — OFFEN**
+3. **Gakpo-Strategie:**
+   - David Marsh (CFO): Buchwert £9M, Minimum £45M, Profit £29M+ bei £38M
+   - Sami Ghandour (Saudi-Intermediär): Al-Hilal internes Budget £52M
+   - Strategie: Gegenangebot £54M, kein Sell-On, Ziel £48-50M all-in
+   - Alonso ruft Gakpo an — sagt ihm: kein Platz im System
+   - Ethan ruft Gakpo an — ehrliches Gespräch, Persönlichkeitsrat: £350k/Woche fordern
+   - **Gakpo ruft Mittwoch zurück**
+   - **Gegenangebot £54M raus an Al-Hilal — warten auf Antwort**
+4. **Faye (Leverkusen):** Dave Hendry: Leverkusen verkaufsbereit, Vertrag bis 2027. Ziel: £7-7.5M. Agentenkontakt Montag.
+5. **LWB Backup:**
+   - Carreras → Real Madrid (Juli 2025, €50M) — gestrichen
+   - **Mittelstädt (Stuttgart, Vertrag bis 2028)** — PRIMÄRZIEL, ~£18-22M
+   - **Gosens (Fiorentina, Vertrag bis 2028)** — Fallback, ~£10-12M
+   - Alonso bestätigt: *"If you can get Mittelstädt — get Mittelstädt."*
+   - Mittelstädt-Anfrage an Stuttgart: **Montag**
 
 ---
 
 ## LETZTE EXCHANGES (Simulation)
 
-### Freitagabend — Alonso Reaktion auf Bilal-Call
-**Alonso:** *"Ethan. Seriously. Why did you do that? I've been in football twenty-five years. I have never seen a Sporting Director call the player before his own club."*
-**Ethan:** Erklärt 2019-Moment. *"A player who feels wanted plays differently."*
-**Alonso:** Nickt. *"Good night, Ethan."*
+### Gakpo-Call (Ethan spielt selbst)
+Ethan: Direkt, ehrlich — kein Platz im System, Al-Hilal Angebot läuft, persönlicher Rat £350k/Woche fordern, "we're all humans". Gakpo bewegt: *"Liverpool is lucky to have you."* → Rückruf Mittwoch.
 
-### Freitagabend — Familie, Auto, Apartment
-Ethan WhatsAppt Megan wegen Apartment-Einrichtung. Budget: £50k. Megan: *"I'm calling Mom."* Jim googelt Woolton. Susan: *"Those fans love that club so much."* — Wärme pur.
-Auto-Entscheidung: Porsche Taycan 4S Sport Turismo. Händler Montag.
+### Alonso zu LWB
+Alonso: Gosens versteht die Rolle aber 31 = kein langfristiger Plan. Mittelstädt: *"If you can get Mittelstädt — get Mittelstädt."*
 
 ---
 

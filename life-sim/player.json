@@ -3,125 +3,133 @@
   "meta": {
     "simulation_start": "2026-06-01",
     "current_date": "2026-06-01",
-    "style": "modern",
+    "style": "modern, realistisch, dramatisch",
     "external_events_frequency": "often",
-    "time_pressure": false
+    "time_pressure": false,
+    "current_chapter": "Day 1 — Liverpool FC Sporting Director"
   },
   "character": {
-    "name": "Noah Vance",
-    "age": 23,
-    "city": "San Francisco, CA",
-    "neighborhood": "Mission District",
+    "name": "Ethan Cole",
+    "age": 29,
+    "born": "1996",
+    "hometown": "Atlanta, Georgia, USA",
+    "current_location": "Liverpool, England",
     "personality": [
-      "schneller Lerntyp, aber Probleme mit Konsequenz",
-      "kreativ, gut mit Menschen",
-      "leichtes Impostor Syndrome in Tech-Kreisen",
-      "will etwas aufbauen, hat sein Ding noch nicht gefunden"
+      "analytisch und intuitiv zugleich",
+      "hat gelernt zu scheitern — und aufzustehen",
+      "ruhige Autorität, keine Lautstärke",
+      "misstraut Titeln, vertraut Ergebnissen",
+      "kennt den Unterschied zwischen Arroganz und Selbstvertrauen"
     ],
     "skills": {
-      "marketing_social_media": 7,
-      "coding_basics": 4,
-      "sales_people": 8,
-      "financial_management": 5
+      "data_analytics_football": 9,
+      "transfer_negotiation": 8,
+      "stakeholder_management": 7,
+      "people_reading": 9,
+      "public_communication": 7,
+      "coding_technical": 6,
+      "financial_modelling": 8
     },
     "education": {
-      "school": "High School Diploma (überdurchschnittlich)",
-      "university": "UC Davis, Informatik – nach 3 Semestern abgebrochen (2024)"
-    }
+      "university": "Georgia Tech, Atlanta — CS & Economics (2015–2018, nicht abgeschlossen)",
+      "note": "Abbruch nach 3 Semestern für Kova-Gründung"
+    },
+    "languages": ["Englisch (Muttersprache)", "Deutsch (gut, durch Bochum-Projekt)", "Französisch (Grundlagen, durch Reims)"]
   },
   "finances": {
-    "savings": 1847,
-    "monthly_income": 1400,
-    "monthly_expenses": 1350,
-    "debt": 0,
-    "income_sources": [
-      { "source": "Barista – Ritual Coffee (Mission)", "monthly_net": 1100 },
-      { "source": "Taschengeld Vater", "monthly_net": 300 }
-    ],
-    "expense_breakdown": {
-      "rent": 950,
-      "food": 200,
-      "transport": 100,
-      "misc_subscriptions": 100
-    }
+    "net_worth_approx": 5800000,
+    "note": "Nach Kova-Exit ($11.2M), Steuern, Anwälten und 3 Jahren London-Leben",
+    "salary_new_role": "Liverpool FC Sporting Director — Vertrag läuft"
   },
   "family": {
     "father": {
-      "name": "David Vance",
-      "age": 53,
-      "job": "Angel Investor, ehemaliger B2B-SaaS-Gründer (Exit $38M, 2019)",
-      "location": "Palo Alto, CA",
-      "relationship_to_noah": "distanziert, leicht enttäuscht vom Studienabbruch, achievement-fokussiert",
-      "gives_allowance": "$300/Monat – mit passiv-aggressiven Kommentaren"
+      "name": "Jim Cole",
+      "age": 57,
+      "job": "Regional Manager, Ryder System (Logistik), Atlanta",
+      "personality": "praktisch, risikofrei denkend, stolz aber nicht immer ausgedrückt",
+      "relationship_to_ethan": "war lange skeptisch gegenüber dem Startup-Weg, hat nie offen kritisiert — aber auch nie richtig geglaubt. Seit Kova-Exit: stiller, sichtbarer Stolz.",
+      "location": "Alpharetta, Georgia (Vorort Atlanta)"
     },
     "mother": {
-      "name": "Claire Vance",
-      "age": 51,
-      "job": "Ehem. Marketing Director, jetzt Charity-Arbeit & soziale Kreise",
-      "location": "Palo Alto, CA",
-      "relationship_to_noah": "liebevoll, aber passiv – hält sich aus Konflikten mit Vater raus"
+      "name": "Susan Cole",
+      "age": 55,
+      "job": "Biology Teacher, Gwinnett County High School",
+      "personality": "warmherzig, neugierig, folgt Ethans Karriere akribisch ohne es zu zeigen",
+      "relationship_to_ethan": "hat in der härtesten Phase (2019) angeboten Geld zu leihen — er hat abgelehnt. Dieses Angebot vergisst er nie.",
+      "location": "Alpharetta, Georgia"
     },
-    "siblings": [
-      {
-        "name": "Ashley Vance",
-        "age": 27,
-        "job": "Associate bei Vaters VC-Firm",
-        "education": "Harvard MBA",
-        "allowance": "$3000/Monat + kostenfreie Firmenwohnung",
-        "dynamic": "Vaters klarer Favorit – Noah-Vergleichsobjekt Nr. 1"
-      },
-      {
-        "name": "Tyler Vance",
-        "age": 19,
-        "job": "Stanford Freshman",
-        "allowance": "$2500/Monat",
-        "dynamic": "Verwöhnt, locker – bekommt alles ohne Druck"
-      }
-    ]
-  },
-  "relationships": {
-    "roommate": {
-      "name": "Marcus Webb",
-      "age": 24,
-      "job": "Freelance Graphic Designer",
-      "dynamic": "entspannt, guter Kumpel, verlässlich"
-    },
-    "best_friend": {
-      "name": "Jordan Lee",
-      "age": 23,
-      "job": "Operations bei Fintech-Startup (Frühphase)",
-      "dynamic": "ambitioniert, macht manchmal Noah das Gefühl er hängt hinterher – aber loyal"
-    },
-    "romantic_interest": {
-      "name": "Emma Torres",
-      "age": 22,
-      "job": "UX Design Intern bei Startup",
-      "status": "casual – seit 2 Monaten, nicht offiziell, Chemie vorhanden",
-      "dynamic": "keiner hat die Beziehung bisher definiert"
-    },
-    "network_contact": {
-      "name": "Priya Sharma",
-      "age": 26,
-      "job": "Senior Product Manager (ehemaliger SaaS-Startup-Kontakt)",
-      "dynamic": "professionelle Bekanntschaft, könnte Türen öffnen"
+    "sister": {
+      "name": "Megan Cole",
+      "age": 31,
+      "job": "Pharmacist, Charlotte, NC",
+      "personality": "bodenständig, zufrieden, leicht neidisch auf Ethans Leben — aber ehrlich genug das zuzugeben",
+      "relationship_to_ethan": "beste Zuhörerin wenn er zweifelt. Hat ihm in 2019 $800 überwiesen ohne zu fragen."
     }
   },
-  "career": {
-    "current_jobs": [
-      {
-        "title": "Barista",
-        "company": "Ritual Coffee, Mission District",
-        "hours_per_week": 20,
-        "status": "aktiv"
-      }
-    ],
-    "last_gig": {
-      "title": "Social Media & Content",
-      "company": "kleines SaaS-Startup (anonym)",
-      "ended": "2026-05-11",
-      "note": "Vertrag lief aus, kein Angebot zur Verlängerung"
+  "career_history": [
+    {
+      "role": "Gründer & CEO",
+      "company": "Kova",
+      "period": "2016–2022",
+      "summary": "Youth-football analytics platform. Exit an Genius Sports für $11.2M."
     },
-    "actively_looking": true
+    {
+      "role": "Strategic Advisor",
+      "company": "Genius Sports",
+      "period": "2022 (6 Monate)",
+      "summary": "Teil des Exit-Deals. Konzernleben passte nicht."
+    },
+    {
+      "role": "Partner (Projektbasis)",
+      "company": "Stratos Sports Advisory, London",
+      "period": "2023–2026",
+      "key_projects": [
+        "VfL Bochum (Bundesliga) — Scouting-Infrastruktur, Abstiegsrettung",
+        "Stade de Reims (Ligue 1) — Transfer Valuation Framework, +€5.5M Mehrerlös",
+        "Preston North End (Championship) — Jugend-Pipeline, FSG-Netzwerk aufmerksam"
+      ]
+    },
+    {
+      "role": "Sporting Director",
+      "company": "Liverpool Football Club",
+      "period": "2026–",
+      "start_date": "2026-06-01",
+      "note": "Heute. Erster Tag."
+    }
+  ],
+  "relationships": {
+    "manager": {
+      "name": "Arne Slot",
+      "role": "Head Coach, Liverpool FC",
+      "dynamic": "noch unbekannt — erstes richtiges Gespräch steht aus"
+    },
+    "mentor": {
+      "name": "Isabelle Fontaine",
+      "role": "Gründerin Stratos Sports Advisory",
+      "dynamic": "hat ihm die Beratungskarriere ermöglicht, respektiert seinen Abgang zu Liverpool"
+    },
+    "network": {
+      "name": "Robert Callaghan",
+      "role": "Business Angel, Manchester",
+      "dynamic": "hat Kova gerettet — Ethan schuldet ihm nichts formal, aber moralisch alles"
+    },
+    "fsg_contact": {
+      "name": "Michael Edwards",
+      "role": "Senior Advisor, FSG",
+      "dynamic": "hat Ethan ins System gebracht. Vertrauensverhältnis, aber klare Erwartungen."
+    }
+  },
+  "current_situation": {
+    "date": "2026-06-01",
+    "location": "Liverpool — Hotel nahe Anfield, zieht nächste Woche in gemietetes Apartment",
+    "mood": "fokussiert, leicht aufgeregt, weiß wie viel auf dem Spiel steht",
+    "immediate_priorities": "TODO — Liverpool-Recherche ausstehend",
+    "open_threads": [
+      "Erste Begegnung mit Arne Slot",
+      "Vertragssituationen Schlüsselspieler prüfen",
+      "Transferfenster Juli öffnet in 30 Tagen",
+      "Pressekonferenz heute Nachmittag"
+    ]
   },
   "history": []
 }

@@ -1,5 +1,5 @@
 # Privatleben — Ethan Cole
-## Stand: 1. Juni 2026
+## Stand: 7. Juni 2026
 
 ---
 
@@ -12,7 +12,8 @@
 | Miete | Wird vom Klub übernommen — £3,000/Monat für 12 Monate |
 | Eigentum | Noch kein Hauskauf geplant (bewusste Entscheidung) |
 | Bisherige Heimat | Shoreditch, London (Apartment aufgegeben) |
-| Auto | Car Allowance £1,200/Monat — noch kein Auto gekauft |
+| Auto | **Porsche Taycan 4S Sport Turismo**, Gentian Blue Metallic, ~£102,000. PCP geplant (~£2,000/Monat). Car Allowance £1,200 deckt Großteil. Händler-Call Montag 09.06. |
+| Apartment-Einrichtung | Budget £50,000. Megan koordiniert Familie (Jim, Susan). Grundriss Montag schicken. Umzug ~8. Juni. |
 
 ---
 

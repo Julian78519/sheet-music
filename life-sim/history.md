@@ -55,3 +55,9 @@ Start: 1. Juni 2026.
 
 ## Tag 1 — 1. Juni 2026
 Pressekonferenz Anfield. Familie angereist. Simulation läuft.
+
+## Tag 6 — 6. Juni 2026 (Abend)
+- Transfertag: Agentengespräche Etzel/Pinho/Mendes/CAA Stellar. FSG-Meeting Inácio als Primärziel LCB.
+- El Khannouss Deal in Principle mit Leicester (£32M+Boni). Ethan ruft Bilal persönlich an — noch vor Leicester. Alonso tief beeindruckt: *"Good night, Ethan."*
+- Privat: Auto-Entscheidung — Porsche Taycan 4S Sport Turismo, Gentian Blue, ~£102k. Händler Montag.
+- Apartment Woolton Village: Umzug ~8. Juni. Familie übernimmt Einrichtung, Budget £50k. Megan koordiniert.

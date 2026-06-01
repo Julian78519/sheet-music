@@ -1,5 +1,5 @@
 # SESSION HANDOFF — Für neuen Claude Chat
-## Zuletzt aktualisiert: 06. Juni 2026
+## Zuletzt aktualisiert: 07. Juni 2026
 
 ---
 
@@ -19,39 +19,36 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 
 ---
 
-## AKTUELLER STAND — 06. Juni 2026 (Tag 6)
+## AKTUELLER STAND — 07. Juni 2026 (Tag 7)
 
-### Was heute passiert ist:
+### Was am 06.06. Abend passiert ist:
 1. **Xabi Alonso** ist Head Coach — Vertrag unterzeichnet 03.06.
 2. **Transferstrategie** mit Alonso erarbeitet: 3-4-2-1 System
-3. **Agentengespräche heute (06.06.):**
+3. **Agentengespräche (06.06.):**
    - Björn Etzel (Schlotterbeck): €58M Release bestätigt, Lohnlücke £50k/Woche → geparkt bis 1. Juli
    - Miguel Pinho (Inácio): €45-52M, Treffen nach WM vereinbart, Alonso kommt mit
    - Jorge Mendes (Adeyemi): €65M + £130k/Woche → zu teuer, abgehakt
    - CAA Stellar (Gnonto): £16-18M, £70-75k/Woche, wartet auf Alonso-Gespräch
-4. **FSG-Meeting** (Gordon + Alonso + Ethan): Entscheidung für **Gonçalo Inácio** als Primärziel LCB
-5. **Leicester City call** (club-to-club): **El Khannouss für £32M + Boni bis £36M — Deal in Principle.** Leicester Legal schickt Vertrag Montag.
-6. **Bilal El Khannouss** persönlich angerufen — noch vor Leicester. Hat ihn tief beeindruckt.
-7. **Xabi Alonso** nach dem Bilal-Call: *"I have never seen a Sporting Director call the player before his own club. Why did you do that?"*
+4. **FSG-Meeting**: Gonçalo Inácio als Primärziel LCB bestätigt
+5. **El Khannouss** — Deal in Principle £32M+Boni. Leicester Legal schickt Vertrag Montag.
+6. **Bilal persönlich angerufen** — noch vor Leicester. Tief beeindruckt. Alonso-Reaktion: *"Good night, Ethan."*
+7. **Freitagabend — Private Entscheidungen:**
+   - **Auto:** Porsche Taycan 4S Sport Turismo, Gentian Blue Metallic, ~£102,000. Händler Montag anrufen.
+   - **Apartment Woolton Village:** Umzug ~8. Juni. Familie (Megan koordiniert) übernimmt Einrichtung. Budget: £50,000.
+   - **Megan:** Grundriss Montag schicken. Jim googelt bereits Woolton Village.
 
 ---
 
-## LETZTE DREI EXCHANGES (Simulation)
+## LETZTE EXCHANGES (Simulation)
 
-### Exchange 1 — Ethan ruft Bilal an
-**Ethan:** *(nach Deal in Principle mit Leicester)* Ruft Bilal direkt an — vor dessen eigenem Klub. Informiert ihn persönlich: Liverpool hat Einigung mit Leicester, Alonso ist begeistert, hofft auf guten Vertrag, freut sich auf die Zukunft.
+### Freitagabend — Alonso Reaktion auf Bilal-Call
+**Alonso:** *"Ethan. Seriously. Why did you do that? I've been in football twenty-five years. I have never seen a Sporting Director call the player before his own club."*
+**Ethan:** Erklärt 2019-Moment. *"A player who feels wanted plays differently."*
+**Alonso:** Nickt. *"Good night, Ethan."*
 
-**Bilal:** *"You called me first. Before Leicester. Before my agent."* — Pause — *"Xabi Alonso. I watched everything he did at Leverkusen... And you're telling me he's excited about me."* Lacht ungläubig. Sagt er will nicht schwierig sein, will Fußball spielen. *"Mr. Cole — you go to sleep. It's Friday evening. You've done enough today."*
-
-### Exchange 2 — Alonso Reaktion auf Bilal-Call
-**Alonso:** *(hatte Schluss des Gesprächs mitbekommen)* *"Ethan. Seriously. Why did you do that? I've been in football twenty-five years. As a player, as a coach. I have never seen a Sporting Director call the player before his own club."*
-
-**Ethan:** Erklärt: 2019, Atlanta, wartete auf einen Anruf der alles ändern würde. *"A player who feels wanted plays differently. You know that better than anyone."*
-
-**Alonso:** Schweigt. Nickt einmal. Dreht sich an der Tür um: *"Good night, Ethan."*
-
-### Exchange 3 — Ethan fragt nach To-Do + Portfolio
-Der Spieler hat gefragt: Geschäftliche und private To-Do Liste, privates Konto, Aktienportfolio. Das Portfolio wird gerade aufgebaut — Ethan hat aus dem Kova-Exit (~$11.2M brutto) nach Steuern und Ausgaben ~£5.89M übrig. Investmentstrategie bisher ungeklärt (alles in Cash). Spieler möchte nun ein realistisches Portfolio retroaktiv erstellen inkl. Hauskauf für Eltern, Beitrag für Schwester und US-Auto.
+### Freitagabend — Familie, Auto, Apartment
+Ethan WhatsAppt Megan wegen Apartment-Einrichtung. Budget: £50k. Megan: *"I'm calling Mom."* Jim googelt Woolton. Susan: *"Those fans love that club so much."* — Wärme pur.
+Auto-Entscheidung: Porsche Taycan 4S Sport Turismo. Händler Montag.
 
 ---
 

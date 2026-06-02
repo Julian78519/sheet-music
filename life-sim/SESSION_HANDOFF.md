@@ -57,15 +57,21 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 
 ---
 
-## DAVE HENDRY — MONTAG-LISTE
+## MEETINGS — BESTÄTIGT
+
+| Datum | Wer | Wo | Thema |
+|-------|-----|----|-------|
+| **Mo. 15. Juni** | Jean-Marc Sesay + Abdoulaye Faye | Liverpool | Faye-Transfer. Low key. £65-70k/Woche, 20-25 Spiele Spielzeit erwartet. Fee Ziel £7-8.5M. |
+| **Fr. 27. Juni** | Miguel Pinho + Gonçalo Inácio | USA (Stadt TBC) | Inácio-Transfer. Alonso kommt mit. Ziel £49-51M. |
+
+## MONTAG 08.06. — CALLS (Ethan selbst)
 
 | Zeit | Aufgabe |
 |------|---------|
-| 09:00 | El Khannouss Vertrag — Leicester Legal |
-| 09:30 | Faye-Agent — Ziel £7-7.5M |
-| 10:00 | Roma — Tsimikas kaufen? Ziel £20-22M |
-| 10:30 | Stuttgart — Mittelstädt anfragen |
-| 11:00 | PSG — Gonçalo Ramos Leihe + Kaufoption |
+| ✅ 09:30 | Faye-Agent Sesay — Meeting 15. Juni bestätigt |
+| 10:00 | Roma — Tsimikas |
+| 10:30 | Stuttgart — Mittelstädt |
+| 11:00 | PSG — Gonçalo Ramos |
 
 ---
 

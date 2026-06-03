@@ -106,7 +106,7 @@
 ### Abgänge (in Arbeit / geplant)
 | Spieler | Käufer | Ziel-Fee | Status |
 |---------|--------|----------|--------|
-| Cody Gakpo | Al-Hilal | £48-50M | Gegenangebot £54M raus. Gakpo Rückruf Mittwoch. |
+| Cody Gakpo | Al-Hilal | £51M ✅ | **DEAL. £35M sofort + £12M nach 12M + Add-Ons. Gakpo wird Mittwoch informiert.** |
 | Alexis Mac Allister | offen | £35-45M | Agent ruhig informieren — Angebote anhören |
 | Federico Chiesa | offen | £10-15M | Sofort auf Markt bringen |
 | Konstantinos Tsimikas | AS Roma | £20M ✅ | **DEAL. £15M sofort, £5M Januar. Legal heute.** |

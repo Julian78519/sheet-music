@@ -49,7 +49,7 @@
 |---|------|------|------|-------|------|-------------|------------|-----------|--------|
 | 7 | Florian Wirtz | 🇩🇪 | Mai 2003 | 23 | CAM/LW | 2030 | £200k | ~€120M | Signing Sommer 2024 (Leverkusen, £116M). Bester Spieler im Kader. Schlüssel zum System |
 | 11 | Mohamed Salah | 🇪🇬 | Jun 1992 | 33 | RW | ~~2027~~ | £400k | — | ⛔ BESTÄTIGT ABGANG — letztes Vertragsjahr aufgelöst. Spart £27.8M. Destination: Saudi-Arabien |
-| 18 | Cody Gakpo | 🇳🇱 | Mai 1999 | 27 | LW/FW | 2030 | ~£95k | ~€50M | Unterschätzter Spieler. Vielseitig, verlässlich. Wichtig |
+| 18 | Cody Gakpo | 🇳🇱 | Mai 1999 | 27 | LW/FW | — | — | — | ✅ **VERKAUFT an Al-Hilal. £51M. 08.06.2026. Spieler wird Mittwoch informiert.** |
 | 14 | Federico Chiesa | 🇮🇹 | Okt 1997 | 28 | RW/LW | 2028 | ~£80k | ~€18M | ⚠️ Abgang erwartet. Hat sich nie wirklich durchgesetzt |
 | 9 | Alexander Isak | 🇸🇪 | Sep 1999 | 26 | ST | ~2031 | £280k | ~€100M | ✅ **FIT. Fibula-Fraktur Dez 2025 — vollständig erholt. Aktuell mit Schweden bei der WM 2026. Bereit für Pre-Season.** |
 | 22 | Hugo Ekitike | 🇫🇷 | Jun 2002 | 23 | ST | ~2031 | ~£130k | ~€45M | 🔴 **Achillessehne Jan 2026. Rückkehr Oktober/November 2026. Saisonstart verpasst.** |

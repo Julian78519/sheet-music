@@ -68,14 +68,15 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 | **Mo. 15. Juni** | Jean-Marc Sesay + Abdoulaye Faye | Liverpool | Faye-Transfer. Low key. £65-70k/Woche, 20-25 Spiele Spielzeit erwartet. Fee Ziel £7-8.5M. |
 | **Fr. 27. Juni** | Miguel Pinho + Gonçalo Inácio | USA (Stadt TBC) | Inácio-Transfer. Alonso kommt mit. Ziel £49-51M. |
 
-## MONTAG 08.06. — CALLS (Ethan selbst)
+## DEALS ABGESCHLOSSEN — 08. Juni 2026
 
-| Zeit | Aufgabe |
-|------|---------|
-| ✅ 09:30 | Faye-Agent Sesay — Meeting 15. Juni bestätigt |
-| ✅ 10:00 | Roma — Tsimikas — **DEAL. £20M. £15M sofort, £5M Januar.** |
-| ✅ 10:30 | Stuttgart — Mittelstädt — **DEAL. £22M + 5% Sell-On.** |
-| ✅ 11:00 | PSG — Ramos — **DEAL. £3M Leihgebühr + 50% Lohn + £23M Kaufoption (bis 30.06.2027).** |
+| | Deal | Fee | Details |
+|--|------|-----|---------|
+| ✅ | Tsimikas → AS Roma | £20M | £15M sofort + £5M Januar |
+| ✅ | Mittelstädt ← Stuttgart | £22M | + 5% Sell-On |
+| ✅ | Ramos ← PSG (Leihe) | £3M + 50% Lohn | Kaufoption £23M bis 30.06.2027 |
+| ✅ | Gakpo → Al-Hilal | £51M | £35M sofort + £12M nach 12M + Add-Ons. Mittwoch Gakpo informieren. |
+| 🎁 | Bonus | — | Krug Clos d'Ambonnay 2002 + Dom Pérignon P3 Rosé (~£6,650). Geschenk von Al-Hilal. |
 
 ---
 

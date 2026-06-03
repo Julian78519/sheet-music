@@ -69,7 +69,7 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 | Zeit | Aufgabe |
 |------|---------|
 | ✅ 09:30 | Faye-Agent Sesay — Meeting 15. Juni bestätigt |
-| 10:00 | Roma — Tsimikas |
+| ✅ 10:00 | Roma — Tsimikas — **DEAL. £20M. £15M sofort, £5M Januar.** |
 | 10:30 | Stuttgart — Mittelstädt |
 | 11:00 | PSG — Gonçalo Ramos |
 

@@ -34,7 +34,7 @@
 
 | # | Name | Nat. | Geb. | Alter | Pos. | Vertrag bis | Lohn/Woche | Marktwert | Status |
 |---|------|------|------|-------|------|-------------|------------|-----------|--------|
-| 38 | Ryan Gravenberch | 🇳🇱 | Mai 2002 | 24 | CM/DM | **2032** | £280k | ~€90M | Langzeitvertrag. Bester Mittelfeldspieler. Schlüsselspieler |
+| 19 | Harvey Elliott | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Apr 2003 | 23 | AM/CM | 2027 | ~£60k | ~€25M | **LEIHE ASTON VILLA ENDET Jun 2026 — kehrt zurück.** Alonso: Pre-Season abwarten, dann entscheiden. Nicht verkaufen. 28 Spiele, 6T, 9A bei Villa. |
 | 10 | Alexis Mac Allister | 🇦🇷 | Dez 1998 | 27 | CM | 2028 | ~£150k | ~€45M | ⚠️ Katastrophensaison 2025/26. Zukunft fraglich. Verkaufskandidat? |
 | 8 | Dominik Szoboszlai | 🇭🇺 | Okt 2000 | 25 | CM/CAM | 2028 | ~£130k | ~€55M | Stark wenn richtig eingesetzt. Braucht System das zu ihm passt |
 | 17 | Curtis Jones | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Okt 1999 | 26 | CM | 2027 | ~£90k | ~€25M | Gut, aber kein Führungsspieler. Vertrag läuft 2027 — entscheiden |

@@ -117,7 +117,7 @@
 |---------|-----|--------|
 | El Khannouss (Leicester) | £32-36M | Vertrag Montag |
 | Inácio (Sporting CP) | ~£50M | Meeting 27. Juni US |
-| Mittelstädt (Stuttgart) | ~£18-22M | Anfrage Montag |
+| Mittelstädt (Stuttgart) | £22M ✅ | **DEAL. + 5% Sell-On. 08.06.2026.** Persönliche Vertragsbedingungen noch offen — diese Woche. |
 | Faye (Leverkusen) | ~£7-7.5M | Agent Montag |
 | Gonçalo Ramos (PSG, Leihe) | ~£3-5M Leihe | Hendry → PSG Montag |
 | **GESAMT** | **~£110-121M** | |

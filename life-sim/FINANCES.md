@@ -119,7 +119,7 @@
 | Inácio (Sporting CP) | ~£50M | Meeting 27. Juni US |
 | Mittelstädt (Stuttgart) | £22M ✅ | **DEAL. + 5% Sell-On. 08.06.2026.** Persönliche Vertragsbedingungen noch offen — diese Woche. |
 | Faye (Leverkusen) | ~£7-7.5M | Agent Montag |
-| Gonçalo Ramos (PSG, Leihe) | ~£3-5M Leihe | Hendry → PSG Montag |
+| Gonçalo Ramos (PSG, Leihe) | £3M + 50% Lohn ✅ | **DEAL. Kaufoption £23M bis 30.06.2027. 08.06.2026.** Persönliche Konditionen + Vertrag noch offen. |
 | **GESAMT** | **~£110-121M** | |
 
 ---

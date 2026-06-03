@@ -61,7 +61,10 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 
 | Datum | Wer | Wo | Thema |
 |-------|-----|----|-------|
-| **Diese Woche** | Mittelstädt + Agent | Liverpool/Remote | Persönliche Vertragsbedingungen aushandeln. Gehalt, Laufzeit, Boni. |
+| **Diese Woche** | Mittelstädt + Agent | Liverpool/Remote | Persönliche Vertragsbedingungen: Gehalt, Laufzeit, Boni, Ausstiegsklausel. |
+| **Diese Woche** | Ramos + Agent (PSG) | Liverpool/Remote | Persönliche Konditionen Leihe: Gehalt (50% PSG, 50% LFC), Laufzeit, Kaufoption erklären. |
+| **Diese Woche** | El Khannouss + Agent | Liverpool/Remote | Leicester-Vertrag prüfen + persönliche Konditionen finalisieren. |
+| **15. Juni** | Faye + Sesay | Liverpool | Persönliche Konditionen + Fee finalisieren. |
 | **Mo. 15. Juni** | Jean-Marc Sesay + Abdoulaye Faye | Liverpool | Faye-Transfer. Low key. £65-70k/Woche, 20-25 Spiele Spielzeit erwartet. Fee Ziel £7-8.5M. |
 | **Fr. 27. Juni** | Miguel Pinho + Gonçalo Inácio | USA (Stadt TBC) | Inácio-Transfer. Alonso kommt mit. Ziel £49-51M. |
 
@@ -72,7 +75,7 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 | ✅ 09:30 | Faye-Agent Sesay — Meeting 15. Juni bestätigt |
 | ✅ 10:00 | Roma — Tsimikas — **DEAL. £20M. £15M sofort, £5M Januar.** |
 | ✅ 10:30 | Stuttgart — Mittelstädt — **DEAL. £22M + 5% Sell-On.** |
-| 11:00 | PSG — Gonçalo Ramos |
+| ✅ 11:00 | PSG — Ramos — **DEAL. £3M Leihgebühr + 50% Lohn + £23M Kaufoption (bis 30.06.2027).** |
 
 ---
 

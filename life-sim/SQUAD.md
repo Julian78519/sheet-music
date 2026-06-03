@@ -51,8 +51,8 @@
 | 11 | Mohamed Salah | 🇪🇬 | Jun 1992 | 33 | RW | ~~2027~~ | £400k | — | ⛔ BESTÄTIGT ABGANG — letztes Vertragsjahr aufgelöst. Spart £27.8M. Destination: Saudi-Arabien |
 | 18 | Cody Gakpo | 🇳🇱 | Mai 1999 | 27 | LW/FW | 2030 | ~£95k | ~€50M | Unterschätzter Spieler. Vielseitig, verlässlich. Wichtig |
 | 14 | Federico Chiesa | 🇮🇹 | Okt 1997 | 28 | RW/LW | 2028 | ~£80k | ~€18M | ⚠️ Abgang erwartet. Hat sich nie wirklich durchgesetzt |
-| 9 | Alexander Isak | 🇸🇪 | Sep 1999 | 26 | ST | ~2031 | £280k | ~€100M | Rekordsigning (Newcastle, ~£155M, Sep 2025). Fibula-Fraktur Dez 2025. Fit für Saisonstart? Unklar |
-| 22 | Hugo Ekitike | 🇫🇷 | Jun 2002 | 23 | ST | ~2031 | ~£130k | ~€45M | Signing Sommer 2025 (Frankfurt, £79M). ⛔ Riss Achillessehne. Monatelang aus |
+| 9 | Alexander Isak | 🇸🇪 | Sep 1999 | 26 | ST | ~2031 | £280k | ~€100M | ✅ **FIT. Fibula-Fraktur Dez 2025 — vollständig erholt. Aktuell mit Schweden bei der WM 2026. Bereit für Pre-Season.** |
+| 22 | Hugo Ekitike | 🇫🇷 | Jun 2002 | 23 | ST | ~2031 | ~£130k | ~€45M | 🔴 **Achillessehne Jan 2026. Rückkehr Oktober/November 2026. Saisonstart verpasst.** |
 | 67 | Rio Ngumoha | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Nov 2007 | 18 | LW/RW | 2028 | ~£10k | ~€8M | Akademie-Juwel. Hat in Pre-Season aufgezeigt (Tor + Assist vs. Athletic Bilbao) |
 
 ---

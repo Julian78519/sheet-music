@@ -70,3 +70,13 @@ Pressekonferenz Anfield. Familie angereist. Simulation läuft.
 - Tsimikas (Leihe Roma) als Verkaufskandidat entdeckt — Ziel £20-22M. Hendry → Roma Montag.
 - Backup Striker: Gonçalo Ramos (PSG, 24) — Leihe + Kaufoption. Kolo Muani verworfen. Hendry → PSG Montag.
 - Finanzbild: Ausgaben ~£110-122M, Einnahmen ~£113-132M. Netto nahezu ausgeglichen.
+
+## Tag 8–9 — 8./9. Juni 2026 (Sonntag/Montag) — Deals + Umzug
+- Deals abgeschlossen (08.06.): Tsimikas → Roma £20M, Mittelstädt ← Stuttgart £22M, Ramos ← PSG (Leihe £3M + Kaufoption £23M), Gakpo → Al-Hilal £51M.
+- Apartment Woolton Village bezogen. Megan hat eingerichtet (Budget £50k, final £52.4k — Lampe). Wirkt wie ein echtes Zuhause.
+- Dienstag morgen (09.06.): Nachrichten — Ornstein Podcast-Clip. Romano/Ornstein/Sky berichten über Gakpo-Deal (Zahl ~£50M kursiert).
+
+## Tag 10 — 10. Juni 2026 (Mittwoch) — ABGESCHLOSSEN
+- **Gakpo-Call (10:47 Uhr):** Ethan informiert Gakpo offiziell. Fee: £51M. Gakpo: ruhig, professionell, erleichtert. *"I leave with my head up. That matters."* — Al-Hilal wird sich direkt melden.
+- **Abend (Dienstag, 09.06.) — The Philharmonic, Hope Street:** Bier mit Xabi Alonso. Kein Agenda-Meeting. Gespräch über Kova-Exit, Rentenpause Alonso, Van Dijk, Wirtz als "Seele des Kaders". Verbindung vertieft.
+- **Van Dijk Meeting (14:30, AXA TR):** Ethan + Alonso + Van Dijk. Thema: Vertragsverlängerung. Ethan schlug "Average Rating" als Trigger vor — Van Dijk lehnte ab (zu mechanisch). Einigung: **Ende Saison 2026/27 — ehrliches Gespräch zu dritt. Alle drei sagen ja → Verlängerung bis 2028. Handshake-Deal.** Van Dijk beim Rausgehen: *"Make Inácio happen. I can't do this alone."*

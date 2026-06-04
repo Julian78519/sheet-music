@@ -1,5 +1,5 @@
 # SESSION HANDOFF — Für neuen Claude Chat
-## Zuletzt aktualisiert: 11. Juni 2026
+## Zuletzt aktualisiert: 13. Juni 2026
 
 ---
 
@@ -19,23 +19,26 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 
 ---
 
-## AKTUELLER STAND — 11. Juni 2026 (Tag 11)
+## AKTUELLER STAND — 13. Juni 2026 (Tag 13)
 
-### Deals abgeschlossen (08.–10.06.)
-1. ✅ **Tsimikas → AS Roma** — £20M (£15M sofort + £5M Januar)
+### Deals abgeschlossen (08.–13.06.)
+1. ✅ **Tsimikas → AS Roma** — £20M
 2. ✅ **Mittelstädt ← Stuttgart** — £22M + 5% Sell-On
-3. ✅ **Ramos ← PSG (Leihe)** — £3M + 50% Lohn. Kaufoption £23M bis 30.06.2027
-4. ✅ **Gakpo → Al-Hilal** — £51M (£35M sofort + £12M nach 12M + Add-Ons). Gakpo 10.06. informiert. Al-Hilal kontaktiert ihn direkt.
-5. ✅ **Van Dijk Verlängerung (informell)** — Handshake-Deal. Ende Saison 2026/27: ehrliches Gespräch zu dritt (Ethan + Alonso + VvD). Alle drei sagen ja → bis 2028.
+3. ✅ **Ramos ← PSG (Leihe)** — £3M + Kaufoption £23M
+4. ✅ **Gakpo → Al-Hilal** — £51M
+5. ✅ **El Khannouss ← Leicester** — £32M + £3M Add-On. £110k/W, 5J.
+6. ✅ **Chiesa → Juventus** — £22M + £1.5M Add-Ons. Romano bestätigt 13.06.
+7. ✅ **Van Dijk Verlängerung (informell)** — Handshake. Ende Saison → bis 2028.
+8. 🟠 **Mac Allister → Atlético Madrid** — Gegenangebot £52M. Antwort Montag.
 
 ### Privatleben
-- Apartment Woolton Village bezogen. Megan hat eingerichtet (£52.4k final). Miete £2,800/Monat, Liverpool zahlt £3,000 für 12 Monate.
-- Porsche Taycan 4S Sport Turismo (Gentian Blue) — Lieferung Dienstag 10:00 ✅
+- Apartment Woolton Village bezogen. £2,800/Monat, Liverpool zahlt £3,000 für 12 Monate.
+- Porsche Taycan 4S Sport Turismo (Gentian Blue) — geliefert ✅
 
 ### Beziehungen vertieft
-- **Alonso:** Bier im Philharmonic (Di. Abend). Kein Agenda-Meeting. Echtes Gespräch. Wirtz = "the soul." Verbindung stark.
-- **Van Dijk:** Respekt bestätigt. *"Make Inácio happen."*
-- **Gakpo:** Sauberer Abschluss. *"I leave with my head up."*
+- **Alonso:** Bier im Philharmonic. Wirtz = "the soul."
+- **Van Dijk:** Handshake-Deal. *"Make Inácio happen."*
+- **El Khannouss:** *"Thank you for calling me yourself. That meant something."*
 
 ---
 
@@ -43,11 +46,11 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 
 | Datum | Wer | Wo | Thema |
 |-------|-----|----|-------|
-| **Diese Woche** | Mittelstädt + Agent | Liverpool/Remote | Persönliche Vertragsbedingungen: Gehalt, Laufzeit, Boni, Ausstiegsklausel. |
-| **Diese Woche** | Ramos + Agent (PSG) | Liverpool/Remote | Persönliche Konditionen Leihe: Gehalt (50% PSG, 50% LFC), Laufzeit, Kaufoption erklären. |
-| **Diese Woche** | El Khannouss + Agent | Liverpool/Remote | Leicester-Vertrag prüfen + persönliche Konditionen finalisieren. |
-| **Mo. 15. Juni** | Jean-Marc Sesay + Abdoulaye Faye | Liverpool AXA | Faye-Transfer. Fee Ziel £7-8.5M. £65-70k/Woche, 20-25 Spiele Spielzeit erwartet. |
-| **Fr. 27. Juni** | Miguel Pinho + Gonçalo Inácio | USA (Stadt TBC) | Inácio-Transfer. Alonso kommt mit. Ziel £49-51M. |
+| **Diese Woche** | Mittelstädt + Agent | Remote | Persönliche Konditionen |
+| **Diese Woche** | Ramos + Agent | Remote | Leihe-Konditionen |
+| **Mo. 15. Juni** | Abdoulaye Faye + Sesay | Liverpool AXA | Fee £7-8.5M, £65-70k/Woche |
+| **27. Juni** | Pinho + Inácio + Alonso | USA (TBC) | Inácio-Transfer. Ziel £49-51M. |
+| **27. Juni** | El Khannouss + Alonso | USA (TBC) | Persönliches Gespräch vor Unterschrift |
 
 ## DEALS ABGESCHLOSSEN
 
@@ -57,22 +60,23 @@ Du reagierst dynamisch auf Entscheidungen, bringst externe Ereignisse ein, spiel
 | ✅ | Mittelstädt ← Stuttgart | £22M | + 5% Sell-On |
 | ✅ | Ramos ← PSG (Leihe) | £3M + 50% Lohn | Kaufoption £23M bis 30.06.2027 |
 | ✅ | Gakpo → Al-Hilal | £51M | £35M sofort + £12M nach 12M + Add-Ons |
-| ✅ | El Khannouss ← Leicester | £32M + £3M | £20M+£12M. Sell-On 7.5%. Persönlich: £110k/W, 5J, £250k Signing |
-| ✅ | Van Dijk | Handshake | Ende Saison Gespräch → Verlängerung bis 2028 |
+| ✅ | El Khannouss ← Leicester | £32M + £3M | Sell-On 7.5%. £110k/W, 5J, £250k Signing |
+| ✅ | Chiesa → Juventus | £22M + £1.5M | Add-Ons: Appearances + Europa. Medical Juli. |
+| ✅ | Van Dijk | Handshake | Ende Saison → Verlängerung bis 2028 |
 | 🎁 | Bonus Al-Hilal | — | Krug Clos d'Ambonnay 2002 + Dom Pérignon P3 Rosé (~£6,650) |
 
 ---
 
-## LETZTE EXCHANGES (Simulation)
+## LETZTE EXCHANGES
 
-### Gakpo-Call offiziell (10.06., 10:47)
-Ethan informiert Gakpo: £51M, Al-Hilal kontaktiert ihn direkt. Gakpo ruhig, professionell. *"I leave with my head up. That matters."* Sauberer Abschluss.
+### El Khannouss (11.06.)
+£110k/W, 5J, £250k Signing. Leicester: £22M+£3M, 7.5% Sell-On. Bilal: *"Thank you for calling me yourself."* Alonso-Meeting 27. Juni USA.
 
-### Bier mit Alonso — The Philharmonic (Di. Abend)
-Kein Agenda-Meeting. Gespräch über Kova-Exit, Alonsos Rentenpause, Van Dijk, Wirtz. Alonso: *"Wirtz is the soul. Everything else is structure."* Verbindung tief.
+### Chiesa / Juventus (12.–13.06.)
+Juventus Erstangebot £19M → Hendry kontert £24M → Einigung £22M + £1.5M Add-Ons. Romano bestätigt. *"Federico Chiesa to Juventus, here we go!"*
 
-### Van Dijk Meeting (Mi. 14:30, AXA)
-Ethan bot "Average Rating" als Verlängerungs-Trigger → Van Dijk lehnte ab. Einigung: Ende Saison alle drei zusammen, ehrliches Gespräch. Alle drei ja → bis 2028. Handshake. Van Dijk rausgehend: *"Make Inácio happen."*
+### Mac Allister / Atlético (13.06.)
+Atlético bietet £41M. Ethan: nicht akzeptieren. Gegenangebot £52M gesendet. Argument: WM-Gewinner, Systemfrage nicht Qualitätsfrage. Atlético: *"give us the weekend."*
 
 ---
 
@@ -80,21 +84,21 @@ Ethan bot "Average Rating" als Verlängerungs-Trigger → Van Dijk lehnte ab. Ei
 
 | Status | Aufgabe |
 |--------|---------|
-| ✅ | Xabi Alonso — Head Coach, Vertrag 03.06. |
-| ✅ | El Khannouss ← Leicester — KOMPLETT. £32M + £3M Add-On (35 PL Starts). £20M+£12M. Sell-On 7.5%. Persönlich: £110k/Woche, 5J, £250k Signing Bonus. Alonso-Meeting 27. Juni USA. |
-| ✅ | Gakpo → Al-Hilal — £51M. Spieler informiert 10.06. |
+| ✅ | Xabi Alonso — Head Coach |
+| ✅ | El Khannouss ← Leicester — KOMPLETT |
+| ✅ | Gakpo → Al-Hilal — £51M |
 | ✅ | Tsimikas → AS Roma — £20M |
-| 🟠 | Mittelstädt ← Stuttgart — £22M deal. Persönliche Konditionen: Meeting ausstehend. Ist bei Deutschland WM USA. |
-| ✅ | Ramos ← PSG (Leihe) — £3M + Kaufoption, persönliche Konditionen diese Woche |
-| ✅ | Van Dijk — Handshake-Deal. Gespräch Ende Saison → Verlängerung bis 2028 |
-| 🔴 | Inácio (Sporting CP) — Treffen 27. Juni USA, Alonso dabei. Barcelona-Gefahr. |
-| 🟠 | Chiesa — auf Markt. Lucci (Agent) kontaktiert. Italien NICHT qualifiziert — Chiesa persönlich am Boden. Erstes Interesse erwartet. |
-| 🟠 | Mac Allister — ruhig auf Markt bringen |
-| 🟠 | Faye (Leverkusen) — Meeting 15. Juni AXA |
-| 🟡 | Schlotterbeck — geparkt, Rückruf 1. Juli |
-| 🟡 | Gnonto — wartet auf Alonso-Gespräch |
-| 🟡 | Füllkrug (West Ham) — Milan-Leihe beendet, Check nötig |
-| 📋 | Isak Fitness — medizinischen Bericht anfordern |
+| ✅ | Chiesa → Juventus — £23.5M |
+| ✅ | Van Dijk — Handshake bis 2028 |
+| 🟠 | Mittelstädt — persönliche Konditionen ausstehend |
+| 🟠 | Ramos — persönliche Konditionen ausstehend |
+| 🟠 | Mac Allister → Atlético — £52M Gegenangebot. Montag Antwort. |
+| 🔴 | Inácio — 27. Juni USA. Alonso dabei. Barcelona-Gefahr. |
+| 🟠 | Faye — Meeting 15. Juni AXA |
+| 🟡 | Schlotterbeck — 1. Juli |
+| 🟡 | Gnonto — Alonso-Gespräch offen |
+| 🟡 | Füllkrug — Check nötig |
+| 📋 | Isak medizinischer Bericht |
 | 📋 | Alisson Verlängerung — mittelfristig |
 
 ---
@@ -105,27 +109,23 @@ Ethan bot "Average Rating" als Verlängerungs-Trigger → Van Dijk lehnte ab. Ei
 |--------|-------|---------|
 | Michael Gordon | FSG Owner | Vertraut Ethan, erwartet Ergebnisse |
 | Michael Edwards | FSG Advisor | Hat Ethan ins System gebracht |
-| Xabi Alonso | Head Coach | Sehr eng. Bier zusammen. Wirtz-Vision geteilt. |
-| Virgil van Dijk | Kapitän | Handshake-Deal. Respekt auf beiden Seiten. |
-| Miguel Pinho | Agent (Inácio) | Professionell, warm, gibt gute Ratschläge |
-| Björn Etzel | Agent (Schlotterbeck) | Ruhig, respektvoll, wartet auf 1. Juli |
-| Jorge Mendes | Agent (Adeyemi) | Höchst professionell, Deal-orientiert |
-| CAA Stellar | Agent (Gnonto) | Britische Großagentur, wartet auf Rückmeldung |
+| Xabi Alonso | Head Coach | Sehr eng. Bier Philharmonic. Wirtz-Vision geteilt. |
+| Virgil van Dijk | Kapitän | Handshake-Deal. Tiefer Respekt. |
+| Bilal El Khannouss | Neuzugang | *"Thank you for calling me yourself."* |
+| Miguel Pinho | Agent (Inácio) | Professionell, warm |
+| Björn Etzel | Agent (Schlotterbeck) | Wartet auf 1. Juli |
 
 ---
 
-## WICHTIGSTE DATEIEN IM REPOSITORY
+## WICHTIGSTE DATEIEN
 
-Lies diese Dateien wenn du Kontext brauchst:
-- `player.json` — Ethans Profil, Finanzen, open_threads, History
-- `TRANSFER_STRATEGY_2026.md` — Taktik + Transferplan
-- `SCOUTING_REPORTS.md` — Alle Spielerprofile mit Notizen
-- `KEY_AGENTS.md` — Alle Agentenkontakte
+- `player.json` — Ethans Profil
 - `FINANCES.md` — Klubfinanzen
-- `SQUAD.md` — Aktueller Kader
-- `PRIVATE_LIFE.md` — Ethans Privatleben + Investmentportfolio
+- `SQUAD.md` — Kader
+- `WM_2026.md` — Liverpool-Spieler beim Turnier
+- `PRIVATE_LIFE.md` — Privatleben
+- `SCOUTING_REPORTS.md` — Spielerprofile
 - `STAFF.md` — Liverpool Staff
-- `PREMIER_LEAGUE.md` — Alle 20 PL-Klubs 2026/27
 
 ---
 
@@ -133,7 +133,7 @@ Lies diese Dateien wenn du Kontext brauchst:
 
 - 29 Jahre, Atlanta, Georgia
 - Analytisch UND intuitiv — denkt schnell, handelt persönlich
-- Hat gelernt zu scheitern (2019 — Kova fast bankrott) und aufzustehen
+- Hat gelernt zu scheitern (2019) und aufzustehen
 - Ruhige Autorität — keine Lautstärke
 - Zahlt Dinge nicht mit Geld wenn er sie mit Menschlichkeit bezahlen kann
-- Isabelle Fontaine's letzte Botschaft: *"Think of yourself from 2019 when things get difficult."
+- Isabelle Fontaine: *"Think of yourself from 2019 when things get difficult."

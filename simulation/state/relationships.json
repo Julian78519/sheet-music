@@ -1,0 +1,9 @@
+{
+  "family": [],
+  "allies": [],
+  "rivals": [],
+  "mentors": [],
+  "media_contacts": [],
+  "party_members": [],
+  "notes": "Format je Person: { name, role, relationship_score (-100 bis 100), trust, notes }"
+}

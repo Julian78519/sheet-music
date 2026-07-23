@@ -1,0 +1,23 @@
+{
+  "party": null,
+  "party_wing": null,
+  "current_office": null,
+  "mandates": [],
+  "committees": [],
+  "metrics": {
+    "reputation_public": null,
+    "reputation_party_internal": null,
+    "media_sentiment": null,
+    "network_strength": null,
+    "poll_numbers": null
+  },
+  "political_positions": {
+    "economy": null,
+    "social": null,
+    "foreign_policy": null,
+    "environment": null,
+    "notes": "Skala: weit-links / links / mitte-links / mitte / mitte-rechts / rechts / weit-rechts"
+  },
+  "career_history": [],
+  "notes": "Wird nach dem Setup ausgefüllt"
+}

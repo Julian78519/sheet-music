@@ -1,0 +1,20 @@
+{
+  "current_date": null,
+  "location": {
+    "city": null,
+    "country": null
+  },
+  "government": {
+    "current_chancellor_or_pm": null,
+    "ruling_coalition": [],
+    "opposition": []
+  },
+  "next_election": null,
+  "event_frequency": null,
+  "time_pressure": {
+    "active": false,
+    "goal": null,
+    "deadline": null
+  },
+  "notes": "Wird nach dem Setup ausgefüllt"
+}

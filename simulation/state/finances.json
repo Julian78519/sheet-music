@@ -1,0 +1,14 @@
+{
+  "personal": {
+    "savings": null,
+    "debt": null,
+    "monthly_income": null,
+    "monthly_expenses": null
+  },
+  "political": {
+    "campaign_fund": null,
+    "party_resources_available": null,
+    "donors": []
+  },
+  "notes": "Wird nach dem Setup ausgefüllt"
+}

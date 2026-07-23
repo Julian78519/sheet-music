@@ -1,0 +1,18 @@
+{
+  "name": null,
+  "age": null,
+  "birthdate": null,
+  "gender": null,
+  "origin": {
+    "city": null,
+    "country": null
+  },
+  "education": null,
+  "profession_background": null,
+  "simulation_start_year": null,
+  "focus": null,
+  "style_tone": null,
+  "tabus": [],
+  "long_term_goals": [],
+  "notes": "Wird nach dem Setup ausgefüllt"
+}

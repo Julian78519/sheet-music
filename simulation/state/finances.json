@@ -1,37 +1,46 @@
 {
   "personal": {
-    "savings": 41500,
+    "savings": 67500,
     "currency": "EUR",
     "debt": 0,
     "assets": {
-      "description": "Gebrauchtwagen (VW Golf VIII, Wert ca. 18.000 EUR), keine Immobilien",
+      "description": "VW Golf VIII (Wert ~18.000 EUR), keine Immobilien",
       "vehicle_value": 18000
     },
     "monthly_income": {
-      "law_firm_salary": 3200,
-      "city_council_compensation": 1150,
-      "total_net": 4350
+      "landtag_diaeten_netto": 5800,
+      "kostenpauschale": 1200,
+      "total_net": 7000,
+      "notes": "Brutto-Diäten NRW ~€8.250/Monat. Abzüglich Steuern, Krankenversicherung und CDU-Mandatsbeitrag (~12%). Kostenpauschale steuerfrei."
     },
     "monthly_expenses": {
-      "rent": 1050,
-      "living": 800,
-      "car": 180,
-      "insurance_misc": 270,
-      "total": 2300
+      "miete_muenster": 1150,
+      "zweitwohnung_duesseldorf": 780,
+      "living": 900,
+      "car_transport": 220,
+      "insurance_misc": 280,
+      "total": 3330
     },
-    "monthly_savings_rate": 2050
+    "monthly_savings_rate": 3670
   },
   "political": {
-    "campaign_fund": 8200,
-    "party_resources_available": "moderat (CDU Münster: solide Finanzen, kein großer Wahlkampf aktuell)",
+    "campaign_fund": 14800,
+    "wahlkreisbuero_budget": "staatlich finanziert (Personal, Miete, Ausstattung)",
+    "party_resources_available": "CDU NRW Fraktion – solide Fraktionsressourcen",
     "donors": [
       {
         "name": "Karl-Heinz Brinkmann",
-        "relation": "Senior-Partner der Kanzlei, CDU-Mitglied, Stadtratsveteran",
+        "relation": "Ehem. Senior-Partner der Kanzlei, CDU-Mitglied, Förderer seit JU-Zeiten",
+        "amount_last_campaign": 5000,
+        "influence": "hoch, diskret"
+      },
+      {
+        "name": "Mittelstandsvereinigung CDU NRW",
+        "relation": "Politischer Verband, regelmäßige Wahlkampfunterstützung",
         "amount_last_campaign": 3000,
-        "influence": "hoch, aber diskret"
+        "influence": "mittel"
       }
     ]
   },
-  "notes": "Stand: 24. Juli 2026. Hartmann lebt solide, kein Luxus, kein Druck. Eigene Wohnung (Miete) in Münster-Mauritz."
+  "notes": "Stand: 24. Juli 2026. Hartmann lebt gut aber nicht verschwenderisch. Zweite Wohnung in Düsseldorf (Flingern, einfach) wegen Landtagssitzungen."
 }

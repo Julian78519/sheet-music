@@ -6,13 +6,15 @@
 
 ## 2026-07-24 – SIMULATIONSSTART
 
-**Jonas Hartmann**, 28, CDU-Stadtrat Münster (Oppositionsfraktion). Wirtschaftsrechtler bei Brinkmann & Partner.
+**Jonas Hartmann**, 28, MdL NRW (CDU-Fraktion). Verheiratet mit Sophie. Wirtschaftsrechtler (ohne aktives Kanzleimandat).
 
 **Politische Lage:**
-- Bund: Merz-Koalition (CDU/CSU + SPD), Spahn-Skandal dominiert diese Woche, AfD stärkste Umfragekraft (28%)
-- NRW: Wüst (CDU + Grüne), Landtagswahl in 9 Monaten (25.04.2027)
-- Münster: OB Fuchs (Grüne), CDU in der Opposition
+- Bund: Merz-Koalition (CDU/CSU + SPD). Spahn-Skandal dominiert. AfD 27-28% in Umfragen.
+- NRW: Wüst (CDU + Grüne). Landtagswahl 25. April 2027 – 9 Monate.
+- Münster: OB Fuchs (Grüne). CDU lokal in Opposition.
 
-**Offene Lage:**
-- Frei-Abstimmung als neuer CDU/CSU-Fraktionsvorsitzender: 29. Juli
-- NRW-Kandidatur Jonas': intern diskutiert, Entscheidung drängt
+**Jonas' offene Lage:**
+- Mail von Dr. Feldhaus (CDU-Kreisvorsitzende): „Ruf mich an." – Thema unklar.
+- Thorsten Frei Abstimmung als neuer CDU/CSU-Fraktionsvorsitzender: 29. Juli.
+- Direktkandidatur-Entscheidung für 2027 muss bis Herbst fallen.
+- Rivalisierung mit Carolin Siebert um Nominierung läuft im Hintergrund.

@@ -1,61 +1,70 @@
 {
   "party": "CDU",
   "party_wing": "Mitte / Wirtschaftsliberaler Flügel",
-  "current_office": "Mitglied des Rates der Stadt Münster (Oppositionsfraktion)",
+  "current_office": "Mitglied des Landtags NRW (MdL), CDU-Fraktion – Regierungskoalition",
+  "mandate_type": "Listenmandat (CDU NRW, Wahlkreis Münster). Kein Direktmandat bisher.",
   "mandates": [
     {
-      "title": "Stadtratsmitglied (CDU-Fraktion, Opposition)",
-      "since": "2021-10-01",
-      "note": "CDU seit 2025 in der Opposition – Grüne-SPD-Volt-Mehrheit regiert Münster"
+      "title": "MdL NRW (CDU-Fraktion)",
+      "since": "2022-06-28",
+      "term": "17. Wahlperiode NRW",
+      "note": "Jüngster CDU-MdL bei Einzug. Koalition: CDU + Grüne (Kabinett Wüst II)."
     }
   ],
   "committees": [
     {
-      "name": "Ausschuss für Wirtschaftsförderung und Stadtentwicklung",
-      "role": "Stellvertretender Vorsitzender (CDU-Vertreter)",
-      "since": "2023-01-15"
+      "name": "Ausschuss für Wirtschaft, Industrie, Klimaschutz und Energie",
+      "role": "Ordentliches Mitglied, faktischer CDU-Sprecher für Digitalisierung und Mittelstand",
+      "since": "2022-09-01"
     },
     {
-      "name": "Rechnungsprüfungsausschuss",
-      "role": "Ordentliches Mitglied",
-      "since": "2021-10-01"
+      "name": "Ausschuss für Digitalisierung und Innovation",
+      "role": "Stellvertretendes Mitglied",
+      "since": "2023-02-01"
     }
   ],
   "metrics": {
-    "reputation_public": 62,
-    "reputation_party_internal": 74,
-    "media_sentiment": 58,
-    "network_strength": 52,
-    "poll_numbers": null,
-    "notes": "Skala 0-100. Solide für sein Alter. Lokal bekannt, überregional unbekannt."
+    "reputation_public": 44,
+    "reputation_party_internal_nrw": 71,
+    "reputation_party_internal_bund": 18,
+    "media_sentiment": 62,
+    "network_strength": 58,
+    "notes": "Öffentlich: in NRW bekannt, bundesweit kaum. Partei-intern in NRW gut positioniert. Medien: positiv, vor allem WDR digital, WN, WAZ."
   },
   "political_positions": {
-    "economy": "Wirtschaftsliberal – Bürokratieabbau, Standortförderung, Entlastung Mittelstand. Gegen SPD-Forderung nach Reichensteuer.",
+    "economy": "Wirtschaftsliberal – Bürokratieabbau, Standortförderung, Entlastung Mittelstand. Gegen SPD-Reichensteuer.",
     "social": "Mitte – pragmatisch, keine Extrempositionen",
-    "foreign_policy": "Atlantisch, pro-EU, starke Bundeswehr, klare Russland-Haltung. Befürwortet Tomahawk-Beschaffung.",
-    "environment": "Technologieoffen – CO2-Preis als Steuerungsinstrument, offen für SMR/Kernenergie neue Generation, lehnt Verbote ab",
-    "migration": "Befürwortet Merz-Migrationswende. Findet AfD-Stärke in Umfragen beunruhigend.",
-    "housing": "Stadtentwicklung durch Flächenmobilisierung, weniger Regulierung, Bürokratieabbau beim Bauen",
-    "digitalization": "Schwerpunktthema – Smart City, KI, Verwaltungsdigitalisierung",
-    "scale": "Mitte-rechts, wirtschaftsliberaler Akzent"
+    "foreign_policy": "Atlantisch, pro-EU, starke Bundeswehr, klare Russland-Haltung",
+    "environment": "Technologieoffen – CO2-Preis als Instrument, offen für SMR, ablehnen von Verboten. Akzeptiert Koalitionskompromisse mit Grünen in NRW.",
+    "migration": "Befürwortet Merz-Migrationswende. AfD-Stärke beunruhigt ihn.",
+    "digitalization": "Kernthema – KI-Regulierung, Smart Cities, Verwaltungsdigitalisierung, Breitbandausbau",
+    "housing": "Flächenmobilisierung, Bürokratieabbau beim Bauen, weniger Regulierung",
+    "scale": "Mitte-rechts, wirtschaftsliberaler Akzent. Kein Wertkonservativer."
   },
   "career_history": [
     { "year": 2018, "event": "Eintritt CDU und Junge Union Münster" },
     { "year": 2020, "event": "Bezirksvorsitzender JU Münster-Ost" },
-    { "year": 2021, "event": "Erstmals in den Stadtrat gewählt (Direktmandat Mauritz)" },
-    { "year": 2023, "event": "Stellv. Ausschussvorsitz Wirtschaftsförderung" },
-    { "year": 2025, "event": "Stadtrat wiedergewählt (+4,1%). CDU trotzdem in Opposition (Grüne-SPD-Volt-Mehrheit)." }
+    { "year": 2021, "event": "Listenplatz CDU NRW – ursprünglich aussichtslos" },
+    { "year": 2022, "event": "NRW-Wahl: CDU-Stärke trägt Jonas über Liste in den Landtag. Jüngster CDU-MdL. Examen parallel." },
+    { "year": 2023, "event": "Zweites Staatsexamen abgelegt. Profilierung im Digitalausschuss." },
+    { "year": 2024, "event": "Vielbeachtete Plenum-Rede zu KI-Regulierung (Oktober). Einladungen zu CDU-Bundesveranstaltungen." },
+    { "year": 2025, "event": "Bundestagswahlkampf: aktive Unterstützung in Münster. NRW-Kommunalwahl: CDU Münster verliert OB. Schmerzhaft." }
   ],
-  "upcoming_opportunities": [
-    "NRW-Landtagswahl 25. April 2027 – Kandidatur intern diskutiert (Entscheidung bis Herbst 2026 nötig)",
-    "CDU-Kreisparteitag Herbst 2026 – möglicher Einzug in erweiterten Kreisvorstand",
-    "Thorsten Frei wird voraussichtlich am 29.07. neuer CDU/CSU-Fraktionsvorsitzender – Chance Netzwerk Bund aufzubauen?"
+  "upcoming_challenges": [
+    "NRW-Landtagswahl 25. April 2027 – MUSS wiedergewählt werden. Diesmal Direktmandat angestrebt statt Listenplatz.",
+    "Wahlkreis Münster: schwierig für CDU nach OB-Niederlage 2025",
+    "Spahn-Skandal: Wertediskussion in CDU diese Woche – wie positioniert er sich?",
+    "Thorsten Frei Abstimmung 29.07. – relevanter Kontakt für Bundesambitionen?"
   ],
-  "current_challenges": [
-    "Oppositionsrolle in Münster nach CDU-Niederlage 2025",
-    "AfD-Stärke in Umfragen (27-28%) macht CDU nervös – Profilierungsdruck",
-    "Spahn-Skandal belastet CDU-Image diese Woche (intern: Wertediskussion)",
-    "Landtagskandidatur 2027: Entscheidung rückt näher"
+  "defining_moments": [
+    {
+      "date": "2023-03-14",
+      "event": "Digitalausschuss NRW: Jonas entlarvt Fehler in Breitband-Statistik des Wirtschaftsministeriums. WDR berichtet. Erster überregionaler Medienmoment."
+    },
+    {
+      "date": "2024-10-09",
+      "event": "Plenum NRW: Rede zu KI-Regulierung und Mittelstand. Von Linnemann-Büro intern gelobt. In CDU-Netzwerken geteilt."
+    }
   ],
-  "notes": "Stand: 24. Juli 2026."
+  "notes": "Stand: 24. Juli 2026. Jonas ist MdL in der Regierungskoalition (CDU+Grüne NRW), gleichzeitig Münsteraner CDU-Oppositionspolitiker auf Stadtebene. Hauptbühne: Düsseldorf."
 }

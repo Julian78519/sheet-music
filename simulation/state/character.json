@@ -1,18 +1,29 @@
 {
-  "name": null,
-  "age": null,
-  "birthdate": null,
-  "gender": null,
+  "name": "Jonas Hartmann",
+  "age": 28,
+  "birthdate": "1997-11-14",
+  "gender": "männlich",
   "origin": {
-    "city": null,
-    "country": null
+    "city": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "country": "Deutschland"
   },
-  "education": null,
-  "profession_background": null,
-  "simulation_start_year": null,
-  "focus": null,
-  "style_tone": null,
+  "education": {
+    "school": "Gymnasium Paulinum Münster, Abitur 2016 (1,4)",
+    "university": "Westfälische Wilhelms-Universität Münster",
+    "degree": "Erstes Staatsexamen Rechtswissenschaften (2021, Prädikat)",
+    "second_exam": "Zweites Staatsexamen OLG Hamm (2023, vollbefriedigend)",
+    "additional": "Auslandssemester Sciences Po Paris (2019)"
+  },
+  "profession_background": "Zugelassener Rechtsanwalt, seit 2023 assoziierter Anwalt bei Kanzlei Brinkmann & Partner Münster (Schwerpunkt: Wirtschaftsrecht, öffentliches Recht). Reduziertes Mandat wegen Ratsmitgliedschaft.",
+  "simulation_start_date": "2026-07-24",
+  "focus": "Politiksimulation – Karriere, Wirtschaftspolitik, Außenpolitik",
+  "style_tone": "nüchtern, klassisch, realistisch",
   "tabus": [],
-  "long_term_goals": [],
-  "notes": "Wird nach dem Setup ausgefüllt"
+  "long_term_goals": [
+    "Aufstieg in die Landespolitik (NRW-Landtag)",
+    "Aufbau eines überregionalen Netzwerks innerhalb der CDU",
+    "Langfristig: Bundesebene"
+  ],
+  "notes": "Leaning zwischen CDU-Mitte und wirtschaftsliberalem Flügel. Nicht dezidiert konservativ, eher pragmatisch-bürgerlich."
 }

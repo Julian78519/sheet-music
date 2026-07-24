@@ -1,20 +1,37 @@
 {
-  "current_date": null,
+  "current_date": "2026-07-24",
   "location": {
-    "city": null,
-    "country": null
+    "city": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "country": "Deutschland"
   },
-  "government": {
-    "current_chancellor_or_pm": null,
-    "ruling_coalition": [],
-    "opposition": []
+  "national_government": {
+    "chancellor": "Friedrich Merz (CDU)",
+    "ruling_coalition": ["CDU/CSU", "SPD"],
+    "opposition": ["SPD (Teile)", "Grüne", "FDP", "AfD", "BSW"],
+    "coalition_status": "stabil, aber SPD-Flügel zunehmend unruhig wegen Kürzungspolitik"
   },
-  "next_election": null,
-  "event_frequency": null,
+  "nrw_government": {
+    "minister_president": "Hendrik Wüst (CDU)",
+    "ruling_coalition": ["CDU", "SPD"],
+    "status": "stabil"
+  },
+  "muenster_local": {
+    "mayor": "Marcus Lewe (CDU)",
+    "city_council_majority": "CDU + FDP + Kleinparteien (knappe Mehrheit)",
+    "last_local_election": "2025-09-14",
+    "next_local_election": "2030"
+  },
+  "next_elections": {
+    "nrw_landtag": "2027-05",
+    "federal": "2029"
+  },
+  "event_frequency": "sehr häufig",
   "time_pressure": {
     "active": false,
     "goal": null,
     "deadline": null
   },
-  "notes": "Wird nach dem Setup ausgefüllt"
+  "global_context": "Wirtschaftliche Erholung nach Rezession 2024/25 läuft schleppend. Transatlantisches Verhältnis angespannt. Ukraine-Krieg: eingefrorener Konflikt an der Frontlinie. KI-Regulierungsdebatte in vollem Gange.",
+  "notes": "Stand: Simulationsbeginn 24. Juli 2026"
 }

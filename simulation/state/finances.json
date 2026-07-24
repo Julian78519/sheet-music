@@ -1,14 +1,37 @@
 {
   "personal": {
-    "savings": null,
-    "debt": null,
-    "monthly_income": null,
-    "monthly_expenses": null
+    "savings": 41500,
+    "currency": "EUR",
+    "debt": 0,
+    "assets": {
+      "description": "Gebrauchtwagen (VW Golf VIII, Wert ca. 18.000 EUR), keine Immobilien",
+      "vehicle_value": 18000
+    },
+    "monthly_income": {
+      "law_firm_salary": 3200,
+      "city_council_compensation": 1150,
+      "total_net": 4350
+    },
+    "monthly_expenses": {
+      "rent": 1050,
+      "living": 800,
+      "car": 180,
+      "insurance_misc": 270,
+      "total": 2300
+    },
+    "monthly_savings_rate": 2050
   },
   "political": {
-    "campaign_fund": null,
-    "party_resources_available": null,
-    "donors": []
+    "campaign_fund": 8200,
+    "party_resources_available": "moderat (CDU Münster: solide Finanzen, kein großer Wahlkampf aktuell)",
+    "donors": [
+      {
+        "name": "Karl-Heinz Brinkmann",
+        "relation": "Senior-Partner der Kanzlei, CDU-Mitglied, Stadtratsveteran",
+        "amount_last_campaign": 3000,
+        "influence": "hoch, aber diskret"
+      }
+    ]
   },
-  "notes": "Wird nach dem Setup ausgefüllt"
+  "notes": "Stand: 24. Juli 2026. Hartmann lebt solide, kein Luxus, kein Druck. Eigene Wohnung (Miete) in Münster-Mauritz."
 }

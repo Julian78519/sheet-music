@@ -1,9 +1,94 @@
 {
-  "family": [],
-  "allies": [],
-  "rivals": [],
-  "mentors": [],
-  "media_contacts": [],
-  "party_members": [],
-  "notes": "Format je Person: { name, role, relationship_score (-100 bis 100), trust, notes }"
+  "partner": {
+    "name": "Sophie Hartmann (geb. Krüger)",
+    "age": 27,
+    "profession": "Grundschullehrerin, Städtische Gemeinschaftsgrundschule Münster",
+    "relationship_score": 78,
+    "trust": "hoch",
+    "notes": "Seit 4 Jahren zusammen, seit 2025 verheiratet. Unterstützt Jonas' Karriere, aber zunehmend genervt von langen Abenden und Wochenend-Terminen. Kein Interesse an Politik selbst. Thema Kinder: Sie möchte in 1-2 Jahren anfangen, er schiebt es auf."
+  },
+  "family": [
+    {
+      "name": "Werner Hartmann",
+      "relation": "Vater",
+      "age": 58,
+      "profession": "Inhaber eines mittelständischen Maschinenbauunternehmens (ca. 80 MA), Münster",
+      "relationship_score": 70,
+      "trust": "hoch",
+      "notes": "CDU-Mitglied, stolz auf Jonas, aber skeptisch ob Politik wirklich 'etwas bringt'. Wichtiger lokaler Netzwerkkontakt."
+    },
+    {
+      "name": "Ingrid Hartmann",
+      "relation": "Mutter",
+      "age": 56,
+      "profession": "Oberstudienrätin (Gymnasium, Geschichte/Erdkunde)",
+      "relationship_score": 85,
+      "trust": "sehr hoch",
+      "notes": "Enge Vertraute, politisch interessiert, hält ihn geerdet. SPD-nah, was zu gelegentlichen Diskussionen führt."
+    },
+    {
+      "name": "Lena Hartmann",
+      "relation": "Schwester",
+      "age": 24,
+      "profession": "Masterstudium Politikwissenschaft, Berlin",
+      "relationship_score": 82,
+      "trust": "hoch",
+      "notes": "Grünen-nah, hält Jonas für 'zu pragmatisch'. Guter Sparringspartner. Netzwerk in Berliner Politikmilieu wächst."
+    }
+  ],
+  "allies": [
+    {
+      "name": "Dr. Monika Feldhaus",
+      "role": "CDU-Kreisvorsitzende Münster",
+      "age": 52,
+      "relationship_score": 68,
+      "trust": "mittel",
+      "notes": "Hat Jonas gefördert, erwartet aber Loyalität. Konservativerer Flügel. Könnte bei NRW-Ambitionen zur Schlüsselfigur werden – oder zum Hindernis."
+    },
+    {
+      "name": "Thomas Eder",
+      "role": "CDU-Fraktionsvorsitzender im Stadtrat",
+      "age": 45,
+      "relationship_score": 74,
+      "trust": "gut",
+      "notes": "Direkter Vorgesetzter im Rat. Pragmatiker, schätzt Jonas' Arbeitsqualität. Plant selbst nicht, in den Landtag zu wechseln."
+    },
+    {
+      "name": "Jan Bergmann",
+      "role": "FDP-Stadtratsmitglied, Koalitionspartner",
+      "age": 34,
+      "relationship_score": 65,
+      "trust": "gut",
+      "notes": "Enger inhaltlicher Verbündeter bei Wirtschaftsthemen. Persönliche Freundschaft. Könnte Brücke zu FDP-Netzwerken sein."
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Carolin Siebert",
+      "role": "CDU-Stadtratsmitglied, gleiches Segment wie Jonas",
+      "age": 31,
+      "relationship_score": 35,
+      "trust": "niedrig",
+      "notes": "Direkte Konkurrentin um Aufmerksamkeit und innerparteiliche Förderung. Konservativerer Flügel, gute Kontakte zur Werteunion."
+    }
+  ],
+  "mentors": [
+    {
+      "name": "Prof. Dr. Heinrich Rabe",
+      "role": "Ehem. NRW-Staatssekretär (CDU), jetzt Politikberater",
+      "age": 66,
+      "relationship_score": 72,
+      "trust": "hoch",
+      "notes": "Informeller Mentor seit dem Studium. Gibt gelegentlich Ratschläge. Hat Kontakte bis in den Bundestag."
+    }
+  ],
+  "media_contacts": [
+    {
+      "name": "Katrin Hölscher",
+      "outlet": "Westfälische Nachrichten",
+      "relationship_score": 60,
+      "notes": "Lokaljournalistin, deckt Stadtratspolitik ab. Kein persönliches Verhältnis, aber professionell respektvoll."
+    }
+  ],
+  "notes": "Stand: 24. Juli 2026. Format relationship_score: -100 (Feind) bis +100 (enger Verbündeter)."
 }

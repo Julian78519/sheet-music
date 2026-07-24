@@ -1,23 +1,67 @@
 {
-  "party": null,
-  "party_wing": null,
-  "current_office": null,
-  "mandates": [],
-  "committees": [],
+  "party": "CDU",
+  "party_wing": "Mitte / Wirtschaftsliberaler Flügel",
+  "current_office": "Mitglied des Rates der Stadt Münster",
+  "mandates": [
+    {
+      "title": "Stadtratsmitglied (CDU-Fraktion)",
+      "since": "2021-10-01",
+      "constituency": "Münster-Mauritz/Ost"
+    }
+  ],
+  "committees": [
+    {
+      "name": "Ausschuss für Wirtschaftsförderung und Stadtentwicklung",
+      "role": "Stellvertretender Vorsitzender (CDU-Vertreter)",
+      "since": "2023-01-15"
+    },
+    {
+      "name": "Rechnungsprüfungsausschuss",
+      "role": "Ordentliches Mitglied",
+      "since": "2021-10-01"
+    }
+  ],
   "metrics": {
-    "reputation_public": null,
-    "reputation_party_internal": null,
-    "media_sentiment": null,
-    "network_strength": null,
-    "poll_numbers": null
+    "reputation_public": 62,
+    "reputation_party_internal": 74,
+    "media_sentiment": 58,
+    "network_strength": 52,
+    "poll_numbers": null,
+    "notes": "Skala 0-100. Sehr gut für sein Alter und Erfahrungsstand."
   },
   "political_positions": {
-    "economy": null,
-    "social": null,
-    "foreign_policy": null,
-    "environment": null,
-    "notes": "Skala: weit-links / links / mitte-links / mitte / mitte-rechts / rechts / weit-rechts"
+    "economy": "wirtschaftsliberal – Bürokratieabbau, Standortförderung, moderate Steuerpolitik",
+    "social": "mitte – keine harten Positionen, pragmatisch",
+    "foreign_policy": "atlantisch, pro-EU, starke Bundeswehr, klare Haltung zu Russland",
+    "environment": "technologieoffen – lehnt ideologischen Klimaaktivismus ab, befürwortet Innovationslösungen",
+    "digitalization": "Schwerpunktthema – Smart City Münster, KI-Regulierung, Verwaltungsdigitalisierung",
+    "scale": "Positionierung: Mitte-rechts mit wirtschaftsliberalem Akzent"
   },
-  "career_history": [],
-  "notes": "Wird nach dem Setup ausgefüllt"
+  "career_history": [
+    {
+      "year": 2018,
+      "event": "Eintritt in die CDU und Junge Union Münster"
+    },
+    {
+      "year": 2020,
+      "event": "Bezirksvorsitzender Junge Union Münster-Ost"
+    },
+    {
+      "year": 2021,
+      "event": "Erstmals in den Stadtrat gewählt (Direktmandat Mauritz)"
+    },
+    {
+      "year": 2023,
+      "event": "Stellv. Ausschussvorsitz Wirtschaftsförderung übernommen"
+    },
+    {
+      "year": 2025,
+      "event": "Stadtrat wiedergewählt, deutlich besseres Ergebnis als 2021 (+4,1%)"
+    }
+  ],
+  "upcoming_opportunities": [
+    "NRW-Landtagswahl Mai 2027 – mögliche Kandidatur diskutiert",
+    "CDU-Kreisparteitag Herbst 2026 – mögliche Wahl in erweiterten Kreisvorstand"
+  ],
+  "notes": "Stand: 24. Juli 2026. Hartmann gilt als einer der vielversprechendsten jungen CDU-Politiker Münsters. Noch keine Bundesebene, aber Netzwerk wächst."
 }

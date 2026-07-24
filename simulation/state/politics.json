@@ -1,12 +1,12 @@
 {
   "party": "CDU",
   "party_wing": "Mitte / Wirtschaftsliberaler Flügel",
-  "current_office": "Mitglied des Rates der Stadt Münster",
+  "current_office": "Mitglied des Rates der Stadt Münster (Oppositionsfraktion)",
   "mandates": [
     {
-      "title": "Stadtratsmitglied (CDU-Fraktion)",
+      "title": "Stadtratsmitglied (CDU-Fraktion, Opposition)",
       "since": "2021-10-01",
-      "constituency": "Münster-Mauritz/Ost"
+      "note": "CDU seit 2025 in der Opposition – Grüne-SPD-Volt-Mehrheit regiert Münster"
     }
   ],
   "committees": [
@@ -27,41 +27,35 @@
     "media_sentiment": 58,
     "network_strength": 52,
     "poll_numbers": null,
-    "notes": "Skala 0-100. Sehr gut für sein Alter und Erfahrungsstand."
+    "notes": "Skala 0-100. Solide für sein Alter. Lokal bekannt, überregional unbekannt."
   },
   "political_positions": {
-    "economy": "wirtschaftsliberal – Bürokratieabbau, Standortförderung, moderate Steuerpolitik",
-    "social": "mitte – keine harten Positionen, pragmatisch",
-    "foreign_policy": "atlantisch, pro-EU, starke Bundeswehr, klare Haltung zu Russland",
-    "environment": "technologieoffen – lehnt ideologischen Klimaaktivismus ab, befürwortet Innovationslösungen",
-    "digitalization": "Schwerpunktthema – Smart City Münster, KI-Regulierung, Verwaltungsdigitalisierung",
-    "scale": "Positionierung: Mitte-rechts mit wirtschaftsliberalem Akzent"
+    "economy": "Wirtschaftsliberal – Bürokratieabbau, Standortförderung, Entlastung Mittelstand. Gegen SPD-Forderung nach Reichensteuer.",
+    "social": "Mitte – pragmatisch, keine Extrempositionen",
+    "foreign_policy": "Atlantisch, pro-EU, starke Bundeswehr, klare Russland-Haltung. Befürwortet Tomahawk-Beschaffung.",
+    "environment": "Technologieoffen – CO2-Preis als Steuerungsinstrument, offen für SMR/Kernenergie neue Generation, lehnt Verbote ab",
+    "migration": "Befürwortet Merz-Migrationswende. Findet AfD-Stärke in Umfragen beunruhigend.",
+    "housing": "Stadtentwicklung durch Flächenmobilisierung, weniger Regulierung, Bürokratieabbau beim Bauen",
+    "digitalization": "Schwerpunktthema – Smart City, KI, Verwaltungsdigitalisierung",
+    "scale": "Mitte-rechts, wirtschaftsliberaler Akzent"
   },
   "career_history": [
-    {
-      "year": 2018,
-      "event": "Eintritt in die CDU und Junge Union Münster"
-    },
-    {
-      "year": 2020,
-      "event": "Bezirksvorsitzender Junge Union Münster-Ost"
-    },
-    {
-      "year": 2021,
-      "event": "Erstmals in den Stadtrat gewählt (Direktmandat Mauritz)"
-    },
-    {
-      "year": 2023,
-      "event": "Stellv. Ausschussvorsitz Wirtschaftsförderung übernommen"
-    },
-    {
-      "year": 2025,
-      "event": "Stadtrat wiedergewählt, deutlich besseres Ergebnis als 2021 (+4,1%)"
-    }
+    { "year": 2018, "event": "Eintritt CDU und Junge Union Münster" },
+    { "year": 2020, "event": "Bezirksvorsitzender JU Münster-Ost" },
+    { "year": 2021, "event": "Erstmals in den Stadtrat gewählt (Direktmandat Mauritz)" },
+    { "year": 2023, "event": "Stellv. Ausschussvorsitz Wirtschaftsförderung" },
+    { "year": 2025, "event": "Stadtrat wiedergewählt (+4,1%). CDU trotzdem in Opposition (Grüne-SPD-Volt-Mehrheit)." }
   ],
   "upcoming_opportunities": [
-    "NRW-Landtagswahl Mai 2027 – mögliche Kandidatur diskutiert",
-    "CDU-Kreisparteitag Herbst 2026 – mögliche Wahl in erweiterten Kreisvorstand"
+    "NRW-Landtagswahl 25. April 2027 – Kandidatur intern diskutiert (Entscheidung bis Herbst 2026 nötig)",
+    "CDU-Kreisparteitag Herbst 2026 – möglicher Einzug in erweiterten Kreisvorstand",
+    "Thorsten Frei wird voraussichtlich am 29.07. neuer CDU/CSU-Fraktionsvorsitzender – Chance Netzwerk Bund aufzubauen?"
   ],
-  "notes": "Stand: 24. Juli 2026. Hartmann gilt als einer der vielversprechendsten jungen CDU-Politiker Münsters. Noch keine Bundesebene, aber Netzwerk wächst."
+  "current_challenges": [
+    "Oppositionsrolle in Münster nach CDU-Niederlage 2025",
+    "AfD-Stärke in Umfragen (27-28%) macht CDU nervös – Profilierungsdruck",
+    "Spahn-Skandal belastet CDU-Image diese Woche (intern: Wertediskussion)",
+    "Landtagskandidatur 2027: Entscheidung rückt näher"
+  ],
+  "notes": "Stand: 24. Juli 2026."
 }

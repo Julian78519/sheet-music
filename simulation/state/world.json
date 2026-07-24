@@ -7,31 +7,72 @@
   },
   "national_government": {
     "chancellor": "Friedrich Merz (CDU)",
-    "ruling_coalition": ["CDU/CSU", "SPD"],
-    "opposition": ["SPD (Teile)", "Grüne", "FDP", "AfD", "BSW"],
-    "coalition_status": "stabil, aber SPD-Flügel zunehmend unruhig wegen Kürzungspolitik"
+    "coalition": "CDU/CSU + SPD (Große Koalition, seit 24. April 2025)",
+    "finance_minister": "Lars Klingbeil (SPD)",
+    "interior_minister": "Alexander Dobrindt (CSU)",
+    "coalition_status": "Unter Druck – Steuerreform ist zentraler Streitpunkt. Merz mahnt CDU-Sichtbarkeit an.",
+    "cdu_party_chair": "Friedrich Merz",
+    "cdu_general_secretary": "Carsten Linnemann",
+    "cdu_fraktionsvorsitz": "VAKANT – Jens Spahn zurückgetreten (Leihmutterschaftsskandal). Thorsten Frei nominiert, Abstimmung: 29. Juli 2026.",
+    "opposition": ["AfD (~27%)", "Grüne", "Die Linke", "FDP (nicht im Bundestag)"]
+  },
+  "bundestagswahl_2025_ergebnis": {
+    "CDU_CSU": "28,5%",
+    "AfD": "20,8%",
+    "SPD": "16,4%",
+    "Gruene": "11,6%",
+    "Linke": "8,8%"
+  },
+  "current_polls": {
+    "AfD": "27-28% (stärkste Kraft in Umfragen!)",
+    "CDU_CSU": "~22%",
+    "date": "Juli 2026"
   },
   "nrw_government": {
     "minister_president": "Hendrik Wüst (CDU)",
-    "ruling_coalition": ["CDU", "SPD"],
-    "status": "stabil"
+    "deputy_mp": "Mona Neubaur (Grüne)",
+    "coalition": "CDU + Bündnis 90/Die Grünen (seit 2022)",
+    "next_election": "2027-04-25",
+    "status": "Letztes Regierungsjahr, Wahlkampf erwacht. Umstrittene Kita- und Schulgesetze kurz vor Sommerpause durchgesetzt."
   },
   "muenster_local": {
-    "mayor": "Marcus Lewe (CDU)",
-    "city_council_majority": "CDU + FDP + Kleinparteien (knappe Mehrheit)",
-    "last_local_election": "2025-09-14",
+    "mayor": "Tilman Fuchs (Bündnis 90/Die Grünen)",
+    "mayor_since": "2025-11-01",
+    "note": "Erster nicht-CDU-OB seit über 25 Jahren. Gewann Stichwahl am 28.09.2025 mit 57,91% gegen CDU-Kandidat Georg Lunemann.",
+    "stadtdirektorin": "Christine Zeller (seit 01.03.2026)",
+    "city_council": {
+      "coalition": "Grüne + SPD + Volt (seit 2025)",
+      "seats": {
+        "Gruene": 21,
+        "CDU": 20,
+        "SPD": 9,
+        "Linke": 6,
+        "Volt": 3,
+        "FDP": 2,
+        "Sonstige": 4
+      },
+      "CDU_status": "OPPOSITION (knapp gescheitert trotz 20 Sitze)"
+    },
+    "last_local_election": "2025-09-14 / 2025-09-28 (Stichwahl)",
     "next_local_election": "2030"
   },
-  "next_elections": {
-    "nrw_landtag": "2027-05",
-    "federal": "2029"
-  },
+  "hot_topics_july_2026": [
+    "Spahn-Leihmutterschaftsskandal / Neue CDU/CSU-Fraktionsführung (Frei, Abstimmung 29.07.)",
+    "Steuerreform – CDU vs. SPD Hauptkonflikt in der Koalition",
+    "AfD stärkste Partei in Umfragen (27-28%)",
+    "NATO-Gipfel Ankara – Merz lobt Ergebnis, Tomahawk-Beschaffung",
+    "Migrationswende: Asylanträge -35% in 5 Monaten 2026",
+    "Wohnungsbaukrise: nur ~175.000 Neubauten 2026 erwartet",
+    "NRW: Kita-Reform und Sprachförderklassen (ABC-Klassen) umstritten"
+  ],
   "event_frequency": "sehr häufig",
   "time_pressure": {
     "active": false,
     "goal": null,
     "deadline": null
   },
-  "global_context": "Wirtschaftliche Erholung nach Rezession 2024/25 läuft schleppend. Transatlantisches Verhältnis angespannt. Ukraine-Krieg: eingefrorener Konflikt an der Frontlinie. KI-Regulierungsdebatte in vollem Gange.",
-  "notes": "Stand: Simulationsbeginn 24. Juli 2026"
+  "global_context": "Ukraine: Eingefrorener Konflikt. USA: Transatlantische Spannung. China: Entkopplungsdebatte. KI: AI Act Durchführungsverordnungen in Kraft.",
+  "defense": "Rekordetat €108,2 Mrd. Deutschland übertrifft NATO-2%-Ziel deutlich. Bundeswehr-Modernisierung läuft.",
+  "economy": "BIP-Wachstum 2026: ~0,8-1,0%. Erholung nach Rezession 2023/24 schleppend. Arbeitslosigkeit: ~3 Mio. Energiekosten und Fachkräftemangel belasten Industrie.",
+  "notes": "Korrekturen nach Recherche. Stand: 24. Juli 2026."
 }

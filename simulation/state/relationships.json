@@ -5,26 +5,26 @@
     "profession": "Grundschullehrerin, Städtische Gemeinschaftsgrundschule Münster",
     "relationship_score": 78,
     "trust": "hoch",
-    "notes": "Seit 4 Jahren zusammen, seit 2025 verheiratet. Unterstützt Jonas' Karriere, aber zunehmend genervt von langen Abenden und Wochenend-Terminen. Kein Interesse an Politik selbst. Thema Kinder: Sie möchte in 1-2 Jahren anfangen, er schiebt es auf."
+    "notes": "Seit 4 Jahren zusammen, seit April 2025 verheiratet. Unterstützt Jonas' Karriere, aber zunehmend genervt von langen Abenden und Wochenend-Terminen. Kein Interesse an Politik selbst. Thema Kinder: Sie möchte in 1-2 Jahren anfangen, er schiebt es auf."
   },
   "family": [
     {
       "name": "Werner Hartmann",
       "relation": "Vater",
       "age": 58,
-      "profession": "Inhaber eines mittelständischen Maschinenbauunternehmens (ca. 80 MA), Münster",
+      "profession": "Inhaber Maschinenbauunternehmen (~80 MA), Münster",
       "relationship_score": 70,
       "trust": "hoch",
-      "notes": "CDU-Mitglied, stolz auf Jonas, aber skeptisch ob Politik wirklich 'etwas bringt'. Wichtiger lokaler Netzwerkkontakt."
+      "notes": "CDU-Mitglied, stolz auf Jonas. Leidet unter Energiekosten und Fachkräftemangel – liefert Themen für Jonas' Wirtschaftspolitik."
     },
     {
       "name": "Ingrid Hartmann",
       "relation": "Mutter",
       "age": 56,
-      "profession": "Oberstudienrätin (Gymnasium, Geschichte/Erdkunde)",
+      "profession": "Oberstudienrätin (Geschichte/Erdkunde), Gymnasium Münster",
       "relationship_score": 85,
       "trust": "sehr hoch",
-      "notes": "Enge Vertraute, politisch interessiert, hält ihn geerdet. SPD-nah, was zu gelegentlichen Diskussionen führt."
+      "notes": "SPD-nah. Verfolgt NRW-Bildungspolitik genau – die umstrittene Kita-Reform und ABC-Klassen sind ihr Gesprächsthema Nr. 1 gerade."
     },
     {
       "name": "Lena Hartmann",
@@ -33,7 +33,7 @@
       "profession": "Masterstudium Politikwissenschaft, Berlin",
       "relationship_score": 82,
       "trust": "hoch",
-      "notes": "Grünen-nah, hält Jonas für 'zu pragmatisch'. Guter Sparringspartner. Netzwerk in Berliner Politikmilieu wächst."
+      "notes": "Grünen-nah, kommentiert Spahn-Skandal bissig. Netzwerk im Berliner Politikmilieu wächst."
     }
   ],
   "allies": [
@@ -43,23 +43,23 @@
       "age": 52,
       "relationship_score": 68,
       "trust": "mittel",
-      "notes": "Hat Jonas gefördert, erwartet aber Loyalität. Konservativerer Flügel. Könnte bei NRW-Ambitionen zur Schlüsselfigur werden – oder zum Hindernis."
+      "notes": "Hat Jonas gefördert. Reaktion auf Spahn-Skandal: distanziert aber intern aufgewühlt. Entscheidet mit über Jonas' mögliche Landtagskandidatur 2027."
     },
     {
       "name": "Thomas Eder",
-      "role": "CDU-Fraktionsvorsitzender im Stadtrat",
+      "role": "CDU-Fraktionsvorsitzender im Stadtrat Münster",
       "age": 45,
       "relationship_score": 74,
       "trust": "gut",
-      "notes": "Direkter Vorgesetzter im Rat. Pragmatiker, schätzt Jonas' Arbeitsqualität. Plant selbst nicht, in den Landtag zu wechseln."
+      "notes": "Direkter Vorgesetzter im Rat. Als Oppositionsfraktion unter Druck seit Grüne-SPD-Volt-Mehrheit. Schätzt Jonas' Schlagfertigkeit."
     },
     {
       "name": "Jan Bergmann",
-      "role": "FDP-Stadtratsmitglied, Koalitionspartner",
+      "role": "FDP-Stadtratsmitglied Münster",
       "age": 34,
       "relationship_score": 65,
       "trust": "gut",
-      "notes": "Enger inhaltlicher Verbündeter bei Wirtschaftsthemen. Persönliche Freundschaft. Könnte Brücke zu FDP-Netzwerken sein."
+      "notes": "Wirtschaftsliberaler Verbündeter. FDP ebenfalls in der Opposition. Teilen viele Positionen gegen die rot-grün-Volt-Stadtratsmehrheit."
     }
   ],
   "rivals": [
@@ -69,7 +69,15 @@
       "age": 31,
       "relationship_score": 35,
       "trust": "niedrig",
-      "notes": "Direkte Konkurrentin um Aufmerksamkeit und innerparteiliche Förderung. Konservativerer Flügel, gute Kontakte zur Werteunion."
+      "notes": "Konkurrentin um Aufmerksamkeit und Förderung. Konservativerer Flügel. Nutzt Spahn-Skandal um wertekonservative Positionen zu stärken."
+    },
+    {
+      "name": "Tilman Fuchs",
+      "role": "Oberbürgermeister Münster (Grüne)",
+      "age": 55,
+      "relationship_score": 20,
+      "trust": "politisch-sachlich",
+      "notes": "Seit Nov. 2025 im Amt. Erster Grünen-OB Münsters. Jonas ist in der Oppositionsrolle gegen seine Mehrheit. Sachlich-professionelles Verhältnis, aber politisch Gegner."
     }
   ],
   "mentors": [
@@ -79,7 +87,27 @@
       "age": 66,
       "relationship_score": 72,
       "trust": "hoch",
-      "notes": "Informeller Mentor seit dem Studium. Gibt gelegentlich Ratschläge. Hat Kontakte bis in den Bundestag."
+      "notes": "Informeller Mentor. Hat Kontakte bis in den Bundestag. Rät Jonas dringend, Landtagskandidatur 2027 ernst zu nehmen."
+    }
+  ],
+  "national_figures": [
+    {
+      "name": "Friedrich Merz",
+      "role": "Bundeskanzler, CDU-Vorsitzender",
+      "relationship_score": 0,
+      "notes": "Kein persönlicher Kontakt. Jonas bewundert seinen wirtschaftsliberalen Kurs. Spahn-Affäre hat Merz als entschlossen gezeigt."
+    },
+    {
+      "name": "Carsten Linnemann",
+      "role": "CDU-Generalsekretär",
+      "relationship_score": 0,
+      "notes": "Kein persönlicher Kontakt. Für Jonas ein mögliches Vorbild: Aufstieg über Wirtschaftspolitik und JU-Strukturen."
+    },
+    {
+      "name": "Hendrik Wüst",
+      "role": "NRW-Ministerpräsident (CDU)",
+      "relationship_score": 5,
+      "notes": "Kein direkter Kontakt, aber Wüst ist die entscheidende Figur für Jonas' NRW-Ambitionen. Hält Wüst für zu grün-kompromissbereit."
     }
   ],
   "media_contacts": [
@@ -87,8 +115,8 @@
       "name": "Katrin Hölscher",
       "outlet": "Westfälische Nachrichten",
       "relationship_score": 60,
-      "notes": "Lokaljournalistin, deckt Stadtratspolitik ab. Kein persönliches Verhältnis, aber professionell respektvoll."
+      "notes": "Lokaljournalistin, deckt Stadtratspolitik ab. Professionell respektvoll."
     }
   ],
-  "notes": "Stand: 24. Juli 2026. Format relationship_score: -100 (Feind) bis +100 (enger Verbündeter)."
+  "notes": "Stand: 24. Juli 2026. Wichtig: Jonas ist Oppositionspolitiker auf Stadtebene (Grüne-SPD-Volt-Mehrheit), aber Regierungspartei auf Landes- und Bundesebene."
 }

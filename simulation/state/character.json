@@ -1,7 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 28,
+  "age": 48,
   "birthdate": "1997-11-14",
+  "current_date": "2046-09-15",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -9,21 +10,46 @@
     "country": "Deutschland"
   },
   "education": {
-    "school": "Gymnasium Paulinum Münster, Abitur 2016 (1,4)",
-    "university": "Westfälische Wilhelms-Universität Münster",
-    "degree": "Erstes Staatsexamen Rechtswissenschaften (2021, Prädikat)",
-    "second_exam": "Zweites Staatsexamen OLG Hamm (2023, vollbefriedigend – parallel zum Landtagsmandat abgelegt)",
-    "additional": "Auslandssemester Sciences Po Paris (2019)"
+    "school": "Gymnasium Paulinum Münster, Abitur 2016",
+    "university": "WWU Münster, Jura – 1. Staatsexamen 2021",
+    "second_exam": "2. Staatsexamen OLG Hamm 2023",
+    "additional": [
+      "Sciences Po Paris 2019 (Auslandssemester)",
+      "Harvard Kennedy School Executive Program 2030 (4 Wochen)",
+      "Ehrendoktorat Universität Warschau 2041 (transatlantische Sicherheitspolitik)"
+    ]
   },
-  "profession_background": "MdL (Mitglied des Landtags NRW) seit Mai 2022. Zugelassener Rechtsanwalt (2023), kein aktives Mandat in Kanzlei. Früher: Wissenschaftliche Hilfskraft, JU-Funktionär.",
-  "simulation_start_date": "2026-07-24",
-  "focus": "Politiksimulation – Karriere, Wirtschaftspolitik, Außenpolitik",
-  "style_tone": "nüchtern, klassisch, realistisch",
-  "tabus": [],
-  "long_term_goals": [
-    "Wiedereinzug NRW-Landtag April 2027 (Direktmandat statt Listenplatz)",
-    "Aufstieg in der CDU NRW Fraktion – Fachsprecher oder Ausschussvorsitz",
-    "Langfristig: Bundesebene"
+  "current_role": "Bundesaußenminister der Bundesrepublik Deutschland",
+  "current_role_since": "2037-03-14",
+  "cabinets_served": [
+    "Kabinett Kellner I (2037–2041)",
+    "Kabinett Kellner II (2041–2045)",
+    "Kabinett Kellner III (2045–heute)"
   ],
-  "notes": "Jüngster CDU-MdL NRW bei Einzug 2022. Hat sich als wirtschaftsliberaler Digital- und Mittelstandssprecher profiliert. Listenmandat, kein Direktmandat bisher."
+  "residence": {
+    "primary": "Berlin-Grunewald (Dienstresidenz AA)",
+    "secondary": "Münster-Mauritz (eigene Wohnung, selten genutzt)"
+  },
+  "personal_status": {
+    "marital": "Geschieden seit 2035",
+    "children": [
+      {
+        "name": "Jakob Hartmann",
+        "age": 18,
+        "born": "2028-03-22",
+        "lives_with": "Sophie, Münster",
+        "studies": "Beginnt Oktober 2046 Studium VWL/Politikwissenschaft, Universität Köln"
+      }
+    ],
+    "current_relationship": "Keine offizielle Partnerschaft. Gelegentlich gesehen mit Giulia Marchetti (45, EU-Diplomatin, Mailand). Nicht öffentlich.",
+    "notes": "Lebt in Berlin, arbeitet überall. Münster ist Herkunft, kein Zuhause mehr."
+  },
+  "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, genug für Smalltalk)"],
+  "reputation": {
+    "national": "Einer der profiliertesten Außenminister der Nachkriegsgeschichte. Polarisierend – CDU-Rechte findet ihn zu atlantisch, zu wenig konservativ.",
+    "international": "Respektiert. In Washington bekannt als 'Claire's European' – er hasst den Ausdruck, nutzt ihn aber.",
+    "press": "Sachlich-positiv in Qualitätsmedien. Tabloids: Whitmore-Gerüchte, gelegentlich aufgewärmt."
+  },
+  "style_tone": "Nüchtern, präzise, kein Showman. Lacht selten öffentlich – wenn, dann entwaffnend.",
+  "notes": "Simulationsbeginn: 15. September 2046. Stand: Branch ㉒ Whitmore & Hartmann."
 }

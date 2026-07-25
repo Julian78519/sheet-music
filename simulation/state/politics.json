@@ -1,70 +1,76 @@
 {
   "party": "CDU",
-  "party_wing": "Mitte / Wirtschaftsliberaler Flügel",
-  "current_office": "Mitglied des Landtags NRW (MdL), CDU-Fraktion – Regierungskoalition",
-  "mandate_type": "Listenmandat (CDU NRW, Wahlkreis Münster). Kein Direktmandat bisher.",
+  "party_wing": "Atlantisch-liberaler Flügel. Gilt parteiintern als 'zu amerikanisch', 'zu wenig CDU-Kern'.",
+  "current_office": "Bundesaußenminister der Bundesrepublik Deutschland",
+  "in_office_since": "2037-03-14",
   "mandates": [
-    {
-      "title": "MdL NRW (CDU-Fraktion)",
-      "since": "2022-06-28",
-      "term": "17. Wahlperiode NRW",
-      "note": "Jüngster CDU-MdL bei Einzug. Koalition: CDU + Grüne (Kabinett Wüst II)."
-    }
-  ],
-  "committees": [
-    {
-      "name": "Ausschuss für Wirtschaft, Industrie, Klimaschutz und Energie",
-      "role": "Ordentliches Mitglied, faktischer CDU-Sprecher für Digitalisierung und Mittelstand",
-      "since": "2022-09-01"
-    },
-    {
-      "name": "Ausschuss für Digitalisierung und Innovation",
-      "role": "Stellvertretendes Mitglied",
-      "since": "2023-02-01"
-    }
+    { "title": "MdL NRW", "period": "2022–2029", "notes": "Direktmandat ab 2027 (knapper Sieg über Siebert)" },
+    { "title": "MdB Bundestag", "period": "2029–2037", "notes": "Über Liste, dann Direktmandat 2033" },
+    { "title": "Staatsminister im AA", "period": "2032–2037", "notes": "Transatlantische Beziehungen" },
+    { "title": "Bundesaußenminister", "period": "2037–heute", "notes": "9 Jahre, drei Kabinette" }
   ],
   "metrics": {
-    "reputation_public": 44,
-    "reputation_party_internal_nrw": 71,
-    "reputation_party_internal_bund": 18,
-    "media_sentiment": 62,
-    "network_strength": 58,
-    "notes": "Öffentlich: in NRW bekannt, bundesweit kaum. Partei-intern in NRW gut positioniert. Medien: positiv, vor allem WDR digital, WN, WAZ."
+    "reputation_national": 71,
+    "reputation_international": 88,
+    "media_sentiment_national": 64,
+    "media_sentiment_international": 82,
+    "party_internal_standing": 55,
+    "notes": "National: respektiert aber nicht geliebt. International: einer der bekanntesten deutschen Politiker weltweit seit Kohl. Partei-intern: unverzichtbar aber unbequem."
   },
-  "political_positions": {
-    "economy": "Wirtschaftsliberal – Bürokratieabbau, Standortförderung, Entlastung Mittelstand. Gegen SPD-Reichensteuer.",
-    "social": "Mitte – pragmatisch, keine Extrempositionen",
-    "foreign_policy": "Atlantisch, pro-EU, starke Bundeswehr, klare Russland-Haltung",
-    "environment": "Technologieoffen – CO2-Preis als Instrument, offen für SMR, ablehnen von Verboten. Akzeptiert Koalitionskompromisse mit Grünen in NRW.",
-    "migration": "Befürwortet Merz-Migrationswende. AfD-Stärke beunruhigt ihn.",
-    "digitalization": "Kernthema – KI-Regulierung, Smart Cities, Verwaltungsdigitalisierung, Breitbandausbau",
-    "housing": "Flächenmobilisierung, Bürokratieabbau beim Bauen, weniger Regulierung",
-    "scale": "Mitte-rechts, wirtschaftsliberaler Akzent. Kein Wertkonservativer."
+  "political_positions_2046": {
+    "AI_governance": "Kernthema. Globaler Vertrag als Priorität. Regulierung ja, aber nicht Innovationskiller.",
+    "china": "Strategische Entkopplung + Kommunikationskanäle offen halten. 'Wer nicht redet, verliert.'",
+    "usa": "Atlantische Bindung als Fundament, aber Europa als eigenständiger Pol.",
+    "russia": "Normalisierung frühestens nach demokratischem Wandel. Kein Entgegenkommen bei Territorium.",
+    "eu": "Vertiefung. Gemeinsame Außenpolitik. Hat Widerstand in der eigenen Partei.",
+    "nato": "Architekt des Verteidigungsrahmens 2040. Unbedingter Befürworter."
   },
-  "career_history": [
-    { "year": 2018, "event": "Eintritt CDU und Junge Union Münster" },
-    { "year": 2020, "event": "Bezirksvorsitzender JU Münster-Ost" },
-    { "year": 2021, "event": "Listenplatz CDU NRW – ursprünglich aussichtslos" },
-    { "year": 2022, "event": "NRW-Wahl: CDU-Stärke trägt Jonas über Liste in den Landtag. Jüngster CDU-MdL. Examen parallel." },
-    { "year": 2023, "event": "Zweites Staatsexamen abgelegt. Profilierung im Digitalausschuss." },
-    { "year": 2024, "event": "Vielbeachtete Plenum-Rede zu KI-Regulierung (Oktober). Einladungen zu CDU-Bundesveranstaltungen." },
-    { "year": 2025, "event": "Bundestagswahlkampf: aktive Unterstützung in Münster. NRW-Kommunalwahl: CDU Münster verliert OB. Schmerzhaft." }
-  ],
-  "upcoming_challenges": [
-    "NRW-Landtagswahl 25. April 2027 – MUSS wiedergewählt werden. Diesmal Direktmandat angestrebt statt Listenplatz.",
-    "Wahlkreis Münster: schwierig für CDU nach OB-Niederlage 2025",
-    "Spahn-Skandal: Wertediskussion in CDU diese Woche – wie positioniert er sich?",
-    "Thorsten Frei Abstimmung 29.07. – relevanter Kontakt für Bundesambitionen?"
-  ],
-  "defining_moments": [
+  "career_defining_moments": [
     {
       "date": "2023-03-14",
-      "event": "Digitalausschuss NRW: Jonas entlarvt Fehler in Breitband-Statistik des Wirtschaftsministeriums. WDR berichtet. Erster überregionaler Medienmoment."
+      "event": "Breitband-Ausschuss – erste nationale Aufmerksamkeit"
     },
     {
-      "date": "2024-10-09",
-      "event": "Plenum NRW: Rede zu KI-Regulierung und Mittelstand. Von Linnemann-Büro intern gelobt. In CDU-Netzwerken geteilt."
+      "date": "2027-04-25",
+      "event": "NRW-Direktmandat gewonnen – 51,3% vs. Siebert 48,7%. Knappstes Ergebnis des Abends in NRW."
+    },
+    {
+      "date": "2033-11-07",
+      "event": "Kopenhagen. Abendessen mit Senatorin Claire Whitmore. 4 Stunden, kein Protokoll."
+    },
+    {
+      "date": "2036-08-19",
+      "event": "Taiwan-Krise. Jonas fliegt ohne Kanzlermandat nach Washington. Gespräch mit NSA Torres verhindert US-Flottenbewegung. Kanzler wütend – dann dankbar."
+    },
+    {
+      "date": "2037-01-22",
+      "event": "Whitmore-Inauguration. Ihr erster bilateraler Anruf an Europa geht an Jonas – nicht an Kellner. Kellner hat es drei Tage später erfahren."
+    },
+    {
+      "date": "2039-04-03",
+      "event": "Transatlantischer Handelspakt unterzeichnet, Washington. Fotografierter Handschlag mit Whitmore. Das Bild hängt in Jonas' Berliner Büro."
+    },
+    {
+      "date": "2040-06-14",
+      "event": "NATO-Verteidigungsrahmen verabschiedet. Jonas' Werk über 18 Monate. Artikel 6 trägt seinen Fingerabdruck."
+    },
+    {
+      "date": "2041-03-12",
+      "event": "Tabloid-Foto. Whitmore und Jonas, Hotellobby Singapur G20, 23:40 Uhr. Kontext: Arbeitsessen nach offiziellem Abendessen, beide allein. Dementis schnell und glaubwürdig."
+    },
+    {
+      "date": "2043-09-28",
+      "event": "China-Entkopplungsabkommen 'Berliner Konsens'. EU + USA + Japan. Jonas und Whitmore als Hauptarchitekten."
     }
   ],
-  "notes": "Stand: 24. Juli 2026. Jonas ist MdL in der Regierungskoalition (CDU+Grüne NRW), gleichzeitig Münsteraner CDU-Oppositionspolitiker auf Stadtebene. Hauptbühne: Düsseldorf."
+  "current_challenges_sept_2046": [
+    "KI-Governance-Gipfel Berlin Oktober 2046 – Jonas federführend, China und USA noch nicht einig",
+    "Kellner-Koalition wackelt wegen Haushalt – Jonas' Rückhalt im Kabinett nicht garantiert",
+    "Siebert positioniert sich für 2049 Kanzlerkandidatur – greift Jonas' China-Politik an",
+    "Tanner baut intern Netzwerk auf – der Nachfolger in Wartestellung",
+    "Jakob beginnt Studium – Jonas hat versprochen, beim Einzug dabei zu sein",
+    "Whitmore's Innenpolitik schwächelt – ihr Handlungsspielraum für Europa schrumpft"
+  ],
+  "the_next_question": "Bleibt Jonas Außenminister bis 2049? Kandidiert er für den Kanzlerposten wenn Kellner abtritt? Oder gibt es einen dritten Weg – Brüssel, Washington, etwas anderes?",
+  "notes": "Stand: 15. September 2046."
 }

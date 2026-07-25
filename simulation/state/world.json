@@ -1,78 +1,60 @@
 {
-  "current_date": "2026-07-24",
+  "current_date": "2046-09-15",
   "location": {
-    "city": "Münster",
-    "state": "Nordrhein-Westfalen",
+    "primary": "Berlin",
     "country": "Deutschland"
   },
-  "national_government": {
-    "chancellor": "Friedrich Merz (CDU)",
-    "coalition": "CDU/CSU + SPD (Große Koalition, seit 24. April 2025)",
-    "finance_minister": "Lars Klingbeil (SPD)",
-    "interior_minister": "Alexander Dobrindt (CSU)",
-    "coalition_status": "Unter Druck – Steuerreform ist zentraler Streitpunkt. Merz mahnt CDU-Sichtbarkeit an.",
-    "cdu_party_chair": "Friedrich Merz",
-    "cdu_general_secretary": "Carsten Linnemann",
-    "cdu_fraktionsvorsitz": "VAKANT – Jens Spahn zurückgetreten (Leihmutterschaftsskandal). Thorsten Frei nominiert, Abstimmung: 29. Juli 2026.",
-    "opposition": ["AfD (~27%)", "Grüne", "Die Linke", "FDP (nicht im Bundestag)"]
-  },
-  "bundestagswahl_2025_ergebnis": {
-    "CDU_CSU": "28,5%",
-    "AfD": "20,8%",
-    "SPD": "16,4%",
-    "Gruene": "11,6%",
-    "Linke": "8,8%"
-  },
-  "current_polls": {
-    "AfD": "27-28% (stärkste Kraft in Umfragen!)",
-    "CDU_CSU": "~22%",
-    "date": "Juli 2026"
-  },
-  "nrw_government": {
-    "minister_president": "Hendrik Wüst (CDU)",
-    "deputy_mp": "Mona Neubaur (Grüne)",
-    "coalition": "CDU + Bündnis 90/Die Grünen (seit 2022)",
-    "next_election": "2027-04-25",
-    "status": "Letztes Regierungsjahr, Wahlkampf erwacht. Umstrittene Kita- und Schulgesetze kurz vor Sommerpause durchgesetzt."
-  },
-  "muenster_local": {
-    "mayor": "Tilman Fuchs (Bündnis 90/Die Grünen)",
-    "mayor_since": "2025-11-01",
-    "note": "Erster nicht-CDU-OB seit über 25 Jahren. Gewann Stichwahl am 28.09.2025 mit 57,91% gegen CDU-Kandidat Georg Lunemann.",
-    "stadtdirektorin": "Christine Zeller (seit 01.03.2026)",
-    "city_council": {
-      "coalition": "Grüne + SPD + Volt (seit 2025)",
-      "seats": {
-        "Gruene": 21,
-        "CDU": 20,
-        "SPD": 9,
-        "Linke": 6,
-        "Volt": 3,
-        "FDP": 2,
-        "Sonstige": 4
-      },
-      "CDU_status": "OPPOSITION (knapp gescheitert trotz 20 Sitze)"
+  "germany": {
+    "chancellor": "Thomas Kellner (CDU)",
+    "chancellor_age": 53,
+    "coalition": "CDU/CSU + FDP + Freie Wähler",
+    "coalition_status": "Drittes Kellner-Kabinett, 8 Monate alt. Stabile Mehrheit, aber FDP poltert wegen Haushalt.",
+    "bundestag_composition": {
+      "CDU_CSU": "31%",
+      "SPD": "19%",
+      "Gruene": "14%",
+      "FDP": "9%",
+      "AfD": "16%",
+      "Linke_BSW_Nachfolger": "8%",
+      "Sonstige": "3%",
+      "notes": "AfD nach Hochpunkt 2028 (33%) durch Spaltung und CDU-Kurswechsel auf 16% gefallen. Stabil aber nicht bedeutungslos."
     },
-    "last_local_election": "2025-09-14 / 2025-09-28 (Stichwahl)",
-    "next_local_election": "2030"
+    "nrw": {
+      "minister_president": "Dr. Carolin Siebert (CDU)",
+      "coalition": "CDU + SPD",
+      "notes": "Ja – dieselbe Siebert. Hat Jonas 2027 die Direktkandidatur verloren, war 2031 zurück, heute Ministerpräsidentin. Verhältnis zu Jonas: eisig-professionell."
+    },
+    "hot_topics_sept_2046": [
+      "KI-Governance Weltgipfel Berlin (Oktober 2046) – Jonas federführend",
+      "Haushaltskrise: FDP vs. CDU über Verteidigungsausgaben NATO 5%",
+      "Demografischer Kollaps: Rentenalter 70 Debatte",
+      "Energieunion EU: Stockende Verhandlungen mit Polen und Ungarn",
+      "Jakobs Geburtstag war im März – Jonas war in Seoul"
+    ]
   },
-  "hot_topics_july_2026": [
-    "Spahn-Leihmutterschaftsskandal / Neue CDU/CSU-Fraktionsführung (Frei, Abstimmung 29.07.)",
-    "Steuerreform – CDU vs. SPD Hauptkonflikt in der Koalition",
-    "AfD stärkste Partei in Umfragen (27-28%)",
-    "NATO-Gipfel Ankara – Merz lobt Ergebnis, Tomahawk-Beschaffung",
-    "Migrationswende: Asylanträge -35% in 5 Monaten 2026",
-    "Wohnungsbaukrise: nur ~175.000 Neubauten 2026 erwartet",
-    "NRW: Kita-Reform und Sprachförderklassen (ABC-Klassen) umstritten"
-  ],
-  "event_frequency": "sehr häufig",
-  "time_pressure": {
-    "active": false,
-    "goal": null,
-    "deadline": null
+  "usa": {
+    "president": "Claire Whitmore (Demokratin)",
+    "term": "Zweite Amtszeit, seit Januar 2045",
+    "approval_rating": "47% (unter Druck wegen Inlandspolitik)",
+    "key_issues": "KI-Regulierung, China-Strategie, NATO-Lastenteilung, Inland: Gesundheitssystem-Reform",
+    "whitmore_hartmann": "Weiterhin regelmäßiger direkter Austausch. Letztes Treffen: G20 Mumbai, August 2046.",
+    "us_congress": "Senat knapp demokratisch, Repräsentantenhaus republikanisch – Whitmore kämpft innenpolitisch."
   },
-  "global_context": "Ukraine: Eingefrorener Konflikt. USA: Transatlantische Spannung. China: Entkopplungsdebatte. KI: AI Act Durchführungsverordnungen in Kraft.",
-  "defense": "Rekordetat €108,2 Mrd. Deutschland übertrifft NATO-2%-Ziel deutlich. Bundeswehr-Modernisierung läuft.",
-  "economy": "BIP-Wachstum 2026: ~0,8-1,0%. Erholung nach Rezession 2023/24 schleppend. Arbeitslosigkeit: ~3 Mio. Energiekosten und Fachkräftemangel belasten Industrie.",
-  "notes": "Korrekturen nach Recherche. Stand: 24. Juli 2026."
+  "international": {
+    "ukraine": "Eingefrorener Konflikt seit 2031. Waffenstillstandslinie = neue Grenze de facto. EU-Mitgliedschaft Ukraine läuft 2047 formal an.",
+    "china": "Strategische Entkopplung weitgehend vollzogen. Taiwan: Eingefrorene Spannung seit 2036-Krise. Direktes Militär-Hotline Berlin-Peking-Washington seit 2037 (Jonas-Initiative).",
+    "taiwan": "Autonomie de facto gesichert nach 2036-Krise. China hat 'One Country Two Systems Plus' akzeptiert – Gesichtswahrung für Peking, Freiheit für Taipei.",
+    "middle_east": "Israel-Arabien-Normalisierung 2039 (Jonas war Vermittler). Fragiler Frieden.",
+    "africa": "Deutsche Entwicklungspolitik neu ausgerichtet seit 2038 – Investitionen statt Hilfe. Umstritten, aber wirksam.",
+    "AI_governance": "Das Thema 2046. Erster globaler KI-Vertrag in Verhandlung. Berlin als Verhandlungsort – Jonas' größte Wette.",
+    "climate": "Netto-null Europa 2043 erreicht (offiziell). Reale Emissionen -67% vs. 1990. Anpassungskosten dominieren Agenda.",
+    "nato": "5%-BIP-Ziel seit 2039 alle Mitglieder. Deutschland 5,2%. Jonas' NATO-Verteidigungsrahmen 2040 gilt als Fundament."
+  },
+  "technology_2046": {
+    "AI": "Allgemeine KI-Systeme (AGI-Vorläufer) im Einsatz. Regulierung hinkt hinterher. Größte geopolitische Machtfrage der Dekade.",
+    "energy": "80% erneuerbar in Deutschland. Fusionsenergie: erste kommerzielle Pilotanlage läuft in Frankreich.",
+    "space": "Erste permanente Mondstation (USA-EU-Japan, 2043). China eigene Basis 2044.",
+    "biotech": "Langlebigkeitsmedizin verändert Demografie-Debatten."
+  },
+  "notes": "Stand: 15. September 2046. KI-Gipfel in 6 Wochen ist die dominierende Agenda."
 }

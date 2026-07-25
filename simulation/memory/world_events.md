@@ -1,71 +1,47 @@
-# Welt-Ereignisse
-
-> Externe Ereignisse, die unabhängig vom Spieler eintreten.
-> Basis-Weltlage zum Simulationsstart (24. Juli 2026)
+# Welt-Ereignisse 2026–2046
 
 ---
 
-## BUND – Aktuell (Juli 2026)
+## DEUTSCHLAND
 
-### Spahn-Leihmutterschaftsskandal (laufend)
-Jens Spahn (CDU) und Ehemann Daniel Funke haben ein Kind über eine US-Leihmutter. Leihmutterschaftsvermittlung in Deutschland illegal. Merz forderte Rücktritt – Spahn trat als CDU/CSU-Fraktionsvorsitzender zurück. Thorsten Frei als Nachfolger nominiert, **Abstimmung: 29. Juli 2026**. Interne CDU-Debatte über Werte und Modernität läuft.
+- 2027: NRW-Wahl – CDU bleibt stärkste Kraft, Koalition CDU+SPD unter Wüst
+- 2029: Bundestagswahl – CDU+FDP, Kanzler Schmidt. AfD 33% – Hochpunkt, aber Regierungsunfähig.
+- 2031: Schmidt-Regierung zerbricht an Energiekrise. Neuwahl. CDU+SPD, Kanzler Kellner I
+- 2033: Automobilindustrie-Transformation abgeschlossen. 180.000 Stellen umgeschichtet. Schmerzhaft aber bewältigt.
+- 2035: AfD-Spaltung: Gemäßigte bilden „Nationale Allianz", Hardliner bleiben AfD. Beide geschwächt.
+- 2038: Rentenalter auf 68 angehoben. Größte innenpolitische Krise seit Jahrzehnten.
+- 2041: Kellner II. KI-Boom verändert Arbeitsmarkt fundamental.
+- 2043: Netto-null offiziell erreicht (umstritten). Letztes Kohlekraftwerk vom Netz.
+- 2045: Kellner III. FDP+Freie Wähler statt SPD als Koalitionspartner.
 
-### Steuerreform – Koalitionsstreit
-SPD-Finanzminister Klingbeil fordert Entlastung unterer/mittlerer Einkommen, finanziert durch höhere Reichensteuer. CDU/CSU lehnt ab. Größter aktueller Koalitionskonflikt.
+## USA
 
-### NATO-Gipfel Ankara (abgeschlossen, früher Juli 2026)
-Merz lobt als "großen Erfolg". Deutschland beschafft US-Tomahawk-Marschflugkörper. NATO "europäischer als je zuvor".
-
-### AfD in Umfragen – stärkste Kraft
-Ipsos (4.-6. Juli): AfD 28% – neues Allzeithoch. CDU/CSU ~22%. Beunruhigt die Union stark.
-
-### Migrationswende (in Kraft)
-Asylanträge -35,3% in ersten 5 Monaten 2026 (34.925 – niedrigster Stand seit 2013 außer Corona). Abschiebungen nach Afghanistan und Syrien wieder möglich.
-
----
-
-## WIRTSCHAFT
-
-- BIP-Wachstum 2026: ~0,8-1,0% (IW Köln) – schleppende Erholung
-- Rezession 2023 und 2024, Stagnation 2025
-- Arbeitslosigkeit: ~3 Millionen
-- Wohnungsbau: nur ~175.000 Neubauten 2026 erwartet (Ziel: 400.000)
-- 4 von 10 Industriefirmen planen Stellenabbau
-- SVIK Sondervermögen €500 Mrd. (über 12 Jahre), Kritik: auch für Haushaltslöcher genutzt
-
----
-
-## NRW
-
-### Kita-Reform und ABC-Klassen (Juli 2026)
-CDU-Grüne-Koalition hat kurz vor Sommerpause zwei umstrittene Gesetze durchgesetzt:
-1. Kita-Reform – kritisiert wegen Wegfall Kinderbetreuung und Bustransport
-2. "ABC-Klassen" – Sprachförderung für Kinder ohne ausreichende Deutschkenntnisse
-FDP wirft Koalition vor, Deutsch als Unterrichtssprache zu schwächen.
-
-### NRW-Wahlkampf erwacht
-Landtagswahl **25. April 2027** – noch 9 Monate. Koalitionspartner Grüne und CDU beginnen zu profilieren.
-
----
-
-## MÜNSTER
-
-### Neue Rathausmehrheit (seit Nov. 2025)
-Tilman Fuchs (Grüne) ist OB. Rathauskoalition: Grüne + SPD + Volt.
-CDU in der Opposition (20 von 65 Sitzen). Koalitionsprioritäten: Wohnen, Schulausbau, Inklusion.
-
-### Städtische Wohnungsnot
-Münster zählt zu den teuersten NRW-Städten. Wohnen ist NRW-Stadtentwicklungs-Jahresthema 2026. Hohes Streitpotenzial zwischen CDU-Opposition und rot-grün-Volt-Mehrheit.
-
----
+- 2028: US-Wahl – Republikanischer Kandidat gewinnt. Turbulente 4 Jahre, NATO-Spannungen.
+- 2032: Midterms verschieben Machtverhältnisse.
+- 2036: Whitmore gewinnt Democratic Primaries und Präsidentschaftswahl.
+- 2040: Midterms – Repräsentantenhaus geht an Republikaner.
+- 2041: Whitmore wiedergewählt, knappe Mehrheit.
+- 2045: Whitmore II. Innenpolitisch unter Druck. Gesundheitsreform scheitert im Senat.
 
 ## INTERNATIONAL
 
-- Ukraine: Eingefrorener Konflikt, Verhandlungen stocken
-- USA: Transatlantische Spannung anhaltend
-- China: Entkopplungsdebatte, Standort-Deutschland-Debatte
-- KI: EU AI Act Durchführungsverordnungen – hochaktuell
+- 2028: Russland-Eskalation Baltikum. NATO-Artikel-5-Probe. Deeskaliert nach 11 Tagen.
+- 2031: Ukraine-Waffenstillstand. Eingefrorene Linie wird de-facto-Grenze.
+- 2033: Kopenhagen – Jonas/Whitmore-Erstkontakt.
+- 2034: Nordkorea-Denuklearisierungsabkommen (platzt 2037).
+- 2036: Taiwan-Krise ⭐. Chinas Militärübung, US-Kongress fordert Reaktion. Jonas verhindert Eskalation. „Taipeh-Formel" sichert Status quo.
+- 2037: Neues transatlantisches Zeitalter beginnt mit Whitmore-Inauguration.
+- 2038: Israel-Arabien-Normalisierung (Jonas als Vermittler).
+- 2039: Handelspakt EU-USA.
+- 2040: NATO-Verteidigungsrahmen.
+- 2041: Erstes AGI-Vorläufersystem operativ (US-Tech-Konzern). Weltweite KI-Panik-Debatte beginnt.
+- 2042: KI-Governance-Notgipfel New York. Kein Ergebnis. Jonas schlägt Berlin als nächsten Verhandlungsort vor.
+- 2043: Berliner Konsens – China-Entkopplungsabkommen.
+- 2043: Erste permanente Mondstation (USA-EU-Japan).
+- 2044: China eigene Mondstation. Weltraum-Ordnungsfrage neu.
+- 2045: Erste Fusionsenergie-Anlage kommerziell (Frankreich).
+- 2046: KI-Governance-Gipfel Berlin (Oktober) – größtes diplomatisches Ereignis seit Jahren.
 
 ---
 
-*Wird bei wichtigen Ereignissen laufend ergänzt. Quellbasis: recherchierte Fakten, Stand 24. Juli 2026.*
+*Stand: 15. September 2046*

@@ -18,6 +18,7 @@
 | **Jakob Hartmann** | Dein Sohn, 18, beginnt Studium VWL/PoWi Köln | Fragile Beziehung. Du warst zu oft weg. |
 | **Sophie Brandt (geb. Krüger)** | Deine Ex-Frau, 45, Schulleiterin Münster | Getrennt seit 2031, geschieden. Lebt mit Jakob und neuem Mann. |
 | **Dr. Vera Hoffmann** | Deine Staatssekretärin im AA, 44 | Unverzichtbar. Führt das Haus wenn du reist. Seit 2038. |
+| **Robert Fink** | Dein persönlicher Referent im AA, 29 | Seit 2044. Organisiert alles was Vera nicht selbst macht. Lernt schnell. |
 
 ---
 

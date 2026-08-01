@@ -1,18 +1,18 @@
 {
   "central_relationship": {
     "name": "Claire Whitmore",
-    "role": "Präsidentin der Vereinigten Staaten (3. Amtszeit, bis 2049)",
-    "age": 59,
-    "relationship_score": 82,
+    "role": "Ehem. Präsidentin der Vereinigten Staaten (3. Amtszeit, bis 2049)",
+    "age": 60,
+    "relationship_score": 86,
     "trust": "außergewöhnlich hoch",
-    "status_2050": "Whitmore's Amtszeit endet 2049. Sie ist jetzt ehem. Präsidentin. Das Verhältnis ist nicht mehr institutionell – es ist persönlich. Zum ersten Mal seit 2033.",
-    "last_contact": "Telefon nach Wahlergebnis Oktober 2049. 'Kanzler Hartmann. Klingt gut.' Das letzte was gesagt wurde.",
-    "the_question": "Was wird aus dieser Beziehung wenn sie keine Amtsträgerin mehr ist und er Kanzler? Das ist ungeklärt. Beide wissen es.",
-    "notes": "Komplexestes Verhältnis. Nicht romantisch – mehr als professionell. Jetzt erstmals ohne institutionellen Rahmen."
+    "status_2050": "Erstes Jahr ohne Amt. Sie beschreibt es als 'das Schweigen, den Wegfall der Struktur'. Der Kanal ist jetzt explizit persönlich.",
+    "correspondence_2050": "Jan 2050: Handgeschriebene Karte, 'Washington misses its best European partner.' Jonas antwortet handgeschrieben: 'Häufiger als ich sollte.' Nov 2050: Lange Mail über das erste Monat ohne Amt. Jonas antwortet: 'Hamburg war mehr als ein Gespräch.' Ihre Antwort drei Tage später: 'I know.'",
+    "the_question": "Was das ist hat noch keinen Namen. Das ist vielleicht das Problem. Das ist vielleicht auch das Einzige was noch interessant ist.",
+    "notes": "Privater Kanal jetzt aktiv. Kein institutioneller Rahmen mehr. Beide wissen was es ist und benennen es nicht."
   },
   "ex_partner": {
     "name": "Sophie Hartmann (jetzt: Sophie Brandt)",
-    "age": 49,
+    "age": 50,
     "profession": "Schulleiterin, Grundschule Münster",
     "relationship_score": 55,
     "trust": "gut – aber distanziert",
@@ -23,59 +23,59 @@
     "name": "Jakob Hartmann",
     "age": 22,
     "born": "2028-03-22",
-    "studies": "VWL/Politikwissenschaft, Uni Köln, 4. Semester",
-    "lives": "WG Köln-Ehrenfeld",
-    "relationship_score": 78,
-    "trust": "aufgebaut, wächst",
-    "notes": "Bester Stand seit Jahren. Ruft wöchentlich an. Hat für Kanzleramtspraktikum angefragt. Das Kölner Polizeifoto (2048): Jonas war sofort da. Das hat Jakob nie vergessen.",
-    "current_dynamic": "Respektiert, liebt, beginnt zu verstehen. Ist stolz aber sagt es fast nie direkt."
+    "studies": "VWL/Politikwissenschaft, Uni Köln, 4. Semester (Praktikum Kanzleramt Jan-März 2050)",
+    "lives": "WG Köln-Ehrenfeld (bis Herbst 2051 – dann eigene Wohnung geplant, Anzahlung €30k von Jonas)",
+    "relationship_score": 83,
+    "trust": "aufgebaut, wächst stark",
+    "notes": "Praktikum Kanzleramt Jan-März 2050. Beobachtet alles, fragt wenig. Jonas sieht ihn manchmal in der Tür: 'Er lernt schneller als ich.' Apartment-Anzahlung €30.000 von Jonas. Monatlich jetzt €1.400. Hat nie danach gefragt – und trotzdem 'Danke' gesagt wie jemand der weiß was das bedeutet.",
+    "current_dynamic": "Respektiert, liebt, beginnt wirklich zu verstehen. Ist stolz – sagt es mittlerweile manchmal direkt."
   },
   "family": [
     {
       "name": "Werner Hartmann",
       "relation": "Vater",
-      "age": 78,
-      "relationship_score": 76,
-      "notes": "Gesundheit: gut für 78. Ruft immer noch sonntags an. Hat Jonas' Vereidigung im Fernsehen gesehen. Hat danach geweint – das hat Ingrid Jonas erzählt."
+      "age": 79,
+      "relationship_score": 79,
+      "notes": "Weihnachten 2050: Hat die Vereidigungsaufnahme abgespielt ohne zu fragen. Danach die Hand auf Jonas' Arm gelegt. Kurz, unbeholfen. 'Du hast das gut gemacht.' Das war genug."
     },
     {
       "name": "Ingrid Hartmann",
       "relation": "Mutter",
-      "age": 76,
+      "age": 77,
       "relationship_score": 81,
-      "notes": "Bewahrt jetzt ein ganzes Regal voll Zeitungsartikel. Hat ein Buch über Jonas' Karriere angefangen zu schreiben – für die Familie, sagt sie. Fragt weiterhin jeden Anruf: 'Und wie geht es dir wirklich?'"
+      "notes": "Das Bücherregal mit Zeitungsartikeln ist jetzt zwei Reihen voll. Das Familienbuch-Projekt läuft weiter. Fragt bei jedem Anruf: 'Und wie geht es dir wirklich?'"
     },
     {
       "name": "Lena Hartmann",
       "relation": "Schwester",
-      "age": 44,
+      "age": 45,
       "profession": "MdB (Grüne), Außenpolitikausschuss, Berlin",
-      "relationship_score": 72,
+      "relationship_score": 76,
       "trust": "hoch",
-      "notes": "Opposition. Kontrolliert Jonas parlamentarisch. Privat: SMS am Wahlabend: 'Glückwunsch. Du bist im Amt geblieben. Jetzt mach endlich was Ordentliches damit.' Sagt das immer noch."
+      "notes": "Küche Münster, 23 Uhr, Weihnachten 2050: Jonas sagt ihr ehrlich er ist unsicher ob 'Deutschland führt' das Richtige war. Sie: 'Gut, dass du das weißt. Das ist der Unterschied.' Bestes Gespräch seit Jahren. Greift ihn parlamentarisch an wo sie muss – privat ist das etwas anderes."
     }
   ],
   "cabinet_key": [
     {
       "name": "Dr. Vera Hoffmann",
       "role": "Bundesaußenministerin",
-      "relationship_score": 90,
+      "relationship_score": 93,
       "trust": "absolut",
-      "notes": "Sie ist jetzt Außenministerin. Das Amt das sie seit 12 Jahren vorbereitet hat. Wird es führen wie Jonas es geführt hat – nur ohne seinen Impulsivismus. Das ist vielleicht besser."
+      "notes": "Brüssel-Vermittlung (Frankreich/Polen) war ihre Stunde. Eigenständiges Profil wächst. FT nennt sie 'the quiet architect'. Noch vollständig loyal – aber nicht mehr nur Jonas' Verlängerung. Das ist gut und erfordert Aufmerksamkeit."
     },
     {
       "name": "Felix Kramer",
       "role": "Bundesminister der Finanzen",
-      "relationship_score": 87,
+      "relationship_score": 88,
       "trust": "sehr hoch",
-      "notes": "Loyalster Mann im Kabinett. Der einzige dem Jonas in Finanzfragen wirklich vertraut."
+      "notes": "Hat Jonas den Wendt-Hinweis gebracht ohne Erwartung, ohne Preis. Echter Loyalismus. Haas auf €1,8 Mrd. verhandelt ohne dass Jonas im Raum sein musste."
     },
     {
       "name": "Marcus Tanner",
       "role": "Bundesminister für Wirtschaft & Klimaschutz",
       "relationship_score": 62,
-      "trust": "mittel",
-      "notes": "Unterstützte Jonas früh. Wollte Außen, hat Wirtschaft bekommen. Loyal – bis er nicht mehr loyal ist. Jonas beobachtet."
+      "trust": "mittel – kalkuliert",
+      "notes": "Wendt still versetzt. Tanner weiß es, sagt nichts. Hat 2,1% Wachstumsziel 2051 als Deal akzeptiert. Wenn er es erreicht kommt er wieder. Leak-Quelle war sein Haus – nicht bewiesen, abgelegt."
     }
   ],
   "rivals": [
@@ -84,46 +84,53 @@
       "role": "Ehem. CDU-Generalsekretärin, jetzt ohne Amt",
       "relationship_score": 8,
       "trust": "null",
-      "notes": "Kennt den Namen Klaus Fenrich. Hat einen Anwalt. Sagt noch nichts. Wartet. Das ist gefährlicher als Angriff."
+      "notes": "Bedingungen schriftlich gestellt: (1) Anerkennung dass Ablösung politisch motiviert war, kein Fehlverhalten. (2) Keine weiteren Maßnahmen gegen ihre künftigen Aktivitäten. Kein Geld – sie will Rehabilitation. FAZ-Journalist recherchiert parallel Strategos GmbH. Beides gleichzeitig ist kein Zufall."
     },
     {
       "name": "Marcus Tanner",
       "role": "Wirtschaftsminister – potenzieller Nachfolger",
       "relationship_score": 62,
-      "notes": "Doppelt gelistet: Ally und Rival zugleich. Das ist korrekt."
+      "notes": "Doppelt gelistet: Ally und Rival. Wachstumsziel 2051 gesetzt. Wenn er liefert: kommt er zurück."
     }
   ],
   "international": [
     {
+      "name": "Patricia Owens",
+      "role": "US-Präsidentin (seit Jan 2050, Demokratin, Ohio)",
+      "age": 59,
+      "relationship_score": 72,
+      "notes": "Erster Berlin-Besuch Juni 2050. Jonas gibt ihr den transatlantischen Erneuerungserfolg. Klüger als viele Vorgänger. Kein Whitmore-Gefühl – eigene Qualität. Hat Jonas' Gegenfrage zur Sorokin-Frage registriert."
+    },
+    {
       "name": "James Abernathy",
-      "role": "Ehem. US-NSA, jetzt Think Tank (Brookings). 58.",
-      "relationship_score": 68,
-      "notes": "Whitmore's Amtszeit vorbei, er auch. Bleibt informeller Kanal in Washington."
+      "role": "Ehem. US-NSA, jetzt Think Tank (Brookings). 59.",
+      "relationship_score": 66,
+      "notes": "Gespräch Sept 2050 mit Vera dabei. Nützlich aber vorsichtiger als er wollte. Hat Sorokin-Reaktion auf Peking korrekt vorhergesagt."
     },
     {
       "name": "Liu Hao",
       "role": "Staatspräsident China",
-      "relationship_score": 78,
-      "notes": "Shanghai-Gipfel war historisch. Die Antwort 'Ich wähle das deutsche Volk' hat Liu beeindruckt. Er erwartet den ersten Kanzlerbesuch."
+      "relationship_score": 83,
+      "notes": "Peking Oktober 2050. 'Das ist akzeptabel.' Drei Stunden Abendessen. Wirtschaftsforum bilateral vereinbart. KI-Governance als Pilotprojekt. Liu testet Souveränitätsfrage – Jonas hält. Liu respektiert das."
     },
     {
       "name": "Alexei Sorokin",
       "role": "Russischer Präsident",
-      "relationship_score": 58,
-      "notes": "Wien hat Kanal geöffnet. Sorokin erwartet Ergebnisse. Hat Kanzler Hartmann öffentlich begrüßt. Jonas weiß: das kann ein Kuss des Todes sein."
+      "relationship_score": 52,
+      "notes": "Wien-Kanal eingefroren. Vera antwortete offiziell nach Sorokins Protest über Peking-Besuch. Sorokin schweigt seitdem – das ist gefährlicher als Protest. Wird Druck aufbauen 2051."
     },
     {
       "name": "Kenji Mori",
-      "role": "Japanischer Außenminister (Nachfolger Yamada)",
-      "relationship_score": 55,
-      "notes": "Yamada hat die Brücke gebaut. Mori: kühler, professioneller. Kein persönliches Band – noch nicht."
+      "role": "Japanischer Außenminister",
+      "relationship_score": 68,
+      "notes": "Berlin August 2050. Jonas antwortet persönlich auf Yamadas Vermächtnis. Zwei Stunden echtes Gespräch. Beziehung hat jetzt ein Fundament – kein Protokoll mehr nötig als Einstieg."
     },
     {
       "name": "Yuki Tanaka (Yamada)",
-      "role": "Ehem. Japanischer Außenminister, jetzt im Ruhestand",
+      "role": "Ehem. Japanischer Außenminister, im Ruhestand",
       "relationship_score": 83,
-      "notes": "Im Ruhestand. Hat Jonas als letztes gesagt: 'Die die alles verändern wollen, verlieren oft alles.' Jonas denkt manchmal daran."
+      "notes": "Im Ruhestand. Letzter Satz: 'Die die alles verändern wollen, verlieren oft alles.' Mori trägt die Brücke weiter."
     }
   ],
-  "notes": "Stand: 15. Januar 2050. Kabinett Hartmann I, Vereidigungstag."
+  "notes": "Stand: 31. Dezember 2050. Ende Jahr 1, Kabinett Hartmann I."
 }

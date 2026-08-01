@@ -1,127 +1,129 @@
 {
   "central_relationship": {
     "name": "Claire Whitmore",
-    "role": "Präsidentin der Vereinigten Staaten",
-    "age": 56,
-    "relationship_score": 88,
+    "role": "Präsidentin der Vereinigten Staaten (3. Amtszeit, bis 2049)",
+    "age": 59,
+    "relationship_score": 82,
     "trust": "außergewöhnlich hoch",
-    "history": "Erstes Treffen Kopenhagen 2033. Vier Stunden Abendessen, kein Protokoll. Sie war Senatorin, er Staatsminister. Sie hat sich seinen Satz notiert: 'Europa hat nicht Angst vor der Einigkeit, sondern vor dem Preis.' Seitdem: gemeinsame Arbeit, gemeinsame Siege, gemeinsame Gerüchte.",
-    "current_dynamic": "Zweimal jährlich Vier-Augen-Treffen ohne Protokoll. Letzte: G20 Mumbai, August 2046. Sie kämpft innenpolitisch, braucht Europa-Erfolge. Er kämpft innenpolitisch, braucht Washington-Rückendeckung.",
-    "the_rumor": "Tabloid-Foto 2041. Beide dementierten schnell. Nichts ist passiert. Die Frage die niemand stellt: wäre etwas passiert, wenn die Umstände andere gewesen wären? Beide haben sie beantwortet – in sich selbst, nie zueinander.",
-    "notes": "Das komplexeste Verhältnis in Jonas' Leben. Nicht romantisch. Mehr als professionell. Ein Wort dafür gibt es nicht."
+    "status_2050": "Whitmore's Amtszeit endet 2049. Sie ist jetzt ehem. Präsidentin. Das Verhältnis ist nicht mehr institutionell – es ist persönlich. Zum ersten Mal seit 2033.",
+    "last_contact": "Telefon nach Wahlergebnis Oktober 2049. 'Kanzler Hartmann. Klingt gut.' Das letzte was gesagt wurde.",
+    "the_question": "Was wird aus dieser Beziehung wenn sie keine Amtsträgerin mehr ist und er Kanzler? Das ist ungeklärt. Beide wissen es.",
+    "notes": "Komplexestes Verhältnis. Nicht romantisch – mehr als professionell. Jetzt erstmals ohne institutionellen Rahmen."
   },
   "ex_partner": {
     "name": "Sophie Hartmann (jetzt: Sophie Brandt)",
-    "age": 45,
+    "age": 49,
     "profession": "Schulleiterin, Grundschule Münster",
-    "relationship_score": 52,
+    "relationship_score": 55,
     "trust": "gut – aber distanziert",
-    "marital_status": "Verheiratet mit Dr. Markus Brandt (48, Arzt) seit 2038",
-    "notes": "Kein Groll. Kein Kontakt außer wegen Jakob. Sie hat das richtige Leben gewählt – das sagt sie nicht, aber Jonas weiß es. Er sieht sie zweimal im Jahr beim Abholen. Sie ist glücklicher als er.",
-    "shared_child": "Jakob Hartmann, 18"
+    "marital_status": "Verheiratet mit Dr. Markus Brandt (52, Arzt) seit 2038",
+    "notes": "Kein Groll. Wenig Kontakt außer über Jakob. Hat Jonas bei der Wahl per SMS gratuliert: 'Glückwunsch. Ich hoffe du weißt was du dir antust.' Er hat nicht geantwortet."
   },
   "son": {
     "name": "Jakob Hartmann",
-    "age": 18,
+    "age": 22,
     "born": "2028-03-22",
-    "studies": "VWL/Politikwissenschaft, Uni Köln, ab Oktober 2046",
-    "relationship_score": 64,
-    "trust": "aufgebaut, fragil",
-    "notes": "Die schwierigste Beziehung. Jonas war zu viel abwesend in Jakobs Kindheit. Jakob ist kein Kind mehr, das das nicht versteht – aber er hat nicht vergessen. Respektiert seinen Vater. Liebt ihn auch. Sagt beides selten. Sein Geburtstag im März: Jonas war in Seoul. Hat eine Voice-Nachricht geschickt. Jakob hat sie nicht beantwortet."
+    "studies": "VWL/Politikwissenschaft, Uni Köln, 4. Semester",
+    "lives": "WG Köln-Ehrenfeld",
+    "relationship_score": 78,
+    "trust": "aufgebaut, wächst",
+    "notes": "Bester Stand seit Jahren. Ruft wöchentlich an. Hat für Kanzleramtspraktikum angefragt. Das Kölner Polizeifoto (2048): Jonas war sofort da. Das hat Jakob nie vergessen.",
+    "current_dynamic": "Respektiert, liebt, beginnt zu verstehen. Ist stolz aber sagt es fast nie direkt."
   },
   "family": [
     {
       "name": "Werner Hartmann",
       "relation": "Vater",
-      "age": 74,
-      "status": "Rentner seit 2033. Hat Betrieb an Geschäftsführer übergeben.",
-      "relationship_score": 75,
-      "notes": "Stolz. Versteht was Jonas tut nur ungefähr. Ruft jeden Sonntagabend an wenn Jonas nicht gerade in einem Flugzeug sitzt. Manchmal sitzt Jonas im Flugzeug und lässt es klingeln."
+      "age": 78,
+      "relationship_score": 76,
+      "notes": "Gesundheit: gut für 78. Ruft immer noch sonntags an. Hat Jonas' Vereidigung im Fernsehen gesehen. Hat danach geweint – das hat Ingrid Jonas erzählt."
     },
     {
       "name": "Ingrid Hartmann",
       "relation": "Mutter",
-      "age": 72,
-      "status": "Pensioniert seit 2029.",
-      "relationship_score": 80,
-      "notes": "Hat Jonas' Karriere verfolgt wie eine Chronistin. Bewahrt Zeitungsartikel. Fragt jeden Anruf: 'Und wie geht es dir wirklich?' Er antwortet jedes Mal etwas anderes."
+      "age": 76,
+      "relationship_score": 81,
+      "notes": "Bewahrt jetzt ein ganzes Regal voll Zeitungsartikel. Hat ein Buch über Jonas' Karriere angefangen zu schreiben – für die Familie, sagt sie. Fragt weiterhin jeden Anruf: 'Und wie geht es dir wirklich?'"
     },
     {
       "name": "Lena Hartmann",
       "relation": "Schwester",
-      "age": 40,
+      "age": 44,
       "profession": "MdB (Grüne), Außenpolitikausschuss, Berlin",
-      "relationship_score": 78,
+      "relationship_score": 72,
       "trust": "hoch",
-      "notes": "Hat ihr eigenes Leben in der Politik gemacht. Sitzt im selben Ausschuss der Jonas' Arbeit kontrolliert. Professionell: sachlich-kritisch. Privat: die einzige Person die Jonas wirklich liest. Nennt ihn manchmal 'Herr Minister' wenn er ihr auf die Nerven geht."
+      "notes": "Opposition. Kontrolliert Jonas parlamentarisch. Privat: SMS am Wahlabend: 'Glückwunsch. Du bist im Amt geblieben. Jetzt mach endlich was Ordentliches damit.' Sagt das immer noch."
     }
   ],
-  "government_allies": [
-    {
-      "name": "Thomas Kellner",
-      "role": "Bundeskanzler (CDU)",
-      "age": 53,
-      "relationship_score": 61,
-      "trust": "professionell, bedingt",
-      "notes": "Schätzt Jonas' Kompetenz, misstraut seiner Eigenständigkeit. Das Whitmore-Direktverhältnis geht ihm gegen den Strich. Hat ihn im Kabinett behalten, weil ihn rauszuwerfen teurer wäre als ihn zu ertragen."
-    },
+  "cabinet_key": [
     {
       "name": "Dr. Vera Hoffmann",
-      "role": "Staatssekretärin im AA, engste Mitarbeiterin",
-      "age": 44,
-      "relationship_score": 82,
-      "trust": "sehr hoch",
-      "notes": "Seit 2038 an seiner Seite. Führt das Haus wenn er reist. Kennt jeden Kompromiss, jede Niederlage, jede Entscheidung die er nicht schlafen ließ. Unverzichtbar."
+      "role": "Bundesaußenministerin",
+      "relationship_score": 90,
+      "trust": "absolut",
+      "notes": "Sie ist jetzt Außenministerin. Das Amt das sie seit 12 Jahren vorbereitet hat. Wird es führen wie Jonas es geführt hat – nur ohne seinen Impulsivismus. Das ist vielleicht besser."
     },
     {
       "name": "Felix Kramer",
-      "role": "CDU-MdB, Vorsitzender Auswärtiger Ausschuss",
-      "age": 45,
-      "relationship_score": 71,
-      "trust": "gut",
-      "notes": "Der alte Flurgenosse aus Düsseldorf. Sind beide weit gekommen. Treffen sich vierteljährlich zum Abendessen ohne Agenda. Letzte Runde: Felix hat gesagt, Jonas solle endlich aufhören Minister zu sein und kandidieren. Jonas hat geschwiegen."
-    }
-  ],
-  "political_rivals": [
-    {
-      "name": "Dr. Carolin Siebert",
-      "role": "NRW-Ministerpräsidentin (CDU)",
-      "age": 47,
-      "relationship_score": 28,
-      "trust": "null",
-      "notes": "Hat 2027 die Direktkandidatur in Münster verloren – gegen Jonas, knapp. Hat nie vergessen. Ist trotzdem hochgekommen. Gilt als mögliche Kanzlerkandidatin 2049. Verhältnis: eisig-korrekt in der Öffentlichkeit, offen feindselig wo niemand zuhört."
+      "role": "Bundesminister der Finanzen",
+      "relationship_score": 87,
+      "trust": "sehr hoch",
+      "notes": "Loyalster Mann im Kabinett. Der einzige dem Jonas in Finanzfragen wirklich vertraut."
     },
     {
       "name": "Marcus Tanner",
-      "role": "CDU-MdB, aufstrebender Außenpolitiker, 38 Jahre",
-      "age": 38,
-      "relationship_score": 35,
-      "trust": "niedrig",
-      "notes": "Will Jonas' Erbe antreten – am liebsten noch während Jonas im Amt ist. Klug, ehrgeizig, positioniert sich schon als Nachfolger. Jonas hat ihn selbst gefördert. Das ärgert ihn manchmal."
+      "role": "Bundesminister für Wirtschaft & Klimaschutz",
+      "relationship_score": 62,
+      "trust": "mittel",
+      "notes": "Unterstützte Jonas früh. Wollte Außen, hat Wirtschaft bekommen. Loyal – bis er nicht mehr loyal ist. Jonas beobachtet."
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Dr. Carolin Siebert",
+      "role": "Ehem. CDU-Generalsekretärin, jetzt ohne Amt",
+      "relationship_score": 8,
+      "trust": "null",
+      "notes": "Kennt den Namen Klaus Fenrich. Hat einen Anwalt. Sagt noch nichts. Wartet. Das ist gefährlicher als Angriff."
+    },
+    {
+      "name": "Marcus Tanner",
+      "role": "Wirtschaftsminister – potenzieller Nachfolger",
+      "relationship_score": 62,
+      "notes": "Doppelt gelistet: Ally und Rival zugleich. Das ist korrekt."
     }
   ],
   "international": [
     {
       "name": "James Abernathy",
-      "role": "US-Nationaler Sicherheitsberater",
-      "age": 54,
-      "relationship_score": 70,
-      "notes": "Whitmore's NSA. Direkter Kanal seit 2037. Respektvolles Arbeitsverhältnis. Teilt Jonas' China-Einschätzung fast vollständig."
+      "role": "Ehem. US-NSA, jetzt Think Tank (Brookings). 58.",
+      "relationship_score": 68,
+      "notes": "Whitmore's Amtszeit vorbei, er auch. Bleibt informeller Kanal in Washington."
     },
     {
-      "name": "Yuki Tanaka",
-      "role": "Japanischer Außenminister",
-      "age": 58,
-      "relationship_score": 73,
-      "notes": "Engster asiatischer Partner. Taiwan-Krise 2036 hat sie zusammengeschweißt."
+      "name": "Liu Hao",
+      "role": "Staatspräsident China",
+      "relationship_score": 78,
+      "notes": "Shanghai-Gipfel war historisch. Die Antwort 'Ich wähle das deutsche Volk' hat Liu beeindruckt. Er erwartet den ersten Kanzlerbesuch."
     },
     {
-      "name": "Prof. Dr. Heinrich Rabe",
-      "role": "Verstorben 2039. Mentor.",
-      "age": null,
-      "relationship_score": null,
-      "notes": "Ist 2039 gestorben, 79 Jahre. Hat Jonas' Aufstieg noch erlebt. Sein letzter Brief an Jonas: 'Du hast das Richtige getan in Taipei. Auch wenn es niemand wissen darf.'"
+      "name": "Alexei Sorokin",
+      "role": "Russischer Präsident",
+      "relationship_score": 58,
+      "notes": "Wien hat Kanal geöffnet. Sorokin erwartet Ergebnisse. Hat Kanzler Hartmann öffentlich begrüßt. Jonas weiß: das kann ein Kuss des Todes sein."
+    },
+    {
+      "name": "Kenji Mori",
+      "role": "Japanischer Außenminister (Nachfolger Yamada)",
+      "relationship_score": 55,
+      "notes": "Yamada hat die Brücke gebaut. Mori: kühler, professioneller. Kein persönliches Band – noch nicht."
+    },
+    {
+      "name": "Yuki Tanaka (Yamada)",
+      "role": "Ehem. Japanischer Außenminister, jetzt im Ruhestand",
+      "relationship_score": 83,
+      "notes": "Im Ruhestand. Hat Jonas als letztes gesagt: 'Die die alles verändern wollen, verlieren oft alles.' Jonas denkt manchmal daran."
     }
   ],
-  "notes": "Stand: 15. September 2046."
+  "notes": "Stand: 15. Januar 2050. Kabinett Hartmann I, Vereidigungstag."
 }

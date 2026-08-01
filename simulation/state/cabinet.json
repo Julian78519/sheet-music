@@ -1,0 +1,174 @@
+{
+  "name": "Kabinett Hartmann I",
+  "sworn_in": "2050-01-15",
+  "coalition": "CDU/CSU + SPD",
+  "coalition_seats": {
+    "CDU_CSU": 299,
+    "SPD": 148,
+    "total": 447,
+    "majority_needed": 347,
+    "margin": 100
+  },
+  "ministers": [
+    {
+      "office": "Bundeskanzler",
+      "name": "Jonas Hartmann",
+      "party": "CDU",
+      "age": 52,
+      "loyalty": 10,
+      "notes": "Du."
+    },
+    {
+      "office": "Bundesaußenministerin",
+      "name": "Dr. Vera Hoffmann",
+      "party": "CDU",
+      "age": 46,
+      "loyalty": 10,
+      "background": "Staatssekretärin AA 2038–2050. Juristin. Spricht Englisch, Französisch, Mandarin-Grundkenntnisse. Hat alle großen Deals der Ära Hartmann mitgemacht – meistens von hinten. Jetzt vorne.",
+      "political_profile": "100% Jonas-Linie. Kein eigenes Profil – Stärke und Schwäche zugleich.",
+      "international_reception": "Liu Hao kennt sie. Whitmore's Team vertraut ihr. Mori (Japan): Einführung durch Yamada.",
+      "risk": "Wird als 'Hartmann in Frauengestalt' wahrgenommen. Kein eigener außenpolitischer Spielraum ohne Jonas."
+    },
+    {
+      "office": "Bundesminister der Finanzen",
+      "name": "Felix Kramer",
+      "party": "CDU",
+      "age": 47,
+      "loyalty": 9,
+      "background": "Ehem. Fraktionsvorsitzender. MdB seit 2022. Wirtschaftspolitiker, Generalist. Düsseldorfer Flurgenosse seit 2022. Hat Jonas bei jedem wichtigen Moment unterstützt.",
+      "political_profile": "Fiskalisch konservativ, politisch loyal. Kein Dogmatiker. Führt Finanzen als politisches Amt.",
+      "risk": "Fraktionsvorsitz vakant nach seinem Wechsel. Neuer Vorsitzender: Dr. Henrik Schulze (CDU, 52) – verlässlich aber weniger Jonas-nah.",
+      "notes": "Jonas' vertrautester Mann im Kabinett nach Vera."
+    },
+    {
+      "office": "Bundesminister für Wirtschaft & Klimaschutz",
+      "name": "Marcus Tanner",
+      "party": "CDU",
+      "age": 40,
+      "loyalty": 7,
+      "background": "MdB seit 2036, Außenpolitischer Sprecher. Hat Jonas im Kandidaturkampf früh unterstützt. Klug, ehrgeizig, medienwirksam. Wollte Außenministerium – hat Wirtschaft bekommen.",
+      "political_profile": "Wirtschaftsliberal, EU-freundlich. Will Profil aufbauen. Sieht Wirtschaftsministerium als Sprungbrett.",
+      "risk": "Ambitioniert. Wird eigene Agenda entwickeln. Könnte 2053 selbst kandidieren.",
+      "notes": "Kontrolliert – aber nicht harmlos."
+    },
+    {
+      "office": "Bundesministerin der Verteidigung",
+      "name": "Dr. Susanne Körner",
+      "party": "CDU",
+      "age": 46,
+      "loyalty": 8,
+      "background": "MdB seit 2031, 10 Jahre Verteidigungsausschuss. Mitverhandlerin EU-Verteidigungsrahmen 2046. Keine Militärkarriere – politische Expertin.",
+      "political_profile": "EU-Verteidigung, NATO-Befürworterin ohne Hardliner-Profil. Versteht parlamentarische Strukturen.",
+      "international_reception": "Leroux (Frankreich) kennt sie positiv. Abernathy: reserviert – hätte lieber einen General gesehen.",
+      "risk": "Korea-Kontext: wirkt möglicherweise zu weich in Krisen."
+    },
+    {
+      "office": "Bundesminister der Justiz",
+      "name": "Dr. Anna Schulte",
+      "party": "CDU",
+      "age": 43,
+      "loyalty": 7,
+      "background": "Bundesrichterin a.D., dann MdB 2041. Kennt den Fenrich-Kontext (hat Siebert-Abmahnungen begleitet) – sagt nichts.",
+      "political_profile": "Unabhängige Justiz, Rechtsstaat zuerst. Kein politisches Justizministerium.",
+      "risk": "Kann Jonas intern bremsen wenn er Justiz instrumentalisieren will. Sagt dann Nein."
+    },
+    {
+      "office": "Bundesministerin für Bildung & Forschung",
+      "name": "Dr. Clara Schmidt",
+      "party": "CDU",
+      "age": 46,
+      "loyalty": 7,
+      "background": "Ehem. Hamburger Bildungssenatorin 2041–2049. Bildungswissenschaftlerin. Hamburg-Bildungsprogramm als Bundesmodell.",
+      "political_profile": "Digitale Bildung, Chancengerechtigkeit, Hochschulreform. Pragmatisch, überparteilich respektiert.",
+      "notes": "Solide. Keine Überraschungen."
+    },
+    {
+      "office": "Bundesminister für Umwelt & Naturschutz",
+      "name": "Lars Berger",
+      "party": "CDU",
+      "age": 41,
+      "loyalty": 8,
+      "background": "MdB seit 2037, Klimaökonom. Hat EU-Investitionsfondsverhandlungen begleitet. Versteht Klimawirtschaft UND klassischen Industriesektor.",
+      "political_profile": "Grüne Wirtschaftswende, EU-Binnenmarkt. CDU-Klimaflügel.",
+      "notes": "Lena Hartmann (Grüne) kann gelegentlich mit ihm arbeiten. Brücke zur Opposition."
+    },
+    {
+      "office": "Bundesministerin für Familie, Senioren, Frauen & Jugend",
+      "name": "Marie Wolff",
+      "party": "CDU",
+      "age": 44,
+      "loyalty": 8,
+      "background": "MdB, Sozialpädagogin. Familienpolitische Sprecherin CDU seit 2037. Keine Ambitionen jenseits des Amts.",
+      "political_profile": "Pragmatisch, verlässlich. Führt das Amt ruhig.",
+      "notes": "Kein Risiko. Kein Drama."
+    },
+    {
+      "office": "Bundesminister des Innern",
+      "name": "Andrea Kessler",
+      "party": "CSU",
+      "age": 48,
+      "loyalty": 6,
+      "background": "CSU-MdB Bayern. Ehem. Bayerische Innenministerin 2044–2049. Hardliner bei Migration, juristisch sauber. Hat Bayern-Grenzschutz 2046 durchgesetzt.",
+      "political_profile": "Strenge Migrationspolitik, innere Sicherheit. Medienwirksam. Will AfD-Wähler zurückgewinnen.",
+      "risk": "Loyal der CSU zuerst, Jonas zweite. Könnte eigenständige Migrationssignale setzen.",
+      "notes": "Jonas kann sie als Puffer nutzen – wenn AfD-nahe Themen kommen, ist es 'Kesslers Ressort'."
+    },
+    {
+      "office": "Bundesminister für Verkehr & Infrastruktur",
+      "name": "Florian Huber",
+      "party": "CSU",
+      "age": 55,
+      "loyalty": 6,
+      "background": "Infrastrukturunternehmer, MdB seit 2033. Klassischer CSU-Mann: Beton, Straße, Schiene.",
+      "political_profile": "Infrastruktur first. Kein Klimamann.",
+      "notes": "CSU-Standardbesetzung. Reibung mit Berger (Umwelt) programmiert."
+    },
+    {
+      "office": "Bundesministerin für Ernährung & Landwirtschaft",
+      "name": "Dr. Theresa Kiefer",
+      "party": "CSU",
+      "age": 47,
+      "loyalty": 6,
+      "background": "Agrarökonomin, ehem. Bayerische Landwirtschaftsstaatssekretärin. Kennt EU-Agrarpolitik genau.",
+      "political_profile": "Bäuerliche Landwirtschaft, EU-Agrarbeihilfen, Tierschutz als Kompromiss.",
+      "notes": "CSU zufrieden. Bauernverband sofort einverstanden."
+    },
+    {
+      "office": "Bundesminister für Digitales & Technologie",
+      "name": "Sebastian Lang",
+      "party": "CSU",
+      "age": 35,
+      "loyalty": 7,
+      "background": "Tech-Gründer (KI-Security-Startup München), seit 2045 MdB. Hat bayerisches KI-Regulierungsgesetz 2048 mitgeschrieben. Jüngster Minister im Kabinett.",
+      "political_profile": "KI, Cybersicherheit, Digitalregulierung. Versteht das KI-Abkommen mit USA inhaltlich.",
+      "notes": "35 Jahre. Jüngstes Gesicht. Macht international Eindruck. Whitmore-Team: positiv überrascht."
+    },
+    {
+      "office": "Bundesministerin für Arbeit, Soziales & Gesundheit",
+      "name": "Dr. Monika Haas",
+      "party": "SPD",
+      "age": 51,
+      "loyalty": 5,
+      "background": "Ehem. DGB-Vizevorsitzende, dann MdB 2037. Gewerkschaftsflügel. Solide, verlässliche Koalitionspartnerin.",
+      "political_profile": "Arbeitnehmerrechte, Gesundheitsversorgung, Soziale Sicherung.",
+      "notes": "SPD-Superministerium. Loyal dem Koalitionsvertrag, nicht Jonas persönlich."
+    },
+    {
+      "office": "Bundesminister für wirtschaftliche Zusammenarbeit & Entwicklung",
+      "name": "Ahmad Karimi",
+      "party": "SPD",
+      "age": 43,
+      "loyalty": 5,
+      "background": "Sohn iranischer Einwanderer, geboren Frankfurt. MdB seit 2033. Entwicklungshilfeexperte. Spricht Farsi, Arabisch, Englisch.",
+      "political_profile": "Globale Gerechtigkeit, Klimaentwicklung, Migration als Chance.",
+      "notes": "Symbolisch starke Besetzung. Gut im internationalen Umfeld. Tritt öffentlich kaum in Erscheinung."
+    }
+  ],
+  "key_tensions": [
+    "Tanner (Wirtschaft) vs. Körner (Verteidigung): Rüstungsausgaben",
+    "Kessler (CSU/Innen) vs. Haas (SPD/Arbeit): Migrationspolitik",
+    "Huber (CSU/Verkehr) vs. Berger (CDU/Umwelt): Infrastruktur vs. Klimaschutz",
+    "Tanner (ambitioniert) vs. Jonas: Wann kommt der Nachfolgekampf?"
+  ],
+  "notes": "Stand: 15. Januar 2050. Kabinett Hartmann I vereidigt."
+}

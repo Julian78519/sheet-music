@@ -1,28 +1,33 @@
 {
   "personal": {
-    "savings": 284000,
+    "savings": 412000,
     "currency": "EUR",
     "assets": {
-      "muenster_wohnung": "Eigentumswohnung Mauritz, 2034 gekauft, Wert ~€520.000. Selten bewohnt.",
-      "investments": "Indexfonds-Portfolio ~€180.000 (aufgebaut über Jahrzehnte, keine Zeit für aktives Management)",
-      "pension": "Beamtenpension akkumuliert – nach 14 Jahren Ministeramt signifikant"
+      "muenster_wohnung": "Eigentumswohnung Mauritz, 2034 gekauft, Wert ~€570.000. Selten genutzt, vermietet 2048-2049 an Bekannte.",
+      "investments": "Indexfonds-Portfolio ~€220.000 (aufgebaut über Jahrzehnte, kein aktives Management)",
+      "pension": "Beamtenpension akkumuliert – nach 17 Jahren Ministeramt + Kanzleramt: erheblich. Schätzwert ab 65: ~€8.200/Monat",
+      "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren – meistens Dienstwagen."
     },
     "debt": 0,
     "monthly_income": {
-      "ministergehalt_netto": 11200,
-      "notes": "Bundesminister: Grundgehalt B11 ~€17.800 brutto. Nach Steuern, Abgaben, Partei-Mandatsbeitrag."
+      "kanzlergehalt_netto": 15800,
+      "notes": "Bundeskanzler: Grundgehalt B11 + Amtszulage ~€27.200 brutto. Nach Steuern, Abgaben, Partei-Mandatsbeitrag: ~€15.800/Monat netto."
     },
     "monthly_expenses": {
-      "berlin_kosten": 0,
-      "notes": "Dienstresidenz gestellt. Privat: Münster-Wohnung (Nebenkosten ~€400), Reisen privat, Sonstiges ~€2.800/Monat."
+      "dienstresidenz": "gestellt (kein Privatmietaufwand)",
+      "muenster_wohnung_NK": 420,
+      "privat_sonstiges": 3200,
+      "jakob_unterstuetzung": 800,
+      "notes": "Monatliche Nettoersparnis: ca. €11.000–11.500. Jonas spart konservativ. Hat nie luxuriös gelebt."
     },
-    "notes": "Hartmann ist nicht reich. 20 Jahre im öffentlichen Dienst, kein Privatsektor. Solide aber kein Vermögen."
+    "potential_purchases": {
+      "notes": "Als Kanzler könnte Jonas sich leisten: Ferienimmobilie (Sylt, Bodensee, Ausland), Kunstsammlung, hochwertige Uhren, Segelboot, Premium-Sportwagen, Wohnung in München oder Hamburg als Investment. Hat bisher bewusst darauf verzichtet – Image des 'normalen Mannes'."
+    }
   },
   "political": {
-    "campaign_fund": 0,
-    "notes": "Kein aktiver Wahlkampf. Grundfinanzierung über Partei und Fraktion.",
-    "speaking_fees": "Strikt: keine privaten Vorträge für Vergütung während Ministeramt. Hat mehrfach abgelehnt.",
-    "book_deal": "Biografie-Anfragen: drei in 2045 abgelehnt. 'Nach dem Amt.'"
+    "campaign_fund_used": "Eigenanteil Wahlkampf 2049: ~€18.000 aus Rücklagen. Partei hat Rest getragen.",
+    "speaking_fees": "Kanzleramt: keine privaten Honorarauftritte. Nach dem Amt: Buchvertrag läuft bereits an (Verlag Rowohlt, Angebot: €450.000 Vorschuss, offen).",
+    "book_deal_status": "Noch nicht unterschrieben. Prinzip: erst nach dem Amt. Rowohlt wartet."
   },
-  "notes": "Stand: 15. September 2046."
+  "notes": "Stand: 15. Januar 2050. Jonas ist nicht reich. Aber zum ersten Mal in seinem Leben könnte er es werden – wenn er wollte."
 }

@@ -1,8 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 48,
+  "age": 52,
   "birthdate": "1997-11-14",
-  "current_date": "2046-09-15",
+  "current_date": "2050-01-15",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -19,37 +19,43 @@
       "Ehrendoktorat Universität Warschau 2041 (transatlantische Sicherheitspolitik)"
     ]
   },
-  "current_role": "Bundesaußenminister der Bundesrepublik Deutschland",
-  "current_role_since": "2037-03-14",
+  "current_role": "Bundeskanzler der Bundesrepublik Deutschland",
+  "current_role_since": "2050-01-15",
   "cabinets_served": [
-    "Kabinett Kellner I (2037–2041)",
-    "Kabinett Kellner II (2041–2045)",
-    "Kabinett Kellner III (2045–heute)"
+    "Kabinett Kellner I (2037–2041) – Bundesaußenminister",
+    "Kabinett Kellner II (2041–2045) – Bundesaußenminister",
+    "Kabinett Kellner III (2045–2049) – Bundesaußenminister",
+    "Kabinett Hartmann I (2050–) – Bundeskanzler"
   ],
   "residence": {
-    "primary": "Berlin-Grunewald (Dienstresidenz AA)",
-    "secondary": "Münster-Mauritz (eigene Wohnung, selten genutzt)"
+    "primary": "Berlin – Bundeskanzler-Bungalow (Dienstresidenz)",
+    "secondary": "Münster-Mauritz (Eigentumswohnung, 2034 gekauft)"
   },
   "personal_status": {
     "marital": "Geschieden seit 2035",
     "children": [
       {
         "name": "Jakob Hartmann",
-        "age": 18,
+        "age": 22,
         "born": "2028-03-22",
-        "lives_with": "Sophie, Münster",
-        "studies": "Beginnt Oktober 2046 Studium VWL/Politikwissenschaft, Universität Köln"
+        "lives_with": "Eigene WG, Köln-Ehrenfeld",
+        "studies": "VWL/PoWi, Uni Köln, 4. Semester",
+        "notes": "Beziehung zum Vater: bester Stand seit Jahren. Erster eigeninitiierter Anruf 2047. Praktikumsanfrage Kanzleramt 2050 gestellt."
       }
     ],
-    "current_relationship": "Keine offizielle Partnerschaft. Gelegentlich gesehen mit Giulia Marchetti (45, EU-Diplomatin, Mailand). Nicht öffentlich.",
-    "notes": "Lebt in Berlin, arbeitet überall. Münster ist Herkunft, kein Zuhause mehr."
+    "current_relationship": "Keine offizielle Partnerschaft. Whitmore-Kapitel bewusst offen gelassen. Giulia Marchetti: kein Kontakt seit 2047 (Q25-Folge).",
+    "notes": "Berlin ist jetzt wirklich Zuhause. Münster ist Herkunft."
   },
-  "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, genug für Smalltalk)"],
+  "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
+  "health": {
+    "overall": "gut",
+    "notes": "52 Jahre, kein Sport seit Monaten. Zu viel Kaffee. Rücken meldet sich gelegentlich. Arzt empfiehlt: mehr Schlaf, weniger Reisen. Jonas empfiehlt: mehr Ergebnisse, weniger Ärzte."
+  },
   "reputation": {
-    "national": "Einer der profiliertesten Außenminister der Nachkriegsgeschichte. Polarisierend – CDU-Rechte findet ihn zu atlantisch, zu wenig konservativ.",
-    "international": "Respektiert. In Washington bekannt als 'Claire's European' – er hasst den Ausdruck, nutzt ihn aber.",
-    "press": "Sachlich-positiv in Qualitätsmedien. Tabloids: Whitmore-Gerüchte, gelegentlich aufgewärmt."
+    "national": "Bundeskanzler. Polarisierend – seine Anhänger sind begeistert, seine Gegner ernsthaft besorgt. Gilt als der eigenständigste Regierungschef seit Schröder.",
+    "international": "Hoch respektiert. In Washington: 'der Kanzler der die Dinge tut.' In Peking: 'der Deutsche, der weiß was er will.' In Moskau: 'unbequemer, aber berechenbarer Gesprächspartner.'",
+    "press": "Sachlich-positiv in Qualitätsmedien. Spiegel und Zeit: kritisch-wohlwollend. Bild: je nach Woche. Tabloids: Whitmore-Gerüchte, immer wieder."
   },
-  "style_tone": "Nüchtern, präzise, kein Showman. Lacht selten öffentlich – wenn, dann entwaffnend.",
-  "notes": "Simulationsbeginn: 15. September 2046. Stand: Branch ㉒ Whitmore & Hartmann."
+  "style_tone": "Nüchtern, präzise, kein Showman. Hat gelernt, wann er lächeln muss. Tut es trotzdem selten.",
+  "notes": "Stand: Vereidigungstag Kabinett Hartmann I, 15. Januar 2050."
 }

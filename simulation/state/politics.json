@@ -1,6 +1,6 @@
 {
   "party": "CDU",
-  "party_wing": "Atlantisch-liberaler Flügel. Gilt parteiintern als 'zu amerikanisch', 'zu wenig CDU-Kern'.",
+  "party_wing": "Atlantisch-liberaler Flügel. Gilt parteiintern jetzt als 'starker Kanzler' – das überschreibt die alten Flügeldiskussionen.",
   "current_office": "Bundeskanzler der Bundesrepublik Deutschland",
   "in_office_since": "2050-01-15",
   "mandates": [
@@ -11,28 +11,49 @@
     { "title": "Bundeskanzler", "period": "2050–", "notes": "Kabinett Hartmann I" }
   ],
   "metrics": {
-    "reputation_national": 74,
-    "reputation_international": 85,
-    "media_sentiment_national": 68,
-    "media_sentiment_international": 84,
-    "party_internal_standing": 77,
-    "coalition_stability": 82,
-    "notes": "National: gestiegen durch stabiles erstes Jahr. International: Peking-Erfolg, aber Sorokin-Riss kostet. Partei: Tanner-Spannung dämpft leicht."
+    "reputation_national": 78,
+    "reputation_international": 91,
+    "media_sentiment_national": 72,
+    "media_sentiment_international": 88,
+    "party_internal_standing": 79,
+    "coalition_stability": 84,
+    "kanzlerzustimmung_dez_2052": 63,
+    "notes": "National: Podcast-Interview + Pjöngjang + G7 haben Zustimmung auf 63% gehoben. International: G7-Führung und EU-Verteidigung machen Deutschland zum unangefochtenen europäischen Gewicht. Partei: Vera-Succession-Plan stabilisiert intern."
   },
   "kanzler_doktrin": "Deutschland führt. Wir haben aufgehört zu warten bis andere entscheiden.",
-  "leitprojekte_2050": {
-    "KI_rahmengesetz": "2. Lesung Bundestag – stark, internationale Anschlussfähigkeit gesichert. Lang Co-Autor.",
-    "infrastrukturpaket": "Bundesrat passiert (Huber-Preis: +15% Ländermittel). Implementierung 2051.",
-    "rentenreform": "In Ausschuss. Haas auf €1,8 Mrd. Mehrkosten verhandelt. Herbst 2051 geplant."
+  "succession_plan": {
+    "kanzlerin_2057": "Dr. Vera Hoffmann",
+    "kommuniziert": "September 2052 – intern nur Jonas/Vera/implizit Kramer",
+    "strategie": "Zweite Amtszeit 2053–2057 als bewusste Übergabe. Vera profilieren, Lohse einarbeiten, Parteilinie ausrichten.",
+    "post_amt_jonas": "Beratung. Kein weiteres Amt."
   },
-  "political_positions_2050": {
-    "AI_governance": "Globaler Rahmen als Kanzler-Priorität. KI-Gesetz als Blaupause für EU.",
-    "china": "Peking-Besuch Oktober 2050. Wirtschaftsforum bilateral vereinbart. KI-Governance bilateral als Pilotprojekt.",
-    "usa": "Owens-Verhältnis: professionell, solider Start. Kein Whitmore-Ersatz – eigene Qualität.",
-    "russia": "Wien-Kanal eingefroren nach Sorokin-Kommunikationsfehler. Keine bilateralen Energie-Deals.",
-    "eu": "Vermittlerrolle Brüssel (Frankreich/Polen). Wirtschaftsforum mit China bilateral – erzeugt EU-Reibung.",
-    "nato": "Korea-Gremium Co-Vorsitz. Deutschland aktive Sicherheitsrolle.",
-    "korea": "UN-Sondergremium Co-Vorsitz seit Juli 2050. Tunnel bestätigt. Ceasefire fragil."
+  "leitprojekte_2050": {
+    "KI_rahmengesetz": "ABGESCHLOSSEN. Verabschiedet 2050. Internationale Blaupause.",
+    "infrastrukturpaket": "ABGESCHLOSSEN. Bundesrat 2050. Implementierung 2051 abgeschlossen.",
+    "rentenreform": "ABGESCHLOSSEN 2051. Haas-Kompromiss €1,8 Mrd. Herbst 2051 verabschiedet."
+  },
+  "leitprojekte_2051": {
+    "rentenreform": "Verabschiedet Herbst 2051.",
+    "japan_abkommen": "Unterzeichnet – technologische Partnerschaft + Sicherheitsdialog.",
+    "genf_un_erklaerung": "Deutschland Co-Autor der UN-KI-Rahmendeklaration. Jonas persönlich in Genf.",
+    "ki_eu_modell": "Berliner Modell wird EU-Standard. Jonas Hauptarchitekt.",
+    "siebert_deal": "Drei-Jahres-Frieden. Schriftlich, intern. Süddeutsche kontrolliert."
+  },
+  "leitprojekte_2052": {
+    "G7_vorsitz": "München. KI-Governance als G7-Rahmen. 'The age of AI governance begins here.' Bloomberg live.",
+    "pjoengjang": "Historisch. Jonas in Nordkorea. DMZ-Inspektionsprotokoll bestätigt vollzogen. Kein offizielles Format. Kein Protokoll. Drei Stunden.",
+    "eu_verteidigung": "Frankreich überstimmt (qualifizierte Mehrheit). 18 Staaten. Erstes Mal seit 20 Jahren Deutschland gegen Frankreich in Sicherheitsfrage – und gewonnen.",
+    "sorokin_ankara": "Wien-Kanal über Ankara reaktiviert. Technische Energieerklärung. Fragile Normalisierung.",
+    "jakob_podcast": "12,3 Millionen Streams. Kommunikationsdurchbruch. Neue Wählergruppen."
+  },
+  "political_positions_2052": {
+    "AI_governance": "G7-Rahmen gesetzt. Berliner Modell international etabliert. KI-Pilotprojekt mit China läuft bilateral.",
+    "china": "Neutralitätssignal Taiwan bestätigt. KI-Kanal stabil. Deutschland als Brücke.",
+    "usa": "Democracy Alliance beigetreten als Brücken-Mitglied. Owens: solide, professionelle Partnerschaft.",
+    "russia": "Ankara-Kanal geöffnet. Fragile Normalisierung. Sorokin wartet auf nächste Gelegenheit.",
+    "eu": "Frankreich überstimmt – Paris verstimmt aber isoliert. Deutschland hat geführt.",
+    "nato": "Deutschland aktive Sicherheitsrolle. EU-Verteidigung als ergänzendes Instrument.",
+    "korea": "Pjöngjang-Besuch Mai 2052. DMZ-Protokoll bestätigt. Nordkorea schweigt wieder."
   },
   "career_defining_moments": [
     { "date": "2023-03-14", "event": "Breitband-Ausschuss – erste nationale Aufmerksamkeit" },
@@ -47,15 +68,12 @@
     { "date": "2050-06-12", "event": "Owens-Besuch Berlin. Erster bilateraler Termin als Kanzler mit US-Präsidentin." },
     { "date": "2050-07-01", "event": "Deutschland übernimmt Co-Vorsitz UN-Sondergremium Korea. Erstes Mal in der Geschichte." },
     { "date": "2050-10-08", "event": "Peking-Staatsbesuch. Liu Hao: 'Das ist akzeptabel.' Wirtschaftsforum bilateral vereinbart." },
-    { "date": "2050-11-04", "event": "FT-Interview G20 Mexiko-Stadt: 'Deutschland führt.' – Doktrin gesetzt." }
-  ],
-  "open_threats_2051": [
-    "Siebert: Schriftliche Bedingungen gestellt (Rehabilitation). Antwort aussteht.",
-    "FAZ-Journalist recherchiert Strategos GmbH – noch keine offizielle Anfrage.",
-    "Tanner: 2,1% Wachstumsziel 2051. Wenn er es erreicht, kommt er wieder.",
-    "Sorokin: Wien-Kanal kalt. Wird Druck aufbauen.",
-    "Korea: Gremium läuft, Nordkorea schweigt.",
-    "Vera Hoffmann: wächst, eigenes Profil. Noch loyal – aber eigenständig."
+    { "date": "2050-11-04", "event": "FT-Interview G20 Mexiko-Stadt: 'Deutschland führt.' – Doktrin gesetzt." },
+    { "date": "2051-06-15", "event": "Genf. Jonas präsentiert UN-KI-Rahmendeklaration persönlich. Deutschland als Co-Autor." },
+    { "date": "2051-09-22", "event": "Japan-Abkommen unterzeichnet. Technologiepartnerschaft + Sicherheitsdialog. Erstes dieser Art." },
+    { "date": "2052-05-14", "event": "Pjöngjang. Jonas in Nordkorea. DMZ-Inspektionsprotokoll bestätigt. Kein Format, kein Protokoll." },
+    { "date": "2052-06-28", "event": "G7-Gipfel München. 'The age of AI governance begins here.' KI-Governance als G7-Rahmen." },
+    { "date": "2052-09-11", "event": "EU-Verteidigung. Frankreich überstimmt. 18 Staaten. Erstes Mal seit 20 Jahren." }
   ],
   "jahresabschluss_2050": {
     "satz_des_jahres": "Deutschland führt.",
@@ -63,5 +81,26 @@
     "kanzlerzustimmung_dezember": 54,
     "gesamtbewertung": "Solides erstes Jahr. Mehr erreicht als erwartet. Weniger als erhofft."
   },
-  "notes": "Stand: 31. Dezember 2050. Ende Jahr 1, Kabinett Hartmann I."
+  "jahresabschluss_2051": {
+    "satz_des_jahres": "Die Architektur steht. Jetzt kommt der Inhalt.",
+    "moment_des_jahres": "Genf. Jonas liest die UN-Erklärung und denkt: Das habe ich geschrieben.",
+    "kanzlerzustimmung_dezember": 58,
+    "gesamtbewertung": "Starkes zweites Jahr. Rentenreform, Japan, Genf. Siebert-Deal. Vera wächst. Das ist die Grundlage."
+  },
+  "jahresabschluss_2052": {
+    "satz_des_jahres": "The age of AI governance begins here — or it doesn't begin at all.",
+    "moment_des_jahres": "Köln, Silvester. Jakob fragt: 'Das war dein bestes Jahr, oder?' Jonas: 'Wahrscheinlich ja.'",
+    "kanzlerzustimmung_dezember": 63,
+    "gesamtbewertung": "Das stärkste Jahr. Pjöngjang. G7. Frankreich. Er hat aufgehört um Erlaubnis zu fragen."
+  },
+  "open_threats_2053": [
+    "BUNDESTAGSWAHL 2053 – Zweite Amtszeit sichern. Ohne sie kein Vera-2057-Plan.",
+    "Frankreich – verstimmt nach EU-Verteidigungsabstimmung. Paris wartet auf Revanche.",
+    "Whitmore – Kanal still seit Oktober 2052. Unaufgelöst.",
+    "Sorokin – Ankara-Kanal fragil. Nächster Druckaufbau kommt.",
+    "Korea – nach Pjöngjang: Nordkorea schweigt wieder. Was folgt?",
+    "Vera – 2057-Plan intern kommuniziert. Frühzeitiger Leak könnte Dynamik stören.",
+    "Das Buch – Manuskript in Arbeit. Veröffentlichung nach dem Amt: Inhalte werden jetzt schon politisch gelesen."
+  ],
+  "notes": "Stand: 31. Dezember 2052. Ende Jahr 3, Kabinett Hartmann I."
 }

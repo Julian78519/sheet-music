@@ -1,45 +1,69 @@
 {
   "personal": {
-    "savings": 714000,
+    "savings": 1710000,
     "currency": "EUR",
     "assets": {
-      "muenster_wohnung": "Eigentumswohnung Mauritz, 2034 gekauft, Wert ~€575.000. Leerstand seit Kanzleramt-Einzug.",
-      "investments": "Indexfonds-Portfolio ~€225.000 (passives Wachstum ~2% p.a.)",
-      "pension": "Beamtenpension akkumuliert – nach 18 Jahren Ministeramt + Kanzleramt: erheblich. Schätzwert ab 65: ~€8.500/Monat",
-      "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren – meistens Dienstwagen.",
-      "bodensee_haus": "Abgelehnt (Januar 2050). Image-Entscheidung. Wird nicht bereut."
+      "muenster_wohnung": "VERKAUFT August 2052. €618.000. Direkt an bisherigen Mieter. Kein Makler. Keine Spekulationssteuer (gehalten seit 2034, >10 Jahre). Münster ist Vergangenheit.",
+      "investments_indexfonds": "~€252.000. Passives Wachstum ~2% p.a. Läuft seit 2049.",
+      "investments_ki_fonds": "€50.000. KI-Infrastrukturfonds Europa. Eingestiegen August 2052. Renditeerwartung 8–12% p.a. Diskret – kein öffentlicher Interessenkonflikt, aber grenzwertig.",
+      "pension": "Beamtenpension akkumuliert – nach 20 Jahren Ministeramt + Kanzleramt: erheblich. Schätzwert ab 65: ~€9.200/Monat.",
+      "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren.",
+      "bodensee_haus": "Abgelehnt Januar 2050. Wird nicht bereut."
     },
     "debt": 0,
     "monthly_income": {
       "kanzlergehalt_netto": 15800,
-      "notes": "Bundeskanzler: Grundgehalt B11 + Amtszulage ~€27.200 brutto. Nach Steuern, Abgaben, Partei-Mandatsbeitrag: ~€15.800/Monat netto."
+      "muenster_miete_netto": 0,
+      "notes": "Münster-Mieteinnahmen bis August 2052 (€990/Monat netto). Danach: verkauft. Netto-Sparrate ohne Immobilie: ~€11.200/Monat."
     },
     "monthly_expenses": {
       "dienstresidenz": "gestellt (kein Privatmietaufwand)",
-      "muenster_wohnung_NK": 420,
       "privat_sonstiges": 3200,
       "jakob_unterstuetzung": 1400,
-      "notes": "Monatliche Nettoersparnis: ca. €10.400–10.800. Jakob-Support ab Januar 2051 auf €1.400 erhöht."
+      "notes": "Münster-NK entfällt seit Verkauf. Monatliche Nettoersparnis: ca. €11.200."
     },
     "jahresbewegung_2050": {
-      "jahressparrate": "+€132.000 (12 Monate × ~€11k, inkl. alter Jakob-Rate)",
-      "rowohlt_erste_tranche": "+€200.000 (1/3 des Vorschusses auf Vertragsschluss)",
+      "jahressparrate": "+€132.000",
+      "rowohlt_tranche_1": "+€200.000",
       "jakob_apartment_anzahlung": "-€30.000",
-      "saldo": "+€302.000"
+      "saldo": "+€302.000",
+      "endstand_savings": 714000
+    },
+    "jahresbewegung_2051": {
+      "jahressparrate": "+€126.000 (12 Monate × ~€10.500, Münster-NK läuft)",
+      "muenster_miete_netto": "+€3.960 (4 Monate × €990, ab September)",
+      "neuer_indexfonds": "-€80.000 (Einmalzahlung)",
+      "saldo": "+€49.960",
+      "notes": "Ersparnisse steigen moderat durch Fonds-Umschichtung. Leerstand Münster bis Herbst 2051 kostete ~€2.500 NK ohne Einnahmen.",
+      "endstand_savings": 763960
+    },
+    "jahresbewegung_2052": {
+      "jahressparrate_netto": "+€121.600 (Jan–Aug: 8 Monate × €10.400; Sep–Dez: 4 Monate × €11.200)",
+      "muenster_miete": "+€7.920 (8 Monate × €990 bis Verkauf)",
+      "muenster_verkauf": "+€618.000",
+      "rowohlt_tranche_2": "+€200.000 (Manuskript-Tranche, Ghostwriter-Projekt gestartet)",
+      "ki_fonds_einzahlung": "-€50.000",
+      "ghostwriter": "-€35.000",
+      "jakob_support": "-€16.800 (12 × €1.400)",
+      "sonstiges_ausgaben": "-€38.400 (12 × €3.200)",
+      "saldo": "+€807.320",
+      "endstand_savings": 1710000
     }
   },
   "political": {
     "campaign_fund_used": "Eigenanteil Wahlkampf 2049: ~€18.000 aus Rücklagen. Partei hat Rest getragen.",
     "speaking_fees": "Kanzleramt: keine privaten Honorarauftritte.",
-    "book_deal_status": "UNTERSCHRIEBEN Februar 2050. Rowohlt, €600.000 Vorschuss gestaffelt: €200k auf Vertragsschluss (erhalten), €200k auf Manuskript, €200k auf Veröffentlichung. Erscheinen nach dem Amt. Ausstehend: €400.000."
+    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k, Vertragsschluss): erhalten 2050. Tranche 2 (€200k, Manuskript): erhalten 2052 nach Ghostwriter-Engagement. Tranche 3 (€200k, Veröffentlichung): AUSSTEHEND. Erscheinen nach dem Amt.",
+    "book_status": "Manuskript in Arbeit. Ghostwriter Thomas Berger liefert Struktur. Jonas schreibt Substanz – Außenpolitik, Genf, Korea, KI-Architektur. Sachlich, dokumentarisch. Kein Memoir."
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 714000,
-    "investments": 225000,
-    "immobilien": 575000,
-    "rowohlt_ausstehend": 400000,
-    "gesamt_ca": 1514000,
-    "notes": "Jonas ist zum ersten Mal Millionär – auf dem Papier. Er denkt nicht darüber nach."
+    "liquid": 1710000,
+    "investments_indexfonds": 252000,
+    "investments_ki_fonds": 50000,
+    "immobilien": 0,
+    "rowohlt_ausstehend": 200000,
+    "gesamt_ca": 2212000,
+    "notes": "Über zwei Millionen. Zum ersten Mal klar und bewusst. Er denkt selten daran – aber wenn, dann weiß er: die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit."
   },
-  "notes": "Stand: 31. Dezember 2050. Jahr 1 als Bundeskanzler."
+  "notes": "Stand: 31. Dezember 2052. Ende Jahr 3, Kabinett Hartmann I."
 }

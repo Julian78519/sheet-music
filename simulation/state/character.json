@@ -1,8 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 52,
+  "age": 54,
   "birthdate": "1997-11-14",
-  "current_date": "2050-01-15",
+  "current_date": "2051-12-31",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -29,33 +29,41 @@
   ],
   "residence": {
     "primary": "Berlin – Bundeskanzler-Bungalow (Dienstresidenz)",
-    "secondary": "Münster-Mauritz (Eigentumswohnung, 2034 gekauft)"
+    "secondary": "Münster-Mauritz (Eigentumswohnung, vermietet seit Herbst 2051)"
   },
   "personal_status": {
     "marital": "Geschieden seit 2035",
     "children": [
       {
         "name": "Jakob Hartmann",
-        "age": 22,
+        "age": 23,
         "born": "2028-03-22",
-        "lives_with": "Eigene WG, Köln-Ehrenfeld",
-        "studies": "VWL/PoWi, Uni Köln, 4. Semester",
-        "notes": "Beziehung zum Vater: bester Stand seit Jahren. Erster eigeninitiierter Anruf 2047. Praktikumsanfrage Kanzleramt 2050 gestellt."
+        "lives_with": "Eigene Wohnung, Köln-Ehrenfeld (seit Herbst 2051)",
+        "studies": "VWL/PoWi, Uni Köln, 6. Semester",
+        "notes": "Praktikum Kanzleramt 2050 abgeschlossen. Apartment mit Jonas' Anzahlung €30k. Jonas war zur Schlüsselübergabe da – Boden, Kaffee, eine Stunde. Bestes Jahr der Beziehung."
       }
     ],
-    "current_relationship": "Keine offizielle Partnerschaft. Whitmore-Kapitel bewusst offen gelassen. Giulia Marchetti: kein Kontakt seit 2047 (Q25-Folge).",
-    "notes": "Berlin ist jetzt wirklich Zuhause. Münster ist Herkunft."
+    "current_relationship": "Keine offizielle Partnerschaft. Whitmore: privater Briefkanal offen. 14. Januar 2052: erstes Treffen im Bungalow.",
+    "notes": "Berlin ist Zuhause. Münster ist jetzt vermietet – kein Ort mehr, nur noch Herkunft."
   },
   "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
   "health": {
-    "overall": "gut",
-    "notes": "52 Jahre, kein Sport seit Monaten. Zu viel Kaffee. Rücken meldet sich gelegentlich. Arzt empfiehlt: mehr Schlaf, weniger Reisen. Jonas empfiehlt: mehr Ergebnisse, weniger Ärzte."
+    "overall": "gut – deutlich verbessert",
+    "sport": "Joggen 3–4x/Woche seit Januar 2051. Bungalow-Garten + Spree-Promenade.",
+    "notes": "Blutdruck normal. Schlaf 6,5h (verbessert). Rücken deutlich besser. Mertens-Notiz: 'ehrlichster Grund den ich je gehört habe.' Kaffee: immer noch zu viel."
   },
   "reputation": {
-    "national": "Bundeskanzler. Polarisierend – seine Anhänger sind begeistert, seine Gegner ernsthaft besorgt. Gilt als der eigenständigste Regierungschef seit Schröder.",
-    "international": "Hoch respektiert. In Washington: 'der Kanzler der die Dinge tut.' In Peking: 'der Deutsche, der weiß was er will.' In Moskau: 'unbequemer, aber berechenbarer Gesprächspartner.'",
-    "press": "Sachlich-positiv in Qualitätsmedien. Spiegel und Zeit: kritisch-wohlwollend. Bild: je nach Woche. Tabloids: Whitmore-Gerüchte, immer wieder."
+    "national": "76/100. Polarisierend aber anerkannt. Gilt als konsequentester Kanzler seit Kohl in der Außenpolitik.",
+    "international": "88/100. Genf-Erklärung, Japan-Abkommen, KI-EU-Modell. FT: 'Germany's quiet dominance.' Peking: Taiwan-Frage – Liu Hao wartet.",
+    "press": "Qualitätsmedien: kritisch-wohlwollend. Neuer Kommunikationsstil kommt an. Spiegel-Profil Okt 2051: 'Der Kanzler der keine Fehler eingesteht – und trotzdem liefert.' Tabloids: Whitmore-Gerüchte nehmen wieder zu."
   },
-  "style_tone": "Nüchtern, präzise, kein Showman. Hat gelernt, wann er lächeln muss. Tut es trotzdem selten.",
-  "notes": "Stand: Vereidigungstag Kabinett Hartmann I, 15. Januar 2050."
+  "style_tone": "Nüchtern, präzise, direkter als im ersten Jahr. Hat aufgehört zu kalkulieren wann er lächeln muss – tut es jetzt selten aber echt.",
+  "kanzler_doktrin": "Deutschland führt. Doktrin braucht Konsequenz.",
+  "offene_fragen_jan_2052": [
+    "Vera Hoffmann – Brüssel-Antwort Januar 2052",
+    "Whitmore – 14. Januar Bungalow",
+    "Siebert – Magazin-Kontakt, Fenrich-Waffe geladen",
+    "Liu Hao – Taiwan-Signal kommt zurück"
+  ],
+  "notes": "Stand: 31. Dezember 2051. Ende Jahr 2, Kabinett Hartmann I."
 }

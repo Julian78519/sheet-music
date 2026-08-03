@@ -6,14 +6,17 @@
       "muenster_wohnung": "VERKAUFT August 2052. €618.000. Direkt an bisherigen Mieter. Kein Makler. Münster ist Vergangenheit.",
       "investments_indexfonds": "~€262.000. Passives Wachstum ~2% p.a. seit 2049. Stand Ende 2054.",
       "investments_ki_fonds": "€80.000. KI-Infrastrukturfonds Europa. Eingestiegen August 2052 mit €50k, aufgestockt 2054 um €30k nach Kramer-Konsultation. Renditeerwartung 8–12% p.a. Schätzwert Ende 2054: ~€92.000. Post-2057: Offenlegung oder Verkauf geplant.",
-      "pension": "Beamtenpension akkumuliert – nach 20+ Jahren Ministeramt + Kanzleramt: erheblich. Schätzwert ab 65: ~€9.200/Monat.",
+      "pension": "Bundeskanzler-Ruhegehalt seit 15.12.2057, zusätzlich Beamtenpension-Anwartschaft aus Ministerzeit. Kombiniert: ~€11.500/Monat, unabhängig von neuen Einkünften.",
       "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren.",
-      "jakob_reserve": "€150.000 earmarked auf separatem Konto. Nicht Jakobs Geld – noch Jonas'. Für nach dem Amt. Jakob weiß es nicht."
+      "jakob_reserve": "€170.000 earmarked auf separatem Konto. Nicht Jakobs Geld – noch Jonas'. Für nach dem Amt. Jakob weiß es nicht.",
+      "helios_global_vertrag": "Unterschrieben Januar 2058. Chairman, Geopolitical & Strategic Advisory Group. Signing Bonus €3.000.000 (binnen 30 Tagen), Grundgehalt €5.500.000/Jahr, Carry-Beteiligung variabel/unbegrenzt, 3 Jahre Mindestbindung mit anteiliger Rückzahlungsklausel. Akademische Ausnahmeklausel: ein Semester alle zwei Jahre mit Vorabgenehmigung – Harvard Frühjahr 2058 als erste Nutzung bereits freigegeben.",
+      "harvard_fellowship": "Distinguished Fellow, Frühjahrssemester 2058. €140.000, genehmigt im Rahmen der Helios-Ausnahmeklausel."
     },
     "debt": 0,
     "monthly_income": {
-      "kanzlergehalt_netto": 15800,
-      "notes": "Netto-Sparrate: ~€11.200/Monat."
+      "bundeskanzler_ruhegehalt_netto": 11500,
+      "helios_grundgehalt_netto_monatlich": "~€275.000 (ab Vertragsbeginn Januar 2058, vor Carry)",
+      "notes": "Grundlegend neue Einkommensstruktur seit Amtsende + Helios-Vertrag. Deutlich höhere Sparrate als während der Kanzlerschaft."
     },
     "monthly_expenses": {
       "dienstresidenz": "gestellt (kein Privatmietaufwand)",
@@ -83,6 +86,14 @@
       "saldo": "+€316.000",
       "notes": "Letztes Jahr im Amt. Buchveröffentlichung bringt finale Tranche. Ab Dezember erstmals Pensionsbezug (Bundeskanzler a.D.) statt Kanzlergehalt.",
       "endstand_savings": 2512000
+    },
+    "jahresbewegung_2058_bisher": {
+      "buch_tantiemen_ueber_vorschuss": "+€1.240.000 (erste Abrechnung, 420.000 verkaufte Exemplare in 8 Wochen)",
+      "buch_auslandsrechte_vorabzahlungen": "+€310.000 (15 Länder, gestaffelt eingehend)",
+      "helios_signing_bonus": "+€3.000.000 (binnen 30 Tagen nach Unterschrift, gebunden an 3-Jahres-Mindestlaufzeit)",
+      "saldo_bisher": "+€4.550.000",
+      "notes": "Januar 2058: Buchtantiemen weit über Vorschuss hinaus, dazu Helios Global-Vertrag (Chairman, Geopolitical & Strategic Advisory) unterschrieben inkl. Signing Bonus. Grundgehalt €5,5 Mio./Jahr läuft ab jetzt zusätzlich. Größter finanzieller Sprung seit Amtsantritt 2050.",
+      "endstand_savings_vorlaeufig": 7062000
     }
   },
   "political": {
@@ -92,14 +103,15 @@
     "book_status": "ERSCHIENEN November 2057, drei Wochen vor Veras Vereidigung. Whitmore-Kapitel enthalten, ungeschönt. Claire dazu: 'Du hast es endlich fertig geschrieben. Gut.'"
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 2512000,
+    "liquid": 7062000,
     "investments_indexfonds": 278000,
     "investments_ki_fonds": 185000,
     "immobilien": 0,
     "rowohlt_ausstehend": 0,
-    "gesamt_ca": 2975000,
+    "helios_laufendes_grundgehalt_pa": 5500000,
+    "helios_carry_unbekannt": "variabel, unbegrenzt nach oben, noch nicht realisiert",
     "jakob_reserve_earmark": 170000,
-    "notes": "Fast 3 Millionen. Alle Rowohlt-Tranchen erhalten. Ab sofort Pension als Bundeskanzler a.D. statt Amtsgehalt. Die Freiheit, von der er all die Jahre wusste, dass sie da ist, beginnt jetzt real zu werden."
+    "notes": "Über 7,5 Millionen Gesamtvermögen, Stand Januar 2058 – mehr als das Zehnfache dessen, was er vor der Kanzlerschaft hatte. Buchtantiemen plus Helios-Signing-Bonus haben die Vermögenslage in wenigen Wochen fundamental verändert. Vera hat ihre Bedenken geäußert (Reputationsrisiko), aber nicht interveniert – 'dein Leben jetzt, nicht meins'."
   },
-  "notes": "Stand: 31. Dezember 2057. Erstes Jahr außerhalb des Amtes ab Mitte Dezember."
+  "notes": "Stand: Januar 2058. Erste Wochen als Altbundeskanzler bringen den größten finanziellen Sprung seiner gesamten Karriere."
 }

@@ -216,5 +216,20 @@ Kanzlerzustimmung bei Amtsende: 76% – höchster Wert der gesamten Kanzlerschaf
 
 ---
 
-## 2057-12-31 – SIMULATIONSGEGENWART
-Jahr 8 abgeschlossen. Jonas Hartmann ist Altbundeskanzler. Dr. Vera Hoffmann ist Bundeskanzlerin.
+## 2057-12-31 – Jahr 8 abgeschlossen
+Jonas Hartmann ist Altbundeskanzler. Dr. Vera Hoffmann ist Bundeskanzlerin.
+
+---
+
+## JAHR 9 (2058) — LEBEN NACH DEM AMT
+
+## 2058-01 – Buch-Erfolg
+420.000 verkaufte Exemplare in 8 Wochen, Platz 1 der Bestsellerliste. Tantiemen über Vorschuss hinaus: €1.240.000. Auslandsrechte in 15 Ländern, €310.000 Vorabzahlungen.
+
+## 2058-01 – Jobangebote & Helios-Vertrag
+Mehrere Angebote (Harvard, Berlin AI Institute, Speaker-Agentur, Verteidigungsunternehmen-Aufsichtsrat, ARD-Doku, zweites Buch, EU-Sonderbeauftragter). Höchstes Angebot: Helios Global (Fonds, Singapur), Chairman Geopolitical & Strategic Advisory. Nach Verhandlung: Signing Bonus €3.000.000, Grundgehalt €5.500.000/Jahr, unbegrenzter Carry, 3-Jahres-Bindung, akademische Ausnahmeklausel (ein Semester alle zwei Jahre). Harvard-Fellowship Frühjahr 2058 als erste Nutzung freigegeben. Vera äußert Bedenken zum Reputationsrisiko, interveniert aber nicht. Jonas unterschreibt.
+
+---
+
+## 2058-01 – SIMULATIONSGEGENWART
+Vertrag unterschrieben. Gesamtvermögen auf über €7 Millionen gesprungen. Öffentlichkeit weiß noch nichts davon.

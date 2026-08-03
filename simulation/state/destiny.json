@@ -1,0 +1,65 @@
+{
+  "chosen_branch": "㉒ Whitmore & Hartmann",
+  "branch_description": "Bundesaußenminister und informeller Architekt der neuen transatlantischen Ordnung",
+  "end_state_2046": {
+    "age": 48,
+    "title": "Bundesaußenminister (im Amt)",
+    "key_relationship": "Enge politische Freundschaft mit US-Präsidentin Claire Whitmore",
+    "personal": "Geschieden von Sophie (2035). Sohn, 18. Lebt in Berlin.",
+    "legacy": "Handelspakt, NATO-Verteidigungsrahmen, China-Entkopplungsabkommen"
+  },
+  "key_waypoints": [
+    {
+      "year": 2029,
+      "event": "Einzug Bundestag – knapp, über Liste"
+    },
+    {
+      "year": 2032,
+      "event": "Staatsminister im Auswärtigen Amt, transatlantische Beziehungen"
+    },
+    {
+      "year": 2033,
+      "event": "Kopenhagen-Abend: Erstes Treffen mit Claire Whitmore (US-Senatorin). 4-Stunden-Gespräch, kein Protokoll."
+    },
+    {
+      "year": 2034,
+      "event": "Whitmore-Team bittet Jonas um vertrauliche Einschätzungen zur europäischen Position. Grauzone. Er gibt sie."
+    },
+    {
+      "year": 2035,
+      "event": "Trennung von Sophie. Kein Drama – sie hört auf zu warten, fängt ihr eigenes Leben an."
+    },
+    {
+      "year": 2036,
+      "event": "Taiwan-Krise. Jonas fliegt OHNE Kanzlermandat nach Washington. Verhindert fatale US-Entscheidung. Technisch Regelverstoß. Bekommt dafür das Außenministerium."
+    },
+    {
+      "year": 2037,
+      "event": "Whitmore gewinnt US-Präsidentschaftswahl. Ihr erster Europäer-Anruf geht an Jonas – nicht an den Kanzler."
+    },
+    {
+      "year": 2039,
+      "event": "Transatlantischer Handelspakt unterzeichnet. Erster gemeinsamer Coup Whitmore-Hartmann."
+    },
+    {
+      "year": 2041,
+      "event": "Boulevard-Presse konstruiert Affäre aus Foto. Whitmore dementiert schnell. Jonas schweigt. Profil geschärft."
+    },
+    {
+      "year": 2043,
+      "event": "China-Entkopplungsabkommen. Beider Namen darauf."
+    },
+    {
+      "year": 2046,
+      "event": "Simulationsgegenwart in diesem Branch."
+    }
+  ],
+  "critical_decisions_ahead": [
+    "2027: NRW-Direktmandat gewinnen – Fundament für alles",
+    "2029: Bundestag statt NRW – der Wechsel muss kommen",
+    "2033: Kopenhagen – das Gespräch das alles verändert",
+    "2035: Sophie – die Entscheidung die er nie formal trifft",
+    "2036: Taiwan – der Regelverstoß der seine Karriere definiert"
+  ],
+  "notes": "Engine kennt den Zielzustand. Spieler kennt ihn nicht vollständig. Die Wegpunkte sind Leitplanken, keine Garantien – Entscheidungen können den Pfad verschieben oder beschleunigen."
+}

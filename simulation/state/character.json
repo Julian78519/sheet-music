@@ -1,0 +1,80 @@
+{
+  "name": "Jonas Hartmann",
+  "age": 57,
+  "birthdate": "1997-11-14",
+  "current_date": "2054-12-31",
+  "gender": "männlich",
+  "origin": {
+    "city": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "country": "Deutschland"
+  },
+  "education": {
+    "school": "Gymnasium Paulinum Münster, Abitur 2016",
+    "university": "WWU Münster, Jura – 1. Staatsexamen 2021",
+    "second_exam": "2. Staatsexamen OLG Hamm 2023",
+    "additional": [
+      "Sciences Po Paris 2019 (Auslandssemester)",
+      "Harvard Kennedy School Executive Program 2030 (4 Wochen)",
+      "Ehrendoktorat Universität Warschau 2041 (transatlantische Sicherheitspolitik)"
+    ]
+  },
+  "current_role": "Bundeskanzler der Bundesrepublik Deutschland",
+  "current_role_since": "2050-01-15",
+  "cabinets_served": [
+    "Kabinett Kellner I (2037–2041) – Bundesaußenminister",
+    "Kabinett Kellner II (2041–2045) – Bundesaußenminister",
+    "Kabinett Kellner III (2045–2049) – Bundesaußenminister",
+    "Kabinett Hartmann I (2050–2053) – Bundeskanzler",
+    "Kabinett Hartmann II (2053–) – Bundeskanzler, zweite Amtszeit"
+  ],
+  "residence": {
+    "primary": "Berlin – Bundeskanzler-Bungalow (Dienstresidenz)",
+    "secondary": "KEINE – Münster-Mauritz verkauft August 2052. Bungalow ist einziges Zuhause."
+  },
+  "personal_status": {
+    "marital": "Geschieden seit 2035",
+    "children": [
+      {
+        "name": "Jakob Hartmann",
+        "age": 26,
+        "born": "2028-03-22",
+        "lives_with": "Eigene Wohnung, Köln-Ehrenfeld",
+        "profession": "Video-Magazin, ~900k Abonnenten. Öffentlicher Intellektueller in eigener Rolle.",
+        "notes": "Plant eigenes Interview über 2054 – über Kosten von Führung, nicht über Jonas direkt. Hat Jonas informiert, nicht um Erlaubnis gefragt. Silvester 2054: kleine Runde im Bungalow mit Vera und Kramer. Stand am Fenster neben seinem Vater. Hat nichts gesagt. Hat nichts sagen müssen. Beziehung: die beste die sie je hatten."
+      }
+    ],
+    "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft. Regelmäßige Briefe. Nach Nordkorea-Transcript-Leak Oktober 2054 schreibt sie: 'I read the transcript. I would have done the same. Take care of yourself.' Elf Wörter. Kanal still – aber lebendig.",
+    "notes": "Berlin ist Zuhause. Er schreibt samstags – das Whitmore-Kapitel, noch nicht gut, aber er hat angefangen. Er läuft noch, 5:55 Uhr, Spree-Promenade. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er bezieht Vera früher in Entscheidungen ein – nicht aus Schwäche, aus Klugheit."
+  },
+  "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
+  "health": {
+    "overall": "gut – stabil gehalten trotz härtestem Jahr der Amtszeit",
+    "sport": "Joggen 3–4x/Woche. 5:55 Uhr, manchmal 6:20. Spree-Promenade. Das Einzige das sich 2054 nicht verändert hat.",
+    "notes": "Blutdruck normal. Schlaf besser als 2053. Rücken gut. Nordkorea + Taiwan-Karte + Frankreich – das Jahr war brutal. Die Disziplin hat gehalten. Das ist der Unterschied."
+  },
+  "reputation": {
+    "national": "81/100. Kanzlerzustimmung 68%. Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview: 8,4 Millionen Zuschauer.",
+    "international": "94/100. Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht.",
+    "press": "Spiegel: 'Der Kanzler der nicht zurückgeht.' FT: 'Hartmann has redefined what European leadership looks like.' ARD-Interview: meistgesehenes politisches Interview des Jahres."
+  },
+  "style_tone": "Ruhig wenn er gefährlich ist. Handelt bevor er erklärt. Hat aufgehört zu rechtfertigen. Bezieht Vera früher ein – nicht aus Schwäche, aus Klugheit. Schreibt samstags.",
+  "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
+  "succession_plan": {
+    "target": "Dr. Vera Hoffmann – Kanzlerkandidatur 2057",
+    "status": "Auf Kurs. Hoffmann-Rahmen EU-Standard. FT: 'the quiet architect'. Vera konsultiert Jonas seltener – sie traut ihrem eigenen Urteil mehr. Das ist das Ziel.",
+    "Jonas_plan": "Jede Entscheidung 2055 trägt auch Vera's Zukunft. Zweite Amtszeit als bewusste Übergabe. Vera profilieren, Lohse etablieren, Parteilinie ausrichten.",
+    "post_amt": "Nach zweiter Amtszeit: Beratung. Privatsektor oder internationale Stiftungsarbeit. Kein weiteres Amt. Kein EU-Kommissionspräsident."
+  },
+  "offene_fragen_2055": [
+    "Frankreich – neuer PM sucht Normalisierung. Jonas lässt warten.",
+    "BVerfG-Klage – läuft, Kramer hat es gemanagt, aber offen.",
+    "Das Buch – Berger-Verfahren Januar 2055. Whitmore-Kapitel: Jonas schreibt selbst.",
+    "Siebert-Deal – läuft Mitte 2055 aus.",
+    "UN-Sicherheitsrat – Kandidatur aktiv, Chinas Verpflichtung wird getestet.",
+    "Nordkorea – Kanal fragil nach Transcript-Leak.",
+    "Vera 2057 – auf Kurs, aber frühere Profilierung erhöht Leak-Risiko.",
+    "Jakobs Interview – kommt. Jonas wartet."
+  ],
+  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+}

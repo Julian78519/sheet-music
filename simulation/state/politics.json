@@ -1,0 +1,152 @@
+{
+  "party": "CDU",
+  "party_wing": "Atlantisch-liberaler Flügel. Gilt parteiintern jetzt als 'starker Kanzler' – das überschreibt die alten Flügeldiskussionen.",
+  "current_office": "Bundeskanzler der Bundesrepublik Deutschland",
+  "in_office_since": "2050-01-15",
+  "mandates": [
+    { "title": "MdL NRW", "period": "2022–2029", "notes": "Direktmandat ab 2027 (knapper Sieg über Siebert)" },
+    { "title": "MdB Bundestag", "period": "2029–2037", "notes": "Über Liste, dann Direktmandat 2033" },
+    { "title": "Staatsminister im AA", "period": "2032–2037", "notes": "Transatlantische Beziehungen" },
+    { "title": "Bundesaußenminister", "period": "2037–2050", "notes": "12 Jahre, drei Kabinette Kellner" },
+    { "title": "Bundeskanzler (Erste Amtszeit)", "period": "2050–2053", "notes": "Kabinett Hartmann I" },
+    { "title": "Bundeskanzler (Zweite Amtszeit)", "period": "2053–2057", "notes": "Kabinett Hartmann II. Vera Hoffmann als Vizekanzlerin. Bewusste Übergabephase." }
+  ],
+  "metrics": {
+    "reputation_national": 81,
+    "reputation_international": 94,
+    "media_sentiment_national": 73,
+    "media_sentiment_international": 91,
+    "party_internal_standing": 83,
+    "coalition_stability": 81,
+    "kanzlerzustimmung_dez_2052": 63,
+    "kanzlerzustimmung_dez_2053": 61,
+    "kanzlerzustimmung_dez_2054": 68,
+    "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht."
+  },
+  "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
+  "succession_plan": {
+    "kanzlerin_2057": "Dr. Vera Hoffmann",
+    "kommuniziert": "September 2052 – intern nur Jonas/Vera/implizit Kramer",
+    "strategie": "Zweite Amtszeit 2053–2057 als bewusste Übergabe. Vera profilieren, Lohse einarbeiten, Parteilinie ausrichten.",
+    "post_amt_jonas": "Beratung. Kein weiteres Amt. Kein EU-Kommissionspräsident."
+  },
+  "leitprojekte_2050": {
+    "KI_rahmengesetz": "ABGESCHLOSSEN. Verabschiedet 2050. Internationale Blaupause.",
+    "infrastrukturpaket": "ABGESCHLOSSEN. Bundesrat 2050. Implementierung 2051 abgeschlossen.",
+    "rentenreform": "ABGESCHLOSSEN 2051. Haas-Kompromiss €1,8 Mrd. Herbst 2051 verabschiedet."
+  },
+  "leitprojekte_2051": {
+    "rentenreform": "Verabschiedet Herbst 2051.",
+    "japan_abkommen": "Unterzeichnet – technologische Partnerschaft + Sicherheitsdialog.",
+    "genf_un_erklaerung": "Deutschland Co-Autor der UN-KI-Rahmendeklaration. Jonas persönlich in Genf.",
+    "ki_eu_modell": "Berliner Modell wird EU-Standard. Jonas Hauptarchitekt.",
+    "siebert_deal": "Drei-Jahres-Frieden. Schriftlich, intern. Süddeutsche kontrolliert."
+  },
+  "leitprojekte_2052": {
+    "G7_vorsitz": "München. KI-Governance als G7-Rahmen. 'The age of AI governance begins here.' Bloomberg live.",
+    "pjoengjang": "Historisch. Jonas in Nordkorea. DMZ-Inspektionsprotokoll bestätigt vollzogen. Kein offizielles Format. Kein Protokoll. Drei Stunden.",
+    "eu_verteidigung": "Frankreich überstimmt (qualifizierte Mehrheit). 18 Staaten. Erstes Mal seit 20 Jahren Deutschland gegen Frankreich in Sicherheitsfrage – und gewonnen.",
+    "sorokin_ankara": "Wien-Kanal über Ankara reaktiviert. Technische Energieerklärung. Fragile Normalisierung.",
+    "jakob_podcast": "12,3 Millionen Streams. Kommunikationsdurchbruch. Neue Wählergruppen."
+  },
+  "leitprojekte_2053": {
+    "bundestagswahl": "GEWONNEN. September 2053. Zweite Amtszeit gesichert. CDU/CSU stärkste Kraft. Koalition erneuert.",
+    "kabinett_hartmann_II": "KONSTITUIERT Januar 2053. Vera Hoffmann als Vizekanzlerin. Lohse Wirtschaft. Kabinett auf Übergabe ausgerichtet.",
+    "un_sicherheitsrat_kandidatur": "ANGEKÜNDIGT. Deutschland bewirbt sich um nichtständigen Sitz im UN-Sicherheitsrat. China-Unterstützung in Aussicht gestellt.",
+    "siebert_deal": "Läuft. FAZ-Journalist inaktiv. Siebert ruhig. Deal endet Mitte 2055."
+  },
+  "leitprojekte_2054": {
+    "bildungsrahmen_54_16": "ABGESCHLOSSEN. Koalitionsinterner Kompromiss 54:16. KI-gestützte Lernplattformen, nationale Standards. Implementierung 2055.",
+    "berliner_afrika_pakt": "UNTERZEICHNET. 11 afrikanische Länder. Infrastruktur, Technologietransfer, Sicherheitsdialog. Deutschlands erste systematische Afrika-Strategie.",
+    "nordkorea_deeskalation": "Nuklearer Test Oktober 2054. Jonas droht mit hybridem Militärangriff auf Atomanlagen (koordiniert USA). Peking-Druck über Taiwan-Karte. Nordkorea stoppt innerhalb 72 Stunden. Pyongyang-Kanal wieder offen – fragil.",
+    "taiwan_karte": "29. Oktober 2054. Jonas ruft Liu Hao an: Neutralitätssignal wird zurückgezogen wenn China nicht innerhalb 7 Tagen handelt. China schickt Gesandten nach Pyongyang. Historische Verschiebung der deutschen Außenpolitik.",
+    "frankreich_dgse_konfrontation": "DGSE hat Pyongyang-Kanal abgehört. Français versucht Erpressung (EU-Veto). Jonas verweigert, verlässt Élysée, gibt offizielles Pressstatement heraus. EU-Außenrat: 18 Staaten hinter Deutschland. UN-Generalversammlung: Frankreich isoliert. Französischer PM später ersetzt.",
+    "hoffmann_rahmen": "EU-STANDARD. Vera Hoffmann hat ihn formuliert. Jonas hat den Raum gegeben. FT: 'the quiet architect'. Deutschlands wichtigste diplomatische Architektur seit Kellner-Ära.",
+    "un_sicherheitsrat": "KANDIDATUR EINGEREICHT. Abstimmung 2055. China-Verpflichtung wird getestet."
+  },
+  "political_positions_2052": {
+    "AI_governance": "G7-Rahmen gesetzt. Berliner Modell international etabliert. KI-Pilotprojekt mit China läuft bilateral.",
+    "china": "Neutralitätssignal Taiwan bestätigt. KI-Kanal stabil. Deutschland als Brücke.",
+    "usa": "Democracy Alliance beigetreten als Brücken-Mitglied. Owens: solide, professionelle Partnerschaft.",
+    "russia": "Ankara-Kanal geöffnet. Fragile Normalisierung. Sorokin wartet auf nächste Gelegenheit.",
+    "eu": "Frankreich überstimmt – Paris verstimmt aber isoliert. Deutschland hat geführt.",
+    "nato": "Deutschland aktive Sicherheitsrolle. EU-Verteidigung als ergänzendes Instrument.",
+    "korea": "Pjöngjang-Besuch Mai 2052. DMZ-Protokoll bestätigt. Nordkorea schweigt wieder."
+  },
+  "political_positions_2054": {
+    "china": "Kontingente Neutralität Taiwan. Liu Hao weiß: Deutschland kann die Karte spielen. Das ist Macht und Risiko gleichzeitig. KI-Kanal läuft weiter als Stabilisator.",
+    "nordkorea": "Kanal offen – fragil nach Transcript-Leak. Jonas hat gedroht und geliefert. Pyongyang weiß jetzt was Deutschland tun kann.",
+    "frankreich": "Offiziell normalisiert – neuer PM sucht Gespräch. Jonas lässt warten. Das Vertrauen ist beschädigt. DGSE-Affäre ist nicht vergessen.",
+    "usa": "Nordkorea-Trilateral hat Partnerschaft vertieft. Owens und Jonas: Arbeitsteilung auf Augenhöhe.",
+    "eu": "Hoffmann-Rahmen EU-Standard. Deutschland setzt die Architektur. Frankreich isoliert – aber Europa funktioniert.",
+    "un": "Sicherheitsrat-Kandidatur eingereicht. China-Verpflichtung wird 2055 getestet.",
+    "russia": "Direktkanal zu Sorokin geöffnet. Stabiler als 2052. Vera formuliert, Jonas zeichnet ab.",
+    "africa": "Berliner Afrika-Pakt. 11 Länder. Erste systematische Strategie."
+  },
+  "career_defining_moments": [
+    { "date": "2023-03-14", "event": "Breitband-Ausschuss – erste nationale Aufmerksamkeit" },
+    { "date": "2027-04-25", "event": "NRW-Direktmandat gewonnen – 51,3% vs. Siebert 48,7%." },
+    { "date": "2033-11-07", "event": "Kopenhagen. Abendessen mit Senatorin Claire Whitmore. 4 Stunden, kein Protokoll." },
+    { "date": "2036-08-19", "event": "Taiwan-Krise. Jonas fliegt ohne Kanzlermandat nach Washington. Verhindert US-Flottenbewegung." },
+    { "date": "2037-01-22", "event": "Whitmore-Inauguration. Ihr erster bilateraler Anruf an Europa geht an Jonas – nicht an Kellner." },
+    { "date": "2039-04-03", "event": "Transatlantischer Handelspakt unterzeichnet, Washington." },
+    { "date": "2040-06-14", "event": "NATO-Verteidigungsrahmen verabschiedet. Artikel 6 trägt Jonas' Fingerabdruck." },
+    { "date": "2043-09-28", "event": "China-Entkopplungsabkommen 'Berliner Konsens'. Jonas und Whitmore als Hauptarchitekten." },
+    { "date": "2050-01-15", "event": "Vereidigung als Bundeskanzler. Kabinett Hartmann I." },
+    { "date": "2050-06-12", "event": "Owens-Besuch Berlin. Erster bilateraler Termin als Kanzler mit US-Präsidentin." },
+    { "date": "2050-07-01", "event": "Deutschland übernimmt Co-Vorsitz UN-Sondergremium Korea. Erstes Mal in der Geschichte." },
+    { "date": "2050-10-08", "event": "Peking-Staatsbesuch. Liu Hao: 'Das ist akzeptabel.' Wirtschaftsforum bilateral vereinbart." },
+    { "date": "2050-11-04", "event": "FT-Interview G20 Mexiko-Stadt: 'Deutschland führt.' – Doktrin gesetzt." },
+    { "date": "2051-06-15", "event": "Genf. Jonas präsentiert UN-KI-Rahmendeklaration persönlich. Deutschland als Co-Autor." },
+    { "date": "2051-09-22", "event": "Japan-Abkommen unterzeichnet. Technologiepartnerschaft + Sicherheitsdialog. Erstes dieser Art." },
+    { "date": "2052-05-14", "event": "Pjöngjang. Jonas in Nordkorea. DMZ-Inspektionsprotokoll bestätigt. Kein Format, kein Protokoll." },
+    { "date": "2052-06-28", "event": "G7-Gipfel München. 'The age of AI governance begins here.' KI-Governance als G7-Rahmen." },
+    { "date": "2052-09-11", "event": "EU-Verteidigung. Frankreich überstimmt. 18 Staaten. Erstes Mal seit 20 Jahren." },
+    { "date": "2053-09-28", "event": "Bundestagswahl. Zweite Amtszeit gesichert. CDU/CSU stärkste Kraft. Kabinett Hartmann II." },
+    { "date": "2054-10-14", "event": "Nordkorea-Nukleartest. Jonas droht öffentlich mit hybridem Militärangriff auf Atomanlagen. Weltweit erste derartige Drohung eines deutschen Kanzlers. USA koordiniert." },
+    { "date": "2054-10-29", "event": "Taiwan-Karte. Anruf Liu Hao: Neutralitätssignal wird zurückgezogen wenn China nicht handelt. China liefert. Nordkorea stoppt. Historische Verschiebung." },
+    { "date": "2054-12-01", "event": "Élysée-Konfrontation. DGSE-Abhörskandal. Jonas verlässt das Gespräch, gibt Pressstatement, geht zu EU und UN. Frankreich isoliert." }
+  ],
+  "jahresabschluss_2050": {
+    "satz_des_jahres": "Deutschland führt.",
+    "moment_des_jahres": "Werner. Die Hand auf dem Arm. Münster, Weihnachten.",
+    "kanzlerzustimmung_dezember": 54,
+    "gesamtbewertung": "Solides erstes Jahr. Mehr erreicht als erwartet. Weniger als erhofft."
+  },
+  "jahresabschluss_2051": {
+    "satz_des_jahres": "Die Architektur steht. Jetzt kommt der Inhalt.",
+    "moment_des_jahres": "Genf. Jonas liest die UN-Erklärung und denkt: Das habe ich geschrieben.",
+    "kanzlerzustimmung_dezember": 58,
+    "gesamtbewertung": "Starkes zweites Jahr. Rentenreform, Japan, Genf. Siebert-Deal. Vera wächst. Das ist die Grundlage."
+  },
+  "jahresabschluss_2052": {
+    "satz_des_jahres": "The age of AI governance begins here — or it doesn't begin at all.",
+    "moment_des_jahres": "Köln, Silvester. Jakob fragt: 'Das war dein bestes Jahr, oder?' Jonas: 'Wahrscheinlich ja.'",
+    "kanzlerzustimmung_dezember": 63,
+    "gesamtbewertung": "Das stärkste Jahr. Pjöngjang. G7. Frankreich. Er hat aufgehört um Erlaubnis zu fragen."
+  },
+  "jahresabschluss_2053": {
+    "satz_des_jahres": "Die unverzichtbare Nation beginnt.",
+    "moment_des_jahres": "Wahlnacht September 2053. Vera steht neben ihm. Er sagt nichts. Sie auch nicht. Das war der Plan.",
+    "kanzlerzustimmung_dezember": 61,
+    "gesamtbewertung": "Zweite Amtszeit gesichert. Kabinett Hartmann II konstituiert. Vera als Vizekanzlerin. Das Fundament für 2057 steht."
+  },
+  "jahresabschluss_2054": {
+    "satz_des_jahres": "Ob das was wir gebaut haben, hält. Nicht ob ich da noch bin.",
+    "moment_des_jahres": "29. Oktober 2054. Liu Hao-Anruf. Die Taiwan-Karte. Jonas legt auf und sitzt eine Minute still.",
+    "kanzlerzustimmung_dezember": 68,
+    "gesamtbewertung": "Das stärkste Jahr. Auch das kostbarste. Nordkorea. Taiwan-Karte. Frankreich isoliert. Der Preis: das Whitmore-Kapitel, der Kanal nach Pyongyang, ein Jahr das niemand vergisst – auch er nicht."
+  },
+  "open_threats_2055": [
+    "Frankreich – neuer PM sucht Normalisierung. Jonas lässt warten.",
+    "BVerfG-Klage – läuft, Kramer hat es gemanagt, aber offen.",
+    "Das Buch – Berger-Verfahren Januar 2055. Whitmore-Kapitel: Jonas schreibt selbst.",
+    "Siebert-Deal – läuft Mitte 2055 aus. Was danach kommt, ist unbekannt.",
+    "UN-Sicherheitsrat – Kandidatur aktiv, Chinas Verpflichtung wird getestet.",
+    "Nordkorea – Kanal fragil nach Transcript-Leak.",
+    "Vera 2057 – auf Kurs, aber frühere Profilierung erhöht Leak-Risiko.",
+    "Jakobs Interview – kommt. Jonas wartet.",
+    "Taiwan-Karte – Liu Hao weiß jetzt dass Deutschland sie spielen kann. Das ist Macht. Und Risiko."
+  ],
+  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+}

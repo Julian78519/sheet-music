@@ -1,0 +1,60 @@
+{
+  "current_date": "2046-09-15",
+  "location": {
+    "primary": "Berlin",
+    "country": "Deutschland"
+  },
+  "germany": {
+    "chancellor": "Thomas Kellner (CDU)",
+    "chancellor_age": 53,
+    "coalition": "CDU/CSU + FDP + Freie Wähler",
+    "coalition_status": "Drittes Kellner-Kabinett, 8 Monate alt. Stabile Mehrheit, aber FDP poltert wegen Haushalt.",
+    "bundestag_composition": {
+      "CDU_CSU": "31%",
+      "SPD": "19%",
+      "Gruene": "14%",
+      "FDP": "9%",
+      "AfD": "16%",
+      "Linke_BSW_Nachfolger": "8%",
+      "Sonstige": "3%",
+      "notes": "AfD nach Hochpunkt 2028 (33%) durch Spaltung und CDU-Kurswechsel auf 16% gefallen. Stabil aber nicht bedeutungslos."
+    },
+    "nrw": {
+      "minister_president": "Dr. Carolin Siebert (CDU)",
+      "coalition": "CDU + SPD",
+      "notes": "Ja – dieselbe Siebert. Hat Jonas 2027 die Direktkandidatur verloren, war 2031 zurück, heute Ministerpräsidentin. Verhältnis zu Jonas: eisig-professionell."
+    },
+    "hot_topics_sept_2046": [
+      "KI-Governance Weltgipfel Berlin (Oktober 2046) – Jonas federführend",
+      "Haushaltskrise: FDP vs. CDU über Verteidigungsausgaben NATO 5%",
+      "Demografischer Kollaps: Rentenalter 70 Debatte",
+      "Energieunion EU: Stockende Verhandlungen mit Polen und Ungarn",
+      "Jakobs Geburtstag war im März – Jonas war in Seoul"
+    ]
+  },
+  "usa": {
+    "president": "Claire Whitmore (Demokratin)",
+    "term": "Zweite Amtszeit, seit Januar 2045",
+    "approval_rating": "47% (unter Druck wegen Inlandspolitik)",
+    "key_issues": "KI-Regulierung, China-Strategie, NATO-Lastenteilung, Inland: Gesundheitssystem-Reform",
+    "whitmore_hartmann": "Weiterhin regelmäßiger direkter Austausch. Letztes Treffen: G20 Mumbai, August 2046.",
+    "us_congress": "Senat knapp demokratisch, Repräsentantenhaus republikanisch – Whitmore kämpft innenpolitisch."
+  },
+  "international": {
+    "ukraine": "Eingefrorener Konflikt seit 2031. Waffenstillstandslinie = neue Grenze de facto. EU-Mitgliedschaft Ukraine läuft 2047 formal an.",
+    "china": "Strategische Entkopplung weitgehend vollzogen. Taiwan: Eingefrorene Spannung seit 2036-Krise. Direktes Militär-Hotline Berlin-Peking-Washington seit 2037 (Jonas-Initiative).",
+    "taiwan": "Autonomie de facto gesichert nach 2036-Krise. China hat 'One Country Two Systems Plus' akzeptiert – Gesichtswahrung für Peking, Freiheit für Taipei.",
+    "middle_east": "Israel-Arabien-Normalisierung 2039 (Jonas war Vermittler). Fragiler Frieden.",
+    "africa": "Deutsche Entwicklungspolitik neu ausgerichtet seit 2038 – Investitionen statt Hilfe. Umstritten, aber wirksam.",
+    "AI_governance": "Das Thema 2046. Erster globaler KI-Vertrag in Verhandlung. Berlin als Verhandlungsort – Jonas' größte Wette.",
+    "climate": "Netto-null Europa 2043 erreicht (offiziell). Reale Emissionen -67% vs. 1990. Anpassungskosten dominieren Agenda.",
+    "nato": "5%-BIP-Ziel seit 2039 alle Mitglieder. Deutschland 5,2%. Jonas' NATO-Verteidigungsrahmen 2040 gilt als Fundament."
+  },
+  "technology_2046": {
+    "AI": "Allgemeine KI-Systeme (AGI-Vorläufer) im Einsatz. Regulierung hinkt hinterher. Größte geopolitische Machtfrage der Dekade.",
+    "energy": "80% erneuerbar in Deutschland. Fusionsenergie: erste kommerzielle Pilotanlage läuft in Frankreich.",
+    "space": "Erste permanente Mondstation (USA-EU-Japan, 2043). China eigene Basis 2044.",
+    "biotech": "Langlebigkeitsmedizin verändert Demografie-Debatten."
+  },
+  "notes": "Stand: 15. September 2046. KI-Gipfel in 6 Wochen ist die dominierende Agenda."
+}

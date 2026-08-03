@@ -1,0 +1,81 @@
+{
+  "personal": {
+    "savings": 1948800,
+    "currency": "EUR",
+    "assets": {
+      "muenster_wohnung": "VERKAUFT August 2052. €618.000. Direkt an bisherigen Mieter. Kein Makler. Münster ist Vergangenheit.",
+      "investments_indexfonds": "~€262.000. Passives Wachstum ~2% p.a. seit 2049. Stand Ende 2054.",
+      "investments_ki_fonds": "€80.000. KI-Infrastrukturfonds Europa. Eingestiegen August 2052 mit €50k, aufgestockt 2054 um €30k nach Kramer-Konsultation. Renditeerwartung 8–12% p.a. Schätzwert Ende 2054: ~€92.000. Post-2057: Offenlegung oder Verkauf geplant.",
+      "pension": "Beamtenpension akkumuliert – nach 20+ Jahren Ministeramt + Kanzleramt: erheblich. Schätzwert ab 65: ~€9.200/Monat.",
+      "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren.",
+      "jakob_reserve": "€150.000 earmarked auf separatem Konto. Nicht Jakobs Geld – noch Jonas'. Für nach dem Amt. Jakob weiß es nicht."
+    },
+    "debt": 0,
+    "monthly_income": {
+      "kanzlergehalt_netto": 15800,
+      "notes": "Netto-Sparrate: ~€11.200/Monat."
+    },
+    "monthly_expenses": {
+      "dienstresidenz": "gestellt (kein Privatmietaufwand)",
+      "privat_sonstiges": 3200,
+      "jakob_unterstuetzung": 1400,
+      "notes": "Monatliche Nettoersparnis: ca. €11.200."
+    },
+    "jahresbewegung_2050": {
+      "jahressparrate": "+€132.000",
+      "rowohlt_tranche_1": "+€200.000",
+      "jakob_apartment_anzahlung": "-€30.000",
+      "saldo": "+€302.000",
+      "endstand_savings": 714000
+    },
+    "jahresbewegung_2051": {
+      "jahressparrate": "+€126.000",
+      "muenster_miete_netto": "+€3.960",
+      "neuer_indexfonds": "-€80.000",
+      "saldo": "+€49.960",
+      "endstand_savings": 763960
+    },
+    "jahresbewegung_2052": {
+      "jahressparrate_netto": "+€121.600",
+      "muenster_miete": "+€7.920",
+      "muenster_verkauf": "+€618.000",
+      "rowohlt_tranche_2": "+€200.000",
+      "ki_fonds_einzahlung": "-€50.000",
+      "ghostwriter": "-€35.000",
+      "jakob_support": "-€16.800",
+      "sonstiges_ausgaben": "-€38.400",
+      "saldo": "+€807.320",
+      "endstand_savings": 1710000
+    },
+    "jahresbewegung_2053": {
+      "jahressparrate_netto": "+€134.400 (12 × €11.200)",
+      "saldo": "+€134.400",
+      "notes": "Keine großen Asset-Bewegungen. Bundestagswahlkampf: Partei trägt Kosten. Kabinett Hartmann II konstituiert.",
+      "endstand_savings": 1844400
+    },
+    "jahresbewegung_2054": {
+      "jahressparrate_netto": "+€134.400 (12 × €11.200)",
+      "ki_fonds_aufstockung": "-€30.000 (Kramer-Empfehlung, Fenster noch offen)",
+      "saldo": "+€104.400",
+      "notes": "Jakob-Reserve (€150k) earmarked aber noch in savings – kein Abgang 2054. Berger-Verfahren: keine Kosten (Kanzleramts-Juristen). Rowohlt-Vertrag läuft weiter – Jonas schreibt selbst.",
+      "endstand_savings": 1948800
+    }
+  },
+  "political": {
+    "campaign_fund_used": "Eigenanteil Wahlkampf 2049: ~€18.000. Wahlkampf 2053: Partei trägt vollständig.",
+    "speaking_fees": "Kanzleramt: keine privaten Honorarauftritte.",
+    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k): erhalten 2050. Tranche 2 (€200k): erhalten 2052. Tranche 3 (€200k, Veröffentlichung): AUSSTEHEND – 2057 nach dem Amt. Ghostwriter Berger: fristlos gekündigt Dezember 2054 (Vertragsbruch). Jonas schreibt selbst weiter.",
+    "book_status": "Manuskript 231 Seiten. Berger-Version vollständig aber von außen geschrieben. Jonas schreibt samstags – das Whitmore-Kapitel als erstes. Noch nicht gut. Erscheinen: 2057."
+  },
+  "gesamtvermoegen_schaetzung": {
+    "liquid": 1948800,
+    "investments_indexfonds": 262000,
+    "investments_ki_fonds": 92000,
+    "immobilien": 0,
+    "rowohlt_ausstehend": 200000,
+    "gesamt_ca": 2502800,
+    "jakob_reserve_earmark": 150000,
+    "notes": "Über 2,5 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
+  },
+  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+}

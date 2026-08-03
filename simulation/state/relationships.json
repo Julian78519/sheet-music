@@ -1,0 +1,153 @@
+{
+  "central_relationship": {
+    "name": "Claire Whitmore",
+    "role": "Ehem. Präsidentin der Vereinigten Staaten (3. Amtszeit, bis 2049)",
+    "age": 62,
+    "relationship_score": 80,
+    "trust": "außergewöhnlich hoch – Freundschaft auf Abstand",
+    "status_2052": "Rückzug Oktober 2052. Jonas hat den Brief geschrieben. Sie hat verstanden – ein Satz: 'I understand. Take care of yourself.' Kanal still. Nicht tot. Still.",
+    "status_2054": "Eine Freundschaft. Regelmäßige Briefe. Kein Format, kein Protokoll. Nach Nordkorea-Transcript-Leak Oktober 2054 schreibt sie: 'I read the transcript. I would have done the same. Take care of yourself.' Elf Wörter. Kanal still – aber lebendig.",
+    "chronologie": {
+      "jan_2052": "14. Januar: Erstes Treffen im Bungalow. Wein. Er sagt: 'Es war der Moment wo ich aufgehört habe so zu tun als wäre es nur professionell.' Warmer Abschluss, kein Drama.",
+      "maerz_2052": "Brookings-Event Washington. Öffentlich professionell. Privat bis Mitternacht. Sie: 'You look less tired.' Er lacht – echt.",
+      "okt_2052": "Jonas zieht zurück. Tabloids, Amt, zu viel auf dem Spiel. Brief. Ihr Satz. Stille.",
+      "okt_2054": "Nordkorea-Transcript-Leak. Sie schreibt. Elf Wörter. Das ist genug."
+    },
+    "notes": "Er schreibt samstags das Whitmore-Kapitel. Noch nicht gut. Aber er hat angefangen. Die Briefe kommen vielleicht zweimal im Jahr. Das ist nicht wenig."
+  },
+  "ex_partner": {
+    "name": "Sophie Hartmann (jetzt: Sophie Brandt)",
+    "age": 52,
+    "profession": "Schulleiterin, Grundschule Münster",
+    "relationship_score": 55,
+    "trust": "gut – aber distanziert",
+    "marital_status": "Verheiratet mit Dr. Markus Brandt (54, Arzt) seit 2038",
+    "notes": "Kein Groll. Wenig Kontakt außer über Jakob. Münster verkauft – die letzte gemeinsame Ära ist weg."
+  },
+  "son": {
+    "name": "Jakob Hartmann",
+    "age": 26,
+    "born": "2028-03-22",
+    "profession": "Video-Magazin, ~900k Abonnenten. Öffentlicher Intellektueller in eigener Rolle.",
+    "lives": "Eigene Wohnung, Köln-Ehrenfeld",
+    "relationship_score": 92,
+    "trust": "fest, gewachsen, gegenseitig",
+    "notes": "Plant eigenes Interview über 2054 – über Kosten von Führung, nicht über Jonas direkt. Hat Jonas informiert, nicht um Erlaubnis gefragt. Silvester 2054: kleine Runde im Bungalow mit Vera und Kramer. Stand am Fenster neben seinem Vater. Hat nichts gesagt. Hat nichts sagen müssen. Beziehung: die beste die sie je hatten.",
+    "current_dynamic": "Gleichwertig – fast. Jakob stellt die schärferen Fragen. Jonas antwortet ehrlicher als er es bei jedem anderen tut."
+  },
+  "family": [
+    {
+      "name": "Werner Hartmann",
+      "relation": "Vater",
+      "age": 82,
+      "relationship_score": 84,
+      "notes": "Telefonat Oktober 2052 – Werner hat die München-Rede gesehen. Sagt 'diese Rechenmaschinen' und Jonas sagt nichts dazu. Sagt: 'Du hast klar gesprochen. Nicht wie ein Politiker.' Fünf Minuten werden zwölf. Niemand klopft. 2054: Weihnachten telefoniert. Werner fragt nicht nach Nordkorea. Fragt: 'Schläfst du?' Jonas: 'Ja.' Werner: 'Gut.'"
+    },
+    {
+      "name": "Ingrid Hartmann",
+      "relation": "Mutter",
+      "age": 81,
+      "relationship_score": 82,
+      "notes": "Das Bücherregal mit Zeitungsartikeln hat jetzt drei Reihen. Fragt bei jedem Anruf: 'Und wie geht es dir wirklich?' Jonas antwortet jetzt öfter ehrlich. 2054: Sie hat den ARD-Jahresinterview gesehen. Kein Kommentar zum Inhalt. Nur: 'Du wirkst ruhiger als früher.'"
+    },
+    {
+      "name": "Lena Hartmann",
+      "relation": "Schwester",
+      "age": 49,
+      "profession": "MdB (Grüne), Außenpolitikausschuss, Berlin",
+      "relationship_score": 74,
+      "trust": "hoch",
+      "notes": "Hat die Frankreich-Überstimmung öffentlich kritisiert – sachlich, korrekt. Hat Nordkorea-Drohung öffentlich als 'unverhältnismäßig' bezeichnet. Privat: anderes Gespräch. Greift ihn an wo sie muss. Das ist die Vereinbarung. 2054: Trinken sie gelegentlich Kaffee wenn beide in Berlin. Reden über Werner und Ingrid."
+    }
+  ],
+  "cabinet_key": [
+    {
+      "name": "Dr. Vera Hoffmann",
+      "role": "Bundesaußenministerin und Vizekanzlerin",
+      "relationship_score": 97,
+      "trust": "absolut – strategisch und persönlich",
+      "notes": "September 2052: Jonas teilt ihr den 2057-Plan mit. Sie: 'Und wenn ich sage ich will das nicht?' Jonas: 'Dann sagst du mir das.' Sie schweigt. Geht. Das war ein Ja. Vera weiß jetzt dass sie die Zukunft ist. Das verändert wie sie arbeitet – präziser, langfristiger. FT: 'the quiet architect'. 2054: Hoffmann-Rahmen ist EU-Standard. Vera hat ihn formuliert, Jonas hat ihm den Raum gegeben. Sie konsultiert ihn seltener – sie traut ihrem eigenen Urteil mehr. Das ist das Ziel. Nordkorea: Jonas hat sie früher einbezogen als in früheren Krisen. Das war klug."
+    },
+    {
+      "name": "Felix Kramer",
+      "role": "Bundesminister der Finanzen",
+      "relationship_score": 92,
+      "trust": "sehr hoch – unverzichtbar",
+      "notes": "Weiß vom KI-Fonds. Weiß von Siebert-Deal. Ist bei der Siebert/Süddeutsche-Lösung Exekutor gewesen. 2054: Hat BVerfG-Klage gemanagt – Kanzleramts-Juristen koordiniert, Verfahren läuft aber keine aktiven Kosten. KI-Fonds Empfehlung im Sommer: Jonas hat aufgestockt. Echter Loyalismus ohne Erwartung. Silvester 2054 im Bungalow. Kramer hält ein Glas Wein und sagt nichts Politisches den ganzen Abend."
+    },
+    {
+      "name": "Dr. Annika Lohse",
+      "role": "Bundesministerin für Wirtschaft & Klimaschutz",
+      "age": 40,
+      "relationship_score": 76,
+      "trust": "gewachsen – solide",
+      "notes": "Von Vera und Tanner gemeinsam vorgeschlagen. Frühere Staatssekretärin, McKinsey-Partnerin. Jonas hat sie einmal in einem Ausschuss beobachtet: 'Sie fragt keine Fragen die sie nicht schon beantwortet hat.' Das war das Urteil. 2053-2054: Berliner Afrika-Pakt wirtschaftlich mitverhandelt. Lohse liefert. Nicht brillant – verlässlich. Das ist was Jonas jetzt braucht."
+    }
+  ],
+  "ex_cabinet": [
+    {
+      "name": "Marcus Tanner",
+      "role": "Ehem. Wirtschaftsminister, jetzt EU-Kommissar (seit 2053)",
+      "relationship_score": 70,
+      "trust": "kalkuliert – aber jetzt auf gutem Boden",
+      "notes": "2,2% Wachstum 2051 geliefert. Jonas unterstützt EU-Kommissar-Kandidatur. Bedingung: Lohse als Nachfolger gemeinsam mit Vera ausgewählt. Tanner hat akzeptiert. Sauberer Abschied. 'Er sammelt Gutpunkte.' Jetzt in Brüssel – unkontrollierbarer, aber kein aktiver Gegner mehr."
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Dr. Carolin Siebert",
+      "role": "Ehem. CDU-Generalsekretärin, ohne Amt",
+      "relationship_score": 15,
+      "trust": "kalter Frieden – Deal läuft bis Mitte 2055",
+      "notes": "Drei-Jahres-Deal. Interner Parteizettel (Schulze + Kramer): politisch motivierte Ablösung, kein Fehlverhalten. Süddeutsche-Artikel kontrolliert lanciert. Siebert-SMS an Kramer: 'Akzeptiert.' Deal läuft bis Mitte 2055. FAZ-Journalist hat keine Geschichte mehr. Siebert ist ruhig. Was danach kommt, ist unbekannt."
+    },
+    {
+      "name": "Thomas Berger",
+      "role": "Ghostwriter (fristlos entlassen Dezember 2054)",
+      "relationship_score": 5,
+      "trust": "null – aktiver Rechtsfall",
+      "notes": "Hat das Whitmore-Kapitel an Spiegel weitergegeben (oder versucht). Fristlose Kündigung Dezember 2054 wegen Vertragsbruch. Hamburg-Gericht hat Einstweilige Verfügung erlassen – Spiegel hat nicht veröffentlicht. Berger-Verfahren läuft Januar 2055. Jonas schreibt das Kapitel selbst."
+    }
+  ],
+  "international": [
+    {
+      "name": "Patricia Owens",
+      "role": "US-Präsidentin (seit Jan 2050, Demokratin, Ohio)",
+      "age": 61,
+      "relationship_score": 82,
+      "notes": "Democracy Alliance: Deutschland beigetreten als Brücke. Owens akzeptiert die Geometrie. G7-Vorsitz: enge Abstimmung. 2054: Nordkorea-Krise – trilaterale Koordination USA/Deutschland/Südkorea. Owens hat Geheimdienstinfos geliefert. Jonas hat die Sprache gesetzt. Das war Arbeitsteilung auf Augenhöhe. 'She gets it.' Das ist mehr als 2050."
+    },
+    {
+      "name": "Liu Hao",
+      "role": "Staatspräsident China",
+      "relationship_score": 79,
+      "notes": "Taiwan-Neutralitätssignal war bestätigt – bis Oktober 2054. Jonas hat Liu angerufen: China hat 7 Tage um Nordkorea zu stoppen, sonst zieht Deutschland das Neutralitätssignal zurück. Liu hat geliefert – Pyongyang-Gesandter, Kanal wieder offen. Aber: die Beziehung ist jetzt transaktional. Liu weiß dass Jonas die Taiwan-Karte spielen kann. Jonas weiß dass Liu das weiß. KI-Governance-Kanal läuft weiter. Das ist der stabilisierende Faktor."
+    },
+    {
+      "name": "Alexei Sorokin",
+      "role": "Russischer Präsident",
+      "relationship_score": 64,
+      "notes": "Ankara-Kanal geöffnet Februar 2052. 2054: Direktes Telefonat – kein Vermittler. Sorokin hat Nordkorea-Krise kommentiert: 'Wir teilen Ihr Interesse an Stabilität.' Kanal stabiler als 2052. Vera hat formuliert. Jonas hat abgezeichnet. Nächster Test kommt."
+    },
+    {
+      "name": "Kenji Mori",
+      "role": "Japanischer Außenminister",
+      "relationship_score": 81,
+      "notes": "Korea-Kanal – Mori hat über Rückenkanal bestätigt dass Pjöngjang-Besuch intern in Seoul als Entlastung gesehen wurde. 2054: Nordkorea-Krise hat Japan direkt betroffen – Mori hat Jonas persönlich gedankt für die Deeskalation. 'Das war Führung.' Die Beziehung hat ein Fundament das über Protokoll geht."
+    },
+    {
+      "name": "James Abernathy",
+      "role": "Ehem. US-NSA, Think Tank (Brookings)",
+      "age": 61,
+      "relationship_score": 66,
+      "notes": "Brookings-Event März 2052 – beide im selben Raum wie Whitmore. Hat nichts gesagt. Nützlich, vorsichtig. 2054: Kein direkter Kontakt."
+    },
+    {
+      "name": "Yuki Tanaka (Yamada)",
+      "role": "Ehem. Japanischer Außenminister, im Ruhestand",
+      "relationship_score": 83,
+      "notes": "Im Ruhestand. Mori trägt die Brücke. Tanaka hat Pjöngjang-Besuch kommentiert: 'Der Kanzler der hingeht wenn andere zögern.' Hat 2054 Nordkorea-Deeskalation in einem Gastbeitrag der Nikkei kommentiert. Namentlich erwähnt Jonas nicht – aber das war Lob."
+    }
+  ],
+  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+}

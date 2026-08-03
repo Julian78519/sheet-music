@@ -39,6 +39,12 @@
 
 Erste informelle Kaffee-Treffen mit Webb und Raman bereits begonnen (Frühjahr 2058).
 
+**Förderung-Tracking (läuft, wird nach jedem Kontaktpunkt fortgeschrieben):**
+- Whitmore-Stiftung: Sommer-Fellowship-Einladungen für Webb und Raman vermittelt (Frühjahr 2058).
+- Abernathy (Brookings): Praktikumsvorschlag für Sturgis in sicherheitspolitischem Programm (Frühjahr 2058).
+- **Rechtliche Grenze (wichtig, von Voss durchgesetzt):** Keine direkten Geldzuwendungen zu US-Wahlkampagnen möglich – FEC-Recht verbietet foreign national contributions, hartes Bundesverbrechen. Förderung läuft ausschließlich über legale Kanäle: Praktika/Fellowships über Bungalow Ventures, Vermittlung an US-Kontakte die selbst spenden dürfen, langfristiges Mentoring.
+- Osei-Fletcher, Sturgis: noch keine direkte Förderung über Webb/Raman hinaus, geplant für kommende Quartale.
+
 ## WEITERHIN ZENTRAL (Übergang aus der Kanzlerschaft)
 
 | Name | Wer | Status |

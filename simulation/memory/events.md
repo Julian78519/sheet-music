@@ -176,3 +176,18 @@ Kanzlerzustimmung 74%. Ruhigste, stabilste zweite Jahreshälfte seit Amtsantritt
 
 ## 2056-12-31 – SIMULATIONSGEGENWART
 Jahr 7 abgeschlossen.
+
+---
+
+## JAHR 8 (2057) — WAHLJAHR
+
+## 2057-01-08 – Wahljahr beginnt
+Jonas übergibt Vera die Entscheidung über den Nominierungszeitpunkt. Kramer übernimmt Schulze-Diplomatie vollständig. Siebert sagt Unterstützung für Vera zu, auf ihre Art. Vera führt erste informelle SPD-Sondierungen selbst.
+
+## 2057-01-22 – Sorokin-Leak
+Spiegel-Anfrage zur geheimen Sorokin-Operation von Januar 2056. Regierungsstellungnagme (24. Januar) nutzt Halbwahrheit plus Erfolgsnarrativ, hegt die Geschichte teilweise ein. Vera erfährt aus der Presse von der Operation – eine Woche vor ihrer eigenen Kanzlerkandidatur-Nominierung. Ruft an, kalt: „Ich habe es aus der Zeitung erfahren, Jonas. Nicht von dir." Erste ernsthafte Vertrauenskrise zwischen ihnen seit 2052.
+
+---
+
+## 2057-01-24 – SIMULATIONSGEGENWART
+Sorokin-Leak teilweise eingehegt, aber Vertrauensbruch mit Vera offen. Nominierung in zwei Wochen geplant.

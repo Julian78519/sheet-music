@@ -1,8 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 57,
+  "age": 58,
   "birthdate": "1997-11-14",
-  "current_date": "2054-12-31",
+  "current_date": "2055-12-31",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -41,22 +41,22 @@
         "born": "2028-03-22",
         "lives_with": "Eigene Wohnung, Köln-Ehrenfeld",
         "profession": "Video-Magazin, ~900k Abonnenten. Öffentlicher Intellektueller in eigener Rolle.",
-        "notes": "Plant eigenes Interview über 2054 – über Kosten von Führung, nicht über Jonas direkt. Hat Jonas informiert, nicht um Erlaubnis gefragt. Silvester 2054: kleine Runde im Bungalow mit Vera und Kramer. Stand am Fenster neben seinem Vater. Hat nichts gesagt. Hat nichts sagen müssen. Beziehung: die beste die sie je hatten."
+        "notes": "Interview 'Die Kosten von Führung' im November 2055 erschienen – 1,8 Mio. Aufrufe erste Woche, keine direkte Erwähnung Kaliningrads, jeder versteht die Anspielung. Anruf nach dem Angriff auf deutschem Boden (Januar 2055): vierzig Minuten, Jakob fragt nur ob Jonas schläft. Beziehung: die beste die sie je hatten, noch gewachsen."
       }
     ],
-    "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft. Regelmäßige Briefe. Nach Nordkorea-Transcript-Leak Oktober 2054 schreibt sie: 'I read the transcript. I would have done the same. Take care of yourself.' Elf Wörter. Kanal still – aber lebendig.",
-    "notes": "Berlin ist Zuhause. Er schreibt samstags – das Whitmore-Kapitel, noch nicht gut, aber er hat angefangen. Er läuft noch, 5:55 Uhr, Spree-Promenade. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er bezieht Vera früher in Entscheidungen ein – nicht aus Schwäche, aus Klugheit."
+    "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft, Ex-Präsidentin ohne Amt seit 2049. Zwei Briefe 2055 – nach Kaliningrad schreibt er ihr zuerst: 'Ich frage mich, was du getan hättest.' Sie: 'Das Gleiche. Schneller vielleicht. Das macht es nicht leichter.' Kanal still – aber lebendig, unabhängig vom Amt.",
+    "notes": "Berlin ist Zuhause. Er schreibt jetzt auch wochentags am Whitmore-Kapitel – seit Kaliningrad trägt es mehr Substanz. Er läuft noch, 5:55 Uhr, Spree-Promenade – auch in der schlimmsten Woche 2055, mit kurzfristiger medikamentöser Schlafhilfe durch die Kanzleramtsärztin. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er bezieht Vera früher in Entscheidungen ein – nicht aus Schwäche, aus Klugheit."
   },
   "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
   "health": {
-    "overall": "gut – stabil gehalten trotz härtestem Jahr der Amtszeit",
-    "sport": "Joggen 3–4x/Woche. 5:55 Uhr, manchmal 6:20. Spree-Promenade. Das Einzige das sich 2054 nicht verändert hat.",
-    "notes": "Blutdruck normal. Schlaf besser als 2053. Rücken gut. Nordkorea + Taiwan-Karte + Frankreich – das Jahr war brutal. Die Disziplin hat gehalten. Das ist der Unterschied."
+    "overall": "gut, aber gezeichnet – Kaliningrad-Woche Januar 2055 war die schwerste Belastung seiner Kanzlerschaft",
+    "sport": "Joggen 3–4x/Woche. 5:55 Uhr, manchmal 6:20. Spree-Promenade. Auch in der Kriegswoche nie ganz ausgesetzt.",
+    "notes": "Blutdruck normal. Schlaf in der akuten Kaliningrad-Phase schlecht, kurzfristig medikamentös unterstützt (Kanzleramtsärztin, zehn Tage), danach wieder stabil. Rücken gut. Die Disziplin hat gehalten – das bleibt der Unterschied."
   },
   "reputation": {
-    "national": "81/100. Kanzlerzustimmung 68%. Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview: 8,4 Millionen Zuschauer.",
-    "international": "94/100. Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht.",
-    "press": "Spiegel: 'Der Kanzler der nicht zurückgeht.' FT: 'Hartmann has redefined what European leadership looks like.' ARD-Interview: meistgesehenes politisches Interview des Jahres."
+    "national": "Kanzlerzustimmung Dezember 2055: 71% (Spitze 79% im Januar nach Kaliningrad, dann Konsolidierung). Kriegsführung ohne Rückzieher, aber auch ohne Eskalationsdrang – wird als Stärke gelesen.",
+    "international": "97/100 im Januar-Hoch, danach stabil sehr hoch. Erster deutscher Angriff auf russisches Gebiet seit 1945 unter kontrollierter NATO-Solidarität (Artikel 4, keine Artikel-5-Berufung). Frankreich vollständig normalisiert. UN-Sicherheitsrat-Sitz im Juni knapp gewonnen.",
+    "press": "International: erste ernsthafte Diskussion, ob Hartmann als Krisenmanager das Kaliningrad-Modell zum neuen Standard für begrenzte Vergeltung gemacht hat."
   },
   "style_tone": "Ruhig wenn er gefährlich ist. Handelt bevor er erklärt. Hat aufgehört zu rechtfertigen. Bezieht Vera früher ein – nicht aus Schwäche, aus Klugheit. Schreibt samstags.",
   "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
@@ -66,15 +66,13 @@
     "Jonas_plan": "Jede Entscheidung 2055 trägt auch Vera's Zukunft. Zweite Amtszeit als bewusste Übergabe. Vera profilieren, Lohse etablieren, Parteilinie ausrichten.",
     "post_amt": "Nach zweiter Amtszeit: Beratung. Privatsektor oder internationale Stiftungsarbeit. Kein weiteres Amt. Kein EU-Kommissionspräsident."
   },
-  "offene_fragen_2055": [
-    "Frankreich – neuer PM sucht Normalisierung. Jonas lässt warten.",
-    "BVerfG-Klage – läuft, Kramer hat es gemanagt, aber offen.",
-    "Das Buch – Berger-Verfahren Januar 2055. Whitmore-Kapitel: Jonas schreibt selbst.",
-    "Siebert-Deal – läuft Mitte 2055 aus.",
-    "UN-Sicherheitsrat – Kandidatur aktiv, Chinas Verpflichtung wird getestet.",
-    "Nordkorea – Kanal fragil nach Transcript-Leak.",
-    "Vera 2057 – auf Kurs, aber frühere Profilierung erhöht Leak-Risiko.",
-    "Jakobs Interview – kommt. Jonas wartet."
+  "offene_fragen_2056": [
+    "Kaliningrad – eingefroren, aber Hardliner-Fraktion gewinnt laut Geheimdienstberichten intern an Boden in Moskau. Nächster Test kommt.",
+    "Vera 2057 – EU-Krisenreaktionstruppe als zweiter großer Erfolg. Profilierung auf Kurs, Risiko wächst mit.",
+    "Liu Hao – UN-Sicherheitsratssitz gewonnen, aber 'nicht vergessen'. Unbekannte Rechnung, unbekannte Fälligkeit.",
+    "Frankreich – vollständig normalisiert. Wie belastbar ist das wirklich unter Druck?",
+    "Nordkorea – Stille seit über einem Jahr. Dauert zu lange um beruhigend zu sein.",
+    "BVerfG-Klage – weiterhin offen, Kramer managt."
   ],
-  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3. Kaliningrad-Krise prägt das Jahr wie kein anderes Ereignis seiner Kanzlerschaft."
 }

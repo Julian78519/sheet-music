@@ -103,5 +103,33 @@ NATO verstärkt Ostflanke dauerhaft (US-/UK-Staffeln, permanente Luftraumüberwa
 
 ---
 
-## 2055-01-19 – SIMULATIONSGEGENWART
-Kaliningrad-Krise eingefroren. Politblock Jahr 6 wird mit dem Krieg als neuem Rahmen fortgesetzt.
+## 2055-03 – Berger-Verfahren: Vergleich
+Verfahren per Vergleich beendet. €8.800 Entschädigung, Klage zurückgezogen. Whitmore-Kapitel bleibt bei Jonas selbst.
+
+## 2055-06 – UN-Sicherheitsratssitz gewonnen
+Knapp gewonnen, Chinas Stimme kommt wie in Aussicht gestellt. Liu Hao: „nicht vergessen."
+
+## 2055 (Sommer) – Siebert-Deal läuft aus
+Ohne Drama. Aus kaltem Frieden wird im Schatten der Krise etwas, das fast wie Respekt aussieht.
+
+## 2055-09 – Frankreich vollständig normalisiert
+Beaumont-Besuch Berlin. DGSE-Affäre politisch Geschichte.
+
+## 2055-10 – EU-Krisenreaktionstruppe beschlossen
+Veras Projekt, ihr Name in der ersten Zeile. Zweiter „Hoffmann-Rahmen" im Werden.
+
+## 2055-11 – Jakobs Interview „Die Kosten von Führung"
+1,8 Millionen Aufrufe erste Woche. Keine direkte Erwähnung Kaliningrads – jeder versteht die Anspielung.
+
+## 2055-12 – Geheimdienstberichte: Hardliner gewinnen in Moskau
+Interner Machtkampf verdichtet sich. Sorokin-Kanal bleibt tot. Nächster Test wahrscheinlich.
+
+---
+
+## 2055-12-31 – JAHRESABSCHLUSS
+Kanzlerzustimmung 71%. Härtestes Jahr der Kanzlerschaft – Kaliningrad prägt alles. Persönlich das beste Jahr mit Jakob.
+
+---
+
+## 2055-12-31 – SIMULATIONSGEGENWART
+Jahr 6 abgeschlossen. Jahr 7 (2056) beginnt im Schatten der Moskauer Hardliner-Fraktion.

@@ -17,13 +17,14 @@
     "media_sentiment_national": 73,
     "media_sentiment_international": 91,
     "party_internal_standing": 83,
-    "coalition_stability": 74,
+    "coalition_stability": 77,
     "kanzlerzustimmung_dez_2052": 63,
     "kanzlerzustimmung_dez_2053": 61,
     "kanzlerzustimmung_dez_2054": 68,
     "kanzlerzustimmung_jan_2055": 79,
+    "kanzlerzustimmung_dez_2055": 71,
     "reputation_international_jan_2055": 97,
-    "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht. Januar 2055: Kaliningrad-Krise treibt Zustimmung auf Kriegsreflex-Hoch (79%), als fragil eingeschätzt. Koalitionsstabilität sinkt wegen Kriegskosten-Streit mit Schulze/Fraktion."
+    "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht. Januar 2055: Kaliningrad-Krise treibt Zustimmung auf Kriegsreflex-Hoch (79%). Bis Dezember 2055 Konsolidierung auf 71% – Koalitionsstabilität erholt sich nach anfänglichem Kriegskosten-Streit, Schulze bleibt eingebunden."
   },
   "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
   "succession_plan": {
@@ -86,7 +87,13 @@
     "africa": "Berliner Afrika-Pakt. 11 Länder. Erste systematische Strategie."
   },
   "leitprojekte_2055": {
-    "kaliningrad_krise": "5. Januar 2055: Koordinierter russischer Angriff auf Bundeswehr-Standorte Grafenwöhr/Trollenhagen, 19 Tote. Deutscher Gegenschlag gegen Abschussposition Kaliningrad. Sorokin-Angebot (Entschädigung + Anerkennung, kein öffentliches Wort) von Jonas abgelehnt. Zweiter, härterer Schlag. Russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke, 2 weitere Zivil-Tote. Seither eingefrorener Hybridkonflikt ohne Formel. NATO: keine Artikel-5-Berufung, aber historische Verschärfung Artikel 4 mit dauerhafter Ostflanken-Verstärkung."
+    "kaliningrad_krise": "5. Januar 2055: Koordinierter russischer Angriff auf Bundeswehr-Standorte Grafenwöhr/Trollenhagen, 19 Tote. Deutscher Gegenschlag gegen Abschussposition Kaliningrad. Sorokin-Angebot (Entschädigung + Anerkennung, kein öffentliches Wort) von Jonas abgelehnt. Zweiter, härterer Schlag. Russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke, 2 weitere Zivil-Tote. Seither eingefrorener Hybridkonflikt ohne Formel. NATO: keine Artikel-5-Berufung, aber historische Verschärfung Artikel 4 mit dauerhafter Ostflanken-Verstärkung. Dezember 2055: Geheimdienste melden Hardliner-Fraktion gewinnt intern in Moskau an Boden.",
+    "berger_vergleich": "März 2055: Verfahren per Vergleich beendet. €8.800 Entschädigung, Klage zurückgezogen. Whitmore-Kapitel bleibt bei Jonas selbst.",
+    "un_sicherheitsrat": "Juni 2055: Sitz knapp gewonnen. Chinas Stimme kommt wie in Aussicht gestellt – Liu Hao lässt aber durchklingen, dass das 'nicht vergessen' wird.",
+    "siebert_deal_auslauf": "Sommer 2055: Deal läuft aus ohne Drama. Aus kaltem Frieden wird im Schatten der Krise etwas, das fast wie Respekt aussieht.",
+    "eu_krisenreaktionstruppe": "Oktober 2055: Formal beschlossen. Veras Projekt, ihr Name in der ersten Zeile – zweiter 'Hoffmann-Rahmen' im Werden.",
+    "frankreich_normalisierung": "September 2055: Beaumont-Besuch Berlin. Vollständige Normalisierung, DGSE-Affäre politisch Geschichte.",
+    "jakob_interview": "November 2055: 'Die Kosten von Führung' erscheint. 1,8 Mio. Aufrufe erste Woche."
   },
   "career_defining_moments": [
     { "date": "2023-03-14", "event": "Breitband-Ausschuss – erste nationale Aufmerksamkeit" },
@@ -148,16 +155,20 @@
     "kanzlerzustimmung_dezember": 68,
     "gesamtbewertung": "Das stärkste Jahr. Auch das kostbarste. Nordkorea. Taiwan-Karte. Frankreich isoliert. Der Preis: das Whitmore-Kapitel, der Kanal nach Pyongyang, ein Jahr das niemand vergisst – auch er nicht."
   },
-  "open_threats_2055": [
-    "Frankreich – neuer PM sucht Normalisierung. Jonas lässt warten.",
-    "BVerfG-Klage – läuft, Kramer hat es gemanagt, aber offen.",
-    "Das Buch – Berger-Verfahren Januar 2055. Whitmore-Kapitel: Jonas schreibt selbst.",
-    "Siebert-Deal – läuft Mitte 2055 aus. Was danach kommt, ist unbekannt.",
-    "UN-Sicherheitsrat – Kandidatur aktiv, Chinas Verpflichtung wird getestet.",
-    "Nordkorea – Kanal fragil nach Transcript-Leak.",
-    "Vera 2057 – auf Kurs, aber frühere Profilierung erhöht Leak-Risiko.",
-    "Jakobs Interview – kommt. Jonas wartet.",
-    "Taiwan-Karte – Liu Hao weiß jetzt dass Deutschland sie spielen kann. Das ist Macht. Und Risiko."
+  "jahresabschluss_2055": {
+    "satz_des_jahres": "Ich habe nachgeladen, während alle dachten, ich hätte aufgehört zu zielen.",
+    "moment_des_jahres": "Der Anruf bei Lena, Samstagnachmittag, mitten in der schlimmsten Woche des Jahres. 'Ich glaube dir, dass du keine Wahl gesehen hast.'",
+    "kanzlerzustimmung_dezember": 71,
+    "gesamtbewertung": "Das härteste Jahr seiner Kanzlerschaft. Erster Angriff auf deutschem Boden seit 1945, erster deutscher Gegenschlag auf russisches Gebiet seit 1945. Kein erklärter Krieg, aber auch kein Frieden – ein eingefrorener Konflikt, der Jahr 7 mitbringt. Daneben: UN-Sitz gewonnen, Frankreich normalisiert, Veras zweiter großer Erfolg (EU-Krisenreaktionstruppe), Siebert-Deal ohne Drama ausgelaufen. Persönlich das beste Jahr mit Jakob."
+  },
+  "open_threats_2056": [
+    "Kaliningrad – eingefroren, aber Hardliner-Fraktion gewinnt in Moskau an Boden. Nächster Test kommt mit hoher Wahrscheinlichkeit.",
+    "BVerfG-Klage – weiterhin offen, Kramer managt.",
+    "UN-Sicherheitsrat – Sitz gewonnen, aber Liu Hao lässt 'nicht vergessen' durchklingen. Unbekannte Rechnung.",
+    "Nordkorea – Kanal seit über einem Jahr still. Dauert zu lange um beruhigend zu sein.",
+    "Vera 2057 – EU-Krisenreaktionstruppe als zweiter Erfolg. Profilierung auf Kurs, Risiko wächst mit.",
+    "Frankreich – normalisiert, aber ungetestet unter echtem Druck.",
+    "Taiwan-Karte – Liu Hao weiß, dass Deutschland sie spielen kann. Das ist Macht. Und Risiko."
   ],
-  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3."
 }

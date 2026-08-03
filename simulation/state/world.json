@@ -1,5 +1,5 @@
 {
-  "current_date": "2055-01-19",
+  "current_date": "2055-12-31",
   "location": {
     "primary": "Berlin",
     "country": "Deutschland"
@@ -10,12 +10,13 @@
     "vizekanzlerin": "Dr. Vera Hoffmann (CDU)",
     "coalition": "CDU/CSU + SPD (Kabinett Hartmann II)",
     "coalition_status": "Unter Belastungstest durch Kriegskosten. Nachtragshaushalt für Wiederaufbau/Verteidigung verhandelt – Koalition hält, aber Fraktionsvorsitzender Schulze verlangt erstmals eigenständige Mitsprache. FDP nicht Teil der Regierung.",
-    "hot_topics_jan_2055": [
-      "Kaliningrad-Krise / Angriff auf deutschem Boden (5. Januar 2055) – dominiert alles andere",
-      "Nachtragshaushalt Wiederaufbau + Verteidigung",
-      "NATO-Ostflanken-Verstärkung dauerhaft beschlossen",
-      "Berger-Verfahren auf März verschoben",
-      "Siebert meldet sich erstmals seit Jahren öffentlich – staatstragend loyal"
+    "hot_topics_ende_2055": [
+      "Kaliningrad-Konflikt eingefroren, aber Hardliner-Fraktion gewinnt in Moskau intern an Boden (Dez. 2055)",
+      "EU-Krisenreaktionstruppe formal beschlossen (Oktober) – Veras Projekt",
+      "UN-Sicherheitsratssitz gewonnen (Juni), China-Rechnung offen",
+      "Frankreich vollständig normalisiert (Beaumont-Besuch September)",
+      "Siebert-Deal ausgelaufen ohne Drama",
+      "Jakobs Interview 'Die Kosten von Führung' (November) – 1,8 Mio. Aufrufe"
     ]
   },
   "usa": {
@@ -24,11 +25,11 @@
     "owens_hartmann": "Professionelle Arbeitsbeziehung, keine enge Freundschaft wie mit Whitmore. Owens stützt NATO-Solidarität, warnt aber offen: 'Das darf nicht der neue Normalzustand werden.'"
   },
   "russia_conflict_2055": {
-    "status": "Eingefrorener Hybridkonflikt seit 5. Januar 2055 – kein erklärter Krieg, keine Waffenstillstandsformel.",
-    "timeline": "Koordinierter Marschflugkörperangriff auf Bundeswehr-Standorte Grafenwöhr und Trollenhagen (5. Jan, 19 Tote) + parallele Vorfälle Polen/Baltikum → deutscher Gegenschlag gegen Abschussposition Kaliningrad (5. Jan) → Sorokin-Kanal bietet Deeskalation gegen Entschädigung/Anerkennung, kein öffentliches Wort, keine Bundestag-Rede → Angebot von Jonas als unzureichend abgelehnt → zweiter, härterer Bundeswehr-Schlag gegen Restinfrastruktur → russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke Brandenburg/Sachsen, 2 weitere Zivil-Tote → seither kein offener Schlagwechsel, aber auch keine Formel. Zustand ähnlich dem eingefrorenen Ukraine-Konflikt seit 2031.",
+    "status": "Eingefrorener Hybridkonflikt seit 5. Januar 2055 – kein erklärter Krieg, keine Waffenstillstandsformel. Das ganze Jahr über kalt, nie ruhig.",
+    "timeline": "Koordinierter Marschflugkörperangriff auf Bundeswehr-Standorte Grafenwöhr und Trollenhagen (5. Jan, 19 Tote) + parallele Vorfälle Polen/Baltikum → deutscher Gegenschlag gegen Abschussposition Kaliningrad (5. Jan) → Sorokin-Kanal bietet Deeskalation gegen Entschädigung/Anerkennung, kein öffentliches Wort, keine Bundestag-Rede → Angebot von Jonas als unzureichend abgelehnt → zweiter, härterer Bundeswehr-Schlag gegen Restinfrastruktur → russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke Brandenburg/Sachsen, 2 weitere Zivil-Tote → seither kein offener Schlagwechsel, aber auch keine Formel. Zustand ähnlich dem eingefrorenen Ukraine-Konflikt seit 2031. Restjahr: sporadische Cyber-Nadelstiche, keine weiteren Toten.",
     "nato_response": "Kein Artikel 5, aber historische Verschärfung Artikel 4: dauerhafte Ostflanken-Verstärkung, zusätzliche US-/UK-Staffeln in Deutschland und Polen, permanente Luftraumüberwachung.",
-    "sorokin_channel": "Toter Kanal seit 5. Januar. Geheimdienstberichte: interner Machtkampf in Moskau zwischen Deeskalations- und Hardliner-Fraktion, Ausgang offen.",
-    "domestic_cost": "19 Tote (Militär) + 2 Zivile durch Vergeltungsschläge. Nachtragshaushalt für Wiederaufbau/Verteidigung. Kanzlerzustimmung kurzfristig auf 79% (Kriegsreflex, als fragil eingeschätzt)."
+    "sorokin_channel": "Toter Kanal seit 5. Januar, das ganze Jahr über. Dezember 2055: Geheimdienstberichte verdichten sich – Hardliner-Fraktion gewinnt intern in Moskau an Boden. Nächster Test wahrscheinlich in Jahr 7.",
+    "domestic_cost": "19 Tote (Militär) + 2 Zivile durch Vergeltungsschläge. Nachtragshaushalt für Wiederaufbau/Verteidigung. Kanzlerzustimmung: Spitze 79% im Januar (Kriegsreflex), Konsolidierung auf 71% bis Dezember."
   },
   "international": {
     "france": "Beaumont nutzt die Krise zur Annäherung – bietet konkrete militärische Unterstützung der Ostflanke an. DGSE-Affäre tritt in den Hintergrund.",
@@ -36,5 +37,5 @@
     "un_security_council": "Kandidatur eingereicht, Abstimmung 2055 – jetzt zusätzlich überschattet vom Kaliningrad-Konflikt.",
     "sanctions": "Schärfstes G7/EU-Sanktionspaket gegen Russland seit 2031 beschlossen."
   },
-  "notes": "Stand: 19. Januar 2055. Kaliningrad-Krise dominiert den Jahresanfang. Dieses File war zuvor veraltet (Stand 2046/Kellner) und wurde jetzt auf den aktuellen Stand gebracht."
+  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3. Kaliningrad-Krise prägt das gesamte Jahr, bleibt eingefroren aber ungelöst in Jahr 7."
 }

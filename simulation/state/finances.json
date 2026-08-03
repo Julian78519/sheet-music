@@ -59,23 +59,31 @@
       "saldo": "+€104.400",
       "notes": "Jakob-Reserve (€150k) earmarked aber noch in savings – kein Abgang 2054. Berger-Verfahren: keine Kosten (Kanzleramts-Juristen). Rowohlt-Vertrag läuft weiter – Jonas schreibt selbst.",
       "endstand_savings": 1948800
+    },
+    "jahresbewegung_2055": {
+      "jahressparrate_netto": "+€134.400 (12 × €11.200)",
+      "ki_fonds_nachkauf_krise": "-€20.000 (Kaliningrad-Marktturbulenz, Nachkauf statt Reduktion)",
+      "berger_vergleich": "-€8.800 (geringe Entschädigung, Verfahren im März per Vergleich beendet)",
+      "saldo": "+€105.600",
+      "notes": "Kaliningrad-Krise Januar 2055 dominiert das Jahr. Nachkauf KI-Fonds während der Marktturbulenz – Position hat sich bis Jahresende deutlich erholt. Jakob-Reserve unverändert und weiterhin unerwähnt.",
+      "endstand_savings": 2063200
     }
   },
   "political": {
     "campaign_fund_used": "Eigenanteil Wahlkampf 2049: ~€18.000. Wahlkampf 2053: Partei trägt vollständig.",
     "speaking_fees": "Kanzleramt: keine privaten Honorarauftritte.",
-    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k): erhalten 2050. Tranche 2 (€200k): erhalten 2052. Tranche 3 (€200k, Veröffentlichung): AUSSTEHEND – 2057 nach dem Amt. Ghostwriter Berger: fristlos gekündigt Dezember 2054 (Vertragsbruch). Jonas schreibt selbst weiter.",
-    "book_status": "Manuskript 231 Seiten. Berger-Version vollständig aber von außen geschrieben. Jonas schreibt samstags – das Whitmore-Kapitel als erstes. Noch nicht gut. Erscheinen: 2057."
+    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k): erhalten 2050. Tranche 2 (€200k): erhalten 2052. Tranche 3 (€200k, Veröffentlichung): AUSSTEHEND – 2057 nach dem Amt. Ghostwriter Berger: fristlos gekündigt Dezember 2054, Verfahren im März 2055 per Vergleich beendet (€8.800 Entschädigung, Klage zurückgezogen). Jonas schreibt selbst weiter.",
+    "book_status": "Manuskript wächst. Whitmore-Kapitel bekam durch Kaliningrad (Januar 2055) deutlich mehr Substanz – Jonas schreibt seit der Krise auch wochentags. Noch nicht fertig. Erscheinen: 2057."
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 1948800,
-    "investments_indexfonds": 262000,
-    "investments_ki_fonds": 92000,
+    "liquid": 2063200,
+    "investments_indexfonds": 267000,
+    "investments_ki_fonds": 130000,
     "immobilien": 0,
     "rowohlt_ausstehend": 200000,
-    "gesamt_ca": 2502800,
+    "gesamt_ca": 2610200,
     "jakob_reserve_earmark": 150000,
-    "notes": "Über 2,5 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
+    "notes": "Über 2,6 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
   },
-  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3."
 }

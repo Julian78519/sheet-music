@@ -1,8 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 58,
+  "age": 59,
   "birthdate": "1997-11-14",
-  "current_date": "2056-01-21",
+  "current_date": "2056-12-31",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -44,19 +44,19 @@
         "notes": "Interview 'Die Kosten von Führung' im November 2055 erschienen – 1,8 Mio. Aufrufe erste Woche, keine direkte Erwähnung Kaliningrads, jeder versteht die Anspielung. Anruf nach dem Angriff auf deutschem Boden (Januar 2055): vierzig Minuten, Jakob fragt nur ob Jonas schläft. Beziehung: die beste die sie je hatten, noch gewachsen."
       }
     ],
-    "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft, Ex-Präsidentin ohne Amt seit 2049. Zwei Briefe 2055 – nach Kaliningrad schreibt er ihr zuerst: 'Ich frage mich, was du getan hättest.' Sie: 'Das Gleiche. Schneller vielleicht. Das macht es nicht leichter.' Kanal still – aber lebendig, unabhängig vom Amt.",
-    "notes": "Berlin ist Zuhause. Er schreibt jetzt auch wochentags am Whitmore-Kapitel – seit Kaliningrad trägt es mehr Substanz. Er läuft noch, 5:55 Uhr, Spree-Promenade – auch in der schlimmsten Woche 2055, mit kurzfristiger medikamentöser Schlafhilfe durch die Kanzleramtsärztin. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er bezieht Vera früher in Entscheidungen ein – nicht aus Schwäche, aus Klugheit."
+    "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft, Ex-Präsidentin ohne Amt seit 2049. 2056 schreibt er ihr erstmals andeutungsweise vom Sorokin-Geheimnis, ohne Details: 'Es gab etwas dieses Jahr, das ich niemandem erzählen kann.' Sie: 'Manche Dinge trägt man allein, damit sie überhaupt tragbar bleiben. Du bist nicht der Erste.' Kanal still – aber lebendig, unabhängig vom Amt.",
+    "notes": "Berlin ist Zuhause. Das Whitmore-Kapitel wächst weiter, noch nicht fertig, Erscheinen weiter 2057 geplant. Er läuft unverändert, 5:55 Uhr, Spree-Promenade. Freiwilliger Gesundheitscheck Anfang 2056 nach dem harten Vorjahr: alles stabil. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er trägt seit Januar 2056 ein Geheimnis (Sorokin-Operation), das nur er und BND-Präsidentin Reiner kennen – kam einmal kurz davor, es Vera zu sagen, hat es dann doch für sich behalten."
   },
   "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
   "health": {
-    "overall": "gut, aber gezeichnet – Kaliningrad-Woche Januar 2055 war die schwerste Belastung seiner Kanzlerschaft",
-    "sport": "Joggen 3–4x/Woche. 5:55 Uhr, manchmal 6:20. Spree-Promenade. Auch in der Kriegswoche nie ganz ausgesetzt.",
-    "notes": "Blutdruck normal. Schlaf in der akuten Kaliningrad-Phase schlecht, kurzfristig medikamentös unterstützt (Kanzleramtsärztin, zehn Tage), danach wieder stabil. Rücken gut. Die Disziplin hat gehalten – das bleibt der Unterschied."
+    "overall": "gut, stabil – freiwilliger Gesundheitscheck Anfang 2056 bestätigt guten Zustand trotz zweier Nuklearkrisen in Folge",
+    "sport": "Joggen 3–4x/Woche. 5:55 Uhr, manchmal 6:20. Spree-Promenade. Unverändert die einzige Konstante.",
+    "notes": "Blutdruck normal, Bluttest unauffällig. Kardiologe: 'für das Jahr, das Sie hinter sich haben, erstaunlich guter Zustand.' Rücken gut. Die Disziplin hat gehalten."
   },
   "reputation": {
-    "national": "Kanzlerzustimmung Dezember 2055: 71% (Spitze 79% im Januar nach Kaliningrad, dann Konsolidierung). Kriegsführung ohne Rückzieher, aber auch ohne Eskalationsdrang – wird als Stärke gelesen.",
-    "international": "97/100 im Januar-Hoch, danach stabil sehr hoch. Erster deutscher Angriff auf russisches Gebiet seit 1945 unter kontrollierter NATO-Solidarität (Artikel 4, keine Artikel-5-Berufung). Frankreich vollständig normalisiert. UN-Sicherheitsrat-Sitz im Juni knapp gewonnen.",
-    "press": "International: erste ernsthafte Diskussion, ob Hartmann als Krisenmanager das Kaliningrad-Modell zum neuen Standard für begrenzte Vergeltung gemacht hat."
+    "national": "Kanzlerzustimmung Dezember 2056: 74% – ruhige, stabile zweite Jahreshälfte nach explosivem Winteranfang (Suwałki-Nuklearkrise).",
+    "international": "Weiterhin sehr hoch. Genf-Prozess mit Russland angestoßen (Jonas persönlich), Goldene Kuppel im Aufbau mit US-Integration, Nordkorea-Kanal reaktiviert.",
+    "press": "International: Diskussion, ob Hartmann als Krisenmanager das Kaliningrad/Suwałki-Modell (begrenzte, kalkulierte Vergeltung + stille Diplomatie) zum neuen Standard gemacht hat."
   },
   "style_tone": "Ruhig wenn er gefährlich ist. Handelt bevor er erklärt. Hat aufgehört zu rechtfertigen. Bezieht Vera früher ein – nicht aus Schwäche, aus Klugheit. Schreibt samstags.",
   "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
@@ -66,14 +66,13 @@
     "Jonas_plan": "Jede Entscheidung 2055 trägt auch Vera's Zukunft. Zweite Amtszeit als bewusste Übergabe. Vera profilieren, Lohse etablieren, Parteilinie ausrichten.",
     "post_amt": "Nach zweiter Amtszeit: Beratung. Privatsektor oder internationale Stiftungsarbeit. Kein weiteres Amt. Kein EU-Kommissionspräsident."
   },
-  "offene_fragen_2056": [
-    "Sorokin-Geheimnis – niemand außer Reiner weiß davon, nicht Vera, nicht Owens. Größtes Risiko: dass es je bekannt wird.",
-    "Goldene Kuppel – USA-Integration akzeptiert, europäische Partner eingebunden. Umsetzung ist jahrelange Aufgabe.",
-    "Liu Hao – wusste (oder ahnte) von der Operation, bevor jemand sonst es tat. Was bedeutet das für die China-Beziehung?",
-    "Vera 2057 – EU-Krisenreaktionstruppe als zweiter großer Erfolg. Profilierung auf Kurs, Risiko wächst mit.",
-    "Frankreich – normalisiert, ungetestet unter echtem Druck.",
-    "Nordkorea – Stille seit über einem Jahr. Dauert zu lange um beruhigend zu sein.",
-    "BVerfG-Klage – weiterhin offen, Kramer managt."
+  "offene_fragen_2057": [
+    "Sorokin-Geheimnis – bleibt ungeteilt, auch mit Vera. Kam einmal nah dran, es zu sagen. Wie lange lässt sich das tragen?",
+    "Genf-Prozess mit Russland – fragiler Fortschritt (2. Außenministertreffen September, Energieprotokoll November). Hält er einem echten Test stand?",
+    "Vera 2057 – Kanzlerkandidatur rückt näher. Führt allein die Goldene-Kuppel-Architektur, wartet auf ihre Zeit.",
+    "Nordkorea – Kanal reaktiviert (kleines technisches Abkommen Sommer 2056), aber was verlangt Pyongyang als Nächstes?",
+    "Liu Hao – Distanz ohne Bruch seit der direkten Frage im Januar 2056. Unbeantwortet.",
+    "BVerfG-Präzedenzfall (Juli 2056 entschieden) – schärfere parlamentarische Kontrolle künftiger Vergeltungsmaßnahmen. Bindet das die Hände in der nächsten Krise?"
   ],
-  "notes": "Stand: 21. Januar 2056. Kabinett Hartmann II Jahr 4. Suwałki-Nuklearkrise gelöst durch eine Operation, die offiziell nie stattgefunden hat."
+  "notes": "Stand: 31. Dezember 2056. Kabinett Hartmann II Jahr 4, Ende Jahr 7. Zweite Nuklearkrise in Folge gelöst, diesmal ohne einen einzigen Schuss – durch eine Operation, die offiziell nie stattgefunden hat."
 }

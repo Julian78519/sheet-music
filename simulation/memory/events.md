@@ -145,5 +145,34 @@ Generalstabschef in Moskau entmachtet, Sorokin wieder öffentlich in Uniform. Nu
 
 ---
 
-## 2056-01-21 – SIMULATIONSGEGENWART
-Suwałki-Nuklearkrise informell gelöst. Kaliningrad-Konflikt insgesamt bleibt eingefroren, Lage beruhigt sich.
+## 2056-01-21 – Suwałki-Nuklearkrise informell gelöst
+Kaliningrad-Konflikt insgesamt bleibt eingefroren, Lage beruhigt sich.
+
+## 2056-01 – Deutsch-russische Annäherung eingeleitet
+Vera/AA sendet offizielles Signal zur Normalisierung. Russland schlägt Außenministertreffen in Genf (März) vor.
+
+## 2056-03-14 – Genf-Treffen Jonas/Sorokin
+Erstes persönliches Treffen seit Kaliningrad. Formell, vorsichtig, kein Durchbruch. Fünf Minuten allein: „Ich weiß nur, dass ich noch hier stehe."
+
+## 2056-07 – BVerfG-Urteil
+Teilerfolg: schärfere parlamentarische Kontrolle künftiger hybrider Vergeltungsmaßnahmen angemahnt, Jonas nicht persönlich verurteilt.
+
+## 2056 (Sommer) – Nordkorea-Kanal reaktiviert
+Kleines technisches Kooperationsabkommen nach direktem Reaktivierungsversuch.
+
+## 2056-09 – Zweites Außenministertreffen mit Russland
+
+## 2056-10 – Goldene Kuppel: erste Testsysteme scharf geschaltet
+Baltikum/Polen-Standorte zuerst.
+
+## 2056-11 – Energie-Kooperationsprotokoll mit Russland
+
+---
+
+## 2056-12-31 – JAHRESABSCHLUSS
+Kanzlerzustimmung 74%. Ruhigste, stabilste zweite Jahreshälfte seit Amtsantritt nach explosivem Winteranfang. Sorokin-Geheimnis bleibt ungeteilt.
+
+---
+
+## 2056-12-31 – SIMULATIONSGEGENWART
+Jahr 7 abgeschlossen.

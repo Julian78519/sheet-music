@@ -23,6 +23,7 @@
     "kanzlerzustimmung_dez_2054": 68,
     "kanzlerzustimmung_jan_2055": 79,
     "kanzlerzustimmung_dez_2055": 71,
+    "kanzlerzustimmung_dez_2056": 74,
     "reputation_international_jan_2055": 97,
     "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht. Januar 2055: Kaliningrad-Krise treibt Zustimmung auf Kriegsreflex-Hoch (79%). Bis Dezember 2055 Konsolidierung auf 71% – Koalitionsstabilität erholt sich nach anfänglichem Kriegskosten-Streit, Schulze bleibt eingebunden."
   },
@@ -162,7 +163,10 @@
   },
   "leitprojekte_2056": {
     "suwalki_nuklear_krise": "Januar 2056: Hardliner-Fraktion übernimmt Moskauer Generalstab, Truppenaufmarsch Suwałki-Lücke, dann Verlegung taktischer Nuklearsysteme Richtung Kaliningrad. Größte NATO-Ostflankenverstärkung seit 2028. Jonas verzichtet auf explizite Erstschlag-Drohung (Owens' Rat folgend). Geheime, rein deutsche BND-Operation über alten Sorokin-Kanal – Angebot nachrichtendienstlicher Unterstützung gegen Rückzug der Nuklearsysteme. Fünf Tage später: Generalstabschef entmachtet, Systeme kehren um, Sorokin wieder öffentlich sichtbar. Deutsche Beteiligung nie offiziell bestätigt.",
-    "goldene_kuppel": "Europäisches Raketenabwehrsystem (Hyperschall + teilnukleare Abwehr), aus deutschem System heraus entwickelt. USA-Vollintegration angeboten und akzeptiert (Owens: Technologietransfer gegen geteilte Kontrolle). Allen europäischen NATO-Partnern zugänglich gemacht als Gegenleistung für ihr Vertrauen während der Geheimdienstoperation."
+    "goldene_kuppel": "Europäisches Raketenabwehrsystem (Hyperschall + teilnukleare Abwehr), aus deutschem System heraus entwickelt. USA-Vollintegration angeboten und akzeptiert (Owens: Technologietransfer gegen geteilte Kontrolle). Allen europäischen NATO-Partnern zugänglich gemacht als Gegenleistung für ihr Vertrauen während der Geheimdienstoperation. Priorität Baltikum/Polen zuerst umgesetzt, erste Testsysteme scharf geschaltet Oktober 2056.",
+    "genf_prozess_russland": "14. März 2056: Jonas trifft Sorokin persönlich in Genf – erstes direktes Treffen seit Kaliningrad. Vorsichtige, formelle Normalisierung. Zweites Außenministertreffen September, technisches Energie-Kooperationsprotokoll November.",
+    "bverfg_urteil": "Juli 2056: Teilerfolg. Gericht mahnt schärfere parlamentarische Kontrolle künftiger 'hybrider Vergeltungsmaßnahmen' an, verurteilt Jonas nicht persönlich. Präzedenzfall.",
+    "nordkorea_reaktivierung": "Sommer 2056: Kleines technisches Kooperationsabkommen nach direktem Reaktivierungsversuch. Kanal lebt wieder, kühl aber aktiv."
   },
   "jahresabschluss_2055": {
     "satz_des_jahres": "Ich habe nachgeladen, während alle dachten, ich hätte aufgehört zu zielen.",
@@ -170,14 +174,20 @@
     "kanzlerzustimmung_dezember": 71,
     "gesamtbewertung": "Das härteste Jahr seiner Kanzlerschaft. Erster Angriff auf deutschem Boden seit 1945, erster deutscher Gegenschlag auf russisches Gebiet seit 1945. Kein erklärter Krieg, aber auch kein Frieden – ein eingefrorener Konflikt, der Jahr 7 mitbringt. Daneben: UN-Sitz gewonnen, Frankreich normalisiert, Veras zweiter großer Erfolg (EU-Krisenreaktionstruppe), Siebert-Deal ohne Drama ausgelaufen. Persönlich das beste Jahr mit Jakob."
   },
-  "open_threats_2056": [
-    "Kaliningrad – eingefroren, aber Hardliner-Fraktion gewinnt in Moskau an Boden. Nächster Test kommt mit hoher Wahrscheinlichkeit.",
-    "BVerfG-Klage – weiterhin offen, Kramer managt.",
-    "UN-Sicherheitsrat – Sitz gewonnen, aber Liu Hao lässt 'nicht vergessen' durchklingen. Unbekannte Rechnung.",
-    "Nordkorea – Kanal seit über einem Jahr still. Dauert zu lange um beruhigend zu sein.",
-    "Vera 2057 – EU-Krisenreaktionstruppe als zweiter Erfolg. Profilierung auf Kurs, Risiko wächst mit.",
-    "Frankreich – normalisiert, aber ungetestet unter echtem Druck.",
-    "Taiwan-Karte – Liu Hao weiß, dass Deutschland sie spielen kann. Das ist Macht. Und Risiko."
+  "jahresabschluss_2056": {
+    "satz_des_jahres": "Manche Lasten werden nicht kleiner, wenn man sie teilt. Sie existieren nur zu zweit statt zu einem.",
+    "moment_des_jahres": "Genf, Nebenraum, fünf Minuten. Sorokin: 'Ich weiß nur, dass ich noch hier stehe.' Und Jonas, der einzige im Raum, der weiß, warum.",
+    "kanzlerzustimmung_dezember": 74,
+    "gesamtbewertung": "Explosiver Winteranfang (Suwałki-Nuklearkrise), dann die ruhigste, stabilste zweite Jahreshälfte seit Amtsantritt. Genf-Prozess mit Russland angestoßen, Goldene Kuppel im Aufbau, Nordkorea-Kanal wiederbelebt, BVerfG-Präzedenzfall gesetzt. Persönlich das Jahr, in dem er ein Geheimnis zu tragen begann, das er mit niemandem teilt – nicht einmal mit Vera."
+  },
+  "open_threats_2057": [
+    "Sorokin-Geheimnis – bleibt ungeteilt. Größtes verbleibendes persönliches Risiko der Kanzlerschaft.",
+    "Genf-Prozess – fragiler Fortschritt mit Russland. Ungetestet unter echtem Druck.",
+    "Vera 2057 – Kanzlerkandidatur rückt näher. Wann kommt ihre Zeit wirklich?",
+    "Nordkorea – Kanal reaktiviert, aber was verlangt Pyongyang als Nächstes?",
+    "Liu Hao – Distanz seit der direkten Frage im Januar 2056. Nie geklärt.",
+    "BVerfG-Präzedenzfall – bindet möglicherweise die Hände in der nächsten Krise.",
+    "Taiwan-Karte – weiterhin ungenutztes Machtmittel mit Risiko."
   ],
-  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3."
+  "notes": "Stand: 31. Dezember 2056. Ende Jahr 7, Kabinett Hartmann II Jahr 4."
 }

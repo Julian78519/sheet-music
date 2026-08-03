@@ -1,5 +1,5 @@
 {
-  "current_date": "2056-01-21",
+  "current_date": "2056-12-31",
   "location": {
     "primary": "Berlin",
     "country": "Deutschland"
@@ -43,5 +43,12 @@
     "goldene_kuppel": "Europäisches Raketenabwehrsystem, aus deutschem System entwickelt. USA-Vollintegration (Technologietransfer gegen geteilte Kontrolle) und Öffnung für alle europäischen NATO-Partner beschlossen.",
     "geheimnis": "Nur Jonas und BND-Präsidentin Reiner wissen von der Operation. Nicht Vera, nicht Owens, nicht der NATO-Rat."
   },
-  "notes": "Stand: 21. Januar 2056. Suwałki-Nuklearkrise informell gelöst. Kaliningrad-Konflikt insgesamt bleibt eingefroren, aber die Lage hat sich beruhigt."
+  "russland_normalisierung_2056": {
+    "genf_treffen": "14. März 2056: Erstes persönliches Treffen Jonas-Sorokin seit Kaliningrad. Vorsichtige, formelle Normalisierung, kein Durchbruch.",
+    "folgetermine": "Zweites Außenministertreffen September 2056. Technisches Energie-Kooperationsprotokoll November 2056.",
+    "einschaetzung": "Fragiler, aber realer Fortschritt. Ungetestet unter echtem Druck."
+  },
+  "nordkorea_2056": "Kanal nach über einem Jahr Stille direkt reaktiviert. Kleines technisches Kooperationsabkommen Sommer 2056. Kühl, aber aktiv.",
+  "bverfg_2056": "Juli 2056: Urteil – Teilerfolg. Schärfere parlamentarische Kontrolle künftiger 'hybrider Vergeltungsmaßnahmen' angemahnt, Jonas persönlich nicht verurteilt.",
+  "notes": "Stand: 31. Dezember 2056. Suwałki-Nuklearkrise vom Jahresanfang informell gelöst, danach ruhigste zweite Jahreshälfte seit Amtsantritt. Genf-Prozess mit Russland angestoßen, Goldene Kuppel im Aufbau."
 }

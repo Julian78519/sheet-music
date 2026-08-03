@@ -67,6 +67,14 @@
       "saldo": "+€105.600",
       "notes": "Kaliningrad-Krise Januar 2055 dominiert das Jahr. Nachkauf KI-Fonds während der Marktturbulenz – Position hat sich bis Jahresende deutlich erholt. Jakob-Reserve unverändert und weiterhin unerwähnt.",
       "endstand_savings": 2063200
+    },
+    "jahresbewegung_2056": {
+      "jahressparrate_netto": "+€134.400 (12 × €11.200)",
+      "ki_fonds_weitere_aufstockung": "-€25.000 (Kramer, weiteres Potenzial gesehen)",
+      "jakob_reserve_aufstockung": "-€20.000 (stille Erhöhung nach starkem Jahr des Interviews)",
+      "saldo": "+€89.400",
+      "notes": "Ruhigeres Finanzjahr nach der Suwałki-Krise im Januar. KI-Fonds-Position weiter ausgebaut und deutlich im Plus. Jakob-Reserve auf €170.000 erhöht, weiterhin unerwähnt.",
+      "endstand_savings": 2196000
     }
   },
   "political": {
@@ -76,14 +84,14 @@
     "book_status": "Manuskript wächst. Whitmore-Kapitel bekam durch Kaliningrad (Januar 2055) deutlich mehr Substanz – Jonas schreibt seit der Krise auch wochentags. Noch nicht fertig. Erscheinen: 2057."
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 2063200,
-    "investments_indexfonds": 267000,
-    "investments_ki_fonds": 130000,
+    "liquid": 2196000,
+    "investments_indexfonds": 272000,
+    "investments_ki_fonds": 168000,
     "immobilien": 0,
     "rowohlt_ausstehend": 200000,
-    "gesamt_ca": 2610200,
-    "jakob_reserve_earmark": 150000,
-    "notes": "Über 2,6 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
+    "gesamt_ca": 2764000,
+    "jakob_reserve_earmark": 170000,
+    "notes": "Über 2,76 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
   },
-  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3."
+  "notes": "Stand: 31. Dezember 2056. Ende Jahr 7, Kabinett Hartmann II Jahr 4."
 }

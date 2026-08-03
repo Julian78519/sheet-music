@@ -194,5 +194,27 @@ Jonas erklärt seine Logik: Er wollte ihr glaubhafte Abstreitbarkeit sichern, ni
 
 ---
 
-## 2057-01-24 – SIMULATIONSGEGENWART
-Sorokin-Leak teilweise eingehegt, Vertrauen mit Vera überwiegend wiederhergestellt. Nominierung in zwei Wochen geplant.
+## 2057-02-04 – Vera nominiert
+Einstimmig als CDU-Kanzlerkandidatin nominiert, ruhige Zeremonie. Schulze hält die Einführungsrede. Siebert signalisiert Unterstützung auf ihre Art (NRW-Regionalinterview).
+
+## 2057-03 bis 06 – Wahlkampf
+Vera kämpft auf Substanz (Goldene Kuppel, Hoffmann-Rahmen). AfD-Versuche, den Sorokin-Leak zu reaktivieren, verfangen nicht. Jonas hält sich demonstrativ zurück.
+
+## 2057-09 – Bundestagswahl
+CDU/CSU 33,8% stärkste Kraft. SPD 18%, Grüne 16% (Lena hält Direktmandat), AfD 14%, FDP knapp über 5%. Koalition CDU/CSU+SPD fortgeführt, von Vera selbst verhandelt.
+
+## 2057-11 – Buchveröffentlichung
+Jonas' Buch bei Rowohlt erscheint, Whitmore-Kapitel enthalten, ungeschönt. Claire: „Du hast es endlich fertig geschrieben. Gut."
+
+## 2057-12-15 – DIE ÜBERGABE
+Dr. Vera Hoffmann als Bundeskanzlerin vereidigt. Kabinett Hoffmann I konstituiert. Jonas hält kurze Abschiedsrede im Bundestag: „Ich habe geführt, damit Führung übergeht. Das war immer der Plan." Zieht aus dem Bungalow in eine Mietwohnung Berlin-Mitte.
+
+---
+
+## 2057-12-31 – JAHRESABSCHLUSS
+Kanzlerzustimmung bei Amtsende: 76% – höchster Wert der gesamten Kanzlerschaft. Der fünfjährige Übergabeplan ist erfüllt.
+
+---
+
+## 2057-12-31 – SIMULATIONSGEGENWART
+Jahr 8 abgeschlossen. Jonas Hartmann ist Altbundeskanzler. Dr. Vera Hoffmann ist Bundeskanzlerin.

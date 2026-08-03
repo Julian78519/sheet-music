@@ -1,22 +1,21 @@
 {
-  "current_date": "2056-12-31",
+  "current_date": "2057-12-31",
   "location": {
     "primary": "Berlin",
     "country": "Deutschland"
   },
   "germany": {
-    "chancellor": "Jonas Hartmann (CDU)",
-    "chancellor_age": 57,
-    "vizekanzlerin": "Dr. Vera Hoffmann (CDU)",
-    "coalition": "CDU/CSU + SPD (Kabinett Hartmann II)",
-    "coalition_status": "Unter Belastungstest durch Kriegskosten. Nachtragshaushalt für Wiederaufbau/Verteidigung verhandelt – Koalition hält, aber Fraktionsvorsitzender Schulze verlangt erstmals eigenständige Mitsprache. FDP nicht Teil der Regierung.",
-    "hot_topics_ende_2055": [
-      "Kaliningrad-Konflikt eingefroren, aber Hardliner-Fraktion gewinnt in Moskau intern an Boden (Dez. 2055)",
-      "EU-Krisenreaktionstruppe formal beschlossen (Oktober) – Veras Projekt",
-      "UN-Sicherheitsratssitz gewonnen (Juni), China-Rechnung offen",
-      "Frankreich vollständig normalisiert (Beaumont-Besuch September)",
-      "Siebert-Deal ausgelaufen ohne Drama",
-      "Jakobs Interview 'Die Kosten von Führung' (November) – 1,8 Mio. Aufrufe"
+    "chancellor": "Dr. Vera Hoffmann (CDU) – vereidigt 15. Dezember 2057",
+    "chancellor_age": 51,
+    "vorgaenger": "Jonas Hartmann (CDU), Bundeskanzler 2050–2057, jetzt Altbundeskanzler",
+    "coalition": "CDU/CSU + SPD (Kabinett Hoffmann I) – fortgeführte Koalition nach Bundestagswahl September 2057",
+    "coalition_status": "Frisch konstituiert, breite Mehrheit. CDU/CSU 33,8%, SPD 18%, Grüne 16%, AfD 14%, FDP knapp über 5%.",
+    "hot_topics_ende_2057": [
+      "Regierungswechsel Hartmann → Hoffmann vollzogen – erste Bundeskanzlerin dieser Ära",
+      "Genf-Prozess mit Russland geht an Vera über",
+      "Goldene Kuppel im laufenden Ausbau",
+      "Jonas' Buch bei Rowohlt erschienen (November), Whitmore-Kapitel enthalten",
+      "Sorokin-Leak vom Januar 2057 weitgehend verblasst, nie bewiesen"
     ]
   },
   "usa": {
@@ -50,5 +49,12 @@
   },
   "nordkorea_2056": "Kanal nach über einem Jahr Stille direkt reaktiviert. Kleines technisches Kooperationsabkommen Sommer 2056. Kühl, aber aktiv.",
   "bverfg_2056": "Juli 2056: Urteil – Teilerfolg. Schärfere parlamentarische Kontrolle künftiger 'hybrider Vergeltungsmaßnahmen' angemahnt, Jonas persönlich nicht verurteilt.",
-  "notes": "Stand: 31. Dezember 2056. Suwałki-Nuklearkrise vom Jahresanfang informell gelöst, danach ruhigste zweite Jahreshälfte seit Amtsantritt. Genf-Prozess mit Russland angestoßen, Goldene Kuppel im Aufbau."
+  "wahljahr_2057": {
+    "sorokin_leak": "22.-24. Januar 2057: Spiegel deckt Teile der geheimen Sorokin-Operation von 2056 auf. Regierung hegt die Geschichte über Halbwahrheit ('NATO informiert') und Erfolgsnarrativ ein. Vera erfährt davon aus der Presse, nicht von Jonas – ernsthafte Vertrauenskrise, in einer Aussprache am 24.1. weitgehend repariert.",
+    "vera_nominierung": "4. Februar 2057: Einstimmig als CDU-Kanzlerkandidatin nominiert.",
+    "wahlkampf": "März-Juni: Kampagne auf Substanz (Goldene Kuppel, Hoffmann-Rahmen). AfD-Versuche, Sorokin-Leak zu reaktivieren, verfangen nicht.",
+    "bundestagswahl": "September 2057: CDU/CSU 33,8%, SPD 18%, Grüne 16% (Lena Hartmann hält Direktmandat), AfD 14%, FDP knapp über 5%. Koalition CDU/CSU+SPD fortgeführt.",
+    "vereidigung": "15. Dezember 2057: Dr. Vera Hoffmann als Bundeskanzlerin vereidigt. Jonas' Übergabeplan von 2052 vollständig erfüllt."
+  },
+  "notes": "Stand: 31. Dezember 2057. Regierungswechsel vollzogen. Jonas Hartmann ist Altbundeskanzler, Dr. Vera Hoffmann amtierende Bundeskanzlerin."
 }

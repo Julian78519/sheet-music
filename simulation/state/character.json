@@ -1,8 +1,8 @@
 {
   "name": "Jonas Hartmann",
-  "age": 59,
+  "age": 60,
   "birthdate": "1997-11-14",
-  "current_date": "2056-12-31",
+  "current_date": "2057-12-31",
   "gender": "männlich",
   "origin": {
     "city": "Münster",
@@ -19,18 +19,18 @@
       "Ehrendoktorat Universität Warschau 2041 (transatlantische Sicherheitspolitik)"
     ]
   },
-  "current_role": "Bundeskanzler der Bundesrepublik Deutschland",
-  "current_role_since": "2050-01-15",
+  "current_role": "Altbundeskanzler – seit 15.12.2057 aus dem Amt. Berater/Publizist, kein weiteres politisches Amt.",
+  "current_role_since": "2057-12-15",
   "cabinets_served": [
     "Kabinett Kellner I (2037–2041) – Bundesaußenminister",
     "Kabinett Kellner II (2041–2045) – Bundesaußenminister",
     "Kabinett Kellner III (2045–2049) – Bundesaußenminister",
     "Kabinett Hartmann I (2050–2053) – Bundeskanzler",
-    "Kabinett Hartmann II (2053–) – Bundeskanzler, zweite Amtszeit"
+    "Kabinett Hartmann II (2053–2057) – Bundeskanzler, zweite Amtszeit"
   ],
   "residence": {
-    "primary": "Berlin – Bundeskanzler-Bungalow (Dienstresidenz)",
-    "secondary": "KEINE – Münster-Mauritz verkauft August 2052. Bungalow ist einziges Zuhause."
+    "primary": "Berlin-Mitte – Mietwohnung, bezogen Dezember 2057 nach Auszug aus dem Kanzler-Bungalow.",
+    "secondary": "KEINE – Münster-Mauritz verkauft August 2052."
   },
   "personal_status": {
     "marital": "Geschieden seit 2035",
@@ -45,7 +45,7 @@
       }
     ],
     "current_relationship": "Keine offizielle Partnerschaft. Claire Whitmore: eine Freundschaft, Ex-Präsidentin ohne Amt seit 2049. 2056 schreibt er ihr erstmals andeutungsweise vom Sorokin-Geheimnis, ohne Details: 'Es gab etwas dieses Jahr, das ich niemandem erzählen kann.' Sie: 'Manche Dinge trägt man allein, damit sie überhaupt tragbar bleiben. Du bist nicht der Erste.' Kanal still – aber lebendig, unabhängig vom Amt.",
-    "notes": "Berlin ist Zuhause. Das Whitmore-Kapitel wächst weiter, noch nicht fertig, Erscheinen weiter 2057 geplant. Er läuft unverändert, 5:55 Uhr, Spree-Promenade. Freiwilliger Gesundheitscheck Anfang 2056 nach dem harten Vorjahr: alles stabil. Der Bungalow hat einen Plattenspieler. Das Bücherregal wächst. Er trägt seit Januar 2056 ein Geheimnis (Sorokin-Operation), das nur er und BND-Präsidentin Reiner kennen – kam einmal kurz davor, es Vera zu sagen, hat es dann doch für sich behalten."
+    "notes": "Berlin ist Zuhause, jetzt eine Mietwohnung statt Dienstresidenz. Das Buch (inkl. Whitmore-Kapitel) bei Rowohlt im November 2057 erschienen, drei Wochen vor der Vereidigung – Claire dazu: 'Du hast es endlich fertig geschrieben. Gut.' Er läuft unverändert, 5:55 Uhr. Das Sorokin-Geheimnis trägt er weiter, mit Reiner als Einzigem, der davon weiß – hat nach dem Spiegel-Leak Januar 2057 mit Vera über seine Beweggründe gesprochen, Vertrauen weitgehend wiederhergestellt, neuer Pakt: sie will künftig gefragt werden, nicht nur geschützt."
   },
   "languages": ["Deutsch (Muttersprache)", "Englisch (akzentfrei)", "Französisch (verhandlungssicher)", "Mandarin (Grundkenntnisse, Smalltalk)"],
   "health": {
@@ -54,25 +54,25 @@
     "notes": "Blutdruck normal, Bluttest unauffällig. Kardiologe: 'für das Jahr, das Sie hinter sich haben, erstaunlich guter Zustand.' Rücken gut. Die Disziplin hat gehalten."
   },
   "reputation": {
-    "national": "Kanzlerzustimmung Dezember 2056: 74% – ruhige, stabile zweite Jahreshälfte nach explosivem Winteranfang (Suwałki-Nuklearkrise).",
-    "international": "Weiterhin sehr hoch. Genf-Prozess mit Russland angestoßen (Jonas persönlich), Goldene Kuppel im Aufbau mit US-Integration, Nordkorea-Kanal reaktiviert.",
-    "press": "International: Diskussion, ob Hartmann als Krisenmanager das Kaliningrad/Suwałki-Modell (begrenzte, kalkulierte Vergeltung + stille Diplomatie) zum neuen Standard gemacht hat."
+    "national": "Kanzlerzustimmung bei Amtsende (Dezember 2057): 76% – höchster Wert seiner gesamten Kanzlerschaft, zum Abschied.",
+    "international": "Weiterhin sehr hoch. Gilt als Architekt einer neuen Übergabekultur – 'Führung, die übergeht', wird international als Kontrast zu Dauerkanzlerschaften diskutiert.",
+    "press": "Rückblickend: 'Der Kanzler, der ging, bevor er musste.' Buchveröffentlichung November 2057 verstärkt das Bild einer bewussten, geplanten Übergabe."
   },
-  "style_tone": "Ruhig wenn er gefährlich ist. Handelt bevor er erklärt. Hat aufgehört zu rechtfertigen. Bezieht Vera früher ein – nicht aus Schwäche, aus Klugheit. Schreibt samstags.",
+  "style_tone": "Ruhig wenn er gefährlich ist. Handelt bevor er erklärt. Hat aufgehört zu rechtfertigen. Schreibt samstags – jetzt ohne Amt, mit mehr Zeit dafür.",
   "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
   "succession_plan": {
     "target": "Dr. Vera Hoffmann – Kanzlerkandidatur 2057",
-    "status": "Auf Kurs. Hoffmann-Rahmen EU-Standard. FT: 'the quiet architect'. Vera konsultiert Jonas seltener – sie traut ihrem eigenen Urteil mehr. Das ist das Ziel.",
-    "Jonas_plan": "Jede Entscheidung 2055 trägt auch Vera's Zukunft. Zweite Amtszeit als bewusste Übergabe. Vera profilieren, Lohse etablieren, Parteilinie ausrichten.",
-    "post_amt": "Nach zweiter Amtszeit: Beratung. Privatsektor oder internationale Stiftungsarbeit. Kein weiteres Amt. Kein EU-Kommissionspräsident."
+    "status": "ERFÜLLT. Vera am 15. Dezember 2057 als Bundeskanzlerin vereidigt. Kabinett Hoffmann I konstituiert, CDU/CSU+SPD-Koalition fortgeführt. Fünf Jahre Planung, seit September 2052, abgeschlossen.",
+    "Jonas_plan": "ERFÜLLT. Zweite Amtszeit als bewusste Übergabe – durchgezogen bis zum Ende.",
+    "post_amt": "Beratung, kein weiteres politisches Amt. Buch bei Rowohlt erschienen November 2057. Details zu einer möglichen Stiftungsarbeit noch offen."
   },
-  "offene_fragen_2057": [
-    "Sorokin-Geheimnis – bleibt ungeteilt, auch mit Vera. Kam einmal nah dran, es zu sagen. Wie lange lässt sich das tragen?",
-    "Genf-Prozess mit Russland – fragiler Fortschritt (2. Außenministertreffen September, Energieprotokoll November). Hält er einem echten Test stand?",
-    "Vera 2057 – Kanzlerkandidatur rückt näher. Führt allein die Goldene-Kuppel-Architektur, wartet auf ihre Zeit.",
-    "Nordkorea – Kanal reaktiviert (kleines technisches Abkommen Sommer 2056), aber was verlangt Pyongyang als Nächstes?",
-    "Liu Hao – Distanz ohne Bruch seit der direkten Frage im Januar 2056. Unbeantwortet.",
-    "BVerfG-Präzedenzfall (Juli 2056 entschieden) – schärfere parlamentarische Kontrolle künftiger Vergeltungsmaßnahmen. Bindet das die Hände in der nächsten Krise?"
+  "offene_fragen_2058": [
+    "Sorokin-Geheimnis – trägt es weiter, auch außerhalb des Amtes. Wie verändert sich das Risiko jetzt, wo er nicht mehr Kanzler ist?",
+    "Neues Leben nach dem Amt – was füllt die Zeit, die vorher die Kanzlerschaft gefüllt hat?",
+    "Verhältnis zu Vera als Kanzlerin – wie verändert sich die Dynamik, wenn er nicht mehr ihr Vorgesetzter, sondern nur noch Vorgänger ist?",
+    "Whitmore – der Briefkanal läuft weiter, jetzt zwei Ehemalige im Austausch.",
+    "Jakob – erwähntes eigenes Interviewprojekt über 2054 könnte jetzt, nach Amtsende, anders aussehen.",
+    "Genf-Prozess mit Russland – liegt jetzt bei Vera. Beobachtet Jonas aus der Distanz, oder wird er gefragt?"
   ],
-  "notes": "Stand: 31. Dezember 2056. Kabinett Hartmann II Jahr 4, Ende Jahr 7. Zweite Nuklearkrise in Folge gelöst, diesmal ohne einen einzigen Schuss – durch eine Operation, die offiziell nie stattgefunden hat."
+  "notes": "Stand: 31. Dezember 2057. Erster vollständiger Jahresabschluss außerhalb des Kanzleramts seit 2050. Die Übergabe an Vera Hoffmann ist vollzogen."
 }

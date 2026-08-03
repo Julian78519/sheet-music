@@ -1,5 +1,11 @@
 {
-  "name": "Kabinett Hartmann I",
+  "name": "Kabinett Hartmann I (HISTORISCH – abgelöst)",
+  "kabinett_hoffmann_i": {
+    "sworn_in": "2057-12-15",
+    "bundeskanzlerin": "Dr. Vera Hoffmann (CDU), 51",
+    "coalition": "CDU/CSU + SPD, fortgeführt nach Bundestagswahl September 2057 (CDU/CSU 33,8%, SPD 18%)",
+    "notes": "Details der einzelnen Ministerposten noch nicht ausgearbeitet – bekannt ist nur die Chefin. Felix Kramer (Finanzen) und weitere Jonas-loyale Minister vermutlich in modifizierten Rollen weiterhin im Kabinett, aber nicht bestätigt. Bei Bedarf in künftiger Session ausarbeiten."
+  },
   "sworn_in": "2050-01-15",
   "coalition": "CDU/CSU + SPD",
   "coalition_seats": {

@@ -75,23 +75,31 @@
       "saldo": "+€89.400",
       "notes": "Ruhigeres Finanzjahr nach der Suwałki-Krise im Januar. KI-Fonds-Position weiter ausgebaut und deutlich im Plus. Jakob-Reserve auf €170.000 erhöht, weiterhin unerwähnt.",
       "endstand_savings": 2196000
+    },
+    "jahresbewegung_2057": {
+      "jahressparrate_netto": "+€128.800 (11,5 Monate Kanzlergehalt, Amtsende 15.12.)",
+      "rowohlt_tranche_3": "+€200.000 (Veröffentlichung November 2057)",
+      "umzugskosten": "-€12.800 (Auszug Bungalow, neue Mietwohnung Berlin-Mitte)",
+      "saldo": "+€316.000",
+      "notes": "Letztes Jahr im Amt. Buchveröffentlichung bringt finale Tranche. Ab Dezember erstmals Pensionsbezug (Bundeskanzler a.D.) statt Kanzlergehalt.",
+      "endstand_savings": 2512000
     }
   },
   "political": {
     "campaign_fund_used": "Eigenanteil Wahlkampf 2049: ~€18.000. Wahlkampf 2053: Partei trägt vollständig.",
     "speaking_fees": "Kanzleramt: keine privaten Honorarauftritte.",
-    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k): erhalten 2050. Tranche 2 (€200k): erhalten 2052. Tranche 3 (€200k, Veröffentlichung): AUSSTEHEND – 2057 nach dem Amt. Ghostwriter Berger: fristlos gekündigt Dezember 2054, Verfahren im März 2055 per Vergleich beendet (€8.800 Entschädigung, Klage zurückgezogen). Jonas schreibt selbst weiter.",
-    "book_status": "Manuskript wächst. Whitmore-Kapitel bekam durch Kaliningrad (Januar 2055) deutlich mehr Substanz – Jonas schreibt seit der Krise auch wochentags. Noch nicht fertig. Erscheinen: 2057."
+    "book_deal_status": "ROWOHLT, €600.000 Vorschuss gestaffelt. Tranche 1 (€200k): erhalten 2050. Tranche 2 (€200k): erhalten 2052. Tranche 3 (€200k): ERHALTEN November 2057 bei Veröffentlichung. Ghostwriter Berger: fristlos gekündigt Dezember 2054, Verfahren im März 2055 per Vergleich beendet. Jonas hat selbst fertiggeschrieben.",
+    "book_status": "ERSCHIENEN November 2057, drei Wochen vor Veras Vereidigung. Whitmore-Kapitel enthalten, ungeschönt. Claire dazu: 'Du hast es endlich fertig geschrieben. Gut.'"
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 2196000,
-    "investments_indexfonds": 272000,
-    "investments_ki_fonds": 168000,
+    "liquid": 2512000,
+    "investments_indexfonds": 278000,
+    "investments_ki_fonds": 185000,
     "immobilien": 0,
-    "rowohlt_ausstehend": 200000,
-    "gesamt_ca": 2764000,
+    "rowohlt_ausstehend": 0,
+    "gesamt_ca": 2975000,
     "jakob_reserve_earmark": 170000,
-    "notes": "Über 2,76 Millionen. Die zweite Amtszeit ist kein finanzielles Muss. Das ist Freiheit. Jonas denkt selten daran – aber wenn, weiß er: er kann loslassen wenn es Zeit ist."
+    "notes": "Fast 3 Millionen. Alle Rowohlt-Tranchen erhalten. Ab sofort Pension als Bundeskanzler a.D. statt Amtsgehalt. Die Freiheit, von der er all die Jahre wusste, dass sie da ist, beginnt jetzt real zu werden."
   },
-  "notes": "Stand: 31. Dezember 2056. Ende Jahr 7, Kabinett Hartmann II Jahr 4."
+  "notes": "Stand: 31. Dezember 2057. Erstes Jahr außerhalb des Amtes ab Mitte Dezember."
 }

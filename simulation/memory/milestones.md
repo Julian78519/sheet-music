@@ -101,3 +101,13 @@ Formell, vorsichtig, kein Durchbruch – aber ein Anfang. Fünf Minuten allein i
 
 ### 2056 – JAHRESABSCHLUSS: Die ruhige zweite Hälfte
 Kanzlerzustimmung Dezember: 74%. Nach dem explosiven Winteranfang die stabilste Jahreshälfte seiner Kanzlerschaft: Genf-Prozess mit Russland, Goldene Kuppel im Aufbau (Baltikum/Polen zuerst, Testsysteme scharf Oktober), BVerfG-Präzedenzfall im Juli (Teilerfolg), Nordkorea-Kanal reaktiviert im Sommer. Satz des Jahres: „Manche Lasten werden nicht kleiner, wenn man sie teilt. Sie existieren nur zu zweit statt zu einem." Das Sorokin-Geheimnis bleibt ungeteilt – auch mit Vera, obwohl er einmal kurz davor war.
+
+---
+
+## JAHR 8 (2057) — WAHLJAHR — DIE ÜBERGABE
+
+### 2057-01-22 bis 24 – Sorokin-Leak ⭐⭐⭐
+Spiegel deckt Teile der geheimen Operation von 2056 auf. Regierung hegt die Geschichte ein. Vera erfährt es aus der Presse statt von Jonas, eine Woche vor ihrer Nominierung – erste ernsthafte Vertrauenskrise. In der Aussprache erklärt Jonas seine Logik (glaubhafte Abstreitbarkeit für sie), Vera versteht, verlangt aber künftig gefragt statt nur geschützt zu werden. Vertrauen weitgehend repariert.
+
+### 2057-12-15 – DIE ÜBERGABE ⭐⭐⭐⭐⭐
+Dr. Vera Hoffmann als erste Bundeskanzlerin dieser Ära vereidigt. Kabinett Hoffmann I konstituiert, CDU/CSU+SPD-Koalition nach der Bundestagswahl (September, CDU/CSU 33,8%) fortgeführt. Der Übergabeplan, den Jonas seit September 2052 verfolgt hat, ist vollständig erfüllt. Sein letzter Satz als Kanzler: „Ich habe geführt, damit Führung übergeht. Das war immer der Plan." Er zieht aus dem Kanzler-Bungalow aus in eine Mietwohnung Berlin-Mitte. Das Rowohlt-Buch erscheint im November, Whitmore-Kapitel ungeschönt enthalten. Kanzlerzustimmung bei Amtsende: 76% – der höchste Wert seiner gesamten Kanzlerschaft, zum Abschied.

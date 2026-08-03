@@ -1,15 +1,16 @@
 {
   "party": "CDU",
   "party_wing": "Atlantisch-liberaler Flügel. Gilt parteiintern jetzt als 'starker Kanzler' – das überschreibt die alten Flügeldiskussionen.",
-  "current_office": "Bundeskanzler der Bundesrepublik Deutschland",
+  "current_office": "Altbundeskanzler (außer Amt seit 15.12.2057) – Berater, Publizist",
   "in_office_since": "2050-01-15",
+  "out_of_office_since": "2057-12-15",
   "mandates": [
     { "title": "MdL NRW", "period": "2022–2029", "notes": "Direktmandat ab 2027 (knapper Sieg über Siebert)" },
     { "title": "MdB Bundestag", "period": "2029–2037", "notes": "Über Liste, dann Direktmandat 2033" },
     { "title": "Staatsminister im AA", "period": "2032–2037", "notes": "Transatlantische Beziehungen" },
     { "title": "Bundesaußenminister", "period": "2037–2050", "notes": "12 Jahre, drei Kabinette Kellner" },
     { "title": "Bundeskanzler (Erste Amtszeit)", "period": "2050–2053", "notes": "Kabinett Hartmann I" },
-    { "title": "Bundeskanzler (Zweite Amtszeit)", "period": "2053–2057", "notes": "Kabinett Hartmann II. Vera Hoffmann als Vizekanzlerin. Bewusste Übergabephase." }
+    { "title": "Bundeskanzler (Zweite Amtszeit)", "period": "2053–2057", "notes": "Kabinett Hartmann II. Vera Hoffmann als Vizekanzlerin. Bewusste Übergabephase – planmäßig abgeschlossen." }
   ],
   "metrics": {
     "reputation_national": 81,
@@ -130,7 +131,10 @@
     { "date": "2056-01-16", "event": "Bestätigung: Hardliner verlegen taktische Nuklearsysteme Richtung Kaliningrad, Sorokin öffentlich verstummt. Jonas kontaktiert Sorokin über geheimen Direktkanal (BND, ohne NATO-Partner), bietet nachrichtendienstliche Unterstützung zur Rückgewinnung der Kontrolle an – als rein deutsche, unautorisierte Operation." },
     { "date": "2056-01-16", "event": "Jonas informiert NATO-Rat vage über laufende deutsche Geheimdienstoperation in Russland, bietet im Gegenzug allen europäischen NATO-Partnern Zugang zur Goldenen Kuppel an." },
     { "date": "2056-01-21", "event": "Generalstabschef in Moskau entmachtet, Sorokin öffentlich zurück in Uniform. Nukleare Systeme kehren von Kaliningrad um. Deutsche Beteiligung nie bestätigt, nie bewiesen – Jonas' am besten gehütetes Geheimnis." },
-    { "date": "2057-01-22", "event": "Spiegel-Anfrage zur Sorokin-Operation. Regierungsstellungnahme nutzt Halbwahrheit ('NATO-Partner informiert') plus Erfolgsnarrativ. Presse teilweise eingehegt, Opposition greift wegen fehlender parlamentarischer Kontrolle an. Vera erfährt aus der Presse, nicht von Jonas – eine Woche vor ihrer Kanzlerkandidatur-Nominierung. Erste ernsthafte Vertrauenskrise zwischen ihnen." }
+    { "date": "2057-01-22", "event": "Spiegel-Anfrage zur Sorokin-Operation. Regierungsstellungnahme nutzt Halbwahrheit ('NATO-Partner informiert') plus Erfolgsnarrativ. Presse teilweise eingehegt, Opposition greift wegen fehlender parlamentarischer Kontrolle an. Vera erfährt aus der Presse, nicht von Jonas – eine Woche vor ihrer Kanzlerkandidatur-Nominierung. Erste ernsthafte Vertrauenskrise zwischen ihnen." },
+    { "date": "2057-02-04", "event": "Vera einstimmig als CDU-Kanzlerkandidatin nominiert." },
+    { "date": "2057-09", "event": "Bundestagswahl: CDU/CSU 33,8% stärkste Kraft. SPD 18%, Grüne 16%, AfD 14%, FDP knapp über 5%. Koalition CDU/CSU+SPD fortgeführt." },
+    { "date": "2057-12-15", "event": "Dr. Vera Hoffmann als Bundeskanzlerin vereidigt. Kabinett Hoffmann I konstituiert. Jonas' Übergabeplan von September 2052 vollständig erfüllt." }
   ],
   "jahresabschluss_2050": {
     "satz_des_jahres": "Deutschland führt.",
@@ -181,14 +185,20 @@
     "kanzlerzustimmung_dezember": 74,
     "gesamtbewertung": "Explosiver Winteranfang (Suwałki-Nuklearkrise), dann die ruhigste, stabilste zweite Jahreshälfte seit Amtsantritt. Genf-Prozess mit Russland angestoßen, Goldene Kuppel im Aufbau, Nordkorea-Kanal wiederbelebt, BVerfG-Präzedenzfall gesetzt. Persönlich das Jahr, in dem er ein Geheimnis zu tragen begann, das er mit niemandem teilt – nicht einmal mit Vera."
   },
-  "open_threats_2057": [
-    "Sorokin-Geheimnis – bleibt ungeteilt. Größtes verbleibendes persönliches Risiko der Kanzlerschaft.",
-    "Genf-Prozess – fragiler Fortschritt mit Russland. Ungetestet unter echtem Druck.",
-    "Vera 2057 – Kanzlerkandidatur rückt näher. Wann kommt ihre Zeit wirklich?",
-    "Nordkorea – Kanal reaktiviert, aber was verlangt Pyongyang als Nächstes?",
-    "Liu Hao – Distanz seit der direkten Frage im Januar 2056. Nie geklärt.",
-    "BVerfG-Präzedenzfall – bindet möglicherweise die Hände in der nächsten Krise.",
-    "Taiwan-Karte – weiterhin ungenutztes Machtmittel mit Risiko."
+  "jahresabschluss_2057": {
+    "satz_des_jahres": "Ich habe geführt, damit Führung übergeht. Das war immer der Plan.",
+    "moment_des_jahres": "Veras Vereidigung, ein kurzer Blick zu ihm auf der Tribüne. Er nickt einmal. Sie auch.",
+    "kanzlerzustimmung_bei_amtsende": 76,
+    "gesamtbewertung": "Das Jahr, in dem der fünfjährige Übergabeplan sich erfüllte – trotz eines schweren Vertrauensbruchs mit Vera im Januar (Sorokin-Leak), der repariert werden konnte. Vera als erste Bundeskanzlerin dieser Ära vereidigt. Jonas verlässt das Amt nach eigenem Plan, nicht durch Niederlage – höchste Zustimmungswerte seiner gesamten Kanzlerschaft zum Abschied."
+  },
+  "open_threats_2058": [
+    "Sorokin-Geheimnis – trägt Jonas weiter, jetzt außerhalb des Amtes. Verändertes Risiko als Privatperson.",
+    "Genf-Prozess mit Russland – liegt jetzt bei Vera als Kanzlerin.",
+    "Verhältnis Jonas–Vera als Kanzlerin – neue Dynamik, kein Vorgesetzter mehr, nur Vorgänger.",
+    "Nordkorea – Kanal reaktiviert, was verlangt Pyongyang als Nächstes? Jetzt Veras Entscheidung.",
+    "Liu Hao – Distanz seit Januar 2056, nie geklärt. Auch das jetzt Veras Thema.",
+    "Jonas' neues Leben – Beratung, Publizistik, keine klare Rolle mehr definiert.",
+    "Taiwan-Karte – ungenutztes Machtmittel, jetzt in Veras Händen."
   ],
-  "notes": "Stand: 31. Dezember 2056. Ende Jahr 7, Kabinett Hartmann II Jahr 4."
+  "notes": "Stand: 31. Dezember 2057. Kabinett Hartmann II beendet. Kabinett Hoffmann I konstituiert."
 }

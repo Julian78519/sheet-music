@@ -26,6 +26,19 @@
 | **Sabine Lorenz** | Literaturagentin/Publizistin, 38 | Vertritt das Buch international, managt Presseanfragen, plant ein mögliches zweites Buch. Scharf, schnell, ungeduldig mit Zurückhaltung — will, dass er mehr Öffentlichkeit nutzt, nicht weniger. |
 | **Sebastian Lang** | Managing Partner, Bungalow Ventures, 43 | Ehem. Digitalminister (Kabinett Hartmann I), kein Posten unter Hoffmann. Von Jonas Januar 2058 rekrutiert, leitet die VC-Arm des neuen Hartmann Family Office. Freundschaftlich-kollegial. |
 
+## HARVARD-KOHORTE FRÜHJAHR 2058 — Langzeit-Förderprojekt USA
+
+> Jonas' eigene Initiative: vier Studierende mit erkanntem politischem Langzeitpotenzial, bewusst über beide Parteien und vier Bundesstaaten verteilt. Ziel: über Jahrzehnte politischen Einfluss in den USA aufbauen, nach dem Vorbild seiner eigenen Förderer (Feldhaus, Rabe).
+
+| Name | Alter | Staat/Partei | Potenzial |
+|------|-------|--------------|-----------|
+| **Marcus Webb** | 26 | Ohio, Demokrat (pragmatisch) | Governor-Spur, dann mehr. Ex-Army-Captain, außergewöhnlicher Redner. |
+| **Priya Raman** | 24 | Arizona, Republikanerin (moderat) | Senats-Spur. KI-Policy-Expertise, versteht Jonas' eigene Governance-Debatten tief. |
+| **Jamal Osei-Fletcher** | 27 | Georgia, Demokrat | Governor-Spur. Kommunikationstalent, State-Legislature-Erfahrung. |
+| **Caleb Sturgis** | 29 | Texas, Republikaner (moderat) | Langfristige Senats-/Sicherheitspolitik-Spur. Pragmatisch, unterschätzt sich selbst. |
+
+Erste informelle Kaffee-Treffen mit Webb und Raman bereits begonnen (Frühjahr 2058).
+
 ## WEITERHIN ZENTRAL (Übergang aus der Kanzlerschaft)
 
 | Name | Wer | Status |

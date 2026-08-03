@@ -8,7 +8,7 @@
       "investments_ki_fonds": "€80.000. KI-Infrastrukturfonds Europa. Eingestiegen August 2052 mit €50k, aufgestockt 2054 um €30k nach Kramer-Konsultation. Renditeerwartung 8–12% p.a. Schätzwert Ende 2054: ~€92.000. Post-2057: Offenlegung oder Verkauf geplant.",
       "pension": "Bundeskanzler-Ruhegehalt seit 15.12.2057, zusätzlich Beamtenpension-Anwartschaft aus Ministerzeit. Kombiniert: ~€11.500/Monat, unabhängig von neuen Einkünften.",
       "private_car": "Audi A7, 2047, dunkelblau. Selten gefahren.",
-      "jakob_reserve": "€170.000 earmarked auf separatem Konto. Nicht Jakobs Geld – noch Jonas'. Für nach dem Amt. Jakob weiß es nicht.",
+      "jakob_reserve": "AUSGEZAHLT Januar 2058. €170.000 an Jakob überwiesen, nachdem Jonas ihm erstmals von der Reserve erzählt hat. Kein separates Konto mehr – jetzt Jakobs Geld.",
       "helios_global_vertrag": "Unterschrieben Januar 2058. Chairman, Geopolitical & Strategic Advisory Group. Signing Bonus €3.000.000 (binnen 30 Tagen), Grundgehalt €5.500.000/Jahr, Carry-Beteiligung variabel/unbegrenzt, 3 Jahre Mindestbindung mit anteiliger Rückzahlungsklausel. Akademische Ausnahmeklausel: ein Semester alle zwei Jahre mit Vorabgenehmigung – Harvard Frühjahr 2058 als erste Nutzung bereits freigegeben.",
       "harvard_fellowship": "Distinguished Fellow, Frühjahrssemester 2058. €140.000, genehmigt im Rahmen der Helios-Ausnahmeklausel."
     },
@@ -103,15 +103,19 @@
     "book_status": "ERSCHIENEN November 2057, drei Wochen vor Veras Vereidigung. Whitmore-Kapitel enthalten, ungeschönt. Claire dazu: 'Du hast es endlich fertig geschrieben. Gut.'"
   },
   "gesamtvermoegen_schaetzung": {
-    "liquid": 7062000,
+    "liquid": 5322000,
     "investments_indexfonds": 278000,
     "investments_ki_fonds": 185000,
     "immobilien": 0,
+    "hartmann_family_office": {
+      "bungalow_ventures_initial": 2000000,
+      "status": "Gegründet Januar 2058, noch keine Einzelinvestments getätigt"
+    },
     "rowohlt_ausstehend": 0,
     "helios_laufendes_grundgehalt_pa": 5500000,
     "helios_carry_unbekannt": "variabel, unbegrenzt nach oben, noch nicht realisiert",
-    "jakob_reserve_earmark": 170000,
-    "notes": "Über 7,5 Millionen Gesamtvermögen, Stand Januar 2058 – mehr als das Zehnfache dessen, was er vor der Kanzlerschaft hatte. Buchtantiemen plus Helios-Signing-Bonus haben die Vermögenslage in wenigen Wochen fundamental verändert. Vera hat ihre Bedenken geäußert (Reputationsrisiko), aber nicht interveniert – 'dein Leben jetzt, nicht meins'."
+    "jakob_reserve_earmark": 0,
+    "notes": "Über 7,7 Millionen Gesamtvermögen (liquide + Fondspositionen + Bungalow-Ventures-Zuteilung), Stand Januar 2058. Jakob-Reserve ausgezahlt (nicht mehr Teil des eigenen Vermögens). Hartmann Family Office gegründet: klassische Verwaltung bei Voss, VC-Arm 'Bungalow Ventures' unter Sebastian Lang. Immobiliensuche läuft."
   },
-  "notes": "Stand: Januar 2058. Erste Wochen als Altbundeskanzler bringen den größten finanziellen Sprung seiner gesamten Karriere."
+  "notes": "Stand: Januar 2058. Erste Wochen als Altbundeskanzler bringen den größten finanziellen Sprung seiner gesamten Karriere, plus Gründung des eigenen Family Office."
 }

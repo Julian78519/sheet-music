@@ -24,6 +24,7 @@
 | **Robert Fink** | Büroleiter/Chief of Staff, 41 | Seit 2044 an seiner Seite, erst als Referent im AA, dann im Kanzleramt. Jetzt offiziell Leiter des neuen Privatbüros — koordiniert Helios, Harvard, Presse, Termine. Der Einzige aus der alten Mannschaft, der den Übergang komplett mitgemacht hat. |
 | **Dr. Miriam Voss** | Private Vermögensverwaltung, 49 | Ex-Julius Baer Zürich, seit drei Jahren unabhängig. Von Kramer diskret empfohlen — „die Beste für Diskretion, die ich kenne, und sie schuldet niemandem in Berlin etwas." Verwaltet seit Januar 2058 das gesamte Vermögen inkl. Helios-Einkünfte. |
 | **Sabine Lorenz** | Literaturagentin/Publizistin, 38 | Vertritt das Buch international, managt Presseanfragen, plant ein mögliches zweites Buch. Scharf, schnell, ungeduldig mit Zurückhaltung — will, dass er mehr Öffentlichkeit nutzt, nicht weniger. |
+| **Sebastian Lang** | Managing Partner, Bungalow Ventures, 43 | Ehem. Digitalminister (Kabinett Hartmann I), kein Posten unter Hoffmann. Von Jonas Januar 2058 rekrutiert, leitet die VC-Arm des neuen Hartmann Family Office. Freundschaftlich-kollegial. |
 
 ## WEITERHIN ZENTRAL (Übergang aus der Kanzlerschaft)
 

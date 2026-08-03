@@ -1,0 +1,24 @@
+{
+  "entity_formal": "Hartmann Family Office",
+  "gegruendet": "Januar 2058",
+  "struktur": "Ausschließlich Eigenkapital (Jonas/Familie) – keine externen Investoren/LPs, um Helios-Exklusivitätsklausel nicht zu verletzen. Von Helios-Kanzlei geprüft und freigegeben.",
+  "bereiche": {
+    "klassische_vermoegensverwaltung": {
+      "verantwortlich": "Dr. Miriam Voss",
+      "strategie": "Ein-Drittel-Modell: konservativ absichern / wachstumsorientiert (u.a. KI-Fonds-Ausbau) / frei verfügbar für Immobilien, Lifestyle, was sich 'wie eigenes Geld anfühlt, nicht nur Kapital'."
+    },
+    "venture_capital_arm": {
+      "marke": "Bungalow Ventures",
+      "managing_partner": "Sebastian Lang",
+      "lang_background": "Ehem. Bundesminister für Digitales & Technologie (Kabinett Hartmann I), KI-Security-Gründer vor dem Amt. Kein Posten in Kabinett Hoffmann I nach der Umbildung Dezember 2057. Von Jonas rekrutiert Januar 2058.",
+      "initial_kapital": 2000000,
+      "fokus": "Noch nicht festgelegt – erste Sondierung mit Lang steht aus. Naheliegend: KI-Infrastruktur, Cybersicherheit, DeepTech Europa, gegeben Langs und Jonas' gemeinsame Historie.",
+      "status": "Gegründet, noch keine Investments getätigt."
+    },
+    "immobilien": {
+      "status": "Suchauftrag an Voss erteilt, Januar 2058",
+      "praeferenzen": "Noch unklar – Jonas denkt an 'ein Haus am Wasser, irgendwo, das niemand Dienstresidenz nennen würde.' Kein konkretes Objekt."
+    }
+  },
+  "notes": "Neue Struktur, ergänzt career.json (Helios) und staff_privat.json (Voss/Fink/Lorenz). Sebastian Lang ist neu im Team, noch nicht in staff_privat.json eingetragen – bei Bedarf ergänzen."
+}

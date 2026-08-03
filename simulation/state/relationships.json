@@ -30,9 +30,9 @@
     "born": "2028-03-22",
     "profession": "Video-Magazin, ~900k Abonnenten. Öffentlicher Intellektueller in eigener Rolle.",
     "lives": "Eigene Wohnung, Köln-Ehrenfeld",
-    "relationship_score": 92,
+    "relationship_score": 94,
     "trust": "fest, gewachsen, gegenseitig",
-    "notes": "Plant eigenes Interview über 2054 – über Kosten von Führung, nicht über Jonas direkt. Hat Jonas informiert, nicht um Erlaubnis gefragt. Silvester 2054: kleine Runde im Bungalow mit Vera und Kramer. Stand am Fenster neben seinem Vater. Hat nichts gesagt. Hat nichts sagen müssen. Beziehung: die beste die sie je hatten.",
+    "notes": "Plant eigenes Interview über 2054 – über Kosten von Führung, nicht über Jonas direkt. Hat Jonas informiert, nicht um Erlaubnis gefragt. Silvester 2054: kleine Runde im Bungalow mit Vera und Kramer. Stand am Fenster neben seinem Vater. Hat nichts gesagt. Hat nichts sagen müssen. Beziehung: die beste die sie je hatten. JANUAR 2058: Jonas erzählt ihm erstmals von der seit 2050 heimlich angelegten Jakob-Reserve (€170.000) und überweist sie. Jakob: 'Du hättest es mir sagen können.' Nimmt es an, ohne große Geste: 'Das ändert nichts daran, wie ich über dich denke. Das wusste ich schon vorher.'",
     "current_dynamic": "Gleichwertig – fast. Jakob stellt die schärferen Fragen. Jonas antwortet ehrlicher als er es bei jedem anderen tut."
   },
   "family": [
@@ -191,6 +191,13 @@
       "age": 58,
       "relationship_score": 65,
       "notes": "Hat die Fellowship eingefädelt, kennt Jonas vage aus dem Executive Program 2030. Erwartet echte Lehre, keine Prominenten-Gastauftritte."
+    },
+    {
+      "name": "Sebastian Lang",
+      "role": "Managing Partner, Bungalow Ventures",
+      "age": 43,
+      "relationship_score": 68,
+      "notes": "Ehem. Digitalminister, kein Posten unter Hoffmann. Von Jonas Januar 2058 als VC-Partner rekrutiert. Freundschaftlich-kollegial, kennt sich aus dem Kabinett."
     }
   ],
   "notes": "Stand: Januar 2058. Neue Sektion 'helios_und_neues_leben' ergänzt für die Post-Amt-Ära. Politische Kontakte (cabinet_key, rivals, international) bleiben vollständig erhalten, Stand weiterhin 31. Dezember 2054/2057 je nach Eintrag."

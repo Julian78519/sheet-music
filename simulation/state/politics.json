@@ -17,11 +17,13 @@
     "media_sentiment_national": 73,
     "media_sentiment_international": 91,
     "party_internal_standing": 83,
-    "coalition_stability": 81,
+    "coalition_stability": 74,
     "kanzlerzustimmung_dez_2052": 63,
     "kanzlerzustimmung_dez_2053": 61,
     "kanzlerzustimmung_dez_2054": 68,
-    "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht."
+    "kanzlerzustimmung_jan_2055": 79,
+    "reputation_international_jan_2055": 97,
+    "notes": "National: Nordkorea polarisiert – er steht dazu, kein Rückzieher. Frankreich-Konfrontation gewinnt beim Wahlvolk. ARD-Jahresinterview 8,4 Millionen Zuschauer. International: Taiwan-Karte. Nordkorea-Deeskalation. Frankreich vor EU und UN isoliert. Hoffmann-Rahmen EU-Standard. Deutschland ist die unverzichtbare europäische Macht. Januar 2055: Kaliningrad-Krise treibt Zustimmung auf Kriegsreflex-Hoch (79%), als fragil eingeschätzt. Koalitionsstabilität sinkt wegen Kriegskosten-Streit mit Schulze/Fraktion."
   },
   "kanzler_doktrin": "Deutschland führt. Und stellt sicher, dass Führung übergeht.",
   "succession_plan": {
@@ -83,6 +85,9 @@
     "russia": "Direktkanal zu Sorokin geöffnet. Stabiler als 2052. Vera formuliert, Jonas zeichnet ab.",
     "africa": "Berliner Afrika-Pakt. 11 Länder. Erste systematische Strategie."
   },
+  "leitprojekte_2055": {
+    "kaliningrad_krise": "5. Januar 2055: Koordinierter russischer Angriff auf Bundeswehr-Standorte Grafenwöhr/Trollenhagen, 19 Tote. Deutscher Gegenschlag gegen Abschussposition Kaliningrad. Sorokin-Angebot (Entschädigung + Anerkennung, kein öffentliches Wort) von Jonas abgelehnt. Zweiter, härterer Schlag. Russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke, 2 weitere Zivil-Tote. Seither eingefrorener Hybridkonflikt ohne Formel. NATO: keine Artikel-5-Berufung, aber historische Verschärfung Artikel 4 mit dauerhafter Ostflanken-Verstärkung."
+  },
   "career_defining_moments": [
     { "date": "2023-03-14", "event": "Breitband-Ausschuss – erste nationale Aufmerksamkeit" },
     { "date": "2027-04-25", "event": "NRW-Direktmandat gewonnen – 51,3% vs. Siebert 48,7%." },
@@ -105,7 +110,13 @@
     { "date": "2053-09-28", "event": "Bundestagswahl. Zweite Amtszeit gesichert. CDU/CSU stärkste Kraft. Kabinett Hartmann II." },
     { "date": "2054-10-14", "event": "Nordkorea-Nukleartest. Jonas droht öffentlich mit hybridem Militärangriff auf Atomanlagen. Weltweit erste derartige Drohung eines deutschen Kanzlers. USA koordiniert." },
     { "date": "2054-10-29", "event": "Taiwan-Karte. Anruf Liu Hao: Neutralitätssignal wird zurückgezogen wenn China nicht handelt. China liefert. Nordkorea stoppt. Historische Verschiebung." },
-    { "date": "2054-12-01", "event": "Élysée-Konfrontation. DGSE-Abhörskandal. Jonas verlässt das Gespräch, gibt Pressstatement, geht zu EU und UN. Frankreich isoliert." }
+    { "date": "2054-12-01", "event": "Élysée-Konfrontation. DGSE-Abhörskandal. Jonas verlässt das Gespräch, gibt Pressstatement, geht zu EU und UN. Frankreich isoliert." },
+    { "date": "2055-01-02", "event": "Koordinierter russischer Marschflugkörperangriff auf Grafenwöhr und Trollenhagen. 19 Tote. Erster Angriff auf deutschem Boden seit 1945." },
+    { "date": "2055-01-02", "event": "Jonas ordnet Bundeswehr-Gegenschlag gegen Abschussposition Kaliningrad an – erster deutscher Angriff auf russisches Territorium seit 1945." },
+    { "date": "2055-01-03", "event": "Sorokin-Kanal bietet Deeskalation gegen Entschädigung + inoffizielle Anerkennung als unautorisierte Handlung. Jonas lehnt als unzureichend ab (kein öffentliches Wort, keine Bundestag-Rede) – 48-Stunden-Ultimatum." },
+    { "date": "2055-01-04", "event": "Zweiter, härterer Bundeswehr-Schlag gegen Kaliningrad-Infrastruktur nach abgelaufenem Ultimatum." },
+    { "date": "2055-01-05", "event": "Russische Vergeltung: Drohnen- und Cyberangriff auf Umspannwerke Brandenburg/Sachsen. 2 weitere Zivil-Tote. Sorokin-Kanal seither tot." },
+    { "date": "2055-01-19", "event": "Kaliningrad-Konflikt friert ein – kein weiterer Schlagwechsel, keine Formel. NATO verstärkt Ostflanke dauerhaft ohne Artikel-5-Berufung." }
   ],
   "jahresabschluss_2050": {
     "satz_des_jahres": "Deutschland führt.",

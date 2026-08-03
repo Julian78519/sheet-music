@@ -1,60 +1,40 @@
 {
-  "current_date": "2046-09-15",
+  "current_date": "2055-01-19",
   "location": {
     "primary": "Berlin",
     "country": "Deutschland"
   },
   "germany": {
-    "chancellor": "Thomas Kellner (CDU)",
-    "chancellor_age": 53,
-    "coalition": "CDU/CSU + FDP + Freie Wähler",
-    "coalition_status": "Drittes Kellner-Kabinett, 8 Monate alt. Stabile Mehrheit, aber FDP poltert wegen Haushalt.",
-    "bundestag_composition": {
-      "CDU_CSU": "31%",
-      "SPD": "19%",
-      "Gruene": "14%",
-      "FDP": "9%",
-      "AfD": "16%",
-      "Linke_BSW_Nachfolger": "8%",
-      "Sonstige": "3%",
-      "notes": "AfD nach Hochpunkt 2028 (33%) durch Spaltung und CDU-Kurswechsel auf 16% gefallen. Stabil aber nicht bedeutungslos."
-    },
-    "nrw": {
-      "minister_president": "Dr. Carolin Siebert (CDU)",
-      "coalition": "CDU + SPD",
-      "notes": "Ja – dieselbe Siebert. Hat Jonas 2027 die Direktkandidatur verloren, war 2031 zurück, heute Ministerpräsidentin. Verhältnis zu Jonas: eisig-professionell."
-    },
-    "hot_topics_sept_2046": [
-      "KI-Governance Weltgipfel Berlin (Oktober 2046) – Jonas federführend",
-      "Haushaltskrise: FDP vs. CDU über Verteidigungsausgaben NATO 5%",
-      "Demografischer Kollaps: Rentenalter 70 Debatte",
-      "Energieunion EU: Stockende Verhandlungen mit Polen und Ungarn",
-      "Jakobs Geburtstag war im März – Jonas war in Seoul"
+    "chancellor": "Jonas Hartmann (CDU)",
+    "chancellor_age": 57,
+    "vizekanzlerin": "Dr. Vera Hoffmann (CDU)",
+    "coalition": "CDU/CSU + SPD (Kabinett Hartmann II)",
+    "coalition_status": "Unter Belastungstest durch Kriegskosten. Nachtragshaushalt für Wiederaufbau/Verteidigung verhandelt – Koalition hält, aber Fraktionsvorsitzender Schulze verlangt erstmals eigenständige Mitsprache. FDP nicht Teil der Regierung.",
+    "hot_topics_jan_2055": [
+      "Kaliningrad-Krise / Angriff auf deutschem Boden (5. Januar 2055) – dominiert alles andere",
+      "Nachtragshaushalt Wiederaufbau + Verteidigung",
+      "NATO-Ostflanken-Verstärkung dauerhaft beschlossen",
+      "Berger-Verfahren auf März verschoben",
+      "Siebert meldet sich erstmals seit Jahren öffentlich – staatstragend loyal"
     ]
   },
   "usa": {
-    "president": "Claire Whitmore (Demokratin)",
-    "term": "Zweite Amtszeit, seit Januar 2045",
-    "approval_rating": "47% (unter Druck wegen Inlandspolitik)",
-    "key_issues": "KI-Regulierung, China-Strategie, NATO-Lastenteilung, Inland: Gesundheitssystem-Reform",
-    "whitmore_hartmann": "Weiterhin regelmäßiger direkter Austausch. Letztes Treffen: G20 Mumbai, August 2046.",
-    "us_congress": "Senat knapp demokratisch, Repräsentantenhaus republikanisch – Whitmore kämpft innenpolitisch."
+    "president": "Präsidentin Owens (Nachfolgerin Whitmores)",
+    "whitmore_status": "Claire Whitmore nicht mehr im Amt. Persönlicher Kanal zu Jonas: still seit Wochen.",
+    "owens_hartmann": "Professionelle Arbeitsbeziehung, keine enge Freundschaft wie mit Whitmore. Owens stützt NATO-Solidarität, warnt aber offen: 'Das darf nicht der neue Normalzustand werden.'"
+  },
+  "russia_conflict_2055": {
+    "status": "Eingefrorener Hybridkonflikt seit 5. Januar 2055 – kein erklärter Krieg, keine Waffenstillstandsformel.",
+    "timeline": "Koordinierter Marschflugkörperangriff auf Bundeswehr-Standorte Grafenwöhr und Trollenhagen (5. Jan, 19 Tote) + parallele Vorfälle Polen/Baltikum → deutscher Gegenschlag gegen Abschussposition Kaliningrad (5. Jan) → Sorokin-Kanal bietet Deeskalation gegen Entschädigung/Anerkennung, kein öffentliches Wort, keine Bundestag-Rede → Angebot von Jonas als unzureichend abgelehnt → zweiter, härterer Bundeswehr-Schlag gegen Restinfrastruktur → russische Vergeltung: Drohnen/Cyberangriff auf Umspannwerke Brandenburg/Sachsen, 2 weitere Zivil-Tote → seither kein offener Schlagwechsel, aber auch keine Formel. Zustand ähnlich dem eingefrorenen Ukraine-Konflikt seit 2031.",
+    "nato_response": "Kein Artikel 5, aber historische Verschärfung Artikel 4: dauerhafte Ostflanken-Verstärkung, zusätzliche US-/UK-Staffeln in Deutschland und Polen, permanente Luftraumüberwachung.",
+    "sorokin_channel": "Toter Kanal seit 5. Januar. Geheimdienstberichte: interner Machtkampf in Moskau zwischen Deeskalations- und Hardliner-Fraktion, Ausgang offen.",
+    "domestic_cost": "19 Tote (Militär) + 2 Zivile durch Vergeltungsschläge. Nachtragshaushalt für Wiederaufbau/Verteidigung. Kanzlerzustimmung kurzfristig auf 79% (Kriegsreflex, als fragil eingeschätzt)."
   },
   "international": {
-    "ukraine": "Eingefrorener Konflikt seit 2031. Waffenstillstandslinie = neue Grenze de facto. EU-Mitgliedschaft Ukraine läuft 2047 formal an.",
-    "china": "Strategische Entkopplung weitgehend vollzogen. Taiwan: Eingefrorene Spannung seit 2036-Krise. Direktes Militär-Hotline Berlin-Peking-Washington seit 2037 (Jonas-Initiative).",
-    "taiwan": "Autonomie de facto gesichert nach 2036-Krise. China hat 'One Country Two Systems Plus' akzeptiert – Gesichtswahrung für Peking, Freiheit für Taipei.",
-    "middle_east": "Israel-Arabien-Normalisierung 2039 (Jonas war Vermittler). Fragiler Frieden.",
-    "africa": "Deutsche Entwicklungspolitik neu ausgerichtet seit 2038 – Investitionen statt Hilfe. Umstritten, aber wirksam.",
-    "AI_governance": "Das Thema 2046. Erster globaler KI-Vertrag in Verhandlung. Berlin als Verhandlungsort – Jonas' größte Wette.",
-    "climate": "Netto-null Europa 2043 erreicht (offiziell). Reale Emissionen -67% vs. 1990. Anpassungskosten dominieren Agenda.",
-    "nato": "5%-BIP-Ziel seit 2039 alle Mitglieder. Deutschland 5,2%. Jonas' NATO-Verteidigungsrahmen 2040 gilt als Fundament."
+    "france": "Beaumont nutzt die Krise zur Annäherung – bietet konkrete militärische Unterstützung der Ostflanke an. DGSE-Affäre tritt in den Hintergrund.",
+    "china": "Bleibt auffällig neutral zu Russland. Signalisiert über KI-Kanal, dass UN-Sicherheitsrat-Frage 'durch aktuelle Ereignisse nicht einfacher wird.'",
+    "un_security_council": "Kandidatur eingereicht, Abstimmung 2055 – jetzt zusätzlich überschattet vom Kaliningrad-Konflikt.",
+    "sanctions": "Schärfstes G7/EU-Sanktionspaket gegen Russland seit 2031 beschlossen."
   },
-  "technology_2046": {
-    "AI": "Allgemeine KI-Systeme (AGI-Vorläufer) im Einsatz. Regulierung hinkt hinterher. Größte geopolitische Machtfrage der Dekade.",
-    "energy": "80% erneuerbar in Deutschland. Fusionsenergie: erste kommerzielle Pilotanlage läuft in Frankreich.",
-    "space": "Erste permanente Mondstation (USA-EU-Japan, 2043). China eigene Basis 2044.",
-    "biotech": "Langlebigkeitsmedizin verändert Demografie-Debatten."
-  },
-  "notes": "Stand: 15. September 2046. KI-Gipfel in 6 Wochen ist die dominierende Agenda."
+  "notes": "Stand: 19. Januar 2055. Kaliningrad-Krise dominiert den Jahresanfang. Dieses File war zuvor veraltet (Stand 2046/Kellner) und wurde jetzt auf den aktuellen Stand gebracht."
 }

@@ -78,3 +78,10 @@ Handelspakt. NATO-Rahmen. China-Abkommen.
 
 ### ~ 2046 – Simulationsendpunkt Branch ㉒
 Bundesaußenminister. 48 Jahre. Die Welt kennt seinen Namen.
+
+---
+
+## JAHR 6 (2055) — KABINETT HARTMANN II, JAHR 3
+
+### 2055-01-05 – Kaliningrad-Krise ⭐⭐⭐⭐ „Krieg auf deutschem Boden"
+Erster Angriff auf deutschem Boden seit 1945: koordinierter russischer Marschflugkörperschlag auf Grafenwöhr und Trollenhagen, 19 Tote. Jonas ordnet noch in der Nacht einen Bundeswehr-Gegenschlag gegen die Abschussposition bei Kaliningrad an – erster deutscher Angriff auf russisches Territorium seit 1945. Sorokin bietet über den Ankara-Kanal Deeskalation gegen Entschädigung und inoffizielle Anerkennung an – kein öffentliches Wort, keine Bundestag-Rede. Jonas lehnt als unzureichend ab, setzt ein 48-Stunden-Ultimatum. Ein zweiter, härterer Schlag folgt nach Fristablauf. Russische Vergeltung: Drohnen- und Cyberangriff auf Umspannwerke Brandenburg/Sachsen, zwei weitere zivile Tote. Der Konflikt friert danach ein – kein Waffenstillstand, keine Formel, ähnlich dem eingefrorenen Ukraine-Konflikt seit 2031. NATO verstärkt die Ostflanke dauerhaft, ohne Artikel 5 zu berufen. Kanzlerzustimmung schnellt auf 79%, als fragil eingeschätzt.

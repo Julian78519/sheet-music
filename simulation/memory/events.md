@@ -76,5 +76,32 @@ Letztes Treffen mit Whitmore vor dem KI-Gipfel. Vier Stunden, wie immer kein Pro
 
 ---
 
-## 2046-09-15 – SIMULATIONSGEGENWART
+## 2046-09-15 – (historisch, Branch ㉒-Zwischenstand)
 KI-Governance-Gipfel Berlin: 6 Wochen. Jakob beginnt Studium: 2 Wochen. Kellner-Koalition: wackelt. Siebert: greift an. Tanner: wartet.
+
+---
+
+## JAHR 6 (2055)
+
+## 2055-01-02 – Angriff auf deutschem Boden ⭐⭐⭐⭐
+02:47 Uhr: Koordinierter Marschflugkörperangriff auf Bundeswehr-Logistikknoten Grafenwöhr und Trollenhagen, 19 Tote, 2 Schwerverletzte. Parallel Vorfälle in Polen/Baltikum. Signaturanalyse: russische Systeme, Startposition Kaliningrad. Jonas hält noch in der Nacht eine öffentliche Ansprache – hart, ohne Russland namentlich zu nennen. NATO-Rat einigt sich auf Artikel-4-Konsultation statt Artikel 5. Bundeswehr fliegt mittags einen ersten Präzisionsschlag gegen die Abschussposition – erster deutscher Angriff auf russisches Territorium seit 1945.
+
+## 2055-01-03 – Sorokin-Angebot & Ultimatum
+Sorokin-Kanal (Ankara) bietet Deeskalation: verifizierbarer Truppenrückzug, Entschädigung, inoffizielle Anerkennung als unautorisierte Handlung – aber kein öffentliches Wort, keine Bundestag-Rede. Jonas fordert alle vier Punkte offiziell, setzt 48-Stunden-Ultimatum. Antwort nach 14 Stunden: Rückzug ja, Zahlung nur inoffiziell, keine öffentliche Erklärung. Jonas lehnt ab.
+
+## 2055-01-03 (Abend) – Offizielles Angebot, letzte Frist
+Russische Botschaft Berlin legt kurz vor Fristablauf offizielles Angebot vor: staatlich zugeordnete Entschädigungszahlung, förmliche diplomatische Note als „nicht autorisierte Handlung" – aber kein Wort „Entschuldigung", keine Bundestag-Reise. Jonas lehnt ab, ordnet zweiten Schlag an.
+
+## 2055-01-04 – Zweiter Bundeswehr-Schlag
+Größerer, koordinierter Angriff auf Radar, Kommandoposten und Restlogistik der Einheit bei Kaliningrad. Höhere russische Verluste. Ankara-Kanal und Botschaft verstummen.
+
+## 2055-01-05 – Russische Vergeltung
+Drohnenschwarm und Cyberangriff treffen Umspannwerke in Brandenburg und Sachsen, dazu Bahnnetz-Sabotage. Zwei zivile Tote. Der Konflikt friert danach ein – kein weiterer offener Schlagwechsel, keine Formel.
+
+## 2055-01-05 bis 2055-01-19 – Einfrieren des Konflikts
+NATO verstärkt Ostflanke dauerhaft (US-/UK-Staffeln, permanente Luftraumüberwachung) ohne Artikel-5-Berufung. G7/EU beschließen schärfstes Russland-Sanktionspaket seit 2031. Frankreich (Beaumont) nutzt die Krise zur Annäherung, bietet Militärhilfe an. Kanzlerzustimmung auf 79% (Kriegsreflex). FDP-Fraktion droht kurz mit Koalitionsbruch wegen Kriegskosten, Nachtragshaushalt verhandelt. Berger-Verfahren auf März verschoben. Siebert meldet sich erstmals seit Jahren staatstragend zu Wort. Sorokin-Kanal bleibt tot – Geheimdienste berichten internen Machtkampf in Moskau.
+
+---
+
+## 2055-01-19 – SIMULATIONSGEGENWART
+Kaliningrad-Krise eingefroren. Politblock Jahr 6 wird mit dem Krieg als neuem Rahmen fortgesetzt.

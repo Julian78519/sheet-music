@@ -123,7 +123,12 @@
     { "date": "2055-01-03", "event": "Sorokin-Kanal bietet Deeskalation gegen Entschädigung + inoffizielle Anerkennung als unautorisierte Handlung. Jonas lehnt als unzureichend ab (kein öffentliches Wort, keine Bundestag-Rede) – 48-Stunden-Ultimatum." },
     { "date": "2055-01-04", "event": "Zweiter, härterer Bundeswehr-Schlag gegen Kaliningrad-Infrastruktur nach abgelaufenem Ultimatum." },
     { "date": "2055-01-05", "event": "Russische Vergeltung: Drohnen- und Cyberangriff auf Umspannwerke Brandenburg/Sachsen. 2 weitere Zivil-Tote. Sorokin-Kanal seither tot." },
-    { "date": "2055-01-19", "event": "Kaliningrad-Konflikt friert ein – kein weiterer Schlagwechsel, keine Formel. NATO verstärkt Ostflanke dauerhaft ohne Artikel-5-Berufung." }
+    { "date": "2055-01-19", "event": "Kaliningrad-Konflikt friert ein – kein weiterer Schlagwechsel, keine Formel. NATO verstärkt Ostflanke dauerhaft ohne Artikel-5-Berufung." },
+    { "date": "2056-01-02", "event": "Suwałki-Krise: Hardliner-Fraktion übernimmt Generalstab in Moskau, verstärkt Truppen an der Suwałki-Lücke. Jonas kündigt 'Goldene Kuppel' als europäisches Raketenabwehrsystem an, bietet USA Vollintegration gegen Technologietransfer an." },
+    { "date": "2056-01-02", "event": "NATO beschließt größte Truppenverlegung seit 2028 an die Ostflanke. Jonas zieht eigenen Vorschlag für explizite Erstschlag-Doktrin zurück, überzeugt von Owens' Warnung vor Eskalation gegenüber unberechenbarer neuer Kremlführung." },
+    { "date": "2056-01-16", "event": "Bestätigung: Hardliner verlegen taktische Nuklearsysteme Richtung Kaliningrad, Sorokin öffentlich verstummt. Jonas kontaktiert Sorokin über geheimen Direktkanal (BND, ohne NATO-Partner), bietet nachrichtendienstliche Unterstützung zur Rückgewinnung der Kontrolle an – als rein deutsche, unautorisierte Operation." },
+    { "date": "2056-01-16", "event": "Jonas informiert NATO-Rat vage über laufende deutsche Geheimdienstoperation in Russland, bietet im Gegenzug allen europäischen NATO-Partnern Zugang zur Goldenen Kuppel an." },
+    { "date": "2056-01-21", "event": "Generalstabschef in Moskau entmachtet, Sorokin öffentlich zurück in Uniform. Nukleare Systeme kehren von Kaliningrad um. Deutsche Beteiligung nie bestätigt, nie bewiesen – Jonas' am besten gehütetes Geheimnis." }
   ],
   "jahresabschluss_2050": {
     "satz_des_jahres": "Deutschland führt.",
@@ -154,6 +159,10 @@
     "moment_des_jahres": "29. Oktober 2054. Liu Hao-Anruf. Die Taiwan-Karte. Jonas legt auf und sitzt eine Minute still.",
     "kanzlerzustimmung_dezember": 68,
     "gesamtbewertung": "Das stärkste Jahr. Auch das kostbarste. Nordkorea. Taiwan-Karte. Frankreich isoliert. Der Preis: das Whitmore-Kapitel, der Kanal nach Pyongyang, ein Jahr das niemand vergisst – auch er nicht."
+  },
+  "leitprojekte_2056": {
+    "suwalki_nuklear_krise": "Januar 2056: Hardliner-Fraktion übernimmt Moskauer Generalstab, Truppenaufmarsch Suwałki-Lücke, dann Verlegung taktischer Nuklearsysteme Richtung Kaliningrad. Größte NATO-Ostflankenverstärkung seit 2028. Jonas verzichtet auf explizite Erstschlag-Drohung (Owens' Rat folgend). Geheime, rein deutsche BND-Operation über alten Sorokin-Kanal – Angebot nachrichtendienstlicher Unterstützung gegen Rückzug der Nuklearsysteme. Fünf Tage später: Generalstabschef entmachtet, Systeme kehren um, Sorokin wieder öffentlich sichtbar. Deutsche Beteiligung nie offiziell bestätigt.",
+    "goldene_kuppel": "Europäisches Raketenabwehrsystem (Hyperschall + teilnukleare Abwehr), aus deutschem System heraus entwickelt. USA-Vollintegration angeboten und akzeptiert (Owens: Technologietransfer gegen geteilte Kontrolle). Allen europäischen NATO-Partnern zugänglich gemacht als Gegenleistung für ihr Vertrauen während der Geheimdienstoperation."
   },
   "jahresabschluss_2055": {
     "satz_des_jahres": "Ich habe nachgeladen, während alle dachten, ich hätte aufgehört zu zielen.",

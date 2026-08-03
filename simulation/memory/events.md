@@ -131,5 +131,19 @@ Kanzlerzustimmung 71%. Härtestes Jahr der Kanzlerschaft – Kaliningrad prägt 
 
 ---
 
-## 2055-12-31 – SIMULATIONSGEGENWART
-Jahr 6 abgeschlossen. Jahr 7 (2056) beginnt im Schatten der Moskauer Hardliner-Fraktion.
+## 2055-12-31 – Jahr 6 abgeschlossen
+Jahr 7 (2056) beginnt im Schatten der Moskauer Hardliner-Fraktion.
+
+## 2056-01-02 – Suwałki-Krise beginnt
+Hardliner übernehmen Moskauer Generalstab, verlegen Truppen an die Suwałki-Lücke. Jonas kündigt „Goldene Kuppel" als europäisches Raketenabwehrsystem an, bietet Owens Vollintegration gegen US-Technologietransfer an. NATO beschließt größte Ostflankenverstärkung seit 2028 plus gemeinsame Warnung. Jonas zieht eigenen Vorschlag einer expliziten Erstschlag-Doktrin zurück – erste große Krisenentscheidung ohne die härteste Option.
+
+## 2056-01-16 – Nukleare Eskalation & geheime Gegenoperation
+Bestätigung: Hardliner verlegen taktische Nuklearsysteme Richtung Kaliningrad, Sorokin verstummt öffentlich. Jonas kontaktiert Sorokin über geheimen BND-Direktkanal (2054), bietet nachrichtendienstliche Unterstützung zur Rückgewinnung der Kontrolle an – rein deutsche, unautorisierte Operation, keine Partner informiert. Informiert NATO-Rat vage über laufende Operation, öffnet im Gegenzug die Goldene Kuppel für alle europäischen Partner.
+
+## 2056-01-21 – Auflösung
+Generalstabschef in Moskau entmachtet, Sorokin wieder öffentlich in Uniform. Nukleare Systeme kehren von Kaliningrad um. Letzte Nachricht über den alten Kanal: „Es gab kein Angebot. Es gab auch keine Ablehnung." Deutsche Beteiligung nie bestätigt. Jonas' am besten gehütetes Geheimnis.
+
+---
+
+## 2056-01-21 – SIMULATIONSGEGENWART
+Suwałki-Nuklearkrise informell gelöst. Kaliningrad-Konflikt insgesamt bleibt eingefroren, Lage beruhigt sich.

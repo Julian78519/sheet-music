@@ -1,5 +1,5 @@
 {
-  "current_date": "2055-12-31",
+  "current_date": "2056-01-21",
   "location": {
     "primary": "Berlin",
     "country": "Deutschland"
@@ -37,5 +37,11 @@
     "un_security_council": "Kandidatur eingereicht, Abstimmung 2055 – jetzt zusätzlich überschattet vom Kaliningrad-Konflikt.",
     "sanctions": "Schärfstes G7/EU-Sanktionspaket gegen Russland seit 2031 beschlossen."
   },
-  "notes": "Stand: 31. Dezember 2055. Ende Jahr 6, Kabinett Hartmann II Jahr 3. Kaliningrad-Krise prägt das gesamte Jahr, bleibt eingefroren aber ungelöst in Jahr 7."
+  "suwalki_nuklear_krise_2056": {
+    "status": "GELÖST (informell) – Januar 2056",
+    "verlauf": "Hardliner-Fraktion übernimmt Moskauer Generalstab, Truppenaufmarsch Suwałki-Lücke, dann Verlegung taktischer Nuklearsysteme Richtung Kaliningrad. NATO beschließt größte Ostflankenverstärkung seit 2028 plus gemeinsame Warnung – Jonas verzichtet auf explizite Erstschlag-Doktrin nach Owens' Einwand. Parallel: geheime, rein deutsche BND-Operation über alten Sorokin-Kanal, Angebot nachrichtendienstlicher Unterstützung gegen Rückzug der Systeme. Fünf Tage später: Generalstabschef entmachtet, Sorokin wieder öffentlich sichtbar, Nuklearsysteme kehren um. Deutsche Beteiligung nie bestätigt, nie bewiesen.",
+    "goldene_kuppel": "Europäisches Raketenabwehrsystem, aus deutschem System entwickelt. USA-Vollintegration (Technologietransfer gegen geteilte Kontrolle) und Öffnung für alle europäischen NATO-Partner beschlossen.",
+    "geheimnis": "Nur Jonas und BND-Präsidentin Reiner wissen von der Operation. Nicht Vera, nicht Owens, nicht der NATO-Rat."
+  },
+  "notes": "Stand: 21. Januar 2056. Suwałki-Nuklearkrise informell gelöst. Kaliningrad-Konflikt insgesamt bleibt eingefroren, aber die Lage hat sich beruhigt."
 }

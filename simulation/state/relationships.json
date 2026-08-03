@@ -149,5 +149,49 @@
       "notes": "Im Ruhestand. Mori trägt die Brücke. Tanaka hat Pjöngjang-Besuch kommentiert: 'Der Kanzler der hingeht wenn andere zögern.' Hat 2054 Nordkorea-Deeskalation in einem Gastbeitrag der Nikkei kommentiert. Namentlich erwähnt Jonas nicht – aber das war Lob."
     }
   ],
-  "notes": "Stand: 31. Dezember 2054. Ende Jahr 5, Kabinett Hartmann II Jahr 2."
+  "helios_und_neues_leben": [
+    {
+      "name": "Wei-Ling Tan",
+      "role": "Founder & Group CEO, Helios Global",
+      "age": 54,
+      "relationship_score": 62,
+      "notes": "Hat Jonas persönlich rekrutiert, Januar 2058. Direkt, transaktional, respektiert seinen Marktwert als Netzwerk und Legitimität. Beziehung noch jung – erstes echtes Arbeitsverhältnis steht mit dem ersten Quartalstreffen bevor."
+    },
+    {
+      "name": "James Okafor",
+      "role": "Head of Geopolitical Risk Advisory, Helios Global",
+      "age": 46,
+      "relationship_score": 40,
+      "notes": "Hat den Bereich zwölf Jahre aufgebaut, sieht Jonas' Ankunft als Chairman mit offenem Argwohn. Kompetent, ehrgeizig. Rivale oder Verbündeter – noch offen."
+    },
+    {
+      "name": "Robert Fink",
+      "role": "Büroleiter/Chief of Staff, Privatbüro Hartmann",
+      "age": 41,
+      "relationship_score": 88,
+      "notes": "Seit 2044 an seiner Seite. Einziger aus der alten Kanzleramts-Mannschaft, der komplett in die Post-Amt-Ära mitgewechselt ist. Loyal, lernt schnell."
+    },
+    {
+      "name": "Dr. Miriam Voss",
+      "role": "Private Vermögensverwaltung",
+      "age": 49,
+      "relationship_score": 55,
+      "notes": "Von Kramer empfohlen, ex-Julius Baer. Verwaltet seit Januar 2058 das Gesamtvermögen. Professionell-distanziert, Zusammenarbeit noch jung."
+    },
+    {
+      "name": "Sabine Lorenz",
+      "role": "Literaturagentin/Publizistin",
+      "age": 38,
+      "relationship_score": 60,
+      "notes": "Vertritt das Buch international. Scharf, ungeduldig mit seiner Zurückhaltung – will mehr Öffentlichkeit, nicht weniger. Erste Reibung absehbar wegen Helios-Kommunikation."
+    },
+    {
+      "name": "Dean Margaret Chen",
+      "role": "Dean, Harvard Kennedy School",
+      "age": 58,
+      "relationship_score": 65,
+      "notes": "Hat die Fellowship eingefädelt, kennt Jonas vage aus dem Executive Program 2030. Erwartet echte Lehre, keine Prominenten-Gastauftritte."
+    }
+  ],
+  "notes": "Stand: Januar 2058. Neue Sektion 'helios_und_neues_leben' ergänzt für die Post-Amt-Ära. Politische Kontakte (cabinet_key, rivals, international) bleiben vollständig erhalten, Stand weiterhin 31. Dezember 2054/2057 je nach Eintrag."
 }

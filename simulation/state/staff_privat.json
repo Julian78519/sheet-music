@@ -1,0 +1,33 @@
+{
+  "buero": "Privatbüro Hartmann, Berlin-Mitte. Gegründet Januar 2058 nach Amtsende.",
+  "team": [
+    {
+      "name": "Robert Fink",
+      "role": "Büroleiter / Chief of Staff",
+      "age": 41,
+      "seit": "2044 (damals Referent im AA), formalisiert als Büroleiter Januar 2058",
+      "aufgaben": "Koordiniert Helios-Termine, Harvard-Logistik, Presseanfragen, Kalender. Einziger aus der alten Kanzleramts-Mannschaft, der komplett mitgewechselt ist.",
+      "relationship_score": 88,
+      "notes": "Loyal, lernt schnell, kennt Jonas' Arbeitsweise seit 14 Jahren. Trauert der alten Rolle nicht sichtbar nach."
+    },
+    {
+      "name": "Dr. Miriam Voss",
+      "role": "Private Vermögensverwaltung",
+      "age": 49,
+      "background": "Ex-Julius Baer Zürich (18 Jahre), seit drei Jahren unabhängig. Von Kramer empfohlen – 'die Beste für Diskretion, die ich kenne, und sie schuldet niemandem in Berlin etwas.'",
+      "aufgaben": "Verwaltet seit Januar 2058 das gesamte Vermögen inkl. Helios-Einkünfte, KI-Fonds-Position, Indexfonds, Jakob-Reserve (weiß von deren Existenz, nicht von Jakobs Unwissenheit darüber – reine Verwaltung).",
+      "relationship_score": 55,
+      "notes": "Neu, professionell-distanziert. Erste echte Zusammenarbeit steht noch aus – erstes Strategiegespräch zur Vermögensstruktur nach dem Helios-Zufluss ausstehend."
+    },
+    {
+      "name": "Sabine Lorenz",
+      "role": "Literaturagentin / Publizistin",
+      "age": 38,
+      "background": "Vertritt mehrere politische Sachbuchautoren, hat den internationalen Verkauf der Buchrechte (15 Länder) verhandelt.",
+      "aufgaben": "Presseanfragen, Medienstrategie, plant ein mögliches zweites Buch (Rowohlt-Angebot €350.000 liegt vor).",
+      "relationship_score": 60,
+      "notes": "Scharf, schnell, ungeduldig mit seiner Zurückhaltung – will, dass er mehr öffentliche Präsenz zeigt, nicht weniger. Erste Reibungspunkte absehbar, falls Helios-Vertrag öffentlich wird und sie anders kommunizieren will als er."
+    }
+  ],
+  "notes": "Neues Team, aufgebaut im Januar 2058 nach Amtsende. Ersetzt die Kanzleramts-Infrastruktur (Fink war der einzige Übergang aus dieser). Alle drei kennen sich noch nicht gut miteinander – Team-Dynamik noch ungeklärt."
+}

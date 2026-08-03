@@ -1,0 +1,38 @@
+{
+  "position": "Chairman, Geopolitical & Strategic Advisory Group",
+  "company": "Helios Global",
+  "company_profile": "Globaler Fonds mit Sitz Singapur, AUM über $400 Mrd. Staatsfonds-naher Investorenkreis (Golf-Region und asiatische Staatsvermögen als Ankerinvestoren, nicht direkt staatlich). Gegründet und geführt von Wei-Ling Tan.",
+  "vertrag": {
+    "unterschrieben": "2058-01",
+    "signing_bonus": "€3.000.000 (binnen 30 Tagen nach Unterschrift, erhalten)",
+    "grundgehalt_jahr": "€5.500.000",
+    "carry": "variabel, unbegrenzt nach oben, an vermittelte strategische Deals gebunden. Noch nicht realisiert.",
+    "mindestbindung": "3 Jahre, anteilige Rückzahlungsklausel bei vorzeitigem freiwilligem Austritt",
+    "akademische_ausnahmeklausel": "Ein Semester alle zwei Jahre mit Vorabgenehmigung, nur Institutionen ohne Investmentbeziehung zu Helios. Harvard Frühjahr 2058 als erste Nutzung freigegeben."
+  },
+  "team": {
+    "ceo": {
+      "name": "Wei-Ling Tan",
+      "role": "Founder & Group CEO",
+      "age": 54,
+      "notes": "Hat Jonas persönlich rekrutiert und angerufen, nicht über Vermittler. Hat den Fonds aus einem Familienbüro aufgebaut. Direkt, transaktional, erwartet Ergebnisse. Sieht Jonas' Netzwerk und Legitimität als strategisches Kapital."
+    },
+    "direkter_bereich": {
+      "name": "James Okafor",
+      "role": "Head of Geopolitical Risk Advisory",
+      "age": 46,
+      "notes": "Hat den Bereich zwölf Jahre aufgebaut, jetzt Jonas als Chairman über sich. Kompetent, ehrgeizig, Verhältnis noch ungeklärt – Rivale oder Verbündeter."
+    }
+  },
+  "erste_aufgaben_2058": [
+    "Einarbeitung, erste Deal-Reviews mit Okafors Team",
+    "Erstes Quartalstreffen mit Tan und dem Gesamtvorstand – Termin noch offen",
+    "Carry-Struktur im Detail verstehen, erste potenzielle Deals identifizieren"
+  ],
+  "reputationsrisiko": {
+    "quelle": "Golf-naher Mega-Fonds, Signing Bonus + unbegrenzter Carry, 3-Jahres-Bindung",
+    "vera_position": "Hat Bedenken geäußert ('Der Kanzler, der sich verkauft hat'), aber nicht interveniert.",
+    "oeffentlichkeit": "Noch nicht bekannt (Stand Januar 2058). Wird es bekannt, ist mit Kritik zu rechnen – Frage ist Zeitpunkt und Rahmung."
+  },
+  "notes": "Ersetzt/ergänzt politics.json als primäre Karriere-Datei für die Post-Amt-Ära. politics.json bleibt als historisches Archiv der Kanzlerschaft (2050–2057) vollständig erhalten."
+}

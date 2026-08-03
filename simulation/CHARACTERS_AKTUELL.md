@@ -39,6 +39,10 @@
 
 Erste informelle Kaffee-Treffen mit Webb und Raman bereits begonnen (Frühjahr 2058).
 
+## OFFENER KONFLIKT: CORTEX DEFENSE SYSTEMS
+
+Bungalow Ventures prüft ein Investment in Cortex Defense Systems (München) – Zulieferer der autonomen Zielerkennung für Vindex Systems' „Aegis Prime", ein KI-Abfangsystem ohne Mensch-in-der-Schleife. Widerspricht direkt Jonas' eigener KI-Governance-Doktrin (Berliner Modell, UN-KI-Rahmendeklaration – menschliche Kontrolle über tödliche autonome Systeme). Okafor hat die Frage offen gestellt, Jonas hat sie sich selbst nicht wirklich beantwortet. Noch nicht öffentlich, noch nicht final entschieden (Due Diligence läuft).
+
 **Förderung-Tracking (läuft, wird nach jedem Kontaktpunkt fortgeschrieben):**
 - Whitmore-Stiftung: Sommer-Fellowship-Einladungen für Webb und Raman vermittelt (Frühjahr 2058).
 - Abernathy (Brookings): Praktikumsvorschlag für Sturgis in sicherheitspolitischem Programm (Frühjahr 2058).

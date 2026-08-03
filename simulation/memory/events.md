@@ -189,5 +189,10 @@ Spiegel-Anfrage zur geheimen Sorokin-Operation von Januar 2056. Regierungsstellu
 
 ---
 
+## 2057-01-24 (Abend) – Aussprache mit Vera
+Jonas erklärt seine Logik: Er wollte ihr glaubhafte Abstreitbarkeit sichern, nicht sie täuschen. Vera versteht, akzeptiert aber nicht vorbehaltlos – neuer Pakt: künftig wird sie gefragt, ob sie die Deckung will, nicht nur einseitig geschützt. Teilweise Versöhnung, echt aber nicht vollständig.
+
+---
+
 ## 2057-01-24 – SIMULATIONSGEGENWART
-Sorokin-Leak teilweise eingehegt, aber Vertrauensbruch mit Vera offen. Nominierung in zwei Wochen geplant.
+Sorokin-Leak teilweise eingehegt, Vertrauen mit Vera überwiegend wiederhergestellt. Nominierung in zwei Wochen geplant.

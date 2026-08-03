@@ -197,4 +197,39 @@ Die Engine muss **nicht** erklären was passiert ist – das steht in den State-
 
 ---
 
-*Stand: Ende Jahr 5 (2054-12-31). Diese Datei wird nach Bedarf erweitert.*
+---
+
+## POST-AMT-FORMAT (ab Januar 2058)
+
+Mit dem Ende der Kanzlerschaft (15.12.2057) ändert sich der Lebenskontext grundlegend – das JAHRBUCH-Format bleibt im Kern bestehen, wird aber angepasst:
+
+### Zeittakt: Quartalsweise statt jährlich
+
+Ein politisches Jahr hatte einen natürlichen Rhythmus (Legislaturperiode, Haushaltsjahr). Ein Business-/Akademia-Leben hat kürzere Zyklen (Quartalsmeetings, Semester). Ab 2058 wird in **Quartalen** verarbeitet, nicht mehr in ganzen Jahren. Ein „QUARTALSBUCH" ersetzt das „JAHRBUCH" als Grundeinheit. Jahresabschluss-Dashboards gibt es weiterhin, aber zusätzlich zu vier Quartalsabschlüssen pro Jahr (kompakter als der volle Jahresabschluss).
+
+### Neue Blockstruktur
+
+Ersetzt die politischen Blöcke (POLITIK/AUSSENPOLITIK) für die Post-Amt-Ära:
+
+```
+1. HELIOS/BUSINESS      (Deals, Board-Dynamik, Carry, Kollegenkonflikte)
+2. AKADEMIA             (nur saisonal aktiv – Harvard-Semester etc.)
+3. ÖFFENTLICHKEIT/RUF   (neu – Buch, Presse, Reputationsrisiko)
+4. NETZWERK             (jetzt: Helios-Kollegen, Harvard, Privatbüro – politische Kontakte nur bei Anlass)
+5. FINANZEN             (bleibt, jetzt komplexer – Investments, Carry-Realisierung)
+6. PRIVAT                (bleibt – Familie, Gesundheit, Whitmore, Jakob)
+```
+
+Politik/Außenpolitik verschwinden nicht, laufen aber nur noch als **Krisen-Einwürfe oder Vera-Kontaktpunkte**, nicht mehr als Pflichtblock.
+
+### Charakterverwaltung
+
+Alte politische Kontakte bleiben vollständig in `CHARACTERS.md`/`relationships.json` gespeichert, werden aber nicht mehr routinemäßig abgefragt. `CHARACTERS_AKTUELL.md` führt die aktuell aktiven Figuren. Neue State-Files `career.json` (Helios) und `staff_privat.json` (persönliches Team) ergänzen `politics.json`/`cabinet.json`, die als Archiv der Kanzlerschaft erhalten bleiben.
+
+### Unverändert
+
+Krisenfragen-Mechanik, Krisenmodus, Speicher-Workflow (Milestone-Saves) – all das bleibt exakt wie in den Abschnitten oben beschrieben, unabhängig vom Lebenskontext.
+
+---
+
+*Stand: Ende Jahr 5 (2054-12-31), erweitert Januar 2058 um das Post-Amt-Format. Diese Datei wird nach Bedarf erweitert.*
